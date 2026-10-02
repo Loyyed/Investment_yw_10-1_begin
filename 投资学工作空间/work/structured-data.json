@@ -1,0 +1,1875 @@
+{
+  "structure": [
+    {
+      "id": "R2020-01",
+      "year": 2020,
+      "dimension": "合计",
+      "item": "酒类",
+      "revenue": "94821999102.45",
+      "cost": "8083371418.24",
+      "revenue_raw": "94,821,999,102.45",
+      "cost_raw": "8,083,371,418.24",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区情况",
+      "pdf": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "pdf_pages": [
+        8,
+        14,
+        15,
+        95
+      ],
+      "report_pages": [
+        8,
+        14,
+        15,
+        95
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2020.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2020-02",
+      "year": 2020,
+      "dimension": "商品类型",
+      "item": "茅台酒",
+      "revenue": "84830936002.19",
+      "cost": "5100340201.05",
+      "revenue_raw": "84,830,936,002.19",
+      "cost_raw": "5,100,340,201.05",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区情况",
+      "pdf": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "pdf_pages": [
+        8,
+        14
+      ],
+      "report_pages": [
+        8,
+        14
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2020.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2020-03",
+      "year": 2020,
+      "dimension": "商品类型",
+      "item": "其他系列酒",
+      "revenue": "9991063100.26",
+      "cost": "2983031217.19",
+      "revenue_raw": "9,991,063,100.26",
+      "cost_raw": "2,983,031,217.19",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区情况",
+      "pdf": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "pdf_pages": [
+        8,
+        14
+      ],
+      "report_pages": [
+        8,
+        14
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2020.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2020-04",
+      "year": 2020,
+      "dimension": "经营地区",
+      "item": "国内",
+      "revenue": "92389735145.96",
+      "cost": "7874927603.81",
+      "revenue_raw": "92,389,735,145.96",
+      "cost_raw": "7,874,927,603.81",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区情况",
+      "pdf": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "pdf_pages": [
+        9,
+        15
+      ],
+      "report_pages": [
+        9,
+        15
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2020.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2020-05",
+      "year": 2020,
+      "dimension": "经营地区",
+      "item": "国外",
+      "revenue": "2432263956.49",
+      "cost": "208443814.43",
+      "revenue_raw": "2,432,263,956.49",
+      "cost_raw": "208,443,814.43",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区情况",
+      "pdf": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "pdf_pages": [
+        9,
+        15
+      ],
+      "report_pages": [
+        9,
+        15
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2020.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2020-06",
+      "year": 2020,
+      "dimension": "销售渠道",
+      "item": "直销",
+      "revenue": "13240356503.01",
+      "cost": "579663668.13",
+      "revenue_raw": "13,240,356,503.01",
+      "cost_raw": "579,663,668.13",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "按不同类型披露公司主营业务构成—按销售渠道",
+      "pdf": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "pdf_pages": [
+        14
+      ],
+      "report_pages": [
+        14
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2020.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2020-07",
+      "year": 2020,
+      "dimension": "销售渠道",
+      "item": "批发代理",
+      "revenue": "81581642599.44",
+      "cost": "7503707750.11",
+      "revenue_raw": "81,581,642,599.44",
+      "cost_raw": "7,503,707,750.11",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "按不同类型披露公司主营业务构成—按销售渠道",
+      "pdf": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "pdf_pages": [
+        14
+      ],
+      "report_pages": [
+        14
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2020.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2021-01",
+      "year": 2021,
+      "dimension": "合计",
+      "item": "酒类",
+      "revenue": "106059290342.18",
+      "cost": "8890990510.72",
+      "revenue_raw": "106,059,290,342.18",
+      "cost_raw": "8,890,990,510.72",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区情况",
+      "pdf": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+      "pdf_pages": [
+        8,
+        15,
+        16,
+        99
+      ],
+      "report_pages": [
+        8,
+        15,
+        16,
+        99
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2021.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2021-02",
+      "year": 2021,
+      "dimension": "商品类型",
+      "item": "茅台酒",
+      "revenue": "93464512115.94",
+      "cost": "5577910539.00",
+      "revenue_raw": "93,464,512,115.94",
+      "cost_raw": "5,577,910,539.00",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区情况",
+      "pdf": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+      "pdf_pages": [
+        8,
+        15
+      ],
+      "report_pages": [
+        8,
+        15
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2021.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2021-03",
+      "year": 2021,
+      "dimension": "商品类型",
+      "item": "其他系列酒",
+      "revenue": "12594778226.24",
+      "cost": "3313079971.72",
+      "revenue_raw": "12,594,778,226.24",
+      "cost_raw": "3,313,079,971.72",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区情况",
+      "pdf": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+      "pdf_pages": [
+        8,
+        15
+      ],
+      "report_pages": [
+        8,
+        15
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2021.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2021-04",
+      "year": 2021,
+      "dimension": "经营地区",
+      "item": "国内",
+      "revenue": "103440817492.55",
+      "cost": "8649283176.18",
+      "revenue_raw": "103,440,817,492.55",
+      "cost_raw": "8,649,283,176.18",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区情况",
+      "pdf": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+      "pdf_pages": [
+        8,
+        16
+      ],
+      "report_pages": [
+        8,
+        16
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2021.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2021-05",
+      "year": 2021,
+      "dimension": "经营地区",
+      "item": "国外",
+      "revenue": "2618472849.63",
+      "cost": "241707334.54",
+      "revenue_raw": "2,618,472,849.63",
+      "cost_raw": "241,707,334.54",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区情况",
+      "pdf": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+      "pdf_pages": [
+        8,
+        16
+      ],
+      "report_pages": [
+        8,
+        16
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2021.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2021-06",
+      "year": 2021,
+      "dimension": "销售渠道",
+      "item": "批发代理",
+      "revenue": "82029927984.26",
+      "cost": "7958382622.48",
+      "revenue_raw": "82,029,927,984.26",
+      "cost_raw": "7,958,382,622.48",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区情况",
+      "pdf": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+      "pdf_pages": [
+        9,
+        15
+      ],
+      "report_pages": [
+        9,
+        15
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2021.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2021-07",
+      "year": 2021,
+      "dimension": "销售渠道",
+      "item": "直销",
+      "revenue": "24029362357.92",
+      "cost": "932607888.24",
+      "revenue_raw": "24,029,362,357.92",
+      "cost_raw": "932,607,888.24",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区情况",
+      "pdf": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+      "pdf_pages": [
+        9,
+        15
+      ],
+      "report_pages": [
+        9,
+        15
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2021.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2022-01",
+      "year": 2022,
+      "dimension": "合计",
+      "item": "酒类",
+      "revenue": "123772332348.71",
+      "cost": "9896113336.80",
+      "revenue_raw": "123,772,332,348.71",
+      "cost_raw": "9,896,113,336.80",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区、分销售模式情况",
+      "pdf": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "pdf_pages": [
+        8,
+        16,
+        17,
+        100
+      ],
+      "report_pages": [
+        8,
+        16,
+        17,
+        100
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2022.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2022-02",
+      "year": 2022,
+      "dimension": "商品类型",
+      "item": "茅台酒",
+      "revenue": "107833685277.94",
+      "cost": "6265810909.88",
+      "revenue_raw": "107,833,685,277.94",
+      "cost_raw": "6,265,810,909.88",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区、分销售模式情况",
+      "pdf": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "pdf_pages": [
+        9,
+        16
+      ],
+      "report_pages": [
+        9,
+        16
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2022.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2022-03",
+      "year": 2022,
+      "dimension": "商品类型",
+      "item": "其他系列酒",
+      "revenue": "15938647070.77",
+      "cost": "3630302426.92",
+      "revenue_raw": "15,938,647,070.77",
+      "cost_raw": "3,630,302,426.92",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区、分销售模式情况",
+      "pdf": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "pdf_pages": [
+        9,
+        16
+      ],
+      "report_pages": [
+        9,
+        16
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2022.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2022-04",
+      "year": 2022,
+      "dimension": "经营地区",
+      "item": "国内",
+      "revenue": "119532752861.59",
+      "cost": "9558682149.59",
+      "revenue_raw": "119,532,752,861.59",
+      "cost_raw": "9,558,682,149.59",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区、分销售模式情况",
+      "pdf": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "pdf_pages": [
+        9,
+        16
+      ],
+      "report_pages": [
+        9,
+        16
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2022.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2022-05",
+      "year": 2022,
+      "dimension": "经营地区",
+      "item": "国外",
+      "revenue": "4239579487.12",
+      "cost": "337431187.21",
+      "revenue_raw": "4,239,579,487.12",
+      "cost_raw": "337,431,187.21",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区、分销售模式情况",
+      "pdf": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "pdf_pages": [
+        9,
+        16
+      ],
+      "report_pages": [
+        9,
+        16
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2022.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2022-06",
+      "year": 2022,
+      "dimension": "销售渠道",
+      "item": "批发代理",
+      "revenue": "74393594687.11",
+      "cost": "8021891276.89",
+      "revenue_raw": "74,393,594,687.11",
+      "cost_raw": "8,021,891,276.89",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区、分销售模式情况",
+      "pdf": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "pdf_pages": [
+        9,
+        16
+      ],
+      "report_pages": [
+        9,
+        16
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2022.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2022-07",
+      "year": 2022,
+      "dimension": "销售渠道",
+      "item": "直销",
+      "revenue": "49378737661.60",
+      "cost": "1874222059.91",
+      "revenue_raw": "49,378,737,661.60",
+      "cost_raw": "1,874,222,059.91",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区、分销售模式情况",
+      "pdf": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "pdf_pages": [
+        9,
+        16
+      ],
+      "report_pages": [
+        9,
+        16
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2022.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2023-01",
+      "year": 2023,
+      "dimension": "合计",
+      "item": "酒类",
+      "revenue": "147218996281.04",
+      "cost": "11620203653.32",
+      "revenue_raw": "147,218,996,281.04",
+      "cost_raw": "11,620,203,653.32",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区、分销售模式情况",
+      "pdf": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "pdf_pages": [
+        9,
+        17,
+        108
+      ],
+      "report_pages": [
+        9,
+        17,
+        108
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2023.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2023-02",
+      "year": 2023,
+      "dimension": "商品类型",
+      "item": "茅台酒",
+      "revenue": "126589066691.89",
+      "cost": "7445470669.11",
+      "revenue_raw": "126,589,066,691.89",
+      "cost_raw": "7,445,470,669.11",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区、分销售模式情况",
+      "pdf": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "pdf_pages": [
+        9,
+        17,
+        109
+      ],
+      "report_pages": [
+        9,
+        17,
+        109
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2023.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2023-03",
+      "year": 2023,
+      "dimension": "商品类型",
+      "item": "其他系列酒",
+      "revenue": "20629929589.15",
+      "cost": "4174732984.21",
+      "revenue_raw": "20,629,929,589.15",
+      "cost_raw": "4,174,732,984.21",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区、分销售模式情况",
+      "pdf": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "pdf_pages": [
+        9,
+        17,
+        109
+      ],
+      "report_pages": [
+        9,
+        17,
+        109
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2023.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2023-04",
+      "year": 2023,
+      "dimension": "经营地区",
+      "item": "国内",
+      "revenue": "142868885823.91",
+      "cost": "11280212551.30",
+      "revenue_raw": "142,868,885,823.91",
+      "cost_raw": "11,280,212,551.30",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区、分销售模式情况",
+      "pdf": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "pdf_pages": [
+        9,
+        17
+      ],
+      "report_pages": [
+        9,
+        17
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2023.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2023-05",
+      "year": 2023,
+      "dimension": "经营地区",
+      "item": "国外",
+      "revenue": "4350110457.13",
+      "cost": "339991102.02",
+      "revenue_raw": "4,350,110,457.13",
+      "cost_raw": "339,991,102.02",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区、分销售模式情况",
+      "pdf": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "pdf_pages": [
+        9,
+        17
+      ],
+      "report_pages": [
+        9,
+        17
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2023.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2023-06",
+      "year": 2023,
+      "dimension": "销售渠道",
+      "item": "批发代理",
+      "revenue": "79986119397.90",
+      "cost": "8569360111.66",
+      "revenue_raw": "79,986,119,397.90",
+      "cost_raw": "8,569,360,111.66",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区、分销售模式情况",
+      "pdf": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "pdf_pages": [
+        9,
+        17
+      ],
+      "report_pages": [
+        9,
+        17
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2023.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2023-07",
+      "year": 2023,
+      "dimension": "销售渠道",
+      "item": "直销",
+      "revenue": "67232876883.14",
+      "cost": "3050843541.66",
+      "revenue_raw": "67,232,876,883.14",
+      "cost_raw": "3,050,843,541.66",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区、分销售模式情况",
+      "pdf": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "pdf_pages": [
+        9,
+        17
+      ],
+      "report_pages": [
+        9,
+        17
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2023.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2024-01",
+      "year": 2024,
+      "dimension": "合计",
+      "item": "酒类",
+      "revenue": "170611838052.02",
+      "cost": "13629995812.89",
+      "revenue_raw": "170,611,838,052.02",
+      "cost_raw": "13,629,995,812.89",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区、分销售模式情况",
+      "pdf": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_pages": [
+        9,
+        16,
+        17,
+        108
+      ],
+      "report_pages": [
+        9,
+        16,
+        17,
+        108
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2024.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2024-02",
+      "year": 2024,
+      "dimension": "商品类型",
+      "item": "茅台酒",
+      "revenue": "145928075955.31",
+      "cost": "8662079388.78",
+      "revenue_raw": "145,928,075,955.31",
+      "cost_raw": "8,662,079,388.78",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区、分销售模式情况",
+      "pdf": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_pages": [
+        9,
+        16,
+        108
+      ],
+      "report_pages": [
+        9,
+        16,
+        108
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2024.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2024-03",
+      "year": 2024,
+      "dimension": "商品类型",
+      "item": "其他系列酒",
+      "revenue": "24683762096.71",
+      "cost": "4967916424.11",
+      "revenue_raw": "24,683,762,096.71",
+      "cost_raw": "4,967,916,424.11",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区、分销售模式情况",
+      "pdf": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_pages": [
+        9,
+        16,
+        108
+      ],
+      "report_pages": [
+        9,
+        16,
+        108
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2024.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2024-04",
+      "year": 2024,
+      "dimension": "经营地区",
+      "item": "国内",
+      "revenue": "165423308808.24",
+      "cost": "13226875459.60",
+      "revenue_raw": "165,423,308,808.24",
+      "cost_raw": "13,226,875,459.60",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区、分销售模式情况",
+      "pdf": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_pages": [
+        9,
+        17
+      ],
+      "report_pages": [
+        9,
+        17
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2024.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2024-05",
+      "year": 2024,
+      "dimension": "经营地区",
+      "item": "国外",
+      "revenue": "5188529243.78",
+      "cost": "403120353.29",
+      "revenue_raw": "5,188,529,243.78",
+      "cost_raw": "403,120,353.29",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区、分销售模式情况",
+      "pdf": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_pages": [
+        9,
+        17
+      ],
+      "report_pages": [
+        9,
+        17
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2024.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2024-06",
+      "year": 2024,
+      "dimension": "销售渠道",
+      "item": "批发代理",
+      "revenue": "95768511021.23",
+      "cost": "10136042973.30",
+      "revenue_raw": "95,768,511,021.23",
+      "cost_raw": "10,136,042,973.30",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区、分销售模式情况",
+      "pdf": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_pages": [
+        9,
+        17
+      ],
+      "report_pages": [
+        9,
+        17
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2024.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "R2024-07",
+      "year": 2024,
+      "dimension": "销售渠道",
+      "item": "直销",
+      "revenue": "74843327030.79",
+      "cost": "3493952839.59",
+      "revenue_raw": "74,843,327,030.79",
+      "cost_raw": "3,493,952,839.59",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+      "table": "主营业务分行业、分产品、分地区、分销售模式情况",
+      "pdf": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_pages": [
+        9,
+        17
+      ],
+      "report_pages": [
+        9,
+        17
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2024.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    }
+  ],
+  "full_structure": [
+    {
+      "id": "N2023-01",
+      "year": 2023,
+      "dimension": "商品类型",
+      "item": "茅台酒",
+      "revenue": "126589066691.89",
+      "cost": "7445470669.11",
+      "revenue_raw": "126,589,066,691.89",
+      "cost_raw": "7,445,470,669.11",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "合并附注：全部营业收入（主营业务+其他业务），不含利息收入",
+      "table": "合并财务报表项目注释：营业收入、营业成本的分解信息",
+      "pdf": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "pdf_pages": [
+        109
+      ],
+      "report_pages": [
+        109
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2023.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "N2023-02",
+      "year": 2023,
+      "dimension": "商品类型",
+      "item": "其他系列酒",
+      "revenue": "20629929589.15",
+      "cost": "4174732984.21",
+      "revenue_raw": "20,629,929,589.15",
+      "cost_raw": "4,174,732,984.21",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "合并附注：全部营业收入（主营业务+其他业务），不含利息收入",
+      "table": "合并财务报表项目注释：营业收入、营业成本的分解信息",
+      "pdf": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "pdf_pages": [
+        109
+      ],
+      "report_pages": [
+        109
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2023.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "N2023-03",
+      "year": 2023,
+      "dimension": "商品类型",
+      "item": "其他业务",
+      "revenue": "474608713.10",
+      "cost": "247070198.46",
+      "revenue_raw": "474,608,713.10",
+      "cost_raw": "247,070,198.46",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "合并附注：全部营业收入（主营业务+其他业务），不含利息收入",
+      "table": "合并财务报表项目注释：营业收入、营业成本的分解信息",
+      "pdf": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "pdf_pages": [
+        108,
+        109
+      ],
+      "report_pages": [
+        108,
+        109
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2023.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "N2023-04",
+      "year": 2023,
+      "dimension": "经营地区",
+      "item": "国内",
+      "revenue": "143333311961.67",
+      "cost": "11527282749.76",
+      "revenue_raw": "143,333,311,961.67",
+      "cost_raw": "11,527,282,749.76",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "合并附注：全部营业收入（主营业务+其他业务），不含利息收入",
+      "table": "合并财务报表项目注释：营业收入、营业成本的分解信息",
+      "pdf": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "pdf_pages": [
+        109
+      ],
+      "report_pages": [
+        109
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2023.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "N2023-05",
+      "year": 2023,
+      "dimension": "经营地区",
+      "item": "国外",
+      "revenue": "4360293032.47",
+      "cost": "339991102.02",
+      "revenue_raw": "4,360,293,032.47",
+      "cost_raw": "339,991,102.02",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "合并附注：全部营业收入（主营业务+其他业务），不含利息收入",
+      "table": "合并财务报表项目注释：营业收入、营业成本的分解信息",
+      "pdf": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "pdf_pages": [
+        109
+      ],
+      "report_pages": [
+        109
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2023.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "N2023-06",
+      "year": 2023,
+      "dimension": "销售渠道",
+      "item": "批发代理",
+      "revenue": "80336795633.78",
+      "cost": "8699117400.66",
+      "revenue_raw": "80,336,795,633.78",
+      "cost_raw": "8,699,117,400.66",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "合并附注：全部营业收入（主营业务+其他业务），不含利息收入",
+      "table": "合并财务报表项目注释：营业收入、营业成本的分解信息",
+      "pdf": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "pdf_pages": [
+        109
+      ],
+      "report_pages": [
+        109
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2023.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "N2023-07",
+      "year": 2023,
+      "dimension": "销售渠道",
+      "item": "直销",
+      "revenue": "67356809360.36",
+      "cost": "3168156451.12",
+      "revenue_raw": "67,356,809,360.36",
+      "cost_raw": "3,168,156,451.12",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "合并附注：全部营业收入（主营业务+其他业务），不含利息收入",
+      "table": "合并财务报表项目注释：营业收入、营业成本的分解信息",
+      "pdf": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "pdf_pages": [
+        109
+      ],
+      "report_pages": [
+        109
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2023.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "N2023-08",
+      "year": 2023,
+      "dimension": "合计",
+      "item": "合计",
+      "revenue": "147693604994.14",
+      "cost": "11867273851.78",
+      "revenue_raw": "147,693,604,994.14",
+      "cost_raw": "11,867,273,851.78",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "合并附注：全部营业收入（主营业务+其他业务），不含利息收入",
+      "table": "合并财务报表项目注释：营业收入、营业成本的分解信息",
+      "pdf": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "pdf_pages": [
+        63,
+        108,
+        109
+      ],
+      "report_pages": [
+        63,
+        108,
+        109
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2023.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "N2024-01",
+      "year": 2024,
+      "dimension": "商品类型",
+      "item": "茅台酒",
+      "revenue": "145928075955.31",
+      "cost": "8662079388.78",
+      "revenue_raw": "145,928,075,955.31",
+      "cost_raw": "8,662,079,388.78",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "合并附注：全部营业收入（主营业务+其他业务），不含利息收入",
+      "table": "合并财务报表项目注释：营业收入、营业成本的分解信息",
+      "pdf": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_pages": [
+        108
+      ],
+      "report_pages": [
+        108
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2024.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "N2024-02",
+      "year": 2024,
+      "dimension": "商品类型",
+      "item": "其他系列酒",
+      "revenue": "24683762096.71",
+      "cost": "4967916424.11",
+      "revenue_raw": "24,683,762,096.71",
+      "cost_raw": "4,967,916,424.11",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "合并附注：全部营业收入（主营业务+其他业务），不含利息收入",
+      "table": "合并财务报表项目注释：营业收入、营业成本的分解信息",
+      "pdf": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_pages": [
+        108
+      ],
+      "report_pages": [
+        108
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2024.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "N2024-03",
+      "year": 2024,
+      "dimension": "商品类型",
+      "item": "其他业务",
+      "revenue": "287314224.32",
+      "cost": "159486555.09",
+      "revenue_raw": "287,314,224.32",
+      "cost_raw": "159,486,555.09",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "合并附注：全部营业收入（主营业务+其他业务），不含利息收入",
+      "table": "合并财务报表项目注释：营业收入、营业成本的分解信息",
+      "pdf": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_pages": [
+        108
+      ],
+      "report_pages": [
+        108
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2024.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "N2024-04",
+      "year": 2024,
+      "dimension": "经营地区",
+      "item": "国内",
+      "revenue": "165695304320.02",
+      "cost": "13377559491.36",
+      "revenue_raw": "165,695,304,320.02",
+      "cost_raw": "13,377,559,491.36",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "合并附注：全部营业收入（主营业务+其他业务），不含利息收入",
+      "table": "合并财务报表项目注释：营业收入、营业成本的分解信息",
+      "pdf": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_pages": [
+        108
+      ],
+      "report_pages": [
+        108
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2024.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "N2024-05",
+      "year": 2024,
+      "dimension": "经营地区",
+      "item": "国外",
+      "revenue": "5203847956.32",
+      "cost": "411922876.62",
+      "revenue_raw": "5,203,847,956.32",
+      "cost_raw": "411,922,876.62",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "合并附注：全部营业收入（主营业务+其他业务），不含利息收入",
+      "table": "合并财务报表项目注释：营业收入、营业成本的分解信息",
+      "pdf": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_pages": [
+        108
+      ],
+      "report_pages": [
+        108
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2024.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "N2024-06",
+      "year": 2024,
+      "dimension": "销售渠道",
+      "item": "批发代理",
+      "revenue": "95987565408.52",
+      "cost": "10208844080.03",
+      "revenue_raw": "95,987,565,408.52",
+      "cost_raw": "10,208,844,080.03",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "合并附注：全部营业收入（主营业务+其他业务），不含利息收入",
+      "table": "合并财务报表项目注释：营业收入、营业成本的分解信息",
+      "pdf": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_pages": [
+        108
+      ],
+      "report_pages": [
+        108
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2024.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "N2024-07",
+      "year": 2024,
+      "dimension": "销售渠道",
+      "item": "直销",
+      "revenue": "74911586867.82",
+      "cost": "3580638287.95",
+      "revenue_raw": "74,911,586,867.82",
+      "cost_raw": "3,580,638,287.95",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "合并附注：全部营业收入（主营业务+其他业务），不含利息收入",
+      "table": "合并财务报表项目注释：营业收入、营业成本的分解信息",
+      "pdf": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_pages": [
+        108
+      ],
+      "report_pages": [
+        108
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2024.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "id": "N2024-08",
+      "year": 2024,
+      "dimension": "合计",
+      "item": "合计",
+      "revenue": "170899152276.34",
+      "cost": "13789482367.98",
+      "revenue_raw": "170,899,152,276.34",
+      "cost_raw": "13,789,482,367.98",
+      "unit": "元",
+      "currency": "人民币",
+      "entity": "贵州茅台酒股份有限公司及纳入合并范围的子公司",
+      "scope": "合并附注：全部营业收入（主营业务+其他业务），不含利息收入",
+      "table": "合并财务报表项目注释：营业收入、营业成本的分解信息",
+      "pdf": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_pages": [
+        63,
+        108
+      ],
+      "report_pages": [
+        63,
+        108
+      ],
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2024.md",
+      "agent_pdf_check": "数值及位置匹配",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    }
+  ],
+  "summary": [
+    {
+      "year": 2020,
+      "metric": "营业收入",
+      "current": "94915380916.72",
+      "raw_current": "94,915,380,916.72",
+      "previous": "85429573467.25",
+      "raw_previous": "85,429,573,467.25",
+      "pdf_pages": [
+        5,
+        8
+      ],
+      "pdf": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "scope": "合并",
+      "unit": "元",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "year": 2020,
+      "metric": "归属于上市公司股东的净利润",
+      "current": "46697285429.81",
+      "raw_current": "46,697,285,429.81",
+      "previous": "41206471014.43",
+      "raw_previous": "41,206,471,014.43",
+      "pdf_pages": [
+        5
+      ],
+      "pdf": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "scope": "合并",
+      "unit": "元",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "year": 2020,
+      "metric": "经营活动产生的现金流量净额",
+      "current": "51669068693.03",
+      "raw_current": "51,669,068,693.03",
+      "previous": "45210612632.56",
+      "raw_previous": "45,210,612,632.56",
+      "pdf_pages": [
+        5,
+        8
+      ],
+      "pdf": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "scope": "合并",
+      "unit": "元",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "year": 2021,
+      "metric": "营业收入",
+      "current": "106190154843.76",
+      "raw_current": "106,190,154,843.76",
+      "previous": "94915380916.72",
+      "raw_previous": "94,915,380,916.72",
+      "pdf_pages": [
+        5,
+        7
+      ],
+      "pdf": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+      "scope": "合并",
+      "unit": "元",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "year": 2021,
+      "metric": "归属于上市公司股东的净利润",
+      "current": "52460144378.16",
+      "raw_current": "52,460,144,378.16",
+      "previous": "46697285429.81",
+      "raw_previous": "46,697,285,429.81",
+      "pdf_pages": [
+        5
+      ],
+      "pdf": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+      "scope": "合并",
+      "unit": "元",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "year": 2021,
+      "metric": "经营活动产生的现金流量净额",
+      "current": "64028676147.37",
+      "raw_current": "64,028,676,147.37",
+      "previous": "51669068693.03",
+      "raw_previous": "51,669,068,693.03",
+      "pdf_pages": [
+        5,
+        8
+      ],
+      "pdf": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+      "scope": "合并",
+      "unit": "元",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "year": 2022,
+      "metric": "营业收入",
+      "current": "124099843771.99",
+      "raw_current": "124,099,843,771.99",
+      "previous": "106190154843.76",
+      "raw_previous": "106,190,154,843.76",
+      "pdf_pages": [
+        5,
+        8
+      ],
+      "pdf": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "scope": "合并",
+      "unit": "元",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "year": 2022,
+      "metric": "归属于上市公司股东的净利润",
+      "current": "62716443738.27",
+      "raw_current": "62,716,443,738.27",
+      "previous": "52460144378.16",
+      "raw_previous": "52,460,144,378.16",
+      "pdf_pages": [
+        5
+      ],
+      "pdf": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "scope": "合并",
+      "unit": "元",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "year": 2022,
+      "metric": "经营活动产生的现金流量净额",
+      "current": "36698595830.03",
+      "raw_current": "36,698,595,830.03",
+      "previous": "64028676147.37",
+      "raw_previous": "64,028,676,147.37",
+      "pdf_pages": [
+        5,
+        8
+      ],
+      "pdf": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "scope": "合并",
+      "unit": "元",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "year": 2023,
+      "metric": "营业收入",
+      "current": "147693604994.14",
+      "raw_current": "147,693,604,994.14",
+      "previous": "124099843771.99",
+      "raw_previous": "124,099,843,771.99",
+      "pdf_pages": [
+        5,
+        8
+      ],
+      "pdf": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "scope": "合并",
+      "unit": "元",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "year": 2023,
+      "metric": "归属于上市公司股东的净利润",
+      "current": "74734071550.75",
+      "raw_current": "74,734,071,550.75",
+      "previous": "62717467870.12",
+      "raw_previous": "62,717,467,870.12",
+      "pdf_pages": [
+        5
+      ],
+      "pdf": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "scope": "合并",
+      "unit": "元",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "year": 2023,
+      "metric": "经营活动产生的现金流量净额",
+      "current": "66593247721.09",
+      "raw_current": "66,593,247,721.09",
+      "previous": "36698595830.03",
+      "raw_previous": "36,698,595,830.03",
+      "pdf_pages": [
+        5,
+        8
+      ],
+      "pdf": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "scope": "合并",
+      "unit": "元",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "year": 2024,
+      "metric": "营业收入",
+      "current": "170899152276.34",
+      "raw_current": "170,899,152,276.34",
+      "previous": "147693604994.14",
+      "raw_previous": "147,693,604,994.14",
+      "pdf_pages": [
+        5,
+        8
+      ],
+      "pdf": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "scope": "合并",
+      "unit": "元",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "year": 2024,
+      "metric": "归属于上市公司股东的净利润",
+      "current": "86228146421.62",
+      "raw_current": "86,228,146,421.62",
+      "previous": "74734071550.75",
+      "raw_previous": "74,734,071,550.75",
+      "pdf_pages": [
+        5
+      ],
+      "pdf": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "scope": "合并",
+      "unit": "元",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    },
+    {
+      "year": 2024,
+      "metric": "经营活动产生的现金流量净额",
+      "current": "92463692168.43",
+      "raw_current": "92,463,692,168.43",
+      "previous": "66593247721.09",
+      "raw_previous": "66,593,247,721.09",
+      "pdf_pages": [
+        5,
+        8
+      ],
+      "pdf": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "scope": "合并",
+      "unit": "元",
+      "human_verification": "待核验",
+      "state": "Unknown"
+    }
+  ],
+  "reconciliations": [
+    {
+      "year": 2020,
+      "dimension": "商品类型",
+      "revenue_difference": "0.00",
+      "cost_difference": "0.00",
+      "pass": true
+    },
+    {
+      "year": 2020,
+      "dimension": "经营地区",
+      "revenue_difference": "0.00",
+      "cost_difference": "0.00",
+      "pass": true
+    },
+    {
+      "year": 2020,
+      "dimension": "销售渠道",
+      "revenue_difference": "0.00",
+      "cost_difference": "0.00",
+      "pass": true
+    },
+    {
+      "year": 2021,
+      "dimension": "商品类型",
+      "revenue_difference": "0.00",
+      "cost_difference": "0.00",
+      "pass": true
+    },
+    {
+      "year": 2021,
+      "dimension": "经营地区",
+      "revenue_difference": "0.00",
+      "cost_difference": "0.00",
+      "pass": true
+    },
+    {
+      "year": 2021,
+      "dimension": "销售渠道",
+      "revenue_difference": "0.00",
+      "cost_difference": "0.00",
+      "pass": true
+    },
+    {
+      "year": 2022,
+      "dimension": "商品类型",
+      "revenue_difference": "0.00",
+      "cost_difference": "0.00",
+      "pass": true
+    },
+    {
+      "year": 2022,
+      "dimension": "经营地区",
+      "revenue_difference": "0.00",
+      "cost_difference": "0.00",
+      "pass": true
+    },
+    {
+      "year": 2022,
+      "dimension": "销售渠道",
+      "revenue_difference": "0.00",
+      "cost_difference": "0.00",
+      "pass": true
+    },
+    {
+      "year": 2023,
+      "dimension": "商品类型",
+      "revenue_difference": "0.00",
+      "cost_difference": "0.00",
+      "pass": true
+    },
+    {
+      "year": 2023,
+      "dimension": "经营地区",
+      "revenue_difference": "0.00",
+      "cost_difference": "0.00",
+      "pass": true
+    },
+    {
+      "year": 2023,
+      "dimension": "销售渠道",
+      "revenue_difference": "0.00",
+      "cost_difference": "0.00",
+      "pass": true
+    },
+    {
+      "year": 2023,
+      "dimension": "合并附注-商品类型",
+      "revenue_difference": "0.00",
+      "cost_difference": "0.00",
+      "pass": true
+    },
+    {
+      "year": 2023,
+      "dimension": "合并附注-经营地区",
+      "revenue_difference": "0.00",
+      "cost_difference": "0.00",
+      "pass": true
+    },
+    {
+      "year": 2023,
+      "dimension": "合并附注-销售渠道",
+      "revenue_difference": "0.00",
+      "cost_difference": "0.00",
+      "pass": true
+    },
+    {
+      "year": 2024,
+      "dimension": "商品类型",
+      "revenue_difference": "0.00",
+      "cost_difference": "0.00",
+      "pass": true
+    },
+    {
+      "year": 2024,
+      "dimension": "经营地区",
+      "revenue_difference": "0.00",
+      "cost_difference": "0.00",
+      "pass": true
+    },
+    {
+      "year": 2024,
+      "dimension": "销售渠道",
+      "revenue_difference": "0.00",
+      "cost_difference": "0.00",
+      "pass": true
+    },
+    {
+      "year": 2024,
+      "dimension": "合并附注-商品类型",
+      "revenue_difference": "0.00",
+      "cost_difference": "0.00",
+      "pass": true
+    },
+    {
+      "year": 2024,
+      "dimension": "合并附注-经营地区",
+      "revenue_difference": "0.00",
+      "cost_difference": "0.00",
+      "pass": true
+    },
+    {
+      "year": 2024,
+      "dimension": "合并附注-销售渠道",
+      "revenue_difference": "0.00",
+      "cost_difference": "0.00",
+      "pass": true
+    }
+  ],
+  "reports": [
+    {
+      "year": 2020,
+      "pdf": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "pdf_sha256": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c",
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2020.md",
+      "md_sha256": "ff7adeea1e6f914326ed13c11b921833f353af5eb7adaf1d322b7640a4eda37c",
+      "pages": 120
+    },
+    {
+      "year": 2021,
+      "pdf": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+      "pdf_sha256": "f65effdde58bcea99fd6bdb53f61b31d5c432e6dfb2661e5caf05156a433ea5a",
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2021.md",
+      "md_sha256": "ff2310b66317ec713e243307853144225221c6a9c8615999d14db824d9a2505c",
+      "pages": 124
+    },
+    {
+      "year": 2022,
+      "pdf": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "pdf_sha256": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358",
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2022.md",
+      "md_sha256": "e52727aa68a8042505cf394663f818aa43c2eef00ea23990f1ba6b1e1d85ae8e",
+      "pages": 127
+    },
+    {
+      "year": 2023,
+      "pdf": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "pdf_sha256": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1",
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2023.md",
+      "md_sha256": "9ab3c5df28835322d459eb710097b99101f1770bc8124ce7c42f0826bf805048",
+      "pages": 143
+    },
+    {
+      "year": 2024,
+      "pdf": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "md": "sources/annual_reports/md/SH600519_贵州茅台_2024.md",
+      "md_sha256": "393a2cf30d747f7a2ca41f50b0666784da0f687812b0f3ec5a84018ca939dc13",
+      "pages": 143
+    }
+  ]
+}

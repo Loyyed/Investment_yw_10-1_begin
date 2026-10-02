@@ -1,0 +1,1078 @@
+[
+  {
+    "path": ".gitattributes",
+    "purpose": "版本排除及文本二进制处理规则"
+  },
+  {
+    "path": ".gitignore",
+    "purpose": "版本排除及文本二进制处理规则"
+  },
+  {
+    "path": ".vscode/settings.json",
+    "purpose": "环境及人工确认／编辑器配置"
+  },
+  {
+    "path": "AGENTS.md",
+    "purpose": "项目入口、运行器或总说明"
+  },
+  {
+    "path": "CLAUDE.md",
+    "purpose": "项目入口、运行器或总说明"
+  },
+  {
+    "path": "config/dependencies.json",
+    "purpose": "环境及人工确认／编辑器配置"
+  },
+  {
+    "path": "config/environment-anaconda.json",
+    "purpose": "环境及人工确认／编辑器配置"
+  },
+  {
+    "path": "config/generation-baseline.json",
+    "purpose": "环境及人工确认／编辑器配置"
+  },
+  {
+    "path": "config/human-review.json",
+    "purpose": "环境及人工确认／编辑器配置"
+  },
+  {
+    "path": "config/workspace.json",
+    "purpose": "环境及人工确认／编辑器配置"
+  },
+  {
+    "path": "docs/generated-files.md",
+    "purpose": "操作、核验、来源或全部文件说明"
+  },
+  {
+    "path": "docs/git-history.md",
+    "purpose": "操作、核验、来源或全部文件说明"
+  },
+  {
+    "path": "docs/human-review-guide.md",
+    "purpose": "操作、核验、来源或全部文件说明"
+  },
+  {
+    "path": "docs/images/business-model.png",
+    "purpose": "用程序绘制的说明图；辅助理解目录与研究逻辑"
+  },
+  {
+    "path": "docs/images/pdf-2020-p14.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2020-p15.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2020-p8.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2020-p9.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2021-p15.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2021-p16.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2021-p8.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2021-p9.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2022-p16.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2022-p17.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2022-p8.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2022-p9.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2023-p108.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2023-p109.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2023-p17.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2023-p63.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2023-p86.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2023-p9.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2024-p108.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2024-p120.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2024-p121.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2024-p14.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2024-p16.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2024-p17.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2024-p5.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2024-p55.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2024-p63.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2024-p64.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2024-p65.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2024-p66.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2024-p7.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2024-p8.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/pdf-2024-p9.png",
+    "purpose": "原报告真实页面截图；页码在文件名"
+  },
+  {
+    "path": "docs/images/workflow.png",
+    "purpose": "用程序绘制的说明图；辅助理解目录与研究逻辑"
+  },
+  {
+    "path": "docs/images/workspace-structure.png",
+    "purpose": "用程序绘制的说明图；辅助理解目录与研究逻辑"
+  },
+  {
+    "path": "docs/material-catalog.md",
+    "purpose": "操作、核验、来源或全部文件说明"
+  },
+  {
+    "path": "docs/reading-coverage.md",
+    "purpose": "操作、核验、来源或全部文件说明"
+  },
+  {
+    "path": "docs/review-ui-design.md",
+    "purpose": "操作、核验、来源或全部文件说明"
+  },
+  {
+    "path": "docs/review-ui-verification.md",
+    "purpose": "操作、核验、来源或全部文件说明"
+  },
+  {
+    "path": "docs/run-guide.md",
+    "purpose": "操作、核验、来源或全部文件说明"
+  },
+  {
+    "path": "docs/task-status.md",
+    "purpose": "操作、核验、来源或全部文件说明"
+  },
+  {
+    "path": "docs/verification-report.md",
+    "purpose": "操作、核验、来源或全部文件说明"
+  },
+  {
+    "path": "environment.yml",
+    "purpose": "项目入口、运行器或总说明"
+  },
+  {
+    "path": "evidence/.review-state.lock",
+    "purpose": "本人核验专用记录；未伪造Fact"
+  },
+  {
+    "path": "evidence/confirmed-facts.json",
+    "purpose": "本人核验专用记录；未伪造Fact"
+  },
+  {
+    "path": "evidence/evidence-log.md",
+    "purpose": "本人核验专用记录；未伪造Fact"
+  },
+  {
+    "path": "evidence/human-review-forms.md",
+    "purpose": "本人核验专用记录；未伪造Fact"
+  },
+  {
+    "path": "Git.cmd",
+    "purpose": "项目入口、运行器或总说明"
+  },
+  {
+    "path": "outputs/change-verification-record.md",
+    "purpose": "课件合同的阶段成果准备稿"
+  },
+  {
+    "path": "outputs/first-analysis.md",
+    "purpose": "课件合同的阶段成果准备稿"
+  },
+  {
+    "path": "outputs/lec01-decision-card.md",
+    "purpose": "课件合同的阶段成果准备稿"
+  },
+  {
+    "path": "outputs/lec02-component-choice.md",
+    "purpose": "课件合同的阶段成果准备稿"
+  },
+  {
+    "path": "outputs/lec02-disclosure-map.md",
+    "purpose": "课件合同的阶段成果准备稿"
+  },
+  {
+    "path": "outputs/lec03-evidence-matrix.md",
+    "purpose": "课件合同的阶段成果准备稿"
+  },
+  {
+    "path": "outputs/lec03-stage-deliverables.md",
+    "purpose": "课件合同的阶段成果准备稿"
+  },
+  {
+    "path": "outputs/metric-scope-decision.md",
+    "purpose": "课件合同的阶段成果准备稿"
+  },
+  {
+    "path": "outputs/red-team-review.md",
+    "purpose": "课件合同的阶段成果准备稿"
+  },
+  {
+    "path": "outputs/revenue-structure-table.md",
+    "purpose": "课件合同的阶段成果准备稿"
+  },
+  {
+    "path": "README.md",
+    "purpose": "项目入口、运行器或总说明"
+  },
+  {
+    "path": "research.ipynb",
+    "purpose": "可执行研究笔记；数据浏览与合计检查"
+  },
+  {
+    "path": "scripts/00_inventory.py",
+    "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
+  },
+  {
+    "path": "scripts/01_read_sources.py",
+    "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
+  },
+  {
+    "path": "scripts/02_probe_environment.py",
+    "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
+  },
+  {
+    "path": "scripts/03_extract.py",
+    "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
+  },
+  {
+    "path": "scripts/04_render.py",
+    "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
+  },
+  {
+    "path": "scripts/05_build_workspace.py",
+    "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
+  },
+  {
+    "path": "scripts/06_build_tasks.py",
+    "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
+  },
+  {
+    "path": "scripts/06b_lec03.py",
+    "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
+  },
+  {
+    "path": "scripts/07_compute_changes.py",
+    "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
+  },
+  {
+    "path": "scripts/07b_visuals_notebook.py",
+    "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
+  },
+  {
+    "path": "scripts/08_validate.py",
+    "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
+  },
+  {
+    "path": "scripts/09_documentation.py",
+    "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
+  },
+  {
+    "path": "scripts/10_finalize.py",
+    "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
+  },
+  {
+    "path": "scripts/common.py",
+    "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
+  },
+  {
+    "path": "scripts/review_store.py",
+    "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
+  },
+  {
+    "path": "scripts/review_ui.py",
+    "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
+  },
+  {
+    "path": "scripts/ui_smoke.py",
+    "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
+  },
+  {
+    "path": "scripts/workspace_utils.py",
+    "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
+  },
+  {
+    "path": "sources/annual_reports/md/SH600519_贵州茅台_2020.md",
+    "purpose": "规范原始年报／对应检索MD；按报告原样留存"
+  },
+  {
+    "path": "sources/annual_reports/md/SH600519_贵州茅台_2021.md",
+    "purpose": "规范原始年报／对应检索MD；按报告原样留存"
+  },
+  {
+    "path": "sources/annual_reports/md/SH600519_贵州茅台_2022.md",
+    "purpose": "规范原始年报／对应检索MD；按报告原样留存"
+  },
+  {
+    "path": "sources/annual_reports/md/SH600519_贵州茅台_2023.md",
+    "purpose": "规范原始年报／对应检索MD；按报告原样留存"
+  },
+  {
+    "path": "sources/annual_reports/md/SH600519_贵州茅台_2024.md",
+    "purpose": "规范原始年报／对应检索MD；按报告原样留存"
+  },
+  {
+    "path": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+    "purpose": "规范原始年报／对应检索MD；按报告原样留存"
+  },
+  {
+    "path": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+    "purpose": "规范原始年报／对应检索MD；按报告原样留存"
+  },
+  {
+    "path": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+    "purpose": "规范原始年报／对应检索MD；按报告原样留存"
+  },
+  {
+    "path": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+    "purpose": "规范原始年报／对应检索MD；按报告原样留存"
+  },
+  {
+    "path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+    "purpose": "规范原始年报／对应检索MD；按报告原样留存"
+  },
+  {
+    "path": "sources/course/lec01/AI证券分析师导读.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec01/Appendix_AI时代投资研究的人机交互——从自然语言对话到可审计协作.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec01/Lec_01_从公司信息到投资判断_AI时代的证券分析与人机协作_第二版_修订稿.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec01/README.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec01/五种判断类型_贵州茅台案例与练习.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec01/投研场景Agent沟通模板.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec01/投资哲学导读.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec01/护城河验证清单.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec01/茅台年报案例任务单.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec01/课堂三选题完整示例.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec01/贵州茅台2024年年报_资料说明.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec02/Agent工作台与研究留痕自学指南.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec02/claim与五种判断类型.svg",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec02/lec02_年报分析与证据核验_工作台版.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec02/年度报告信息披露地图与证据账本任务单.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec02/年度报告证据核验流程图.svg",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec02/年报研究工作台模板/.gitignore",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec02/年报研究工作台模板/CLAUDE.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec02/年报研究工作台模板/evidence/evidence-log.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec02/年报研究工作台模板/outputs/first-analysis.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec02/年报研究工作台模板/README.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec02/年报研究工作台模板/tasks/first-task.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec02/年报研究工作台模板/tasks/第一次任务合同.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec02/年报研究工作台模板/work/notes.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec02/年报研究工作台模板/work/pending-checks.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec02/年报研究工作台结构图.svg",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec02/第02单元_年报分析与证据核验_工作台版.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec03/Append1_lec03.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec03/Append2_lec03.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec03/Append3_lec03_CC文件配置系统.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec03/Append4_lec03_CC权限设置.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec03/Claude_Code 上下文管理.svg",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec03/Claude_Code_三层上下文加载模型.svg",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec03/lec03_商业模式、行业竞争与竞争优势.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec03/lec03_摘要读本_商业模式、行业竞争与竞争优势.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/lec03/Lec03任务合同_商业模式与竞争优势证据表.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/project-reference/分发学生_CLAUDE(1).md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/project-reference/分发学生_README(2).md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/project-reference/学生材料清单.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/project-reference/第三次任务合同_年报指标口径识别.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/project-reference/第二次任务合同_年报收入信息结构化提取.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/course/project-reference/第四次任务合同_年报指标变化核验.md",
+    "purpose": "课程与模板规范副本；按正文用途组织"
+  },
+  {
+    "path": "sources/manifest.json",
+    "purpose": "项目入口、运行器或总说明"
+  },
+  {
+    "path": "sources/original-tree/03_学生材料(2).zip",
+    "purpose": "输入目录副本；保持出处、版本和原ZIP"
+  },
+  {
+    "path": "sources/original-tree/03_学生材料.zip",
+    "purpose": "输入目录副本；保持出处、版本和原ZIP"
+  },
+  {
+    "path": "sources/original-tree/Appendix_AI时代投资研究的人机交互——从自然语言对话到可审计协作.md",
+    "purpose": "输入目录副本；保持出处、版本和原ZIP"
+  },
+  {
+    "path": "sources/original-tree/lec02_年报分析与证据核验_工作台版.md",
+    "purpose": "输入目录副本；保持出处、版本和原ZIP"
+  },
+  {
+    "path": "sources/original-tree/lec03_学生用材料.zip",
+    "purpose": "输入目录副本；保持出处、版本和原ZIP"
+  },
+  {
+    "path": "sources/original-tree/Lec03课件.zip",
+    "purpose": "输入目录副本；保持出处、版本和原ZIP"
+  },
+  {
+    "path": "sources/original-tree/Lec_01_从公司信息到投资判断_AI时代的证券分析与人机协作_第二版_修订稿.md",
+    "purpose": "输入目录副本；保持出处、版本和原ZIP"
+  },
+  {
+    "path": "sources/original-tree/mineru-pdf-converter(1).zip",
+    "purpose": "输入目录副本；保持出处、版本和原ZIP"
+  },
+  {
+    "path": "sources/original-tree/分发学生_CLAUDE(1).md",
+    "purpose": "输入目录副本；保持出处、版本和原ZIP"
+  },
+  {
+    "path": "sources/original-tree/分发学生_README(2).md",
+    "purpose": "输入目录副本；保持出处、版本和原ZIP"
+  },
+  {
+    "path": "sources/original-tree/学生用/lec03_摘要读本_商业模式、行业竞争与竞争优势.md",
+    "purpose": "输入目录副本；保持出处、版本和原ZIP"
+  },
+  {
+    "path": "sources/original-tree/学生用/Lec03任务合同_商业模式与竞争优势证据表.md",
+    "purpose": "输入目录副本；保持出处、版本和原ZIP"
+  },
+  {
+    "path": "sources/original-tree/学生用/学生材料清单.md",
+    "purpose": "输入目录副本；保持出处、版本和原ZIP"
+  },
+  {
+    "path": "sources/original-tree/学生用/第三次任务合同_年报指标口径识别.md",
+    "purpose": "输入目录副本；保持出处、版本和原ZIP"
+  },
+  {
+    "path": "sources/original-tree/学生用/第二次任务合同_年报收入信息结构化提取.md",
+    "purpose": "输入目录副本；保持出处、版本和原ZIP"
+  },
+  {
+    "path": "sources/original-tree/学生用/第四次任务合同_年报指标变化核验.md",
+    "purpose": "输入目录副本；保持出处、版本和原ZIP"
+  },
+  {
+    "path": "sources/original-tree/学生用/贵州茅台年报_2020-2024/md/SH600519_贵州茅台_2020.md",
+    "purpose": "输入目录副本；保持出处、版本和原ZIP"
+  },
+  {
+    "path": "sources/original-tree/学生用/贵州茅台年报_2020-2024/md/SH600519_贵州茅台_2021.md",
+    "purpose": "输入目录副本；保持出处、版本和原ZIP"
+  },
+  {
+    "path": "sources/original-tree/学生用/贵州茅台年报_2020-2024/md/SH600519_贵州茅台_2022.md",
+    "purpose": "输入目录副本；保持出处、版本和原ZIP"
+  },
+  {
+    "path": "sources/original-tree/学生用/贵州茅台年报_2020-2024/md/SH600519_贵州茅台_2023.md",
+    "purpose": "输入目录副本；保持出处、版本和原ZIP"
+  },
+  {
+    "path": "sources/original-tree/学生用/贵州茅台年报_2020-2024/md/SH600519_贵州茅台_2024.md",
+    "purpose": "输入目录副本；保持出处、版本和原ZIP"
+  },
+  {
+    "path": "sources/original-tree/学生用/贵州茅台年报_2020-2024/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+    "purpose": "输入目录副本；保持出处、版本和原ZIP"
+  },
+  {
+    "path": "sources/original-tree/学生用/贵州茅台年报_2020-2024/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+    "purpose": "输入目录副本；保持出处、版本和原ZIP"
+  },
+  {
+    "path": "sources/original-tree/学生用/贵州茅台年报_2020-2024/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+    "purpose": "输入目录副本；保持出处、版本和原ZIP"
+  },
+  {
+    "path": "sources/original-tree/学生用/贵州茅台年报_2020-2024/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+    "purpose": "输入目录副本；保持出处、版本和原ZIP"
+  },
+  {
+    "path": "sources/original-tree/学生用/贵州茅台年报_2020-2024/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+    "purpose": "输入目录副本；保持出处、版本和原ZIP"
+  },
+  {
+    "path": "sources/original-tree/第02单元_年报分析与证据核验_工作台版.md",
+    "purpose": "输入目录副本；保持出处、版本和原ZIP"
+  },
+  {
+    "path": "sources/toolkit/mineru-reference/CHANGELOG.md",
+    "purpose": "PDF转换工具参考；未安装或执行"
+  },
+  {
+    "path": "sources/toolkit/mineru-reference/references/api-reference.md",
+    "purpose": "PDF转换工具参考；未安装或执行"
+  },
+  {
+    "path": "sources/toolkit/mineru-reference/scripts/merge_markdown.py",
+    "purpose": "PDF转换工具参考；未安装或执行"
+  },
+  {
+    "path": "sources/toolkit/mineru-reference/scripts/mineru_convert.py",
+    "purpose": "PDF转换工具参考；未安装或执行"
+  },
+  {
+    "path": "sources/toolkit/mineru-reference/scripts/pdf_splitter.py",
+    "purpose": "PDF转换工具参考；未安装或执行"
+  },
+  {
+    "path": "sources/toolkit/mineru-reference/SKILL.md",
+    "purpose": "PDF转换工具参考；未安装或执行"
+  },
+  {
+    "path": "sources/unpacked/03_学生材料/03_学生材料/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/03_学生材料/03_学生材料/600519_2024_贵州茅台_贵州茅台2024年年度报告_MinerU.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/03_学生材料/03_学生材料/AI证券分析师导读.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/03_学生材料/03_学生材料/images/README.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/03_学生材料/03_学生材料/五种判断类型_贵州茅台案例与练习.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/03_学生材料/03_学生材料/投研场景Agent沟通模板.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/03_学生材料/03_学生材料/投资哲学导读.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/03_学生材料/03_学生材料/护城河验证清单.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/03_学生材料/03_学生材料/茅台年报案例任务单.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/03_学生材料/03_学生材料/课堂三选题完整示例.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/03_学生材料/03_学生材料/贵州茅台2024年年报_资料说明.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/03_学生材料(2)/03_学生材料/Agent工作台与研究留痕自学指南.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/03_学生材料(2)/03_学生材料/images/claim与五种判断类型.svg",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/03_学生材料(2)/03_学生材料/images/年度报告证据核验流程图.svg",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/03_学生材料(2)/03_学生材料/images/年报研究工作台结构图.svg",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/03_学生材料(2)/03_学生材料/年度报告信息披露地图与证据账本任务单.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/03_学生材料(2)/03_学生材料/年报研究工作台模板/.gitignore",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/03_学生材料(2)/03_学生材料/年报研究工作台模板/CLAUDE.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/03_学生材料(2)/03_学生材料/年报研究工作台模板/evidence/evidence-log.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/03_学生材料(2)/03_学生材料/年报研究工作台模板/outputs/first-analysis.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/03_学生材料(2)/03_学生材料/年报研究工作台模板/README.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/03_学生材料(2)/03_学生材料/年报研究工作台模板/sources/.gitkeep",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/03_学生材料(2)/03_学生材料/年报研究工作台模板/tasks/first-task.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/03_学生材料(2)/03_学生材料/年报研究工作台模板/tasks/第一次任务合同.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/03_学生材料(2)/03_学生材料/年报研究工作台模板/work/notes.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/03_学生材料(2)/03_学生材料/年报研究工作台模板/work/pending-checks.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/lec03_学生用材料/学生用/lec03_摘要读本_商业模式、行业竞争与竞争优势.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/lec03_学生用材料/学生用/Lec03任务合同_商业模式与竞争优势证据表.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/lec03_学生用材料/学生用/学生材料清单.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/lec03_学生用材料/学生用/第三次任务合同_年报指标口径识别.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/lec03_学生用材料/学生用/第二次任务合同_年报收入信息结构化提取.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/lec03_学生用材料/学生用/第四次任务合同_年报指标变化核验.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/lec03_学生用材料/学生用/贵州茅台年报_2020-2024/md/SH600519_贵州茅台_2020.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/lec03_学生用材料/学生用/贵州茅台年报_2020-2024/md/SH600519_贵州茅台_2021.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/lec03_学生用材料/学生用/贵州茅台年报_2020-2024/md/SH600519_贵州茅台_2022.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/lec03_学生用材料/学生用/贵州茅台年报_2020-2024/md/SH600519_贵州茅台_2023.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/lec03_学生用材料/学生用/贵州茅台年报_2020-2024/md/SH600519_贵州茅台_2024.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/lec03_学生用材料/学生用/贵州茅台年报_2020-2024/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/lec03_学生用材料/学生用/贵州茅台年报_2020-2024/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/lec03_学生用材料/学生用/贵州茅台年报_2020-2024/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/lec03_学生用材料/学生用/贵州茅台年报_2020-2024/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/lec03_学生用材料/学生用/贵州茅台年报_2020-2024/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/Lec03课件/课件/Append1_lec03.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/Lec03课件/课件/Append2_lec03.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/Lec03课件/课件/Append3_lec03_CC文件配置系统.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/Lec03课件/课件/Append4_lec03_CC权限设置.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/Lec03课件/课件/Claude_Code 上下文管理.svg",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/Lec03课件/课件/Claude_Code_三层上下文加载模型.svg",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/Lec03课件/课件/lec03_商业模式、行业竞争与竞争优势.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/mineru-pdf-converter(1)/mineru-pdf-converter/CHANGELOG.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/mineru-pdf-converter(1)/mineru-pdf-converter/references/api-reference.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/mineru-pdf-converter(1)/mineru-pdf-converter/scripts/merge_markdown.py",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/mineru-pdf-converter(1)/mineru-pdf-converter/scripts/mineru_convert.py",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/mineru-pdf-converter(1)/mineru-pdf-converter/scripts/pdf_splitter.py",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "sources/unpacked/mineru-pdf-converter(1)/mineru-pdf-converter/SKILL.md",
+    "purpose": "ZIP解包内容；按正文识别，保留原名及出处"
+  },
+  {
+    "path": "tasks/00-execution-mandate.md",
+    "purpose": "对应研究合同；保留原条款和签署空栏"
+  },
+  {
+    "path": "tasks/01-first-task.md",
+    "purpose": "对应研究合同；保留原条款和签署空栏"
+  },
+  {
+    "path": "tasks/02-revenue-extraction.md",
+    "purpose": "对应研究合同；保留原条款和签署空栏"
+  },
+  {
+    "path": "tasks/03-metric-scope.md",
+    "purpose": "对应研究合同；保留原条款和签署空栏"
+  },
+  {
+    "path": "tasks/04-change-verification.md",
+    "purpose": "对应研究合同；保留原条款和签署空栏"
+  },
+  {
+    "path": "tasks/05-lec03-business-model.md",
+    "purpose": "对应研究合同；保留原条款和签署空栏"
+  },
+  {
+    "path": "tests/test_contract_validation.py",
+    "purpose": "项目入口、运行器或总说明"
+  },
+  {
+    "path": "tests/test_review_store.py",
+    "purpose": "项目入口、运行器或总说明"
+  },
+  {
+    "path": "work/change-recalculation.json",
+    "purpose": "实际过程、候选、冲突、修正或验证记录"
+  },
+  {
+    "path": "work/change-verification.md",
+    "purpose": "实际过程、候选、冲突、修正或验证记录"
+  },
+  {
+    "path": "work/evidence-candidates.md",
+    "purpose": "实际过程、候选、冲突、修正或验证记录"
+  },
+  {
+    "path": "work/lec03-claim-data.json",
+    "purpose": "实际过程、候选、冲突、修正或验证记录"
+  },
+  {
+    "path": "work/lec03-claim-notes.md",
+    "purpose": "实际过程、候选、冲突、修正或验证记录"
+  },
+  {
+    "path": "work/metric-scope-candidates.md",
+    "purpose": "实际过程、候选、冲突、修正或验证记录"
+  },
+  {
+    "path": "work/notebook-executed.ipynb",
+    "purpose": "实际过程、候选、冲突、修正或验证记录"
+  },
+  {
+    "path": "work/notes.md",
+    "purpose": "实际过程、候选、冲突、修正或验证记录"
+  },
+  {
+    "path": "work/pdf-text/2020.json",
+    "purpose": "逐页全文缓存；可重建，只辅助定位"
+  },
+  {
+    "path": "work/pdf-text/2021.json",
+    "purpose": "逐页全文缓存；可重建，只辅助定位"
+  },
+  {
+    "path": "work/pdf-text/2022.json",
+    "purpose": "逐页全文缓存；可重建，只辅助定位"
+  },
+  {
+    "path": "work/pdf-text/2023.json",
+    "purpose": "逐页全文缓存；可重建，只辅助定位"
+  },
+  {
+    "path": "work/pdf-text/2024.json",
+    "purpose": "逐页全文缓存；可重建，只辅助定位"
+  },
+  {
+    "path": "work/pending-checks.md",
+    "purpose": "实际过程、候选、冲突、修正或验证记录"
+  },
+  {
+    "path": "work/reading-index.json",
+    "purpose": "实际过程、候选、冲突、修正或验证记录"
+  },
+  {
+    "path": "work/revenue-structure-extraction.md",
+    "purpose": "实际过程、候选、冲突、修正或验证记录"
+  },
+  {
+    "path": "work/scope-adjudication.md",
+    "purpose": "实际过程、候选、冲突、修正或验证记录"
+  },
+  {
+    "path": "work/scope-data.json",
+    "purpose": "实际过程、候选、冲突、修正或验证记录"
+  },
+  {
+    "path": "work/source-inventory.json",
+    "purpose": "实际过程、候选、冲突、修正或验证记录"
+  },
+  {
+    "path": "work/structured-data.json",
+    "purpose": "实际过程、候选、冲突、修正或验证记录"
+  },
+  {
+    "path": "work/validation-results.json",
+    "purpose": "实际过程、候选、冲突、修正或验证记录"
+  },
+  {
+    "path": "人工核验入口.cmd",
+    "purpose": "项目入口、运行器或总说明"
+  },
+  {
+    "path": "工作台.html",
+    "purpose": "项目入口、运行器或总说明"
+  },
+  {
+    "path": "工作流程与文件说明.md",
+    "purpose": "项目入口、运行器或总说明"
+  },
+  {
+    "path": "打开研究笔记.cmd",
+    "purpose": "项目入口、运行器或总说明"
+  },
+  {
+    "path": "投资学工作空间.code-workspace",
+    "purpose": "项目入口、运行器或总说明"
+  },
+  {
+    "path": "运行检查.cmd",
+    "purpose": "项目入口、运行器或总说明"
+  },
+  {
+    "path": "docs/generated-files.json",
+    "purpose": "机器可读的全部生成文件位置与理由"
+  }
+]

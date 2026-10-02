@@ -1,0 +1,4 @@
+README.md text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+课件与任务文件/** -text

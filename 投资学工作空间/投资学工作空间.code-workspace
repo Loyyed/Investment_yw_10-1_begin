@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "python.defaultInterpreterPath": "D:/Anaconda/python.exe",
+    "files.encoding": "utf8",
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on"
+  }
+}

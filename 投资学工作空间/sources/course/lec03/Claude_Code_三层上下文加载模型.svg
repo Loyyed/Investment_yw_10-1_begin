@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <defs>
+    <style>
+      .title { font: 700 32px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill:#111827; }
+      .subtitle { font: 400 18px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill:#4B5563; }
+      .colhead { font: 600 17px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill:#6B7280; }
+      .layer { font: 700 25px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill:#111827; }
+      .main { font: 600 23px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill:#111827; }
+      .sub { font: 400 19px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill:#4B5563; }
+      .sub-en { font: 500 19px -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; fill:#4B5563; }
+      .note-title { font: 600 16px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill:#374151; }
+      .note { font: 400 16px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill:#374151; }
+    </style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#9CA3AF"/>
+    </marker>
+  </defs>
+
+  <rect width="1400" height="900" fill="#FFFFFF"/>
+
+  <!-- Title -->
+  <text x="700" y="64" text-anchor="middle" class="title">Claude Code 三层上下文加载模型</text>
+  <text x="700" y="98" text-anchor="middle" class="subtitle">临时上下文、项目长期规则与按需加载能力</text>
+
+  <!-- Column headers -->
+  <text x="220" y="158" text-anchor="middle" class="colhead">上下文层级</text>
+  <text x="675" y="158" text-anchor="middle" class="colhead">加载方式</text>
+  <text x="1125" y="158" text-anchor="middle" class="colhead">作用</text>
+
+  <!-- Row 1 -->
+  <rect x="95" y="190" rx="20" ry="20" width="250" height="150" fill="#FFF7ED" stroke="#EA580C" stroke-width="2"/>
+  <text x="220" y="247" text-anchor="middle" class="layer">当前会话</text>
+  <text x="220" y="282" text-anchor="middle" class="sub-en">Session Context</text>
+
+  <line x1="365" y1="265" x2="430" y2="265" stroke="#9CA3AF" stroke-width="2.2" marker-end="url(#arrow)"/>
+
+  <rect x="450" y="190" rx="20" ry="20" width="450" height="150" fill="#FFFBEB" stroke="#D97706" stroke-width="2"/>
+  <text x="675" y="247" text-anchor="middle" class="main">一次性，阅后即焚</text>
+  <text x="675" y="282" text-anchor="middle" class="sub">只在这一轮对话中有效</text>
+
+  <line x1="920" y1="265" x2="985" y2="265" stroke="#9CA3AF" stroke-width="2.2" marker-end="url(#arrow)"/>
+
+  <rect x="1005" y="190" rx="20" ry="20" width="300" height="150" fill="#EEF6FF" stroke="#2563EB" stroke-width="2"/>
+  <text x="1155" y="247" text-anchor="middle" class="main">这轮的临时指令</text>
+  <text x="1155" y="282" text-anchor="middle" class="sub">解决“现在怎么做”</text>
+
+  <!-- Row 2 -->
+  <rect x="95" y="385" rx="20" ry="20" width="250" height="150" fill="#EEF6FF" stroke="#2563EB" stroke-width="2"/>
+  <text x="220" y="442" text-anchor="middle" class="layer">CLAUDE.md</text>
+  <text x="220" y="477" text-anchor="middle" class="sub-en">Project Rules</text>
+
+  <line x1="365" y1="460" x2="430" y2="460" stroke="#9CA3AF" stroke-width="2.2" marker-end="url(#arrow)"/>
+
+  <rect x="450" y="385" rx="20" ry="20" width="450" height="150" fill="#EFF6FF" stroke="#3B82F6" stroke-width="2"/>
+  <text x="675" y="442" text-anchor="middle" class="main">每次会话都读</text>
+  <text x="675" y="477" text-anchor="middle" class="sub">进入项目时持续提供共同约束</text>
+
+  <line x1="920" y1="460" x2="985" y2="460" stroke="#9CA3AF" stroke-width="2.2" marker-end="url(#arrow)"/>
+
+  <rect x="1005" y="385" rx="20" ry="20" width="300" height="150" fill="#F0FDF4" stroke="#16A34A" stroke-width="2"/>
+  <text x="1155" y="442" text-anchor="middle" class="main">项目长期规则</text>
+  <text x="1155" y="477" text-anchor="middle" class="sub">解决“长期怎么工作”</text>
+
+  <!-- Row 3 -->
+  <rect x="95" y="580" rx="20" ry="20" width="250" height="150" fill="#F0FDF4" stroke="#16A34A" stroke-width="2"/>
+  <text x="220" y="637" text-anchor="middle" class="layer">Skill</text>
+  <text x="220" y="672" text-anchor="middle" class="sub-en">Reusable Capability</text>
+
+  <line x1="365" y1="655" x2="430" y2="655" stroke="#9CA3AF" stroke-width="2.2" marker-end="url(#arrow)"/>
+
+  <rect x="450" y="580" rx="20" ry="20" width="450" height="150" fill="#F0FDF4" stroke="#22C55E" stroke-width="2"/>
+  <text x="675" y="637" text-anchor="middle" class="main">按需加载（语义触发）</text>
+  <text x="675" y="672" text-anchor="middle" class="sub">遇到对应任务时才调用</text>
+
+  <line x1="920" y1="655" x2="985" y2="655" stroke="#9CA3AF" stroke-width="2.2" marker-end="url(#arrow)"/>
+
+  <rect x="1005" y="580" rx="20" ry="20" width="300" height="150" fill="#FAF5FF" stroke="#9333EA" stroke-width="2"/>
+  <text x="1155" y="637" text-anchor="middle" class="main">可复用的任务包</text>
+  <text x="1155" y="672" text-anchor="middle" class="sub">解决“这类任务怎么做好”</text>
+
+  <!-- Bottom note -->
+  <rect x="180" y="785" rx="18" ry="18" width="1040" height="72" fill="#F9FAFB" stroke="#D1D5DB" stroke-width="1.6"/>
+  <text x="700" y="815" text-anchor="middle" class="note-title">三层加载逻辑</text>
+  <text x="700" y="842" text-anchor="middle" class="note">当前会话 = 临时加载　｜　CLAUDE.md = 固定加载　｜　Skill = 按需加载</text>
+</svg>

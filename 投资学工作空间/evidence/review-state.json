@@ -1,0 +1,161 @@
+{
+  "comparability": null,
+  "events": [
+    {
+      "actor": "Leo",
+      "candidate_fingerprint": "0db76142255104dc54e00372736a0f040accf5ac93ae3979a6d4c95eabc05fed",
+      "confirmed_at": "2026-10-02T20:16:45+08:00",
+      "id": "C01",
+      "note": "",
+      "operation": "review",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "previous_state": "Unknown",
+      "sequence": 1,
+      "snapshot": {
+        "actor": "",
+        "binding": "bf6e838d821bfa014ee564b83dbd1438bee886ca176f83e4f985a3eff0a0cc10",
+        "candidate_fingerprint": "0db76142255104dc54e00372736a0f040accf5ac93ae3979a6d4c95eabc05fed",
+        "claim": "其中：营业收入披露值",
+        "confirmed_at": "",
+        "id": "C01",
+        "location": "PDF／报告63页",
+        "note": "本人核验与选择待完成",
+        "numbers": [
+          "170,899,152,276.34"
+        ],
+        "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+        "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+        "pending_issue": "本人核验与选择待完成",
+        "period": "2024年度",
+        "scope": "人民币元；合并；酒类及其他业务，不含利息收入",
+        "source_version": "2024年报告；SHA见manifest",
+        "stale_reason": "",
+        "state": "Unknown",
+        "support_boundary": "定位与候选口径",
+        "table": "合并利润表",
+        "unit": "人民币元",
+        "unsupported_boundary": "机制、未来价值或价格",
+        "value": "170,899,152,276.34",
+        "year": 2024
+      },
+      "state": "Fact"
+    },
+    {
+      "actor": "Leo",
+      "candidate_fingerprint": "db0edd06c99d777b4bbdfd84d3c2b9933d307123833a607ae11f6d34b4f2d669",
+      "confirmed_at": "2026-10-02T20:16:47+08:00",
+      "id": "C02",
+      "note": "",
+      "operation": "review",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "previous_state": "Unknown",
+      "sequence": 2,
+      "snapshot": {
+        "actor": "",
+        "binding": "1ed25ee5ad309ea282166d56fb73e1b313309b2db9db9bce3bfe4b0ee6cc11ac",
+        "candidate_fingerprint": "db0edd06c99d777b4bbdfd84d3c2b9933d307123833a607ae11f6d34b4f2d669",
+        "claim": "归属于母公司股东的净利润披露值",
+        "confirmed_at": "",
+        "id": "C02",
+        "location": "PDF／报告64页",
+        "note": "本人核验与选择待完成",
+        "numbers": [
+          "86,228,146,421.62"
+        ],
+        "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+        "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+        "pending_issue": "本人核验与选择待完成",
+        "period": "2024年度",
+        "scope": "人民币元；合并；不含少数股东损益",
+        "source_version": "2024年报告；SHA见manifest",
+        "stale_reason": "",
+        "state": "Unknown",
+        "support_boundary": "定位与候选口径",
+        "table": "合并利润表",
+        "unit": "人民币元",
+        "unsupported_boundary": "机制、未来价值或价格",
+        "value": "86,228,146,421.62",
+        "year": 2024
+      },
+      "state": "Fact"
+    }
+  ],
+  "records": {
+    "C01": {
+      "actor": "Leo",
+      "candidate_fingerprint": "0db76142255104dc54e00372736a0f040accf5ac93ae3979a6d4c95eabc05fed",
+      "confirmed_at": "2026-10-02T20:16:45+08:00",
+      "note": "",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "snapshot": {
+        "actor": "",
+        "binding": "bf6e838d821bfa014ee564b83dbd1438bee886ca176f83e4f985a3eff0a0cc10",
+        "candidate_fingerprint": "0db76142255104dc54e00372736a0f040accf5ac93ae3979a6d4c95eabc05fed",
+        "claim": "其中：营业收入披露值",
+        "confirmed_at": "",
+        "id": "C01",
+        "location": "PDF／报告63页",
+        "note": "本人核验与选择待完成",
+        "numbers": [
+          "170,899,152,276.34"
+        ],
+        "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+        "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+        "pending_issue": "本人核验与选择待完成",
+        "period": "2024年度",
+        "scope": "人民币元；合并；酒类及其他业务，不含利息收入",
+        "source_version": "2024年报告；SHA见manifest",
+        "stale_reason": "",
+        "state": "Unknown",
+        "support_boundary": "定位与候选口径",
+        "table": "合并利润表",
+        "unit": "人民币元",
+        "unsupported_boundary": "机制、未来价值或价格",
+        "value": "170,899,152,276.34",
+        "year": 2024
+      },
+      "state": "Fact"
+    },
+    "C02": {
+      "actor": "Leo",
+      "candidate_fingerprint": "db0edd06c99d777b4bbdfd84d3c2b9933d307123833a607ae11f6d34b4f2d669",
+      "confirmed_at": "2026-10-02T20:16:47+08:00",
+      "note": "",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "snapshot": {
+        "actor": "",
+        "binding": "1ed25ee5ad309ea282166d56fb73e1b313309b2db9db9bce3bfe4b0ee6cc11ac",
+        "candidate_fingerprint": "db0edd06c99d777b4bbdfd84d3c2b9933d307123833a607ae11f6d34b4f2d669",
+        "claim": "归属于母公司股东的净利润披露值",
+        "confirmed_at": "",
+        "id": "C02",
+        "location": "PDF／报告64页",
+        "note": "本人核验与选择待完成",
+        "numbers": [
+          "86,228,146,421.62"
+        ],
+        "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+        "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+        "pending_issue": "本人核验与选择待完成",
+        "period": "2024年度",
+        "scope": "人民币元；合并；不含少数股东损益",
+        "source_version": "2024年报告；SHA见manifest",
+        "stale_reason": "",
+        "state": "Unknown",
+        "support_boundary": "定位与候选口径",
+        "table": "合并利润表",
+        "unit": "人民币元",
+        "unsupported_boundary": "机制、未来价值或价格",
+        "value": "86,228,146,421.62",
+        "year": 2024
+      },
+      "state": "Fact"
+    }
+  },
+  "schema_version": 1,
+  "updated_at": "2026-10-02T20:16:47+08:00"
+}

@@ -1,0 +1,64 @@
+# 阅读与分析覆盖说明
+
+所有原件均已字节读取，原PDF五份657页全文提取，53份唯一文本资产全文解析。关键任务合同、相关课件与年报表格另作内容分析和定位；不声称每条员工名单或每项无关附注都进行了财务审计。重复内容不重复分析；Apple元数据仅登记。
+
+| 来源 | 页数或类型 | 读取字符数 | 处理方式 |
+| --- | --- | --- | --- |
+| sources\annual_reports\md\SH600519_贵州茅台_2020.md | 文本 | 238770 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\annual_reports\md\SH600519_贵州茅台_2021.md | 文本 | 259366 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\annual_reports\md\SH600519_贵州茅台_2022.md | 文本 | 251719 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\annual_reports\md\SH600519_贵州茅台_2023.md | 文本 | 273035 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\annual_reports\md\SH600519_贵州茅台_2024.md | 文本 | 282089 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\original-tree\Appendix_AI时代投资研究的人机交互——从自然语言对话到可审计协作.md | 文本 | 14869 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\original-tree\lec02_年报分析与证据核验_工作台版.md | 文本 | 27797 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\original-tree\Lec_01_从公司信息到投资判断_AI时代的证券分析与人机协作_第二版_修订稿.md | 文本 | 7662 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\original-tree\分发学生_CLAUDE(1).md | 文本 | 1284 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\original-tree\分发学生_README(2).md | 文本 | 1996 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\original-tree\学生用\lec03_摘要读本_商业模式、行业竞争与竞争优势.md | 文本 | 2901 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\original-tree\学生用\Lec03任务合同_商业模式与竞争优势证据表.md | 文本 | 2625 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\original-tree\学生用\学生材料清单.md | 文本 | 2057 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\original-tree\学生用\第三次任务合同_年报指标口径识别.md | 文本 | 2105 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\original-tree\学生用\第二次任务合同_年报收入信息结构化提取.md | 文本 | 2301 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\original-tree\学生用\第四次任务合同_年报指标变化核验.md | 文本 | 1856 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\original-tree\第02单元_年报分析与证据核验_工作台版.md | 文本 | 25198 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\03_学生材料\03_学生材料\AI证券分析师导读.md | 文本 | 2152 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\03_学生材料\03_学生材料\images\README.md | 文本 | 240 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\03_学生材料\03_学生材料\五种判断类型_贵州茅台案例与练习.md | 文本 | 5365 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\03_学生材料\03_学生材料\投研场景Agent沟通模板.md | 文本 | 2092 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\03_学生材料\03_学生材料\投资哲学导读.md | 文本 | 3345 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\03_学生材料\03_学生材料\护城河验证清单.md | 文本 | 1366 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\03_学生材料\03_学生材料\茅台年报案例任务单.md | 文本 | 3982 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\03_学生材料\03_学生材料\课堂三选题完整示例.md | 文本 | 2525 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\03_学生材料\03_学生材料\贵州茅台2024年年报_资料说明.md | 文本 | 1060 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\03_学生材料(2)\03_学生材料\Agent工作台与研究留痕自学指南.md | 文本 | 2539 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\03_学生材料(2)\03_学生材料\images\claim与五种判断类型.svg | 文本 | 5554 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\03_学生材料(2)\03_学生材料\images\年度报告证据核验流程图.svg | 文本 | 4245 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\03_学生材料(2)\03_学生材料\images\年报研究工作台结构图.svg | 文本 | 6188 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\03_学生材料(2)\03_学生材料\年度报告信息披露地图与证据账本任务单.md | 文本 | 4447 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\03_学生材料(2)\03_学生材料\年报研究工作台模板\.gitignore | 文本 | 102 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\03_学生材料(2)\03_学生材料\年报研究工作台模板\CLAUDE.md | 文本 | 793 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\03_学生材料(2)\03_学生材料\年报研究工作台模板\evidence\evidence-log.md | 文本 | 367 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\03_学生材料(2)\03_学生材料\年报研究工作台模板\outputs\first-analysis.md | 文本 | 233 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\03_学生材料(2)\03_学生材料\年报研究工作台模板\README.md | 文本 | 699 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\03_学生材料(2)\03_学生材料\年报研究工作台模板\tasks\first-task.md | 文本 | 602 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\03_学生材料(2)\03_学生材料\年报研究工作台模板\tasks\第一次任务合同.md | 文本 | 2628 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\03_学生材料(2)\03_学生材料\年报研究工作台模板\work\notes.md | 文本 | 312 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\03_学生材料(2)\03_学生材料\年报研究工作台模板\work\pending-checks.md | 文本 | 2377 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\Lec03课件\课件\Append1_lec03.md | 文本 | 10911 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\Lec03课件\课件\Append2_lec03.md | 文本 | 11802 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\Lec03课件\课件\Append3_lec03_CC文件配置系统.md | 文本 | 7441 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\Lec03课件\课件\Append4_lec03_CC权限设置.md | 文本 | 9410 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\Lec03课件\课件\Claude_Code 上下文管理.svg | 文本 | 4666 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\Lec03课件\课件\Claude_Code_三层上下文加载模型.svg | 文本 | 5406 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\Lec03课件\课件\lec03_商业模式、行业竞争与竞争优势.md | 文本 | 56205 | 全文读取；标题/章节索引，按合同和研究用途分析 |
+| sources\unpacked\mineru-pdf-converter(1)\mineru-pdf-converter\CHANGELOG.md | 文本 | 4406 | 全文读取工具代码/说明，不执行；用途为PDF转换与API请求 |
+| sources\unpacked\mineru-pdf-converter(1)\mineru-pdf-converter\references\api-reference.md | 文本 | 9854 | 全文读取工具代码/说明，不执行；用途为PDF转换与API请求 |
+| sources\unpacked\mineru-pdf-converter(1)\mineru-pdf-converter\scripts\merge_markdown.py | 文本 | 7522 | 全文读取工具代码/说明，不执行；用途为PDF转换与API请求 |
+| sources\unpacked\mineru-pdf-converter(1)\mineru-pdf-converter\scripts\mineru_convert.py | 文本 | 29571 | 全文读取工具代码/说明，不执行；用途为PDF转换与API请求 |
+| sources\unpacked\mineru-pdf-converter(1)\mineru-pdf-converter\scripts\pdf_splitter.py | 文本 | 5062 | 全文读取工具代码/说明，不执行；用途为PDF转换与API请求 |
+| sources\unpacked\mineru-pdf-converter(1)\mineru-pdf-converter\SKILL.md | 文本 | 7123 | 全文读取工具代码/说明，不执行；用途为PDF转换与API请求 |
+| sources\annual_reports\pdf\600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf | 120 | 136860 | 五年年报全文提取及任务相关经营、财务附注深度定位 |
+| sources\annual_reports\pdf\600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf | 124 | 151376 | 五年年报全文提取及任务相关经营、财务附注深度定位 |
+| sources\annual_reports\pdf\600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf | 127 | 149337 | 五年年报全文提取及任务相关经营、财务附注深度定位 |
+| sources\annual_reports\pdf\600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf | 143 | 160667 | 五年年报全文提取及任务相关经营、财务附注深度定位 |
+| sources\annual_reports\pdf\600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf | 143 | 168140 | 五年年报全文提取及任务相关经营、财务附注深度定位 |

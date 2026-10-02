@@ -1,0 +1,13 @@
+# 项目协作规则
+
+- 执行前读取README.md和当前tasks合同。
+- sources保持原样；不得修改工作空间内外的原件，不把摘要当来源。
+- 统一人工核验入口为“人工核验入口.cmd”。只有本人明确点击确认，才由程序写入evidence/review-state.json并形成Fact；开窗、选择条目、机器匹配、任务文字校对均不自动确认。
+- 人工确认由review-state.json的记录和事件历史维护；confirmed-facts.json与Markdown为派生视图。后续使用调用scripts/review_store.py的ReviewStore(...).facts()核对最新来源，不只凭旧导出文件判Fact。
+- 指定源PDF或候选内容改变，旧确认对当前材料失效，需本人重核。缺证、疑问、撤回保留Unknown及历史。
+- 原始work/structured-data.json继续保留提取状态；不得把机器候选批量改成Fact，不能把来源核验扩大为机制成立。
+- 姓名可待补，但确认方式、时间、位置、口径与支持边界自动保留。核验确认、复核签署和合同正式关闭分别记录，不代填签名。
+- 分开Fact、Interpretation、Forecast、Decision、Unknown，不访问合同外网页/数据库，不混入期后信息或作买卖建议。
+- 第四次可比性在核验入口独立确认，来源/两期原值绑定后才能复算。第一次通过不自动确认可比性，程序结果仍须本人核对。
+- 含人工记录或手写修改时，旧生成脚本停止重建；不得覆盖evidence、人工notes或合同。需要重建时使用新的资料副本。
+- 保存前检查差异，保留被排除候选、真实修正与Unknown，不强制回滚，不伪造学生核验或错误。

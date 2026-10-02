@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="540" viewBox="0 0 1600 540" role="img" aria-labelledby="title desc">
+  <title id="title">年度报告证据核验流程图</title>
+  <desc id="desc">从研究问题、材料冻结、候选定位、PDF 原文核验、证据账本、交叉核验、红队质询到人工裁决或保留 Unknown 的证券研究流程。</desc>
+  <style>
+    .bg { fill: #f7f8fa; }
+    .title { font: 700 34px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill: #13283f; }
+    .sub { font: 400 20px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill: #587083; }
+    .box { fill: #ffffff; stroke: #276678; stroke-width: 2; rx: 16; }
+    .box-accent { fill: #e9f5f5; stroke: #1c7c80; stroke-width: 2; rx: 16; }
+    .box-warn { fill: #fff5e5; stroke: #c98223; stroke-width: 2; rx: 16; }
+    .label { font: 700 23px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill: #16344b; text-anchor: middle; }
+    .detail { font: 400 17px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill: #4e6475; text-anchor: middle; }
+    .arrow { stroke: #6096a6; stroke-width: 3; fill: none; marker-end: url(#arrow); }
+    .rule { font: 600 18px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill: #8a4c0c; text-anchor: middle; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#6096a6" />
+    </marker>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1600" height="540" rx="28"/>
+  <text class="title" x="800" y="62" text-anchor="middle">年度报告证据核验流程</text>
+  <text class="sub" x="800" y="98" text-anchor="middle">Agent 提供候选与检查；年报原文、人工核验与裁决由研究者负责</text>
+
+  <g transform="translate(55,160)">
+    <rect class="box" width="165" height="116" rx="16"/>
+    <text class="label" x="82" y="43">研究问题</text>
+    <text class="detail" x="82" y="76">Research Mandate</text>
+    <text class="detail" x="82" y="100">范围与边界</text>
+  </g>
+  <path class="arrow" d="M225 218 H274"/>
+
+  <g transform="translate(286,160)">
+    <rect class="box" width="165" height="116" rx="16"/>
+    <text class="label" x="82" y="43">材料冻结</text>
+    <text class="detail" x="82" y="76">指定版本</text>
+    <text class="detail" x="82" y="100">时点与范围</text>
+  </g>
+  <path class="arrow" d="M456 218 H505"/>
+
+  <g transform="translate(517,160)">
+    <rect class="box-accent" width="165" height="116" rx="16"/>
+    <text class="label" x="82" y="43">待核验线索</text>
+    <text class="detail" x="82" y="76">Agent 或目录检索</text>
+    <text class="detail" x="82" y="100">不是 Fact</text>
+  </g>
+  <path class="arrow" d="M687 218 H736"/>
+
+  <g transform="translate(748,160)">
+    <rect class="box-warn" width="165" height="116" rx="16"/>
+    <text class="label" x="82" y="43">PDF 原文核验</text>
+    <text class="detail" x="82" y="76">页码、表格、期间</text>
+    <text class="detail" x="82" y="100">口径与上下文</text>
+  </g>
+  <path class="arrow" d="M918 218 H967"/>
+
+  <g transform="translate(979,160)">
+    <rect class="box" width="165" height="116" rx="16"/>
+    <text class="label" x="82" y="43">证据账本</text>
+    <text class="detail" x="82" y="76">主张与定位</text>
+    <text class="detail" x="82" y="100">支持边界</text>
+  </g>
+  <path class="arrow" d="M1149 218 H1198"/>
+
+  <g transform="translate(1210,160)">
+    <rect class="box" width="165" height="116" rx="16"/>
+    <text class="label" x="82" y="43">交叉核验</text>
+    <text class="detail" x="82" y="76">报表、附注、审计</text>
+    <text class="detail" x="82" y="100">治理与风险</text>
+  </g>
+
+  <path class="arrow" d="M1292 288 V350 H1115"/>
+  <g transform="translate(920,338)">
+    <rect class="box" width="190" height="116" rx="16"/>
+    <text class="label" x="95" y="43">红队质询</text>
+    <text class="detail" x="95" y="76">定位、口径、边界</text>
+    <text class="detail" x="95" y="100">替代解释与遗漏</text>
+  </g>
+  <path class="arrow" d="M915 396 H861"/>
+
+  <g transform="translate(665,338)">
+    <rect class="box-warn" width="190" height="116" rx="16"/>
+    <text class="label" x="95" y="43">人工裁决</text>
+    <text class="detail" x="95" y="76">通过 / 修订后保留</text>
+    <text class="detail" x="95" y="100">或保留 Unknown</text>
+  </g>
+
+  <text class="rule" x="800" y="500">任何关键 Fact 都必须回到指定年报 PDF；无法裁决时保留 Unknown，而不是补猜。</text>
+</svg>

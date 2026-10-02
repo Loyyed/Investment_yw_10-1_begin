@@ -1,0 +1,16 @@
+{
+  "execute_person": "",
+  "review_person": "",
+  "review_date": "",
+  "human_confirmation": {
+    "report_version": false,
+    "periods": false,
+    "unit_currency": false,
+    "reporting_entity": false,
+    "consolidation_scope": false,
+    "metric_definition": false,
+    "no_restatement": false
+  },
+  "confirmed_evidence_ids": [],
+  "note": "本人完成PDF核验后才能改为true；Agent不代填人名和签名。"
+}

@@ -1,0 +1,234 @@
+{
+  "date": "2026-10-02",
+  "checks": [
+    {
+      "name": "全部51个源文件保持原始字节",
+      "pass": true,
+      "details": "[]"
+    },
+    {
+      "name": "2020 pdf规范副本SHA-256一致",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "2020 md规范副本SHA-256一致",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "2021 pdf规范副本SHA-256一致",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "2021 md规范副本SHA-256一致",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "2022 pdf规范副本SHA-256一致",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "2022 md规范副本SHA-256一致",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "2023 pdf规范副本SHA-256一致",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "2023 md规范副本SHA-256一致",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "2024 pdf规范副本SHA-256一致",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "2024 md规范副本SHA-256一致",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "51条收入成本候选经独立PDF引擎匹配",
+      "pass": true,
+      "details": "[]"
+    },
+    {
+      "name": "2020 营业收入PDF原值匹配",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "2020 归属于上市公司股东的净利润PDF原值匹配",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "2020 经营活动产生的现金流量净额PDF原值匹配",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "2021 营业收入PDF原值匹配",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "2021 归属于上市公司股东的净利润PDF原值匹配",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "2021 经营活动产生的现金流量净额PDF原值匹配",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "2022 营业收入PDF原值匹配",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "2022 归属于上市公司股东的净利润PDF原值匹配",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "2022 经营活动产生的现金流量净额PDF原值匹配",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "2023 营业收入PDF原值匹配",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "2023 归属于上市公司股东的净利润PDF原值匹配",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "2023 经营活动产生的现金流量净额PDF原值匹配",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "2024 营业收入PDF原值匹配",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "2024 归属于上市公司股东的净利润PDF原值匹配",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "2024 经营活动产生的现金流量净额PDF原值匹配",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "12条口径候选均匹配2024原PDF",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "21组分项与合计一致",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "原始候选保留提取状态，本人核验独立登记",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "2022原报和2023重述比较数分别保留",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "01-first-task.md合同条款完整",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "02-revenue-extraction.md合同条款完整",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "03-metric-scope.md合同条款完整",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "04-change-verification.md合同条款完整",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "05-lec03-business-model.md合同条款完整",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "人工确认机器视图与有效Fact一致",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "必需交付文件存在",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "所有生成Markdown文件链接可定位",
+      "pass": true,
+      "details": "[]"
+    },
+    {
+      "name": "本地HTML入口链接及图片可定位",
+      "pass": true,
+      "details": "[]；浏览器渲染未验证"
+    },
+    {
+      "name": "本地HTML无需外部脚本或网络资源",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "Python脚本语法全部通过",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "公式与舍入测试（合成数据）",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "零基数／重述／单位／合并范围阻断",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "Notebook通过真实Jupyter内核执行",
+      "pass": true,
+      "details": "D:\\Anaconda\\python.exe\n收入成本候选: 51\n分项合计检查通过: 21\n人工可比性确认: {'report_version': False, 'periods': False, 'unit_currency': False, 'reporting_entity': False, 'consolidation_scope': False, 'metric_definition': False, 'no_restatement': False}\n全部确认前不执行正式变化计算。\n"
+    }
+  ],
+  "passed": 45,
+  "failed": 0,
+  "human_reviewed_fact_count": 2,
+  "human_verification_complete": false
+}

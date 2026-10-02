@@ -1,0 +1,141 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">年报研究工作台结构图</title>
+  <desc id="desc">展示年报研究工作台中材料、规则、任务、过程、证据、输出与 Git 版本历史的组织方式，以及研究者和 Agent 的分工。</desc>
+
+  <style>
+    .bg { fill: #f5f7f9; }
+    .title { font: 700 38px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill: #13283f; }
+    .subtitle { font: 400 20px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill: #587083; }
+
+    .root { fill: #193b5a; stroke: #193b5a; stroke-width: 2; }
+    .root-label { font: 700 29px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill: #ffffff; text-anchor: middle; }
+    .root-detail { font: 400 18px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill: #dbe9f2; text-anchor: middle; }
+
+    .source { fill: #eef5ff; stroke: #3b78b5; stroke-width: 2; }
+    .task { fill: #eefaf5; stroke: #2f8a67; stroke-width: 2; }
+    .work { fill: #fff8ea; stroke: #c88822; stroke-width: 2; }
+    .evidence { fill: #fff0f0; stroke: #c35a63; stroke-width: 2; }
+    .output { fill: #f4efff; stroke: #7c5cb2; stroke-width: 2; }
+    .rule { fill: #e9f3f5; stroke: #357c83; stroke-width: 2; }
+    .version { fill: #f2f3f5; stroke: #5f6d7a; stroke-width: 2; }
+
+    .label { font: 700 23px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill: #18364c; text-anchor: middle; }
+    .detail { font: 400 17px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill: #4d6576; text-anchor: middle; }
+    .line { stroke: #9aabb9; stroke-width: 2.5; fill: none; }
+    .tag { font: 600 16px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill: #62798c; text-anchor: middle; }
+
+    .person { fill: #243f57; }
+    .agent { fill: #357c83; }
+    .role-title { font: 700 20px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill: #ffffff; text-anchor: middle; }
+    .role-detail { font: 400 16px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill: #e4f1f2; text-anchor: middle; }
+  </style>
+
+  <rect class="bg" width="1600" height="900" rx="28"/>
+
+  <text class="title" x="800" y="58" text-anchor="middle">
+    工作台结构图：材料、规则、任务、过程与证据如何组织？
+  </text>
+  <text class="subtitle" x="800" y="92" text-anchor="middle">
+    把一次性的“人与 Agent 对话”，变成一个可以持续积累、回溯和核验的研究项目
+  </text>
+
+  <!-- 项目根目录 -->
+  <g transform="translate(600,330)">
+    <rect class="root" width="400" height="155" rx="24"/>
+    <text class="root-label" x="200" y="62">annual-report-workbench/</text>
+    <text class="root-detail" x="200" y="98">年报研究项目根目录</text>
+    <text class="root-detail" x="200" y="127">材料、规则、任务、过程与证据在同一项目中组织</text>
+  </g>
+
+  <!-- 连线 -->
+  <path class="line" d="M600 405 H430 V245"/>
+  <path class="line" d="M600 405 H350 V565"/>
+  <path class="line" d="M1000 405 H1170 V245"/>
+  <path class="line" d="M1000 405 H1250 V565"/>
+  <path class="line" d="M720 485 V650"/>
+  <path class="line" d="M880 485 V650"/>
+  <path class="line" d="M800 330 V205"/>
+
+  <!-- 项目规则 -->
+  <g transform="translate(170,125)">
+    <rect class="rule" width="260" height="120" rx="18"/>
+    <text class="label" x="130" y="45">CLAUDE.md</text>
+    <text class="detail" x="130" y="76">项目规则</text>
+    <text class="detail" x="130" y="101">Agent 的行为边界</text>
+  </g>
+  <text class="tag" x="486" y="294">规则作用于整个项目</text>
+
+  <!-- 项目说明 -->
+  <g transform="translate(670,95)">
+    <rect class="rule" width="260" height="110" rx="18"/>
+    <text class="label" x="130" y="40">README.md</text>
+    <text class="detail" x="130" y="73">项目目的</text>
+    <text class="detail" x="130" y="96">目录与材料说明</text>
+  </g>
+
+  <!-- 任务 -->
+  <g transform="translate(1040,125)">
+    <rect class="task" width="260" height="120" rx="18"/>
+    <text class="label" x="130" y="43">tasks/</text>
+    <text class="detail" x="130" y="75">任务合同</text>
+    <text class="detail" x="130" y="100">输入、输出与验收标准</text>
+  </g>
+
+  <!-- 原始材料 -->
+  <g transform="translate(90,565)">
+    <rect class="source" width="260" height="125" rx="18"/>
+    <text class="label" x="130" y="44">sources/</text>
+    <text class="detail" x="130" y="76">年报等原始材料</text>
+    <text class="detail" x="130" y="103">统一保存，保持原文</text>
+  </g>
+
+  <!-- 过程底稿 -->
+  <g transform="translate(1110,565)">
+    <rect class="work" width="260" height="125" rx="18"/>
+    <text class="label" x="130" y="44">work/</text>
+    <text class="detail" x="130" y="76">过程底稿</text>
+    <text class="detail" x="130" y="103">过程笔记与待核验线索</text>
+  </g>
+
+  <!-- 证据 -->
+  <g transform="translate(520,650)">
+    <rect class="evidence" width="280" height="125" rx="18"/>
+    <text class="label" x="140" y="44">evidence/</text>
+    <text class="detail" x="140" y="76">证据核验记录</text>
+    <text class="detail" x="140" y="103">页码、原文、口径与核验状态</text>
+  </g>
+
+  <!-- 输出 -->
+  <g transform="translate(810,650)">
+    <rect class="output" width="280" height="125" rx="18"/>
+    <text class="label" x="140" y="44">outputs/</text>
+    <text class="detail" x="140" y="76">阶段成果与最终输出</text>
+    <text class="detail" x="140" y="103">重要结论能够回到证据</text>
+  </g>
+
+  <!-- Git -->
+  <g transform="translate(1280,720)">
+    <rect class="version" width="210" height="100" rx="18"/>
+    <text class="label" x="105" y="40">.git/</text>
+    <text class="detail" x="105" y="70">版本、差异与提交历史</text>
+  </g>
+  <path class="line" d="M1090 712 H1280 V770"/>
+  <text class="tag" x="1185" y="749">让研究过程可回看</text>
+
+  <!-- 人 -->
+  <g transform="translate(100,760)">
+    <rect class="person" width="250" height="105" rx="18"/>
+    <text class="role-title" x="125" y="38">研究者（人）</text>
+    <text class="role-detail" x="125" y="65">定义问题、限定材料</text>
+    <text class="role-detail" x="125" y="88">核验证据、承担判断</text>
+  </g>
+
+  <!-- Agent -->
+  <g transform="translate(365,760)">
+    <rect class="agent" width="250" height="105" rx="18"/>
+    <text class="role-title" x="125" y="38">Agent</text>
+    <text class="role-detail" x="125" y="65">读取、定位和整理材料</text>
+    <text class="role-detail" x="125" y="88">提取证据线索、发现遗漏</text>
+  </g>
+</svg>

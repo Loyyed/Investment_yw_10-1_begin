@@ -1,0 +1,1255 @@
+{
+  "files": [
+    {
+      "path": "03_学生材料(2).zip",
+      "bytes": 35330,
+      "sha256": "cfe789b6ec3dda1e6dd1f194034cd4fa3ccd5fe71e36dfedc3aa6b7bc22cf9a8",
+      "metadata_only": false
+    },
+    {
+      "path": "03_学生材料.zip",
+      "bytes": 2931214,
+      "sha256": "22671cc326f42aaa267d04b99046e18fd7ea23d4162be9287cd3c00563d36200",
+      "metadata_only": false
+    },
+    {
+      "path": "__MACOSX\\._学生用",
+      "bytes": 163,
+      "sha256": "29a5804147457cd6edafde7275ac3d423cad772c7add3a9bab84ae145a52c329",
+      "metadata_only": true
+    },
+    {
+      "path": "__MACOSX\\学生用\\._.DS_Store",
+      "bytes": 120,
+      "sha256": "2f380f4a3d05a8d90c2106f50da75064e9ce57a598599dc5404f8f69a0223aa9",
+      "metadata_only": true
+    },
+    {
+      "path": "__MACOSX\\学生用\\._lec03_摘要读本_商业模式、行业竞争与竞争优势.md",
+      "bytes": 219,
+      "sha256": "7a7d13dcd4656b1581a2e4ad19f25087bf5c31606d0879689531f13f7905dc3d",
+      "metadata_only": true
+    },
+    {
+      "path": "__MACOSX\\学生用\\._Lec03任务合同_商业模式与竞争优势证据表.md",
+      "bytes": 163,
+      "sha256": "29a5804147457cd6edafde7275ac3d423cad772c7add3a9bab84ae145a52c329",
+      "metadata_only": true
+    },
+    {
+      "path": "__MACOSX\\学生用\\._学生材料清单.md",
+      "bytes": 163,
+      "sha256": "29a5804147457cd6edafde7275ac3d423cad772c7add3a9bab84ae145a52c329",
+      "metadata_only": true
+    },
+    {
+      "path": "__MACOSX\\学生用\\._第三次任务合同_年报指标口径识别.md",
+      "bytes": 219,
+      "sha256": "ab8ea5da2599d79a24a434357aca427e11c3763fa1769baecdd4b8629adc4021",
+      "metadata_only": true
+    },
+    {
+      "path": "__MACOSX\\学生用\\._第二次任务合同_年报收入信息结构化提取.md",
+      "bytes": 219,
+      "sha256": "5d02166be502f78efc72b9b602f64d542e77824721acec43198f4d40e10ad586",
+      "metadata_only": true
+    },
+    {
+      "path": "__MACOSX\\学生用\\._第四次任务合同_年报指标变化核验.md",
+      "bytes": 219,
+      "sha256": "abb7342daf6bf7d39e2ec1816665fbf804668079af062bdb4512e02226801492",
+      "metadata_only": true
+    },
+    {
+      "path": "__MACOSX\\学生用\\._贵州茅台年报_2020-2024",
+      "bytes": 163,
+      "sha256": "29a5804147457cd6edafde7275ac3d423cad772c7add3a9bab84ae145a52c329",
+      "metadata_only": true
+    },
+    {
+      "path": "__MACOSX\\学生用\\贵州茅台年报_2020-2024\\._.DS_Store",
+      "bytes": 120,
+      "sha256": "2f380f4a3d05a8d90c2106f50da75064e9ce57a598599dc5404f8f69a0223aa9",
+      "metadata_only": true
+    },
+    {
+      "path": "__MACOSX\\学生用\\贵州茅台年报_2020-2024\\._md",
+      "bytes": 163,
+      "sha256": "29a5804147457cd6edafde7275ac3d423cad772c7add3a9bab84ae145a52c329",
+      "metadata_only": true
+    },
+    {
+      "path": "__MACOSX\\学生用\\贵州茅台年报_2020-2024\\._pdf",
+      "bytes": 163,
+      "sha256": "29a5804147457cd6edafde7275ac3d423cad772c7add3a9bab84ae145a52c329",
+      "metadata_only": true
+    },
+    {
+      "path": "__MACOSX\\学生用\\贵州茅台年报_2020-2024\\md\\._SH600519_贵州茅台_2020.md",
+      "bytes": 219,
+      "sha256": "e68392c3417239c519ae2c3f89b04617109d4b1ea3d9de47802838bd7e0f90ba",
+      "metadata_only": true
+    },
+    {
+      "path": "__MACOSX\\学生用\\贵州茅台年报_2020-2024\\md\\._SH600519_贵州茅台_2021.md",
+      "bytes": 219,
+      "sha256": "c9f5a8cf5e9ba7549dbb78c678bc9aef133e13e4161c9049642d9a7c28cfd9f2",
+      "metadata_only": true
+    },
+    {
+      "path": "__MACOSX\\学生用\\贵州茅台年报_2020-2024\\md\\._SH600519_贵州茅台_2022.md",
+      "bytes": 163,
+      "sha256": "29a5804147457cd6edafde7275ac3d423cad772c7add3a9bab84ae145a52c329",
+      "metadata_only": true
+    },
+    {
+      "path": "__MACOSX\\学生用\\贵州茅台年报_2020-2024\\md\\._SH600519_贵州茅台_2023.md",
+      "bytes": 163,
+      "sha256": "29a5804147457cd6edafde7275ac3d423cad772c7add3a9bab84ae145a52c329",
+      "metadata_only": true
+    },
+    {
+      "path": "__MACOSX\\学生用\\贵州茅台年报_2020-2024\\md\\._SH600519_贵州茅台_2024.md",
+      "bytes": 163,
+      "sha256": "29a5804147457cd6edafde7275ac3d423cad772c7add3a9bab84ae145a52c329",
+      "metadata_only": true
+    },
+    {
+      "path": "__MACOSX\\学生用\\贵州茅台年报_2020-2024\\pdf\\._600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "bytes": 995,
+      "sha256": "a164ad7099513a0c181f2661120aeca5ea71cadcca9ab3614875db6d5a7125d6",
+      "metadata_only": true
+    },
+    {
+      "path": "__MACOSX\\学生用\\贵州茅台年报_2020-2024\\pdf\\._600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+      "bytes": 1000,
+      "sha256": "ba24fb3dbfa7f3a6b5af5787e8b305780b93171535e1cfba1800368e3d62dab3",
+      "metadata_only": true
+    },
+    {
+      "path": "__MACOSX\\学生用\\贵州茅台年报_2020-2024\\pdf\\._600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "bytes": 995,
+      "sha256": "d795ec6a488fa352570f6eaaa3f0646e3ac8c56148848fd630e959eb7634a7a9",
+      "metadata_only": true
+    },
+    {
+      "path": "__MACOSX\\学生用\\贵州茅台年报_2020-2024\\pdf\\._600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "bytes": 269,
+      "sha256": "8fe90c5afda24ca4545bbee58f2262084b09c26290b2db5eb9b7279287a13540",
+      "metadata_only": true
+    },
+    {
+      "path": "__MACOSX\\学生用\\贵州茅台年报_2020-2024\\pdf\\._600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "bytes": 213,
+      "sha256": "cc33fbb9a9fafd5d232b931971bb2e86ec70e7ca88321928f9a69f842b4c54d8",
+      "metadata_only": true
+    },
+    {
+      "path": "Appendix_AI时代投资研究的人机交互——从自然语言对话到可审计协作.md",
+      "bytes": 35684,
+      "sha256": "c7ba1d2c278c59ea5a0f5ef7c231c89f51a60a15d479ed02a1a3ad5d3791fbe7",
+      "metadata_only": false
+    },
+    {
+      "path": "lec02_年报分析与证据核验_工作台版.md",
+      "bytes": 60577,
+      "sha256": "c8cec72cde88a9936ceb48e5381a40918ed1f40e2043d8fd7eb50b07b875b40b",
+      "metadata_only": false
+    },
+    {
+      "path": "lec03_学生用材料.zip",
+      "bytes": 13826209,
+      "sha256": "d7bb3490888b102bc233a3e4cda693c621e28652e1e71056cc745028b2624357",
+      "metadata_only": false
+    },
+    {
+      "path": "Lec03课件.zip",
+      "bytes": 85636,
+      "sha256": "0fad98dd40116c4d0d1cf74bcb340e16ae4829c6aaef2bb943f40cef5ee78918",
+      "metadata_only": false
+    },
+    {
+      "path": "Lec_01_从公司信息到投资判断_AI时代的证券分析与人机协作_第二版_修订稿.md",
+      "bytes": 17990,
+      "sha256": "ed2ce733da0277db5e6a1524184c9d77968452f4604e691da94304b41f14a30a",
+      "metadata_only": false
+    },
+    {
+      "path": "mineru-pdf-converter(1).zip",
+      "bytes": 24598,
+      "sha256": "4573280a050fe78bce1a6a5b455be59f574a763af1aba107adc9696bfec0c4fc",
+      "metadata_only": false
+    },
+    {
+      "path": "分发学生_CLAUDE(1).md",
+      "bytes": 3148,
+      "sha256": "17cbf717b706a772f4b00e0aabaee846bf689df70f49fa55f452a7e84d36a59a",
+      "metadata_only": false
+    },
+    {
+      "path": "分发学生_README(2).md",
+      "bytes": 4147,
+      "sha256": "0638d2fe5662617cb2d905e781a45a54abcf4e591d05d1e2c0f40b08c5357b11",
+      "metadata_only": false
+    },
+    {
+      "path": "学生用\\.DS_Store",
+      "bytes": 6148,
+      "sha256": "3f1f1b70da7e02cb06efdfa76c6ec7ad77d1b44c29db25dc0a7b1032d58f0a52",
+      "metadata_only": true
+    },
+    {
+      "path": "学生用\\lec03_摘要读本_商业模式、行业竞争与竞争优势.md",
+      "bytes": 6917,
+      "sha256": "8bd561926f06fba08a797829bee3fc926a8296a100a29e400cca26babb055742",
+      "metadata_only": false
+    },
+    {
+      "path": "学生用\\Lec03任务合同_商业模式与竞争优势证据表.md",
+      "bytes": 5451,
+      "sha256": "15b9e92be76a7fe01e9868bd5700d47e6ea3aa4214cd5e2be1a34253c4006f17",
+      "metadata_only": false
+    },
+    {
+      "path": "学生用\\学生材料清单.md",
+      "bytes": 3525,
+      "sha256": "c99471b8b49bbad2c69bc403b767ba87ab8096e7b5165fb54f29f58ac041025c",
+      "metadata_only": false
+    },
+    {
+      "path": "学生用\\第三次任务合同_年报指标口径识别.md",
+      "bytes": 4467,
+      "sha256": "9453a5d0801b6251e56538e9ab2eaee325029e4fc907eaeb85378812f99bebf9",
+      "metadata_only": false
+    },
+    {
+      "path": "学生用\\第二次任务合同_年报收入信息结构化提取.md",
+      "bytes": 4757,
+      "sha256": "fa9d200800e8a581eb8631e8d2d9daa475686c401f0995a51cf752e814a3da8d",
+      "metadata_only": false
+    },
+    {
+      "path": "学生用\\第四次任务合同_年报指标变化核验.md",
+      "bytes": 3987,
+      "sha256": "3d1af9c2753f9fc5fc5338038d48e7c3f033faf1960260b4d69fe3792be3e13b",
+      "metadata_only": false
+    },
+    {
+      "path": "学生用\\贵州茅台年报_2020-2024\\.DS_Store",
+      "bytes": 6148,
+      "sha256": "c948687160f1bd18a49b5d2ce3d07b62a221597bbdc83b217399446d81cbc3db",
+      "metadata_only": true
+    },
+    {
+      "path": "学生用\\贵州茅台年报_2020-2024\\md\\SH600519_贵州茅台_2020.md",
+      "bytes": 378350,
+      "sha256": "ff7adeea1e6f914326ed13c11b921833f353af5eb7adaf1d322b7640a4eda37c",
+      "metadata_only": false
+    },
+    {
+      "path": "学生用\\贵州茅台年报_2020-2024\\md\\SH600519_贵州茅台_2021.md",
+      "bytes": 413135,
+      "sha256": "ff2310b66317ec713e243307853144225221c6a9c8615999d14db824d9a2505c",
+      "metadata_only": false
+    },
+    {
+      "path": "学生用\\贵州茅台年报_2020-2024\\md\\SH600519_贵州茅台_2022.md",
+      "bytes": 405761,
+      "sha256": "e52727aa68a8042505cf394663f818aa43c2eef00ea23990f1ba6b1e1d85ae8e",
+      "metadata_only": false
+    },
+    {
+      "path": "学生用\\贵州茅台年报_2020-2024\\md\\SH600519_贵州茅台_2023.md",
+      "bytes": 437860,
+      "sha256": "9ab3c5df28835322d459eb710097b99101f1770bc8124ce7c42f0826bf805048",
+      "metadata_only": false
+    },
+    {
+      "path": "学生用\\贵州茅台年报_2020-2024\\md\\SH600519_贵州茅台_2024.md",
+      "bytes": 451723,
+      "sha256": "393a2cf30d747f7a2ca41f50b0666784da0f687812b0f3ec5a84018ca939dc13",
+      "metadata_only": false
+    },
+    {
+      "path": "学生用\\贵州茅台年报_2020-2024\\pdf\\600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "bytes": 3143669,
+      "sha256": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c",
+      "metadata_only": false
+    },
+    {
+      "path": "学生用\\贵州茅台年报_2020-2024\\pdf\\600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+      "bytes": 3350320,
+      "sha256": "f65effdde58bcea99fd6bdb53f61b31d5c432e6dfb2661e5caf05156a433ea5a",
+      "metadata_only": false
+    },
+    {
+      "path": "学生用\\贵州茅台年报_2020-2024\\pdf\\600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "bytes": 3320339,
+      "sha256": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358",
+      "metadata_only": false
+    },
+    {
+      "path": "学生用\\贵州茅台年报_2020-2024\\pdf\\600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "bytes": 3563819,
+      "sha256": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1",
+      "metadata_only": false
+    },
+    {
+      "path": "学生用\\贵州茅台年报_2020-2024\\pdf\\600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "bytes": 3626217,
+      "sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "metadata_only": false
+    },
+    {
+      "path": "第02单元_年报分析与证据核验_工作台版.md",
+      "bytes": 55772,
+      "sha256": "c5cd7649eae9b1e17d3fb54789b93aeaad8063cc79d86b97ae81789314460193",
+      "metadata_only": false
+    }
+  ],
+  "archives": [
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "03_学生材料/",
+      "bytes": 0,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "__MACOSX/._03_学生材料",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "03_学生材料/.DS_Store",
+      "bytes": 6148,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "__MACOSX/03_学生材料/._.DS_Store",
+      "bytes": 120,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "03_学生材料/Agent工作台与研究留痕自学指南.md",
+      "bytes": 5455,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "__MACOSX/03_学生材料/._Agent工作台与研究留痕自学指南.md",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "03_学生材料/images/",
+      "bytes": 0,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "__MACOSX/03_学生材料/._images",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "03_学生材料/年报研究工作台模板/",
+      "bytes": 0,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "__MACOSX/03_学生材料/._年报研究工作台模板",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "03_学生材料/年度报告信息披露地图与证据账本任务单.md",
+      "bytes": 8371,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "__MACOSX/03_学生材料/._年度报告信息披露地图与证据账本任务单.md",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "03_学生材料/images/claim与五种判断类型.svg",
+      "bytes": 5982,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "__MACOSX/03_学生材料/images/._claim与五种判断类型.svg",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "03_学生材料/images/年报研究工作台结构图.svg",
+      "bytes": 6892,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "__MACOSX/03_学生材料/images/._年报研究工作台结构图.svg",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "03_学生材料/images/年度报告证据核验流程图.svg",
+      "bytes": 4727,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "__MACOSX/03_学生材料/images/._年度报告证据核验流程图.svg",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "03_学生材料/年报研究工作台模板/tasks/",
+      "bytes": 0,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "__MACOSX/03_学生材料/年报研究工作台模板/._tasks",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "03_学生材料/年报研究工作台模板/evidence/",
+      "bytes": 0,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "__MACOSX/03_学生材料/年报研究工作台模板/._evidence",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "03_学生材料/年报研究工作台模板/README.md",
+      "bytes": 1325,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "__MACOSX/03_学生材料/年报研究工作台模板/._README.md",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "03_学生材料/年报研究工作台模板/.gitignore",
+      "bytes": 174,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "__MACOSX/03_学生材料/年报研究工作台模板/._.gitignore",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "03_学生材料/年报研究工作台模板/work/",
+      "bytes": 0,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "__MACOSX/03_学生材料/年报研究工作台模板/._work",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "03_学生材料/年报研究工作台模板/sources/",
+      "bytes": 0,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "__MACOSX/03_学生材料/年报研究工作台模板/._sources",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "03_学生材料/年报研究工作台模板/outputs/",
+      "bytes": 0,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "__MACOSX/03_学生材料/年报研究工作台模板/._outputs",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "03_学生材料/年报研究工作台模板/CLAUDE.md",
+      "bytes": 1797,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "__MACOSX/03_学生材料/年报研究工作台模板/._CLAUDE.md",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "03_学生材料/年报研究工作台模板/tasks/first-task.md",
+      "bytes": 1376,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "__MACOSX/03_学生材料/年报研究工作台模板/tasks/._first-task.md",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "03_学生材料/年报研究工作台模板/tasks/第一次任务合同.md",
+      "bytes": 5774,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "__MACOSX/03_学生材料/年报研究工作台模板/tasks/._第一次任务合同.md",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "03_学生材料/年报研究工作台模板/evidence/evidence-log.md",
+      "bytes": 595,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "__MACOSX/03_学生材料/年报研究工作台模板/evidence/._evidence-log.md",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "03_学生材料/年报研究工作台模板/work/pending-checks.md",
+      "bytes": 4625,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "__MACOSX/03_学生材料/年报研究工作台模板/work/._pending-checks.md",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "03_学生材料/年报研究工作台模板/work/notes.md",
+      "bytes": 584,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "__MACOSX/03_学生材料/年报研究工作台模板/work/._notes.md",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "03_学生材料/年报研究工作台模板/sources/.gitkeep",
+      "bytes": 123,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "__MACOSX/03_学生材料/年报研究工作台模板/sources/._.gitkeep",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "03_学生材料/年报研究工作台模板/outputs/first-analysis.md",
+      "bytes": 447,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料(2).zip",
+      "member": "__MACOSX/03_学生材料/年报研究工作台模板/outputs/._first-analysis.md",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料.zip",
+      "member": "03_学生材料/",
+      "bytes": 0,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料.zip",
+      "member": "__MACOSX/._03_学生材料",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料.zip",
+      "member": "03_学生材料/images/",
+      "bytes": 0,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料.zip",
+      "member": "__MACOSX/03_学生材料/._images",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料.zip",
+      "member": "03_学生材料/护城河验证清单.md",
+      "bytes": 3218,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料.zip",
+      "member": "__MACOSX/03_学生材料/._护城河验证清单.md",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料.zip",
+      "member": "03_学生材料/课堂三选题完整示例.md",
+      "bytes": 5831,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料.zip",
+      "member": "__MACOSX/03_学生材料/._课堂三选题完整示例.md",
+      "bytes": 219,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料.zip",
+      "member": "03_学生材料/投研场景Agent沟通模板.md",
+      "bytes": 4898,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料.zip",
+      "member": "__MACOSX/03_学生材料/._投研场景Agent沟通模板.md",
+      "bytes": 219,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料.zip",
+      "member": "03_学生材料/茅台年报案例任务单.md",
+      "bytes": 6849,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料.zip",
+      "member": "__MACOSX/03_学生材料/._茅台年报案例任务单.md",
+      "bytes": 219,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料.zip",
+      "member": "03_学生材料/AI证券分析师导读.md",
+      "bytes": 3841,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料.zip",
+      "member": "__MACOSX/03_学生材料/._AI证券分析师导读.md",
+      "bytes": 219,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料.zip",
+      "member": "03_学生材料/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "bytes": 3626217,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料.zip",
+      "member": "__MACOSX/03_学生材料/._600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "bytes": 213,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料.zip",
+      "member": "03_学生材料/600519_2024_贵州茅台_贵州茅台2024年年度报告_MinerU.md",
+      "bytes": 451723,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料.zip",
+      "member": "__MACOSX/03_学生材料/._600519_2024_贵州茅台_贵州茅台2024年年度报告_MinerU.md",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料.zip",
+      "member": "03_学生材料/五种判断类型_贵州茅台案例与练习.md",
+      "bytes": 9665,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料.zip",
+      "member": "__MACOSX/03_学生材料/._五种判断类型_贵州茅台案例与练习.md",
+      "bytes": 440,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料.zip",
+      "member": "03_学生材料/投资哲学导读.md",
+      "bytes": 8865,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料.zip",
+      "member": "__MACOSX/03_学生材料/._投资哲学导读.md",
+      "bytes": 424,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料.zip",
+      "member": "03_学生材料/贵州茅台2024年年报_资料说明.md",
+      "bytes": 1804,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料.zip",
+      "member": "__MACOSX/03_学生材料/._贵州茅台2024年年报_资料说明.md",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "03_学生材料.zip",
+      "member": "03_学生材料/images/README.md",
+      "bytes": 550,
+      "metadata_only": false
+    },
+    {
+      "archive": "03_学生材料.zip",
+      "member": "__MACOSX/03_学生材料/images/._README.md",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "学生用/",
+      "bytes": 0,
+      "metadata_only": false
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "__MACOSX/._学生用",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "学生用/.DS_Store",
+      "bytes": 6148,
+      "metadata_only": true
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "__MACOSX/学生用/._.DS_Store",
+      "bytes": 120,
+      "metadata_only": true
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "学生用/学生材料清单.md",
+      "bytes": 3525,
+      "metadata_only": false
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "__MACOSX/学生用/._学生材料清单.md",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "学生用/贵州茅台年报_2020-2024/",
+      "bytes": 0,
+      "metadata_only": false
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "__MACOSX/学生用/._贵州茅台年报_2020-2024",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "学生用/lec03_摘要读本_商业模式、行业竞争与竞争优势.md",
+      "bytes": 6917,
+      "metadata_only": false
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "__MACOSX/学生用/._lec03_摘要读本_商业模式、行业竞争与竞争优势.md",
+      "bytes": 219,
+      "metadata_only": true
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "学生用/第三次任务合同_年报指标口径识别.md",
+      "bytes": 4467,
+      "metadata_only": false
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "__MACOSX/学生用/._第三次任务合同_年报指标口径识别.md",
+      "bytes": 219,
+      "metadata_only": true
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "学生用/Lec03任务合同_商业模式与竞争优势证据表.md",
+      "bytes": 5451,
+      "metadata_only": false
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "__MACOSX/学生用/._Lec03任务合同_商业模式与竞争优势证据表.md",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "学生用/第二次任务合同_年报收入信息结构化提取.md",
+      "bytes": 4757,
+      "metadata_only": false
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "__MACOSX/学生用/._第二次任务合同_年报收入信息结构化提取.md",
+      "bytes": 219,
+      "metadata_only": true
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "学生用/第四次任务合同_年报指标变化核验.md",
+      "bytes": 3987,
+      "metadata_only": false
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "__MACOSX/学生用/._第四次任务合同_年报指标变化核验.md",
+      "bytes": 219,
+      "metadata_only": true
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "学生用/贵州茅台年报_2020-2024/.DS_Store",
+      "bytes": 6148,
+      "metadata_only": true
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "__MACOSX/学生用/贵州茅台年报_2020-2024/._.DS_Store",
+      "bytes": 120,
+      "metadata_only": true
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "学生用/贵州茅台年报_2020-2024/pdf/",
+      "bytes": 0,
+      "metadata_only": false
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "__MACOSX/学生用/贵州茅台年报_2020-2024/._pdf",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "学生用/贵州茅台年报_2020-2024/md/",
+      "bytes": 0,
+      "metadata_only": false
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "__MACOSX/学生用/贵州茅台年报_2020-2024/._md",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "学生用/贵州茅台年报_2020-2024/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "bytes": 3563819,
+      "metadata_only": false
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "__MACOSX/学生用/贵州茅台年报_2020-2024/pdf/._600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "bytes": 269,
+      "metadata_only": true
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "学生用/贵州茅台年报_2020-2024/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "bytes": 3320339,
+      "metadata_only": false
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "__MACOSX/学生用/贵州茅台年报_2020-2024/pdf/._600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "bytes": 995,
+      "metadata_only": true
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "学生用/贵州茅台年报_2020-2024/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+      "bytes": 3350320,
+      "metadata_only": false
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "__MACOSX/学生用/贵州茅台年报_2020-2024/pdf/._600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+      "bytes": 1000,
+      "metadata_only": true
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "学生用/贵州茅台年报_2020-2024/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "bytes": 3626217,
+      "metadata_only": false
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "__MACOSX/学生用/贵州茅台年报_2020-2024/pdf/._600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "bytes": 213,
+      "metadata_only": true
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "学生用/贵州茅台年报_2020-2024/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "bytes": 3143669,
+      "metadata_only": false
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "__MACOSX/学生用/贵州茅台年报_2020-2024/pdf/._600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "bytes": 995,
+      "metadata_only": true
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "学生用/贵州茅台年报_2020-2024/md/SH600519_贵州茅台_2022.md",
+      "bytes": 405761,
+      "metadata_only": false
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "__MACOSX/学生用/贵州茅台年报_2020-2024/md/._SH600519_贵州茅台_2022.md",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "学生用/贵州茅台年报_2020-2024/md/SH600519_贵州茅台_2023.md",
+      "bytes": 437860,
+      "metadata_only": false
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "__MACOSX/学生用/贵州茅台年报_2020-2024/md/._SH600519_贵州茅台_2023.md",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "学生用/贵州茅台年报_2020-2024/md/SH600519_贵州茅台_2024.md",
+      "bytes": 451723,
+      "metadata_only": false
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "__MACOSX/学生用/贵州茅台年报_2020-2024/md/._SH600519_贵州茅台_2024.md",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "学生用/贵州茅台年报_2020-2024/md/SH600519_贵州茅台_2020.md",
+      "bytes": 378350,
+      "metadata_only": false
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "__MACOSX/学生用/贵州茅台年报_2020-2024/md/._SH600519_贵州茅台_2020.md",
+      "bytes": 219,
+      "metadata_only": true
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "学生用/贵州茅台年报_2020-2024/md/SH600519_贵州茅台_2021.md",
+      "bytes": 413135,
+      "metadata_only": false
+    },
+    {
+      "archive": "lec03_学生用材料.zip",
+      "member": "__MACOSX/学生用/贵州茅台年报_2020-2024/md/._SH600519_贵州茅台_2021.md",
+      "bytes": 219,
+      "metadata_only": true
+    },
+    {
+      "archive": "Lec03课件.zip",
+      "member": "课件/",
+      "bytes": 0,
+      "metadata_only": false
+    },
+    {
+      "archive": "Lec03课件.zip",
+      "member": "__MACOSX/._课件",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "Lec03课件.zip",
+      "member": "课件/Append1_lec03.md",
+      "bytes": 22669,
+      "metadata_only": false
+    },
+    {
+      "archive": "Lec03课件.zip",
+      "member": "__MACOSX/课件/._Append1_lec03.md",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "Lec03课件.zip",
+      "member": "课件/.DS_Store",
+      "bytes": 6148,
+      "metadata_only": true
+    },
+    {
+      "archive": "Lec03课件.zip",
+      "member": "__MACOSX/课件/._.DS_Store",
+      "bytes": 120,
+      "metadata_only": true
+    },
+    {
+      "archive": "Lec03课件.zip",
+      "member": "课件/Append3_lec03_CC文件配置系统.md",
+      "bytes": 12427,
+      "metadata_only": false
+    },
+    {
+      "archive": "Lec03课件.zip",
+      "member": "__MACOSX/课件/._Append3_lec03_CC文件配置系统.md",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "Lec03课件.zip",
+      "member": "课件/Claude_Code_三层上下文加载模型.svg",
+      "bytes": 5764,
+      "metadata_only": false
+    },
+    {
+      "archive": "Lec03课件.zip",
+      "member": "__MACOSX/课件/._Claude_Code_三层上下文加载模型.svg",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "Lec03课件.zip",
+      "member": "课件/Append2_lec03.md",
+      "bytes": 25719,
+      "metadata_only": false
+    },
+    {
+      "archive": "Lec03课件.zip",
+      "member": "__MACOSX/课件/._Append2_lec03.md",
+      "bytes": 408,
+      "metadata_only": true
+    },
+    {
+      "archive": "Lec03课件.zip",
+      "member": "课件/Claude_Code 上下文管理.svg",
+      "bytes": 4838,
+      "metadata_only": false
+    },
+    {
+      "archive": "Lec03课件.zip",
+      "member": "__MACOSX/课件/._Claude_Code 上下文管理.svg",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "Lec03课件.zip",
+      "member": "课件/lec03_商业模式、行业竞争与竞争优势.md",
+      "bytes": 146430,
+      "metadata_only": false
+    },
+    {
+      "archive": "Lec03课件.zip",
+      "member": "__MACOSX/课件/._lec03_商业模式、行业竞争与竞争优势.md",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "Lec03课件.zip",
+      "member": "课件/Append4_lec03_CC权限设置.md",
+      "bytes": 16112,
+      "metadata_only": false
+    },
+    {
+      "archive": "Lec03课件.zip",
+      "member": "__MACOSX/课件/._Append4_lec03_CC权限设置.md",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "mineru-pdf-converter(1).zip",
+      "member": "mineru-pdf-converter/",
+      "bytes": 0,
+      "metadata_only": false
+    },
+    {
+      "archive": "mineru-pdf-converter(1).zip",
+      "member": "__MACOSX/._mineru-pdf-converter",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "mineru-pdf-converter(1).zip",
+      "member": "mineru-pdf-converter/CHANGELOG.md",
+      "bytes": 4406,
+      "metadata_only": false
+    },
+    {
+      "archive": "mineru-pdf-converter(1).zip",
+      "member": "__MACOSX/mineru-pdf-converter/._CHANGELOG.md",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "mineru-pdf-converter(1).zip",
+      "member": "mineru-pdf-converter/references/",
+      "bytes": 0,
+      "metadata_only": false
+    },
+    {
+      "archive": "mineru-pdf-converter(1).zip",
+      "member": "__MACOSX/mineru-pdf-converter/._references",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "mineru-pdf-converter(1).zip",
+      "member": "mineru-pdf-converter/scripts/",
+      "bytes": 0,
+      "metadata_only": false
+    },
+    {
+      "archive": "mineru-pdf-converter(1).zip",
+      "member": "__MACOSX/mineru-pdf-converter/._scripts",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "mineru-pdf-converter(1).zip",
+      "member": "mineru-pdf-converter/SKILL.md",
+      "bytes": 7199,
+      "metadata_only": false
+    },
+    {
+      "archive": "mineru-pdf-converter(1).zip",
+      "member": "__MACOSX/mineru-pdf-converter/._SKILL.md",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "mineru-pdf-converter(1).zip",
+      "member": "mineru-pdf-converter/references/api-reference.md",
+      "bytes": 9906,
+      "metadata_only": false
+    },
+    {
+      "archive": "mineru-pdf-converter(1).zip",
+      "member": "__MACOSX/mineru-pdf-converter/references/._api-reference.md",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "mineru-pdf-converter(1).zip",
+      "member": "mineru-pdf-converter/scripts/mineru_convert.py",
+      "bytes": 29571,
+      "metadata_only": false
+    },
+    {
+      "archive": "mineru-pdf-converter(1).zip",
+      "member": "__MACOSX/mineru-pdf-converter/scripts/._mineru_convert.py",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "mineru-pdf-converter(1).zip",
+      "member": "mineru-pdf-converter/scripts/merge_markdown.py",
+      "bytes": 7522,
+      "metadata_only": false
+    },
+    {
+      "archive": "mineru-pdf-converter(1).zip",
+      "member": "__MACOSX/mineru-pdf-converter/scripts/._merge_markdown.py",
+      "bytes": 163,
+      "metadata_only": true
+    },
+    {
+      "archive": "mineru-pdf-converter(1).zip",
+      "member": "mineru-pdf-converter/scripts/pdf_splitter.py",
+      "bytes": 5062,
+      "metadata_only": false
+    },
+    {
+      "archive": "mineru-pdf-converter(1).zip",
+      "member": "__MACOSX/mineru-pdf-converter/scripts/._pdf_splitter.py",
+      "bytes": 163,
+      "metadata_only": true
+    }
+  ],
+  "environment": {
+    "python": "C:\\Users\\Administrator\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "version": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+    "modules": {
+      "pandas": true,
+      "numpy": true,
+      "fitz": false,
+      "pypdf": true,
+      "pdfplumber": true,
+      "matplotlib": false,
+      "openpyxl": true,
+      "nbformat": false,
+      "bs4": false,
+      "yaml": false,
+      "jupyter": false,
+      "PIL": true
+    },
+    "conda_meta": false
+  }
+}

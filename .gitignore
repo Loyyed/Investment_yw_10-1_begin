@@ -1,0 +1,28 @@
+# 本机临时构建与发布准备
+/课件与任务文件/review-ui-build/
+/课件与任务文件/publish-prep/
+**/__MACOSX/
+**/.git/
+# Python、Jupyter与编辑器缓存
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.ipython/
+.jupyter/
+.jupyter-runtime/
+# 本机备份和重复来源
+/投资学工作空间/work/review-ui-upgrade-backup/
+/投资学工作空间/sources/original-tree/
+/投资学工作空间/sources/unpacked/
+/投资学工作空间/work/pdf-text/
+/投资学工作空间/work/notebook-executed.ipynb
+/投资学工作空间/config/environment-*.json
+# 身份凭据与本机私有设置
+.env
+.env.*
+*.token
+*.key
+*.pem
+.claude/settings.local.json
+.DS_Store

@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <defs>
+    <style>
+      .title { font: 700 34px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill:#111827; }
+      .subtitle { font: 400 18px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill:#4B5563; }
+      .node-title { font: 700 24px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill:#111827; }
+      .node-sub { font: 400 17px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill:#374151; }
+      .type-title { font: 700 20px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill:#111827; }
+      .type-sub { font: 400 15px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill:#4B5563; }
+      .label { font: 600 16px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill:#374151; }
+      .small { font: 400 14px -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill:#6B7280; }
+    </style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#6B7280"/>
+    </marker>
+  </defs>
+
+  <rect width="1400" height="900" fill="#FFFFFF"/>
+
+  <text x="700" y="62" text-anchor="middle" class="title">Claim（主张）与五种判断类型</text>
+  <text x="700" y="95" text-anchor="middle" class="subtitle">Claim 是需要被检查的具体陈述；五种判断类型标记这条主张的性质或当前状态</text>
+
+  <!-- Claim -->
+  <rect x="390" y="150" rx="22" ry="22" width="620" height="150" fill="#F3F4F6" stroke="#111827" stroke-width="2.5"/>
+  <text x="700" y="205" text-anchor="middle" class="node-title">Claim（主张）</text>
+  <text x="700" y="240" text-anchor="middle" class="node-sub">研究中提出的一条具体、可检查的陈述</text>
+  <text x="700" y="270" text-anchor="middle" class="small">例：海外市场正在成为公司新的增长驱动力</text>
+
+  <!-- connector -->
+  <line x1="700" y1="300" x2="700" y2="365" stroke="#6B7280" stroke-width="2.4" marker-end="url(#arrow)"/>
+  <text x="725" y="342" class="label">判断其性质 / 当前状态</text>
+
+  <!-- Horizontal spine -->
+  <line x1="175" y1="405" x2="1225" y2="405" stroke="#9CA3AF" stroke-width="2"/>
+
+  <!-- five vertical connectors -->
+  <line x1="175" y1="405" x2="175" y2="455" stroke="#9CA3AF" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="437.5" y1="405" x2="437.5" y2="455" stroke="#9CA3AF" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="700" y1="405" x2="700" y2="455" stroke="#9CA3AF" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="962.5" y1="405" x2="962.5" y2="455" stroke="#9CA3AF" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="1225" y1="405" x2="1225" y2="455" stroke="#9CA3AF" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Fact -->
+  <rect x="60" y="470" rx="18" ry="18" width="230" height="170" fill="#EEF6FF" stroke="#2563EB" stroke-width="2"/>
+  <text x="175" y="515" text-anchor="middle" class="type-title">Fact</text>
+  <text x="175" y="548" text-anchor="middle" class="type-sub">已经核验的事实</text>
+  <text x="175" y="580" text-anchor="middle" class="type-sub">回答：</text>
+  <text x="175" y="607" text-anchor="middle" class="type-sub">“发生了什么？”</text>
+
+  <!-- Interpretation -->
+  <rect x="322.5" y="470" rx="18" ry="18" width="230" height="170" fill="#F0FDF4" stroke="#16A34A" stroke-width="2"/>
+  <text x="437.5" y="515" text-anchor="middle" class="type-title">Interpretation</text>
+  <text x="437.5" y="548" text-anchor="middle" class="type-sub">对事实的解释</text>
+  <text x="437.5" y="580" text-anchor="middle" class="type-sub">回答：</text>
+  <text x="437.5" y="607" text-anchor="middle" class="type-sub">“为什么？”</text>
+
+  <!-- Forecast -->
+  <rect x="585" y="470" rx="18" ry="18" width="230" height="170" fill="#FFF7ED" stroke="#EA580C" stroke-width="2"/>
+  <text x="700" y="515" text-anchor="middle" class="type-title">Forecast</text>
+  <text x="700" y="548" text-anchor="middle" class="type-sub">对未来的条件化判断</text>
+  <text x="700" y="580" text-anchor="middle" class="type-sub">回答：</text>
+  <text x="700" y="607" text-anchor="middle" class="type-sub">“未来会怎样？”</text>
+
+  <!-- Decision -->
+  <rect x="847.5" y="470" rx="18" ry="18" width="230" height="170" fill="#FAF5FF" stroke="#9333EA" stroke-width="2"/>
+  <text x="962.5" y="515" text-anchor="middle" class="type-title">Decision</text>
+  <text x="962.5" y="548" text-anchor="middle" class="type-sub">行动选择</text>
+  <text x="962.5" y="580" text-anchor="middle" class="type-sub">回答：</text>
+  <text x="962.5" y="607" text-anchor="middle" class="type-sub">“应该怎么做？”</text>
+
+  <!-- Unknown -->
+  <rect x="1110" y="470" rx="18" ry="18" width="230" height="170" fill="#F9FAFB" stroke="#6B7280" stroke-width="2"/>
+  <text x="1225" y="515" text-anchor="middle" class="type-title">Unknown</text>
+  <text x="1225" y="548" text-anchor="middle" class="type-sub">当前无法确认</text>
+  <text x="1225" y="580" text-anchor="middle" class="type-sub">回答：</text>
+  <text x="1225" y="607" text-anchor="middle" class="type-sub">“还不知道什么？”</text>
+
+  <!-- Key note -->
+  <rect x="160" y="700" rx="18" ry="18" width="1080" height="120" fill="#FFFBEB" stroke="#D97706" stroke-width="1.8"/>
+  <text x="700" y="742" text-anchor="middle" class="label">关键关系</text>
+  <text x="700" y="775" text-anchor="middle" class="node-sub">Claim 不是第六种判断类型，而是被检查的对象。</text>
+  <text x="700" y="805" text-anchor="middle" class="node-sub">Fact / Interpretation / Forecast / Decision / Unknown 用来标记 Claim 的性质或当前状态。</text>
+</svg>
