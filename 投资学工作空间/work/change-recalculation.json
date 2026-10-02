@@ -1,5 +1,27 @@
 {
-  "status": "stopped",
-  "reason": "人工可比性未全部确认：停止计算，保留Unknown",
-  "results": []
+  "status": "calculated-awaiting-human-verification",
+  "results": [
+    {
+      "metric": "营业收入",
+      "current": "170899152276.34",
+      "previous": "147693604994.14",
+      "source_binding": "662088ba6e3672e06f51146d443e331df3831022e68e73ad2620b6f4fb4a90bc",
+      "formula": "(current-previous)/previous*100",
+      "percent": "15.71",
+      "rounding": "ROUND_HALF_UP 2 decimal places",
+      "state": "Unknown",
+      "note": "公式复算结果仍待本人核验，不自动成为Fact"
+    },
+    {
+      "metric": "归属于上市公司股东的净利润",
+      "current": "86228146421.62",
+      "previous": "74734071550.75",
+      "source_binding": "662088ba6e3672e06f51146d443e331df3831022e68e73ad2620b6f4fb4a90bc",
+      "formula": "(current-previous)/previous*100",
+      "percent": "15.38",
+      "rounding": "ROUND_HALF_UP 2 decimal places",
+      "state": "Unknown",
+      "note": "公式复算结果仍待本人核验，不自动成为Fact"
+    }
+  ]
 }
