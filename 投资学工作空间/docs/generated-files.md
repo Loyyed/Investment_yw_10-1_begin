@@ -59,12 +59,15 @@
 | docs/review-ui-verification.md | 操作、核验、来源或全部文件说明 |
 | docs/run-guide.md | 操作、核验、来源或全部文件说明 |
 | docs/task-status.md | 操作、核验、来源或全部文件说明 |
+| docs/third-task-acceptance.md | 操作、核验、来源或全部文件说明 |
 | docs/verification-report.md | 操作、核验、来源或全部文件说明 |
 | environment.yml | 项目入口、运行器或总说明 |
 | evidence/.review-state.lock | 本人核验专用记录；未伪造Fact |
 | evidence/confirmed-facts.json | 本人核验专用记录；未伪造Fact |
 | evidence/evidence-log.md | 本人核验专用记录；未伪造Fact |
 | evidence/human-review-forms.md | 本人核验专用记录；未伪造Fact |
+| evidence/review-state.json | 本人核验专用记录；未伪造Fact |
+| evidence/task03-adopted-evidence.json | 本人核验专用记录；未伪造Fact |
 | Git.cmd | 项目入口、运行器或总说明 |
 | outputs/change-verification-record.md | 课件合同的阶段成果准备稿 |
 | outputs/first-analysis.md | 课件合同的阶段成果准备稿 |

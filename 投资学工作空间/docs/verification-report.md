@@ -1,6 +1,6 @@
 # 自动检查记录
 
-执行日期2026-10-02；45项通过，0项失败。当前有效人工Fact：2条；合同签署与正式验收另行确认。HTML浏览器渲染未验证。
+执行日期2026-10-02；45项通过，0项失败。当前有效人工Fact：16条；合同签署与正式验收另行确认。HTML浏览器渲染未验证。
 
 | 检查 | 结果 | 说明 |
 | --- | --- | --- |
@@ -48,4 +48,4 @@
 | Python脚本语法全部通过 | 通过 |  |
 | 公式与舍入测试（合成数据） | 通过 |  |
 | 零基数／重述／单位／合并范围阻断 | 通过 |  |
-| Notebook通过真实Jupyter内核执行 | 通过 | D:\Anaconda\python.exe；收入成本候选: 51；分项合计检查通过: 21；人工可比性确认: {'report_version': False, 'periods': False, 'unit_currency': False, 'reporting_entity': False, 'consolidation_scope': False, 'metric_definition': False, 'no_restatement': False}；全部确认前不执行正式变化计算。； |
+| Notebook通过真实Jupyter内核执行 | 通过 | D:\Anaconda\python.exe；收入成本候选: 51；分项合计检查通过: 21；人工可比性确认: {'consolidation_scope': True, 'metric_definition': True, 'no_restatement': True, 'periods': True, 'report_version': True, 'reporting_entity': True, 'unit_currency': True}；全部确认前不执行正式变化计算。； |

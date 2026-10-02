@@ -220,6 +220,10 @@
     "purpose": "操作、核验、来源或全部文件说明"
   },
   {
+    "path": "docs/third-task-acceptance.md",
+    "purpose": "操作、核验、来源或全部文件说明"
+  },
+  {
     "path": "docs/verification-report.md",
     "purpose": "操作、核验、来源或全部文件说明"
   },
@@ -241,6 +245,14 @@
   },
   {
     "path": "evidence/human-review-forms.md",
+    "purpose": "本人核验专用记录；未伪造Fact"
+  },
+  {
+    "path": "evidence/review-state.json",
+    "purpose": "本人核验专用记录；未伪造Fact"
+  },
+  {
+    "path": "evidence/task03-adopted-evidence.json",
     "purpose": "本人核验专用记录；未伪造Fact"
   },
   {

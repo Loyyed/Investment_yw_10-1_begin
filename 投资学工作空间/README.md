@@ -32,5 +32,5 @@
 <!-- review-store:progress:start -->
 ## 人工核验进度
 
-当前有效Fact为6条；Unknown为57条；已撤回0条；需重新核验0条。共63条候选。 日期自动按Asia/Shanghai记录。合同验收、复核人与正式签署另行完成。
+当前有效Fact为16条；Unknown为47条；已撤回0条；需重新核验0条。共63条候选。 日期自动按Asia/Shanghai记录。合同验收、复核人与正式签署另行完成。
 <!-- review-store:progress:end -->

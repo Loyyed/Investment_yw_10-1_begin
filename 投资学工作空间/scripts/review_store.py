@@ -591,7 +591,8 @@ class ReviewStore:
                 errors.append({"path": relative, "error": str(error)})
 
         for relative, group in (("outputs/first-analysis.md", "first"), ("outputs/revenue-structure-table.md", "revenue"),
-                                ("outputs/metric-scope-decision.md", "scope")):
+                                ("outputs/metric-scope-decision.md", "scope"),
+                                ("work/metric-scope-candidates.md", "scope")):
             path = self._path(relative)
             if not path.exists():
                 continue

@@ -26,3 +26,4 @@ __pycache__/
 *.pem
 .claude/settings.local.json
 .DS_Store
+/课件与任务文件/acceptance-prep/

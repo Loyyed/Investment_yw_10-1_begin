@@ -3,6 +3,7 @@ from __future__ import annotations
 
 from concurrent.futures import ThreadPoolExecutor
 import json
+from hashlib import sha256
 from pathlib import Path
 import shutil
 import sys
@@ -25,7 +26,7 @@ class ReviewStoreTests(unittest.TestCase):
         self.fixture = Path(self.temporary.name)
         self.assertTrue(self.fixture.is_relative_to(WORKSPACE))
         for relative in (
-            "work/evidence-candidates.md", "work/structured-data.json", "work/scope-data.json",
+            "work/evidence-candidates.md", "work/metric-scope-candidates.md", "work/structured-data.json", "work/scope-data.json",
             "tasks/01-first-task.md", "evidence/evidence-log.md", "evidence/human-review-forms.md",
             "outputs/first-analysis.md", "outputs/revenue-structure-table.md", "outputs/metric-scope-decision.md",
             "docs/task-status.md", "work/pending-checks.md", "README.md", "config/human-review.json",
@@ -374,6 +375,48 @@ class ReviewStoreTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             self.store.submit(["C01"])
         self.assertEqual(self.store.state_path.read_text(encoding="utf-8"), damaged)
+
+
+    def test_scope_candidate_view_sync_preserves_authority_sources_and_handwriting(self):
+        view_path = self.fixture / "work/metric-scope-candidates.md"
+        handwritten = "\n人工口径说明：已阅读合并与母公司边界，保留本段。\n"
+        view_path.write_text(self.read("work/metric-scope-candidates.md") + handwritten, encoding="utf-8")
+        untouched = [self.fixture / "work/evidence-candidates.md", self.fixture / "work/structured-data.json", *self.pdf_dir.glob("*.pdf")]
+        hashes_before = {str(path): sha256(path.read_bytes()).hexdigest() for path in untouched}
+        binding_before = {row["id"]: (row["candidate_fingerprint"], row["pdf_sha256"]) for row in self.store.list_candidates("scope")}
+        ids = [row["id"] for row in self.store.list_candidates("scope")]
+        result = self.store.submit(ids, actor="核验者甲", note="实际人工核验")
+        self.assertEqual(result["changed"], 12)
+        self.assertEqual(result["sync_errors"], [])
+        state_before_sync = (self.fixture / "evidence/review-state.json").read_bytes()
+        self.assertEqual(len(self.state()["events"]), 12)
+        view = self.read("work/metric-scope-candidates.md")
+        self.assertIn(handwritten.strip(), view)
+        self.assertNotIn("人工核验为待核验，候选披露仍为Unknown", view)
+        for identifier in ids:
+            row = next(line for line in view.splitlines() if line.startswith("| " + identifier + " |"))
+            self.assertIn("本人核验／Fact", row)
+        self.assertEqual(view.count("review-store:progress:start"), 1)
+        self.assertEqual(self.store.sync()["updated_files"], [])
+        self.assertEqual(state_before_sync, (self.fixture / "evidence/review-state.json").read_bytes())
+        self.assertEqual(hashes_before, {str(path): sha256(path.read_bytes()).hexdigest() for path in untouched})
+        self.assertEqual(binding_before, {row["id"]: (row["candidate_fingerprint"], row["pdf_sha256"]) for row in self.store.list_candidates("scope")})
+
+    def test_scope_candidate_sync_reflects_stale_fact_without_creating_events(self):
+        self.store.submit(["C01", "C02"])
+        (self.pdf_dir / "600519_2024_fixture.pdf").write_bytes(b"%PDF a changed annual report")
+        authority_before = (self.fixture / "evidence/review-state.json").read_bytes()
+        sources_before = (self.fixture / "work/evidence-candidates.md").read_bytes()
+        result = self.store.sync()
+        self.assertEqual(result["errors"], [])
+        self.assertEqual(result["event_count"], 2)
+        self.assertEqual(authority_before, (self.fixture / "evidence/review-state.json").read_bytes())
+        self.assertEqual(sources_before, (self.fixture / "work/evidence-candidates.md").read_bytes())
+        view = self.read("work/metric-scope-candidates.md")
+        for identifier in ("C01", "C02"):
+            row = next(line for line in view.splitlines() if line.startswith("| " + identifier + " |"))
+            self.assertIn("来源变化／Unknown", row)
+        self.assertEqual(self.store.sync()["updated_files"], [])
 
 
 if __name__ == "__main__":

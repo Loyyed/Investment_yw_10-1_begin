@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "task": "03-metric-scope",
+  "prepared_at": "2026-10-02T22:25:12+08:00",
+  "approval_status": "pending-human-scope-decision",
+  "human_statement": "",
+  "raw_disclosure_fact_count": 16,
+  "source_bindings": {},
+  "facts": [],
+  "comparison_only": [],
+  "usage_rule": "Only task-adopted metrics appear in this list; confirm current ReviewStore bindings before reuse. The original disclosure reviews are retained separately.",
+  "contract_closed": false,
+  "signatures": "pending-user-requested-later-fill"
+}
