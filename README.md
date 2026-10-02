@@ -49,9 +49,3 @@ git push
 ~~~
 
 课程原件、规范来源、合同、核验记录、成果、图片、脚本和配置进入版本控制。临时构建目录、自动缓存、升级备份及原件的重复解包副本留在本机；排除规则见根目录与工作空间内的.gitignore。文件位置和用途详见[全部文件清单](投资学工作空间/docs/generated-files.md)。
-
-<!-- scope-acceptance:handoff:start -->
-## 后续会话从这里恢复
-
-优先读取[当前交接](会话交接/CURRENT.md)，随后仅按需要查阅原合同、证据及相关文件；关键偏好见[已确认决定](会话交接/DECISIONS.md)，使用方法见[交接说明](会话交接/README.md)。详细聊天和临时日志不作为默认上下文。
-<!-- scope-acceptance:handoff:end -->
