@@ -26,7 +26,9 @@
 <!-- scope-acceptance:acceptance:start -->
 ## 第三次合同验收
 
-原值核验与结构检查通过；口径取舍、本人真实修正说明及签署待补，合同未关闭。
+第三次合同实质内容已完成，8项内容验收通过；姓名与正式签署待补，合同尚未正式关闭。
+
+最终采用六项：C01、C02、C03、C04、C06、C07；C04为差额对照。本人真实修正已登记，C12/C10整理纠正与原始答复分别保留。
 
 [逐项验收记录](third-task-acceptance.md)。
 <!-- scope-acceptance:acceptance:end -->
