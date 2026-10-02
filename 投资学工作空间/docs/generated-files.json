@@ -200,6 +200,10 @@
     "purpose": "操作、核验、来源或全部文件说明"
   },
   {
+    "path": "docs/next-review.md",
+    "purpose": "操作、核验、来源或全部文件说明"
+  },
+  {
     "path": "docs/reading-coverage.md",
     "purpose": "操作、核验、来源或全部文件说明"
   },

@@ -32,3 +32,11 @@
 
 [逐项验收记录](third-task-acceptance.md)。
 <!-- scope-acceptance:acceptance:end -->
+
+<!-- scope-acceptance:next-review:start -->
+## 当前下一步
+
+第三次书面裁决已润色，8项内容验收状态不变。第四次七项可比性已确认，程序已复算；两项结果仍待本人核对输入、公式、结果及舍入。
+
+[第四次结果核验步骤](next-review.md)。姓名与正式签署继续后补。
+<!-- scope-acceptance:next-review:end -->

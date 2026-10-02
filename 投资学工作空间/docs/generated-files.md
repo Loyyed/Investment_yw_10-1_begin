@@ -54,6 +54,7 @@
 | docs/images/workflow.png | 用程序绘制的说明图；辅助理解目录与研究逻辑 |
 | docs/images/workspace-structure.png | 用程序绘制的说明图；辅助理解目录与研究逻辑 |
 | docs/material-catalog.md | 操作、核验、来源或全部文件说明 |
+| docs/next-review.md | 操作、核验、来源或全部文件说明 |
 | docs/reading-coverage.md | 操作、核验、来源或全部文件说明 |
 | docs/review-ui-design.md | 操作、核验、来源或全部文件说明 |
 | docs/review-ui-verification.md | 操作、核验、来源或全部文件说明 |
