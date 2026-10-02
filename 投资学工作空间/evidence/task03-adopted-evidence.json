@@ -1,14 +1,338 @@
 {
-  "schema_version": 1,
+  "schema_version": 3,
   "task": "03-metric-scope",
-  "prepared_at": "2026-10-02T22:25:12+08:00",
-  "approval_status": "pending-human-scope-decision",
-  "human_statement": "",
+  "revision": "2026-10-03-recheck",
+  "prepared_at": "2026-10-03T00:46:59+08:00",
+  "approval_status": "approved",
+  "human_confirmation_channel": "本轮本人重新提交的逐项口径分类与不适用说明",
+  "human_statement": "# 本人口径裁决说明（根据本次答复整理）\n\n本次以贵州茅台2024年度报告为依据，围绕集团收入总体规模、收入结构及归属于母公司股东的净利润，对C01—C12十二项候选进行重新比较。报告期为2024年1—12月，金额单位为人民币元；根据报表主体、指标定义、利润归属、会计口径及研究用途区分主指标、结构项、桥接项和补充项，不因名称相近或数值接近而相互替代。\n\n**主指标采用C01、C02、C03。** C01为合并利润表“其中：营业收入”，用于描述集团商品与服务营业收入；C03为合并利润表“一、营业总收入”，用于描述包含金融业务利息收入的集团营业总收入，两者必须分别标明边界。C02为合并利润表“1.归属于母公司股东的净利润”，在本次描述未扣非归母净利润的研究用途下，是唯一正确的主指标。\n\n**结构项采用C04、C06、C07。** C04为合并利润表单列的“利息收入”，是C03的组成项，可用于核对C03与C01的金融业务利息差额；不得单独代表集团收入，也不得重复加计至C03。C06、C07分别为合并附注40中的“主营业务”和“其他业务”收入，其合计与C01对应；两项均作为收入结构使用，不单独替代全集团收入。\n\n**补充项采用C12。** 第5页主要会计数据中的“归属于上市公司股东的扣除非经常性损益的净利润”为合并口径，作为扣非归母净利润独立列示，保留其补充用途；其扣非定义与C02不同，不能替代本次归母净利润主指标。\n\n**C10保留为桥接对照，不列入本轮七项采用清单。** 合并利润表“2.少数股东损益”表示不属于母公司股东的损益，可用于核对“全部净利润＝归母净利润＋少数股东损益”的归属关系，不能代表归母净利润。\n\n**明确排除主指标替代用途：** C05为母公司个别利润表营业收入，不能替代集团合并收入；C08为财务费用中的利息收入抵减项目，不属于营业收入或营业总收入的收入组成项，不能与C04混同或加进C03；C09为含少数股东损益的全部净利润，不能替代归母净利润；C10为少数股东损益，不能归入母公司股东盈利；C11为母公司个别利润表净利润，不能替代集团归母净利润。此外，C04单独用作集团营业收入或营业总收入亦不适用。上述限制针对研究用途，不撤销已核实的披露原值，也不删除被排除候选。\n\n原文定位沿用已有核验登记：第63页C01、C03、C04、C08；第64页C02、C09、C10；第65页C05；第66页C11；第108页附注40中的C06、C07；第5页C12。本次记录为口径用途重核，不改写既有原值核验时间。\n\n本轮最终按角色采用C01、C02、C03、C04、C06、C07、C12七项；其中三项主指标、三项结构项及一项补充项分别使用。口径误用的同年度差异另列诊断附件，不能据此解释经营变化、形成预测、估值或买卖判断。",
+  "original_human_statement": "回退到e2a71d6版本，我需要进行重新核验\nC01、合并利润表「其中：营业收入」、合并、可用\nC02、合并利润表「1.归属于母公司股东的净利润」、合并、唯一正解\nC03、合并利润表「一、营业总收入」、合并、可用\nC04、合并利润表「利息收入」、合并、结构项\nC05、母公司利润表「一、营业收入」、母公司个别、非集团\nC06、「主营业务」、合并、结构项\nC07、「其他业务」、合并、结构项\nC08、合并利润表「财务费用—其中：利息收入」、合并、不是收入\nC09、合并利润表「五、净利润」、合并、含少数股东\nC10、合并利润表「2.少数股东损益」、合并、桥接项\nC11、母公司利润表「四、净利润」、母公司个别、非归母\nC12、p5 主要会计数据「扣非归母净利润」、合并、补充项\n明确不适用\nC05 母公司个别报表，仅为合并营收55.3%\nC08 财务费用贷方抵减项，非收入\nC09 含少数股东，用之代表归母高估3.60%\nC10 少数股东部分，不属母公司股东\nC11 母公司个别报表净利润，比归母低98.58亿（11.4%）\nC04单独用，仅为营业总收入的组成项\n按照这部分重新填写完整第三次合同要求，美化后写入，说明下一步并更新会话交接，重新push，将此前对应项目标题标为弃用。",
+  "original_text_format": "按本轮逐项答复转录，空白及换行已规范；不是逐字复制的聊天原稿",
+  "restore_base": "e2a71d6e837c3916398d89d33187c5044aabb2b7",
+  "superseded_commits": [
+    "e63b162d2d1a7de133c5f35d2fac37ca5dc973a4",
+    "71de2c4de7da20846588dc253b575e486ed85309"
+  ],
+  "rollback_commit": "152fbf31a5ae8639ad9b9839cd18644c91563694",
+  "primary_metric_ids": [
+    "C01",
+    "C02",
+    "C03"
+  ],
+  "structure_ids": [
+    "C04",
+    "C06",
+    "C07"
+  ],
+  "supplementary_ids": [
+    "C12"
+  ],
+  "bridge_only_ids": [
+    "C10"
+  ],
+  "adopted_metric_ids": [
+    "C01",
+    "C02",
+    "C03"
+  ],
+  "adopted_reference_ids": [
+    "C04",
+    "C06",
+    "C07",
+    "C12"
+  ],
+  "facts": [
+    {
+      "id": "C01",
+      "claim": "其中：营业收入披露值",
+      "source_version": "2024年报告；SHA见manifest",
+      "year": 2024,
+      "period": "2024年度",
+      "location": "PDF／报告63页",
+      "value": "170,899,152,276.34",
+      "scope": "人民币元；合并；酒类及其他业务，不含利息收入",
+      "unit": "人民币元",
+      "table": "合并利润表",
+      "support_boundary": "定位与候选口径",
+      "unsupported_boundary": "机制、未来价值或价格",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "state": "Fact",
+      "actor": "Leo",
+      "confirmed_at": "2026-10-02T20:16:45+08:00",
+      "note": "",
+      "pending_issue": "本人核验与选择待完成",
+      "stale_reason": "",
+      "numbers": [
+        "170,899,152,276.34"
+      ],
+      "candidate_fingerprint": "0db76142255104dc54e00372736a0f040accf5ac93ae3979a6d4c95eabc05fed",
+      "binding": "bf6e838d821bfa014ee564b83dbd1438bee886ca176f83e4f985a3eff0a0cc10",
+      "submitted_state": "Fact",
+      "research_use": "主指标：集团商品与服务营业收入，不含另列金融业务利息",
+      "adoption_role": "primary-metric"
+    },
+    {
+      "id": "C02",
+      "claim": "归属于母公司股东的净利润披露值",
+      "source_version": "2024年报告；SHA见manifest",
+      "year": 2024,
+      "period": "2024年度",
+      "location": "PDF／报告64页",
+      "value": "86,228,146,421.62",
+      "scope": "人民币元；合并；不含少数股东损益",
+      "unit": "人民币元",
+      "table": "合并利润表",
+      "support_boundary": "定位与候选口径",
+      "unsupported_boundary": "机制、未来价值或价格",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "state": "Fact",
+      "actor": "Leo",
+      "confirmed_at": "2026-10-02T20:16:47+08:00",
+      "note": "",
+      "pending_issue": "本人核验与选择待完成",
+      "stale_reason": "",
+      "numbers": [
+        "86,228,146,421.62"
+      ],
+      "candidate_fingerprint": "db0edd06c99d777b4bbdfd84d3c2b9933d307123833a607ae11f6d34b4f2d669",
+      "binding": "1ed25ee5ad309ea282166d56fb73e1b313309b2db9db9bce3bfe4b0ee6cc11ac",
+      "submitted_state": "Fact",
+      "research_use": "主指标：本组候选中未扣非归母净利润的唯一正确主指标",
+      "adoption_role": "primary-metric"
+    },
+    {
+      "id": "C03",
+      "claim": "一、营业总收入披露值",
+      "source_version": "2024年报告；SHA见manifest",
+      "year": 2024,
+      "period": "2024年度",
+      "location": "PDF／报告63页",
+      "value": "174,144,069,958.25",
+      "scope": "人民币元；合并；营业收入及金融业务利息收入",
+      "unit": "人民币元",
+      "table": "合并利润表",
+      "support_boundary": "定位与候选口径",
+      "unsupported_boundary": "机制、未来价值或价格",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "state": "Fact",
+      "actor": "Leo",
+      "confirmed_at": "2026-10-02T21:58:43+08:00",
+      "note": "",
+      "pending_issue": "本人核验与选择待完成",
+      "stale_reason": "",
+      "numbers": [
+        "174,144,069,958.25"
+      ],
+      "candidate_fingerprint": "4290bd9cbb1aefbf85eb95ffed473023a8671cbebc439d306e06f8c06fbb924c",
+      "binding": "ed35f268b755b772dcee5dde7211a27e1816419d1850bc7276290259537b1a04",
+      "submitted_state": "Fact",
+      "research_use": "主指标：含金融业务利息的集团营业总收入，单列总体规模",
+      "adoption_role": "primary-metric"
+    },
+    {
+      "id": "C04",
+      "claim": "利息收入披露值",
+      "source_version": "2024年报告；SHA见manifest",
+      "year": 2024,
+      "period": "2024年度",
+      "location": "PDF／报告63页",
+      "value": "3,244,917,681.91",
+      "scope": "人民币元；合并；营业总收入中的利息收入，不是财务费用利息收入",
+      "unit": "人民币元",
+      "table": "合并利润表",
+      "support_boundary": "定位与候选口径",
+      "unsupported_boundary": "机制、未来价值或价格",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "state": "Fact",
+      "actor": "Leo",
+      "confirmed_at": "2026-10-02T21:58:52+08:00",
+      "note": "",
+      "pending_issue": "本人核验与选择待完成",
+      "stale_reason": "",
+      "numbers": [
+        "3,244,917,681.91"
+      ],
+      "candidate_fingerprint": "39eb6b23ed808c9a852b31f1c06356841ae62939d072373d01caf53078b67496",
+      "binding": "22ed6c8b14a9d97377d7231dbee6b4ceced91db58ee6adbebed8e628f2968f63",
+      "submitted_state": "Fact",
+      "research_use": "结构项：营业总收入中的金融业务利息；不得单独代表总收入，不重复加计",
+      "adoption_role": "structure-component"
+    },
+    {
+      "id": "C06",
+      "claim": "主营业务披露值",
+      "source_version": "2024年报告；SHA见manifest",
+      "year": 2024,
+      "period": "2024年度",
+      "location": "PDF／报告108页",
+      "value": "170,611,838,052.02",
+      "scope": "人民币元；合并附注；酒类主营业务，不含其他业务",
+      "unit": "人民币元",
+      "table": "来源定位见原PDF与口径",
+      "support_boundary": "定位与候选口径",
+      "unsupported_boundary": "机制、未来价值或价格",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "state": "Fact",
+      "actor": "Leo",
+      "confirmed_at": "2026-10-02T22:00:00+08:00",
+      "note": "",
+      "pending_issue": "本人核验与选择待完成",
+      "stale_reason": "",
+      "numbers": [
+        "170,611,838,052.02"
+      ],
+      "candidate_fingerprint": "439fe1b359a92d4c4cfac50fc54a0adc9f6e8037e90f539c31cf525e3b95bf36",
+      "binding": "be35adf58a71900dfa0eff92ac291910dd59a6a0a2a0192079f06fd5a54c11b2",
+      "submitted_state": "Fact",
+      "research_use": "结构项：合并酒类主营业务收入；不单独替代全收入",
+      "adoption_role": "structure-component"
+    },
+    {
+      "id": "C07",
+      "claim": "其他业务披露值",
+      "source_version": "2024年报告；SHA见manifest",
+      "year": 2024,
+      "period": "2024年度",
+      "location": "PDF／报告108页",
+      "value": "287,314,224.32",
+      "scope": "人民币元；合并附注；注释主要为酒店及冰淇淋业务",
+      "unit": "人民币元",
+      "table": "来源定位见原PDF与口径",
+      "support_boundary": "定位与候选口径",
+      "unsupported_boundary": "机制、未来价值或价格",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "state": "Fact",
+      "actor": "Leo",
+      "confirmed_at": "2026-10-02T22:00:18+08:00",
+      "note": "",
+      "pending_issue": "本人核验与选择待完成",
+      "stale_reason": "",
+      "numbers": [
+        "287,314,224.32"
+      ],
+      "candidate_fingerprint": "97ab1f8e863af68b1997098ed107ea3cf2cdbcd6a88665cb12a6b1e69693b060",
+      "binding": "866c77c9150d02311a555a124edb1068ada35114f359500d845871e7ed1eaa2c",
+      "submitted_state": "Fact",
+      "research_use": "结构项：合并其他业务收入，与C06共同构成C01",
+      "adoption_role": "structure-component"
+    },
+    {
+      "id": "C12",
+      "claim": "归属于上市公司股东的扣除非经常性损益的净利润披露值",
+      "source_version": "2024年报告；SHA见manifest",
+      "year": 2024,
+      "period": "2024年度",
+      "location": "PDF／报告5页",
+      "value": "86,240,905,977.42",
+      "scope": "人民币元；合并摘要；已扣除非经常性损益",
+      "unit": "人民币元",
+      "table": "来源定位见原PDF与口径",
+      "support_boundary": "定位与候选口径",
+      "unsupported_boundary": "机制、未来价值或价格",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "state": "Fact",
+      "actor": "Leo",
+      "confirmed_at": "2026-10-02T22:03:00+08:00",
+      "note": "",
+      "pending_issue": "本人核验与选择待完成",
+      "stale_reason": "",
+      "numbers": [
+        "86,240,905,977.42"
+      ],
+      "candidate_fingerprint": "d31a82872c4b35b964b13a523d98415104456964a95d2a17fb65ce8930dddc1e",
+      "binding": "8592516793a49ed2d384a63860ed4d8b30ef2add46d6fde2dd303822551befcf",
+      "submitted_state": "Fact",
+      "research_use": "补充项：合并口径扣非归母净利润，独立列示，不替代C02",
+      "adoption_role": "supplementary-metric"
+    }
+  ],
+  "source_bindings": {
+    "C01": "bf6e838d821bfa014ee564b83dbd1438bee886ca176f83e4f985a3eff0a0cc10",
+    "C02": "1ed25ee5ad309ea282166d56fb73e1b313309b2db9db9bce3bfe4b0ee6cc11ac",
+    "C03": "ed35f268b755b772dcee5dde7211a27e1816419d1850bc7276290259537b1a04",
+    "C04": "22ed6c8b14a9d97377d7231dbee6b4ceced91db58ee6adbebed8e628f2968f63",
+    "C06": "be35adf58a71900dfa0eff92ac291910dd59a6a0a2a0192079f06fd5a54c11b2",
+    "C07": "866c77c9150d02311a555a124edb1068ada35114f359500d845871e7ed1eaa2c",
+    "C12": "8592516793a49ed2d384a63860ed4d8b30ef2add46d6fde2dd303822551befcf"
+  },
+  "excluded_from_adoption": [
+    "C05",
+    "C08",
+    "C09",
+    "C10",
+    "C11"
+  ],
+  "conditional_exclusions": [
+    {
+      "id": "C04",
+      "condition": "单独用作营业总收入或营业收入总体规模",
+      "reason": "只是收入组成项"
+    }
+  ],
+  "comparison_only": [
+    {
+      "id": "C05",
+      "reason": "排除替代：母公司个别收入，非集团合并收入"
+    },
+    {
+      "id": "C08",
+      "reason": "排除替代：财务费用中的利息收入抵减项目，非营业收入/营业总收入组成项"
+    },
+    {
+      "id": "C09",
+      "reason": "排除替代：包含少数股东损益的全部净利润，不代表归母盈利"
+    },
+    {
+      "id": "C10",
+      "reason": "桥接对照：少数股东损益，解释C09与C02归属差异，不属母公司股东"
+    },
+    {
+      "id": "C11",
+      "reason": "排除替代：母公司个别净利润，不代表集团归母盈利"
+    }
+  ],
+  "correction_record": {
+    "kind": "provided",
+    "statement": "# 本次真实修正过程\n\n## 初选及旧版处理\n\n本人最初将C01—C12十二项候选列入选择范围，随后比较报表主体、收入定义及利润归属。旧版最终采用C01、C02、C03、C04、C06、C07六项，C04限作金融业务利息差额对照；C12因不能替代C02，被排除在旧版采用清单之外。旧版答复曾将C12与母公司数据并列，整理时已纠正其实际定义为合并口径的扣非归母净利润。本轮不删除旧答复及整理纠正历史，旧版成果加弃用标记。\n\n## 发现冲突\n\n收入方面，C01与C03的边界不同，C04仅是C03的金融业务利息组成项；C05属于母公司个别报表，C08列于财务费用，均不能替代集团营业收入。C06与C07属于收入结构，可合计对应C01，不能各自代表集团全部收入。利润方面，C09含少数股东损益，C10仅为少数股东损益，C11属于母公司个别报表；三者均不能替代C02。C12的合并主体正确，但扣非定义与C02不同，“不能替代主指标”不等同于“没有补充用途”。\n\n## 回到原文及对应位置\n\n依本人本次明确提供的重新比较结果，按原有候选核验表填写对应PDF位置：第63页为合并利润表C01、C03、C04、C08；第64页为合并利润表C02、C09、C10；第65、66页分别为母公司利润表C05、C11；第108页为合并附注40中的C06、C07；第5页主要会计数据为C12。既有原值核验事件及时间完整保留；本次聊天记录用途修正，不生成新的PDF原值核验事件，不虚构新的核验时间。\n\n## 本轮修正后的选择\n\n将笼统采用改为按角色使用：C01、C02、C03为主指标；C04、C06、C07为结构项；C12为独立补充项。最终七项采用清单为C01、C02、C03、C04、C06、C07、C12。C02继续作为本次未扣非归母净利润的唯一正确主指标，C12不得替代C02。C04仅作收入结构及差额对照，明确排除单独代表集团收入的用途。C10作为利润归属桥接对照保留，不加入七项采用清单；C05、C08、C09、C10、C11均排除主指标替代用途。\n\n本次修正承接真实的十二项初选和旧版六项处理，重点是重新划分使用角色，并将C12从旧版采用范围外调整为独立补充项。原始候选、原值Fact、旧版用途结论及本次修正均保留；姓名与正式签署仍待统一补齐。",
+    "initial_ids": [
+      "C01",
+      "C02",
+      "C03",
+      "C04",
+      "C05",
+      "C06",
+      "C07",
+      "C08",
+      "C09",
+      "C10",
+      "C11",
+      "C12"
+    ],
+    "final_ids": [
+      "C01",
+      "C02",
+      "C03",
+      "C04",
+      "C06",
+      "C07",
+      "C12"
+    ]
+  },
+  "scope_composition_checks": {
+    "C03=C01+C04": true,
+    "C01=C06+C07": true,
+    "C09=C02+C10": true
+  },
   "raw_disclosure_fact_count": 16,
-  "source_bindings": {},
-  "facts": [],
-  "comparison_only": [],
-  "usage_rule": "Only task-adopted metrics appear in this list; confirm current ReviewStore bindings before reuse. The original disclosure reviews are retained separately.",
+  "usage_rule": "Use primary, structure, supplementary and bridge roles separately. C12 never replaces C02; C04 cannot represent total revenue alone. Recheck current ReviewStore bindings before reuse.",
+  "acceptance_status": "content-complete-signatures-pending",
   "contract_closed": false,
   "signatures": "pending-user-requested-later-fill"
 }

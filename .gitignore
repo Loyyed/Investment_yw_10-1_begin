@@ -27,3 +27,6 @@ __pycache__/
 .claude/settings.local.json
 .DS_Store
 /课件与任务文件/acceptance-prep/
+/会话交接/logs/
+/会话交接/tmp/
+/课件与任务文件/reaudit-scope-audit/

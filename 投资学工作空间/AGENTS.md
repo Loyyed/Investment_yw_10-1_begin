@@ -1,6 +1,6 @@
 # 项目协作规则
 
-- 执行前读取README.md和当前tasks合同。
+- 先读../会话交接/CURRENT.md；稳定偏好按需读../会话交接/DECISIONS.md。只读本次相关合同和成果，不全文读取日志，不重新扫描项目。
 - sources保持原样；不得修改工作空间内外的原件，不把摘要当来源。
 - 统一人工核验入口为“人工核验入口.cmd”。只有本人明确点击确认，才由程序写入evidence/review-state.json并形成Fact；开窗、选择条目、机器匹配、任务文字校对均不自动确认。
 - 人工确认由review-state.json的记录和事件历史维护；confirmed-facts.json与Markdown为派生视图。后续使用调用scripts/review_store.py的ReviewStore(...).facts()核对最新来源，不只凭旧导出文件判Fact。

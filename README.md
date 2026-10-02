@@ -49,3 +49,11 @@ git push
 ~~~
 
 课程原件、规范来源、合同、核验记录、成果、图片、脚本和配置进入版本控制。临时构建目录、自动缓存、升级备份及原件的重复解包副本留在本机；排除规则见根目录与工作空间内的.gitignore。文件位置和用途详见[全部文件清单](投资学工作空间/docs/generated-files.md)。
+
+<!-- scope-acceptance:current-version:start -->
+## 当前版本与弃用提示
+
+第三次合同以2026-10-03重新核验版为准：3项主指标、3项结构项、1项扣非补充。旧71de2c4和e63b162已标为弃用，详见[弃用登记](投资学工作空间/docs/deprecated-versions.md)。
+
+后续先读[会话交接](会话交接/CURRENT.md)，详细步骤见[第四次结果核验](投资学工作空间/docs/next-review.md)。
+<!-- scope-acceptance:current-version:end -->

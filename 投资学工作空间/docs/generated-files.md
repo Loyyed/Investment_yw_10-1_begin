@@ -14,6 +14,7 @@
 | config/generation-baseline.json | 环境及人工确认／编辑器配置 |
 | config/human-review.json | 环境及人工确认／编辑器配置 |
 | config/workspace.json | 环境及人工确认／编辑器配置 |
+| docs/deprecated-versions.md | 操作、核验、来源或全部文件说明 |
 | docs/generated-files.md | 操作、核验、来源或全部文件说明 |
 | docs/git-history.md | 操作、核验、来源或全部文件说明 |
 | docs/human-review-guide.md | 操作、核验、来源或全部文件说明 |
@@ -54,6 +55,7 @@
 | docs/images/workflow.png | 用程序绘制的说明图；辅助理解目录与研究逻辑 |
 | docs/images/workspace-structure.png | 用程序绘制的说明图；辅助理解目录与研究逻辑 |
 | docs/material-catalog.md | 操作、核验、来源或全部文件说明 |
+| docs/next-review.md | 操作、核验、来源或全部文件说明 |
 | docs/reading-coverage.md | 操作、核验、来源或全部文件说明 |
 | docs/review-ui-design.md | 操作、核验、来源或全部文件说明 |
 | docs/review-ui-verification.md | 操作、核验、来源或全部文件说明 |
@@ -266,6 +268,8 @@
 | work/revenue-structure-extraction.md | 实际过程、候选、冲突、修正或验证记录 |
 | work/scope-adjudication.md | 实际过程、候选、冲突、修正或验证记录 |
 | work/scope-data.json | 实际过程、候选、冲突、修正或验证记录 |
+| work/scope-misuse-diagnostics.json | 实际过程、候选、冲突、修正或验证记录 |
+| work/scope-misuse-diagnostics.md | 实际过程、候选、冲突、修正或验证记录 |
 | work/source-inventory.json | 实际过程、候选、冲突、修正或验证记录 |
 | work/structured-data.json | 实际过程、候选、冲突、修正或验证记录 |
 | work/validation-results.json | 实际过程、候选、冲突、修正或验证记录 |

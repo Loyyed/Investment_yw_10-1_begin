@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "prepared_at": "2026-10-03T00:46:59+08:00",
+  "type": "same-period-scope-diagnostic",
+  "state": "Unknown",
+  "results": [
+    {
+      "id": "D01",
+      "description": "母公司收入相对合并商品服务收入",
+      "formula": "C05/C01*100",
+      "basis": "C01",
+      "exact": "55.31141353092403866851516709",
+      "display": "55.3%",
+      "state": "Unknown"
+    },
+    {
+      "id": "D02",
+      "description": "误用C09代表归母净利润的高估比例",
+      "formula": "(C09-C02)/C02*100",
+      "basis": "C02",
+      "exact": "3.602746589367814808296375995",
+      "display": "3.60%",
+      "state": "Unknown"
+    },
+    {
+      "id": "D03",
+      "description": "母公司净利润相对归母净利润的金额/比例差异",
+      "formula": "C02-C11; (C02-C11)/C02*100",
+      "basis": "C02",
+      "difference_yuan": "9857842579.03",
+      "exact_percent": "11.43227935206820264442429739",
+      "display": "98.58亿元；11.4%",
+      "state": "Unknown"
+    }
+  ],
+  "not_growth_or_causal_evidence": true
+}

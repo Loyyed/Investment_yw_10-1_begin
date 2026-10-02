@@ -40,6 +40,10 @@
     "purpose": "环境及人工确认／编辑器配置"
   },
   {
+    "path": "docs/deprecated-versions.md",
+    "purpose": "操作、核验、来源或全部文件说明"
+  },
+  {
     "path": "docs/generated-files.md",
     "purpose": "操作、核验、来源或全部文件说明"
   },
@@ -197,6 +201,10 @@
   },
   {
     "path": "docs/material-catalog.md",
+    "purpose": "操作、核验、来源或全部文件说明"
+  },
+  {
+    "path": "docs/next-review.md",
     "purpose": "操作、核验、来源或全部文件说明"
   },
   {
@@ -1045,6 +1053,14 @@
   },
   {
     "path": "work/scope-data.json",
+    "purpose": "实际过程、候选、冲突、修正或验证记录"
+  },
+  {
+    "path": "work/scope-misuse-diagnostics.json",
+    "purpose": "实际过程、候选、冲突、修正或验证记录"
+  },
+  {
+    "path": "work/scope-misuse-diagnostics.md",
     "purpose": "实际过程、候选、冲突、修正或验证记录"
   },
   {

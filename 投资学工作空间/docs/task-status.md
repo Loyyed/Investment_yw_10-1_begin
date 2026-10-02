@@ -24,9 +24,9 @@
 <!-- review-store:progress:end -->
 
 <!-- scope-acceptance:acceptance:start -->
-## 第三次合同验收
+## 第三次合同重新核验
 
-原值核验与结构检查通过；口径取舍、本人真实修正说明及签署待补，合同未关闭。
+第三次合同新版8项内容要求通过；姓名与正式签署待补，合同尚未正式关闭。新版3主指标、3结构项、1补充项；C10桥接不代归母，C04不能单独代表总收入。旧71de2c4/e63b162弃用。
 
-[逐项验收记录](third-task-acceptance.md)。
+[验收记录](third-task-acceptance.md)；[下一步核验](next-review.md)。
 <!-- scope-acceptance:acceptance:end -->
