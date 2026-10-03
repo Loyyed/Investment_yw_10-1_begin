@@ -80,9 +80,7 @@ M01品牌定价权已由本人选定为竞争优势研究问题；另外两个�
 <!-- scope-acceptance:m01-cost-confirmation:end -->
 
 <!-- scope-acceptance:lec03-three-dimensions:start -->
-## 最新Lec03三维进展
+## Lec03当前验收状态
 
-两期成本结果不改变对品牌定价权的暂定判断。研究重点是品牌是否形成定价权，结合目前已核验结果，暂时认定为有效；成本优势与品牌价格机制分别检验。 M01/B01由本人选定、I01由本人授权Agent定义；三维问题和五项研究底稿已展开。Fact仍为39条分域记录，本轮新增0；行业阶段/市占率/相对优势、品牌持续机制及分部资本现金缺证仍Unknown。
-
-[从整合分析开始](../outputs/lec03-integrated-analysis.md)；[下一步](next-review.md)审阅新增逻辑与缺证保留。Lec03未正式验收，姓名、复核及签署留空。
+五项成果与10项内容要求完成；本人通过第3/4节，Agent按本轮授权核准补证及其余内容。签署按此前约定暂留空。当前[最终结果](../outputs/lec03-final-results.md)、[验收](lec03-acceptance.md)、[后续操作](next-review.md)。旧39人工记录保持，新16Agent年度组独立校验，不混作独立样本总数。
 <!-- scope-acceptance:lec03-three-dimensions:end -->

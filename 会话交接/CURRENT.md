@@ -2,10 +2,11 @@
 
 更新：2026-10-03。
 
-- Git根D:/投资学；成果投资学工作空间/，原件课件与任务文件/；中文提交，弃用标签保留。先读本页，再按需读对应成果；只核git log -1/status及logs/latest-publish.json，不全文读日志或重扫项目。
-- Fact权威仍为ReviewStore.facts()/change_facts()/m01_disclosure_facts()/m01_metric_facts()/m01_scale_facts()：16/2/3/15/3共39条分域记录，K03仅附条件桥接算术。原47 Unknown、17窗口事件及各聊天确认保持；本轮新增Fact/窗口/Fact聊天事件均0。来源/代码/输入改变须重新检验绑定，交接或快照不证明Fact。
-- 本人最新原话在evidence/lec03-research-update.json：成本证据不影响品牌定价权暂定判断，主要研究品牌是否形成定价权，暂时认定有效。状态Interpretation；因果充分成立、持续性及壁垒仍Unknown。原判断记录保持，当前更新在evidence/m01-research-judgment-updates.json。
-- 三维确定：M01品牌定价权本人已选；B01本人采用酒类/其他收入成本资本现金分开，核查品牌/渠道/储存；I01本人授权Agent定义，现有年报内完成竞争位置及反证五步适用性分析，不擅自填行业份额/阶段。
-- 从outputs/lec03-integrated-analysis.md开始：品牌五步链、B01分业表及三路径、I01五步、两条真实核验记录/缺证；矩阵和五项阶段成果、合同选题同步。新增SVG图docs/images/lec03-three-paths.svg。旧六条候选在work/lec03-claim-notes.md历史段及Git保留。
-- U01经营模式/渠道定义（2024第7—8/15页）、U02五年储存勾兑（15页）、U03行业引用/未来叙事（14/20页）仅定位候选Unknown，未加入原窗口或Fact。不以授权展开冒充原文核验。成本报告已核统计；生产桥接五假设和真实成本仍Unknown。
-- 下一步按docs/next-review.md只审阅本轮逻辑和完整Unknown保留；已选问题/已核数字不重复操作。本人尚未认可本轮完整逻辑/缺证表，不勾11项Lec03验收，不填姓名/复核/签署；未收到Lec04—05独立合同，不虚构其成果。
+- Git根D:/投资学；成果投资学工作空间/；中文提交，弃用标签保留。先读本页，按需读当前成果；只核git log -1/status及logs/latest-publish.json，不全文读日志或重扫项目。
+- 当前入口outputs/lec03-final-results.md：三个直接结果、五年表/图、行业口径冲突、原PDF/SHA/页码与计算附录。五项成果/矩阵/合同同步；docs/lec03-acceptance.md为10项内容验收，docs/next-review.md指向最后姓名/真实签署填写。未提供Lec04—05独立合同，不虚构交付。
+- 本人实际认可8d3e80f整合报告第3节逻辑及第4节数据、品牌/渠道/储存资本现金路径；暂定成熟期，明确授权突破本地MD边界完成五年补证/Agent核准/内容验收。原话和审核章节绑定在evidence/lec03-content-review.json，章节原文在lec03-approved-sections.md；第3/4节原文字保持。新五年计算不是本人逐项点击。签名按此前约定留空。
+- 旧事实须调用ReviewStore.facts()/change_facts()/m01_disclosure_facts()/m01_metric_facts()/m01_scale_facts()：16/2/3/15/3，共39条人工域记录；源/账本/计算历史不变，K03仅附条件算术，真实生产成本仍Unknown。原47 Unknown、17窗口事件保持。
+- 新事实须调用ReviewStore.lec03_agent_facts()：16组2020—2024年度资料，verifier=Agent按明确授权，human_confirmation=false；绑定真实授权/PDF/分析代码/输入/结果，变化失效。与旧39有重叠，不称55独立事实；不把导出/交接当权威。原U01—U03历史状态保留，新组核准其相应披露。
+- 三维结论：品牌定价权暂定有效（Interpretation），五年均价247.23→314.41万元/销售吨、毛利约94%增强支持；业务收入成本分开，酒类项目投入可归属，金融现金桥接完成，准确酒类资本/CFO未硬拆；广义白酒采用成熟期（存量竞争、结构升级）叠加调整周期Interpretation，高端酱香阶段/份额仍缺证。
+- 行业绝对数与披露同比不一致（如2023产量449.2/671.24重算−33.08%而原报同比−2.8%）；保留原披露，不拼行业CAGR。2022/2024集团CFO含重大金融资金影响；剔除余额非准确酒类CFO，CFO减购建支出非完整FCF。后续同款终端、竞品、酒龄库存/分部资本现金列Lec04—05接续，因果/壁垒/真实生产成本保留Unknown。
+- 内容验收已完成，不重复核准已认可逻辑或数字；正式签署仍待本人统一填。临时脚本/检查输出和备份存课件与任务文件/acceptance-prep及会话交接/tmp（Git忽略），不作为下一次必读上下文。

@@ -171,3 +171,11 @@ N组确认不自动覆盖R2024-02/03；三项品牌及变动原因自述已在�
 
 三维底稿已展开；已核39条分域记录继续有效，本轮新增Fact=0、窗口事件=0、Fact聊天事件=0。U01—U03仅Unknown定位候选；完整缺证表和逻辑尚待本人审阅，签署空白。
 <!-- scope-acceptance:lec03-three-dimensions:end -->
+
+<!-- scope-acceptance:lec03-authorized-final:start -->
+## Lec03本轮核准登记
+
+本人真实第3/4节审核、成熟期暂定Interpretation及明确代理授权在[内容审核](lec03-content-review.json)，审核对象/章节文本在[快照](lec03-approved-sections.md)。新增16组年度数据源核准在[独立Agent缓存](lec03-agent-facts.json)，当前以ReviewStore.lec03_agent_facts()重核为准；Agent不是本人点击，旧39条人工域记录与17窗口事件不变，有部分内容重叠。
+
+三维结果、原值页码/SHA/计算和统计冲突见[最终报告](../outputs/lec03-final-results.md)。U01—U03历史定位候选及提取状态保留，其有关原披露已有新Agent组号；未将旧原候选批量升级。品牌独立因果/壁垒、真实生产成本、完整分部资本现金及细分份额继续Unknown。
+<!-- scope-acceptance:lec03-authorized-final:end -->

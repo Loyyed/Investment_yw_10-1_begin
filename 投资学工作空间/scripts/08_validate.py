@@ -62,6 +62,9 @@ check('M01计算导出与当前绑定的有效Fact一致', metric_export['facts'
 scale_facts=review_store.m01_scale_facts()
 scale_export=json.loads((W/'evidence/m01-scale-facts.json').read_text(encoding='utf-8')) if (W/'evidence/m01-scale-facts.json').exists() else {'facts':[]}
 check('M01成本导出与当前绑定的有效记录一致', scale_export['facts']==scale_facts)
+agent_facts=review_store.lec03_agent_facts()
+agent_export=json.loads((W/'evidence/lec03-agent-facts.json').read_text(encoding='utf-8'))
+check('Lec03授权Agent数据核准与当前来源代码输入结果一致',len(agent_facts)==16 and agent_export['facts']==agent_facts and all(r['human_confirmation'] is False for r in agent_facts))
 required=['人工核验入口.cmd','scripts/review_store.py','scripts/review_ui.py','README.md','CLAUDE.md','AGENTS.md','outputs/first-analysis.md','outputs/revenue-structure-table.md','outputs/metric-scope-decision.md','outputs/change-verification-record.md','outputs/lec03-evidence-matrix.md','outputs/lec03-stage-deliverables.md','work/notes.md','work/pending-checks.md','evidence/evidence-log.md','research.ipynb','工作流程与文件说明.md']
 check('必需交付文件存在',all((W/p).is_file() and (W/p).stat().st_size>0 for p in required))
 # Validate generated Markdown links only. Source snapshots keep original historical links.
@@ -104,8 +107,8 @@ try:
  outputs=''.join(o.get('text','') for c in nb.cells for o in c.get('outputs',[]))
  check('Notebook通过真实Jupyter内核执行',True,outputs[:700])
 except Exception as e:check('Notebook通过真实Jupyter内核执行',False,str(e))
-result={'date':'2026-10-03','checks':checks,'passed':sum(r['pass'] for r in checks),'failed':sum(not r['pass'] for r in checks),'human_reviewed_fact_count':len(valid_facts),'human_reviewed_change_fact_count':len(change_facts),'human_reviewed_disclosure_fact_count':len(narrative_facts),'human_reviewed_m01_metric_fact_count':len(metric_facts),'human_reviewed_m01_cost_record_count':len(scale_facts),'human_verification_complete':False}
+result={'date':'2026-10-03','checks':checks,'passed':sum(r['pass'] for r in checks),'failed':sum(not r['pass'] for r in checks),'human_reviewed_fact_count':len(valid_facts),'human_reviewed_change_fact_count':len(change_facts),'human_reviewed_disclosure_fact_count':len(narrative_facts),'human_reviewed_m01_metric_fact_count':len(metric_facts),'human_reviewed_m01_cost_record_count':len(scale_facts),'human_verification_complete':False,'lec03_agent_verified_dataset_count':len(agent_facts),'lec03_content_accepted':True,'formal_signature_status':'pending-user-fill'}
 write('work/validation-results.json',json.dumps(result,ensure_ascii=False,indent=2))
-write('docs/verification-report.md','# 自动检查记录\n\n执行日期2026-10-03；'+str(result['passed'])+'项通过，'+str(result['failed'])+'项失败。当前有效原始披露Fact：'+str(len(valid_facts))+'条；变化Fact：'+str(len(change_facts))+'条；公司自述Fact：'+str(len(narrative_facts))+'条；M01计算Fact：'+str(len(metric_facts))+'条；M01成本确认记录：'+str(len(scale_facts))+'条（含附条件算术）；合同签署与正式验收另行确认。HTML浏览器渲染未验证。\n\n'+table(['检查','结果','说明'],[[c['name'],'通过' if c['pass'] else '失败',c['details']] for c in checks]))
+write('docs/verification-report.md','# 自动检查记录\n\n执行日期2026-10-03；'+str(result['passed'])+'项通过，'+str(result['failed'])+'项失败。当前有效原始披露Fact：'+str(len(valid_facts))+'条；变化Fact：'+str(len(change_facts))+'条；公司自述Fact：'+str(len(narrative_facts))+'条；M01计算Fact：'+str(len(metric_facts))+'条；M01成本确认记录：'+str(len(scale_facts))+'条（含附条件算术）；Lec03另有16组按授权Agent核准年度资料（非本人点击，与旧记录部分重叠）；10项内容验收完成，姓名签署待本人统一填写。HTML浏览器渲染未验证。\n\n'+table(['检查','结果','说明'],[[c['name'],'通过' if c['pass'] else '失败',c['details']] for c in checks]))
 print('RESULT',result['passed'],'passed,',result['failed'],'failed')
 raise SystemExit(1 if result['failed'] else 0)

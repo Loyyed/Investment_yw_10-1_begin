@@ -64,6 +64,26 @@
     "purpose": "用程序绘制的说明图；辅助理解目录与研究逻辑"
   },
   {
+    "path": "docs/images/lec03-cash-bridge.png",
+    "purpose": "用程序绘制的说明图；辅助理解目录与研究逻辑"
+  },
+  {
+    "path": "docs/images/lec03-cash-bridge.svg",
+    "purpose": "用程序绘制的说明图；辅助理解目录与研究逻辑"
+  },
+  {
+    "path": "docs/images/lec03-five-year-evidence.png",
+    "purpose": "用程序绘制的说明图；辅助理解目录与研究逻辑"
+  },
+  {
+    "path": "docs/images/lec03-five-year-evidence.svg",
+    "purpose": "用程序绘制的说明图；辅助理解目录与研究逻辑"
+  },
+  {
+    "path": "docs/images/lec03-industry-source-crops.png",
+    "purpose": "用程序绘制的说明图；辅助理解目录与研究逻辑"
+  },
+  {
     "path": "docs/images/lec03-three-paths.png",
     "purpose": "用程序绘制的说明图；辅助理解目录与研究逻辑"
   },
@@ -212,6 +232,10 @@
     "purpose": "用程序绘制的说明图；辅助理解目录与研究逻辑"
   },
   {
+    "path": "docs/lec03-acceptance.md",
+    "purpose": "操作、核验、来源或全部文件说明"
+  },
+  {
     "path": "docs/material-catalog.md",
     "purpose": "操作、核验、来源或全部文件说明"
   },
@@ -273,6 +297,18 @@
   },
   {
     "path": "evidence/human-review-forms.md",
+    "purpose": "本人核验专用记录；未伪造Fact"
+  },
+  {
+    "path": "evidence/lec03-agent-facts.json",
+    "purpose": "本人核验专用记录；未伪造Fact"
+  },
+  {
+    "path": "evidence/lec03-approved-sections.md",
+    "purpose": "本人核验专用记录；未伪造Fact"
+  },
+  {
+    "path": "evidence/lec03-content-review.json",
     "purpose": "本人核验专用记录；未伪造Fact"
   },
   {
@@ -349,6 +385,10 @@
   },
   {
     "path": "outputs/lec03-evidence-matrix.md",
+    "purpose": "课件合同的阶段成果准备稿"
+  },
+  {
+    "path": "outputs/lec03-final-results.md",
     "purpose": "课件合同的阶段成果准备稿"
   },
   {
@@ -457,6 +497,10 @@
   },
   {
     "path": "scripts/common.py",
+    "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
+  },
+  {
+    "path": "scripts/lec03_agent_analysis.py",
     "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
   },
   {
@@ -1104,6 +1148,10 @@
     "purpose": "项目入口、运行器或总说明"
   },
   {
+    "path": "tests/test_lec03_agent_analysis.py",
+    "purpose": "项目入口、运行器或总说明"
+  },
+  {
     "path": "tests/test_review_store.py",
     "purpose": "项目入口、运行器或总说明"
   },
@@ -1117,6 +1165,14 @@
   },
   {
     "path": "work/evidence-candidates.md",
+    "purpose": "实际过程、候选、冲突、修正或验证记录"
+  },
+  {
+    "path": "work/lec03-agent-inputs.json",
+    "purpose": "实际过程、候选、冲突、修正或验证记录"
+  },
+  {
+    "path": "work/lec03-agent-results.json",
     "purpose": "实际过程、候选、冲突、修正或验证记录"
   },
   {

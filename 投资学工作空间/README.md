@@ -1,5 +1,13 @@
 # 投资学工作空间
 
+<!-- scope-acceptance:lec03-three-dimensions:start -->
+## 当前入口：Lec03内容已核准
+
+先读[三维最终结果与图片](outputs/lec03-final-results.md)，再按需看[10项内容验收](docs/lec03-acceptance.md)及[任务合同](tasks/05-lec03-business-model.md)。本人审核第3、4节通过，Agent按明确授权完成五年补证和其余内容。签署继续留空，下一步仅在准备好时统一填写姓名/日期；不重复核已确认内容。
+<!-- scope-acceptance:lec03-three-dimensions:end -->
+
+
+
 日常核验：双击[人工核验入口.cmd](人工核验入口.cmd)，选择记录，点“确认所选为Fact”。系统自动记录并同步相关文件；操作方法见[简洁核验指南](docs/human-review-guide.md)。
 
 贵州茅台（600519），指定2020—2024年年报，2026秋金融专硕投资学任务。建立日期2026-10-02。
@@ -40,9 +48,3 @@
 
 当前新增两条独立聊天确认的变化证据CH01/CH02。原披露核验记录保持；动态有效性使用ReviewStore.change_facts()，旧导出不证明Fact。[第四次验收](docs/fourth-task-acceptance.md)；[下一步](docs/next-review.md)。
 <!-- scope-acceptance:task04-progress:end -->
-
-<!-- scope-acceptance:lec03-three-dimensions:start -->
-## Lec03当前阅读入口
-
-[三维整合分析](outputs/lec03-integrated-analysis.md)集中给出品牌五步链、三路径商业模式和行业五步。M01/B01本人选定，I01本人授权Agent定义；本人维持暂定品牌定价权Interpretation。新逻辑待审阅，正式验收及签署待完成。[下一步](docs/next-review.md)。
-<!-- scope-acceptance:lec03-three-dimensions:end -->

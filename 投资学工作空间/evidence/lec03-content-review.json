@@ -1,0 +1,258 @@
+{
+  "schema_version": 1,
+  "record_type": "real-human-chapter-approval-and-explicit-agent-delegation",
+  "registered_at": "2026-10-03T18:11:37+08:00",
+  "actor": "",
+  "statement_original": "3节逻辑没问题，审核通过，相应内容核准完毕。4节数据与逻辑路径审核通过给予认可验收，对品牌、渠道、储存三路径的资本现金解释合理。第五节，暂时认定行业阶段为成熟期，你通过各个年份的年报数据给出相关证据即可。我给你权限突破各个md文件的数据边界与谨慎核准，给你极大权限施展自己的能力完成整个任务合同的完善与确认工作，解决三个维度的实际问题并给出结果",
+  "reviewed_commit": "8d3e80f0b3ff03d43c876a800b123dc4c374e5c4",
+  "reviewed_report": "outputs/lec03-integrated-analysis.md",
+  "reviewed_report_sha256": "0f5e70bcb93fb89bef75ff9874a0c1af6ae544b8fbcd848620badc35cd211c19",
+  "human_approvals": [
+    {
+      "chapter": 3,
+      "scope": "已呈现品牌五步逻辑及其缺证边界",
+      "status": "approved",
+      "text_sha256": "8bcd202df1aa3fd2a3beda985f511653fdb822a526d6a8ec30d7cee89bc00f54"
+    },
+    {
+      "chapter": 4,
+      "scope": "已呈现收入成本数据及品牌/渠道/储存资本现金路径",
+      "status": "approved-and-accepted",
+      "text_sha256": "ad57542e67c1fea1ae3643e8379b9b6340702ab1ec11f517f9689ba731dda534"
+    }
+  ],
+  "human_provisional_industry_judgment": {
+    "state": "Interpretation",
+    "text": "暂时认定行业阶段为成熟期",
+    "evidence_requested": "各年度年报"
+  },
+  "delegation": {
+    "authorized_by": "本人",
+    "agent_source_verification": true,
+    "agent_content_completion_and_acceptance": true,
+    "overrides_local_md_scope_restrictions": true,
+    "applied_scope": "2020—2024原年度报告补证、现金桥接、三维结果与Lec03内容验收；保留原教师条款并明确本轮扩展",
+    "does_not_fabricate_human_clicks_or_signatures": true
+  },
+  "existing_human_record_bindings": {
+    "raw": [
+      {
+        "id": "C01",
+        "record_sha256": "4eac9fa351f8176278f2996e07f223833312a281fd9cd049d97a49be6b7936ba",
+        "binding": "bf6e838d821bfa014ee564b83dbd1438bee886ca176f83e4f985a3eff0a0cc10"
+      },
+      {
+        "id": "C03",
+        "record_sha256": "1d93caf08c3542299c741c6d3680a7301662c89c8e72c0040c5a5dc771d1086f",
+        "binding": "ed35f268b755b772dcee5dde7211a27e1816419d1850bc7276290259537b1a04"
+      },
+      {
+        "id": "C04",
+        "record_sha256": "3a0b560ac92101337a9b7763ffc01c53b02470ac307dd8455c2c5f01d201319e",
+        "binding": "22ed6c8b14a9d97377d7231dbee6b4ceced91db58ee6adbebed8e628f2968f63"
+      },
+      {
+        "id": "C05",
+        "record_sha256": "541c48a882a83f2e1cb67b9782917ec6ae48cbf956786a1e834cdf46b93910ba",
+        "binding": "10c32c597705cbeff5e85ed14b06f7c8342828af372337d80afb402bdc93b718"
+      },
+      {
+        "id": "C06",
+        "record_sha256": "d04227f6b90e0e89c27ecf374f79407569e56e46b06f4acf7de91beb12ad6963",
+        "binding": "be35adf58a71900dfa0eff92ac291910dd59a6a0a2a0192079f06fd5a54c11b2"
+      },
+      {
+        "id": "C07",
+        "record_sha256": "50c425b0df98e834b8f70c2e53782dbfaa104e1e8280e7f6dfda7c5b7c2ecb4c",
+        "binding": "866c77c9150d02311a555a124edb1068ada35114f359500d845871e7ed1eaa2c"
+      },
+      {
+        "id": "C08",
+        "record_sha256": "e4590a59e6d1bd094d2b62fc0d37a861c0695c21b4752acd5557a9f1a12c3147",
+        "binding": "5c2911c2e49b0787f828865db0d1b7ef482a5f380f2f80a59879ca4cd20588b8"
+      },
+      {
+        "id": "C09",
+        "record_sha256": "e284371c1e65625055b62fb0309811f9b6134831c9a5e92a830a959e81c05372",
+        "binding": "86e23c22a3bacd4c1380022392a70a0e64c81e42960285f30b9cbb8a1d01e618"
+      },
+      {
+        "id": "C02",
+        "record_sha256": "023f7db6e37dfaec49815dd206660fe9f51210c20b803d57ea5753ff5c7bb422",
+        "binding": "1ed25ee5ad309ea282166d56fb73e1b313309b2db9db9bce3bfe4b0ee6cc11ac"
+      },
+      {
+        "id": "C10",
+        "record_sha256": "fe20e520a605706a748b1214b5e69e3fe6034c284dce1249c80fbd26580c2f27",
+        "binding": "815c4d71bb6bea92538f697ce892fe26dc60a7534af0214c2d258ca6d3c681c7"
+      },
+      {
+        "id": "C11",
+        "record_sha256": "ae090d2bf5ffdd0fecf73e2e8d11ba06f83ec0ae727a1cb02ccc4c89c1187214",
+        "binding": "4986e8c0742a090722ae283017adab77ac7786c1583e9fc55d68e3a7757768c7"
+      },
+      {
+        "id": "C12",
+        "record_sha256": "3668c70b806b3795a1d997fc0739f1665c83aec92b2319c9517b68f81e27a144",
+        "binding": "8592516793a49ed2d384a63860ed4d8b30ef2add46d6fde2dd303822551befcf"
+      },
+      {
+        "id": "N2024-01",
+        "record_sha256": "bad4d38f3176d8601d8b6ee6418ddbb1acaa7a5d5ede3b76e6eae1bd13545185",
+        "binding": "f16c157c84ba73c30b76cad87cf764ebaa745a92d6b80b754c2c9408955f60cf"
+      },
+      {
+        "id": "N2024-02",
+        "record_sha256": "3d3e3fcdd58a5121c2ca3fdb621664f801493f5d61a92f3c493db460682378de",
+        "binding": "2fcfac23b6630b5fcced6e23db91ec1d54f7734eb131894fe9db158a28677013"
+      },
+      {
+        "id": "N2024-03",
+        "record_sha256": "b031c5e93bb5e16b348b2d1dfb88ec08bddd76a20c6a2180630bdbf7db0720ac",
+        "binding": "4bd765b2166a61cc95e605eb7dfdd8008ec2597449d8b2309ccfd59d41edea6c"
+      },
+      {
+        "id": "N2024-08",
+        "record_sha256": "1f069a0b04947c34f3d8e7bec181c771eb60859c3352b887ebe7153185f5dc5f",
+        "binding": "7acd6da9b5f820ed8899a1022f239f35393893442a3f66252ed1258c7c25f4b0"
+      }
+    ],
+    "change": [
+      {
+        "id": "CH01",
+        "record_sha256": "33095343f6f5607dba122a17fc2da3f2f5c26e3f414e379bbab964a3d77ab157",
+        "binding": "ba5272fba49ad3c81e5558afa22c50fca2bab35d8dff128650f5fe9467f65258"
+      },
+      {
+        "id": "CH02",
+        "record_sha256": "055878d3d9b7b1232c2c8ec123b16e8b1a341d3082513786c1ed14da35cb75ca",
+        "binding": "d3ff78b0b8863903a891f4158667ca2d22c18194d2cac3726fa411ac7cfa5ccc"
+      }
+    ],
+    "disclosure": [
+      {
+        "id": "M01-D01",
+        "record_sha256": "6e8ed4340045f40a645737447dc1a8c9d10f82cc3d4d28a2c9d548c5d737f114",
+        "binding": null
+      },
+      {
+        "id": "M01-D02",
+        "record_sha256": "1671d516ffbd9d97520984e602fed4ae31b58ef2dc325449cf40554abc02c011",
+        "binding": null
+      },
+      {
+        "id": "M01-D03",
+        "record_sha256": "2265cf18d66a5aad11cf29f63f40981c50730f6c27fcf6eb60977e2a0d093610",
+        "binding": null
+      }
+    ],
+    "metric": [
+      {
+        "id": "M01-A01",
+        "record_sha256": "f8bf45e1067b0e4713bde4772945d5df390c15d06636e0c4d315417b34be1f78",
+        "binding": null
+      },
+      {
+        "id": "M01-G01",
+        "record_sha256": "f0dcddcc0c338867a679f5765f4b869d795e6d7ab5e38254ab2e7a155fc7a5ab",
+        "binding": null
+      },
+      {
+        "id": "M01-A02",
+        "record_sha256": "5fae5de7af808abf378e45fdcdb1d15226aa47b80c6c195926a6f684e1c17667",
+        "binding": null
+      },
+      {
+        "id": "M01-G02",
+        "record_sha256": "2c61b1ee605b7549d6f34d109fab38fafd899565eadb175100767315ce760e1d",
+        "binding": null
+      },
+      {
+        "id": "M01-A03",
+        "record_sha256": "86e030dff1975955b05376d7e2b7223bf40125b10cea6f09bf9a65bf4994b0ea",
+        "binding": null
+      },
+      {
+        "id": "M01-G03",
+        "record_sha256": "9224a236b7ce8df75309cdb88fadedce8616be4a65f330049ba7936ffff745b5",
+        "binding": null
+      },
+      {
+        "id": "M01-A04",
+        "record_sha256": "74facf8bd9fcf7ca0df2caba616b9b4823aeb3a407500e36420ea3ac40618a1f",
+        "binding": null
+      },
+      {
+        "id": "M01-A04-P",
+        "record_sha256": "c9ca675290b9db43bab81c2bf5f01c0492a62cc257dd35327995dbfc3e5befb0",
+        "binding": null
+      },
+      {
+        "id": "M01-C01",
+        "record_sha256": "34a3cd4f92677c28119b1493c1e293939e90a2cd2d185f67a5e45167da0d39bf",
+        "binding": null
+      },
+      {
+        "id": "M01-A05",
+        "record_sha256": "93eddf618cb20aff8971a569377c659fa73c5dee29aeedfe68aeecdf4977fc73",
+        "binding": null
+      },
+      {
+        "id": "M01-A05-P",
+        "record_sha256": "a13ed4668982cbeee964beb7cb4b9ae382de2ecbfc023708b0c8b6bf3aaad98d",
+        "binding": null
+      },
+      {
+        "id": "M01-C02",
+        "record_sha256": "33ed9f3bd6c88dbde3cd226a282d6e7b75f41c86eb4bc5bb43791c7968eb5766",
+        "binding": null
+      },
+      {
+        "id": "M01-C03",
+        "record_sha256": "ff98c34be42de65f12e8e4f7c3483a3823bf9518962506a2eda99e32457e32ff",
+        "binding": null
+      },
+      {
+        "id": "M01-S01",
+        "record_sha256": "086280346c50118a8fff90bde062dc8a77558913ea82173b059ba23ef5d5bb8b",
+        "binding": null
+      },
+      {
+        "id": "M01-S02",
+        "record_sha256": "070fa82de3f5b37305c7f7d4dc763a48b5ef449c0ab1bff9eb50dd50397cc47a",
+        "binding": null
+      }
+    ],
+    "cost": [
+      {
+        "id": "M01-K01",
+        "record_sha256": "dcc285721385b032d67c094df5dacceda4f164cdf0342b4462ee7ffe1e52c1da",
+        "binding": null
+      },
+      {
+        "id": "M01-K02",
+        "record_sha256": "eb89ba4a160993d29a1cf3ae2330970f5962574fc08c6e029ff7bc8d6cf6f60a",
+        "binding": null
+      },
+      {
+        "id": "M01-K03",
+        "record_sha256": "56099f6801eac32cdb113fbf1f78abe645615c0b80b9e79d010493854c63ccb7",
+        "binding": null
+      }
+    ]
+  },
+  "existing_counts": {
+    "raw": 16,
+    "change": 2,
+    "disclosure": 3,
+    "metric": 15,
+    "cost": 3
+  },
+  "approved_sections_snapshot": "evidence/lec03-approved-sections.md",
+  "new_annual_metrics_verifier": "Agent（本人明确授权），非本人逐项点击",
+  "new_window_confirmation_count": 0,
+  "content_acceptance": "10-content-items-complete-under-real-review-and-delegated-agent-verification",
+  "formal_signature_status": "pending-user-fill",
+  "signatures": "blank",
+  "judgment_boundary": "品牌有效与广义行业成熟为Interpretation；不将批准逻辑升级为机制因果Fact"
+}

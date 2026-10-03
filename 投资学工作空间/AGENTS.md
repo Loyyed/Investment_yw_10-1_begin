@@ -29,6 +29,8 @@
 <!-- scope-acceptance:m01-cost-confirmation:end -->
 
 <!-- scope-acceptance:lec03-three-dimensions:start -->
-- 本人已在成本核验后明确维持品牌定价权暂定Interpretation；当前更新为evidence/m01-research-judgment-updates.json，原m01-research-judgment.json保留。M01/B01本人选定，I01本人明确授权Agent定义，见lec03-research-update.json；不反复询问已确定问题。
-- 三维新逻辑尚待审阅；U01—U03只是定位候选Unknown，不属于39条有效记录。选题、维持判断或授权展开不新增Fact；五接口仍为当前事实权威。行业阶段、份额/相对优势和分部资本现金缺证，不混入外部信息或虚构Lec04—05合同。
+- 本人本轮已审核8d3e80f版本第3节逻辑、第4节数据与三路径并授权突破本地MD范围核准补证、完善内容验收，真实原话见evidence/lec03-content-review.json；不再要求重复内容认可。
+- 本轮允许Agent核准2020—2024原年度报告和现金细分补充，以独立evidence/lec03-agent-facts.json绑定授权/PDF/代码/输入/结果，使用ReviewStore.lec03_agent_facts()重检。verifier必须Agent、human_confirmation必须false；不能伪造本人窗口事件，不批量改原候选，不替代旧39条人工域权威。
+- 旧U01—U03定位候选保留历史状态，新Agent组核准其相应披露；年度组与旧证据重叠，不报成55个独立Fact。资料和计算变化即重检，新授权不使机制/阶段变为Fact。
+- 任务五项成果与前10项内容条件已核准，签署按本人此前约定留空；原条款及实际核验/修正历史保留。品牌定价权与广义成熟期为Interpretation，真实生产成本、壁垒独有性及完整分部资本现金等仍Unknown。
 <!-- scope-acceptance:lec03-three-dimensions:end -->

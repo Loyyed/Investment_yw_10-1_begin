@@ -1,0 +1,1303 @@
+{
+  "schema_version": 1,
+  "years": [
+    {
+      "year": 2020,
+      "pdf_path": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "pdf_sha256": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c",
+      "industry": {
+        "production_wan_kl": "740.73",
+        "sales_revenue_yi": "5836.39",
+        "total_profit_yi": "1585.41",
+        "reported_production_yoy_percent": "-2.46",
+        "reported_revenue_yoy_percent": "4.61",
+        "reported_profit_yoy_percent": "13.35",
+        "scope": "年报引用的全国规模以上白酒；非高端酱香市场统计",
+        "location": 12,
+        "company_narrative": "市场份额逐渐向头部企业集中",
+        "narrative_pages": [
+          16
+        ]
+      },
+      "products": [
+        {
+          "name": "茅台酒",
+          "revenue_yuan": "84830936002.19",
+          "cost_yuan": "5100340201.05",
+          "production_tonnes": "50235.17",
+          "reported_production_yoy_percent": "0.63",
+          "sales_tonnes": "34312.53",
+          "reported_sales_yoy_percent": "-0.72",
+          "amount_page": 8,
+          "volume_pages": [
+            13
+          ],
+          "asp_wanyuan_per_sales_tonne": "247.23",
+          "gross_margin_percent": "93.99"
+        },
+        {
+          "name": "其他系列酒",
+          "revenue_yuan": "9991063100.26",
+          "cost_yuan": "2983031217.19",
+          "production_tonnes": "24925.37",
+          "reported_production_yoy_percent": "-0.78",
+          "sales_tonnes": "29743.35",
+          "reported_sales_yoy_percent": "-1.13",
+          "amount_page": 8,
+          "volume_pages": [
+            13
+          ],
+          "asp_wanyuan_per_sales_tonne": "33.59",
+          "gross_margin_percent": "70.14"
+        }
+      ],
+      "wine": {
+        "revenue_yuan": "94821999102.45",
+        "cost_yuan": "8083371418.24",
+        "gross_margin_percent": "91.48"
+      },
+      "channels": [
+        {
+          "name": "直销",
+          "revenue_yuan": "13240356503.01",
+          "cost_yuan": "579663668.13",
+          "sales_tonnes": "3932.08",
+          "display_revenue_wanyuan": "1324035.65",
+          "amount_page": 14,
+          "volume_page": 13,
+          "gross_margin_percent": "95.62",
+          "revenue_share_percent": "13.96",
+          "asp_wanyuan_per_sales_tonne": "336.73"
+        },
+        {
+          "name": "批发代理",
+          "revenue_yuan": "81581642599.44",
+          "cost_yuan": "7503707750.11",
+          "sales_tonnes": "60123.80",
+          "display_revenue_wanyuan": "8158164.26",
+          "amount_page": 14,
+          "volume_page": 13,
+          "gross_margin_percent": "90.80",
+          "revenue_share_percent": "86.04",
+          "asp_wanyuan_per_sales_tonne": "135.69"
+        }
+      ],
+      "physical_inventory": {
+        "finished_tonnes": "8314.11",
+        "semi_finished_tonnes": "240921.41",
+        "page": 12
+      },
+      "storage_disclosure": {
+        "minimum_years": 5,
+        "multi_vintage_blending": true,
+        "page": 13,
+        "boundary": "仅证明公司持续披露工艺与储存安排，不证明壁垒独有性"
+      },
+      "consolidated_net_profit_yuan": "49523329882.40",
+      "net_profit_page": 54,
+      "cash_rows": {
+        "销售商品、提供劳务收到的现金": {
+          "current_yuan": "107024384560.17",
+          "previous_yuan": "94980138631.64",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 57,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "客户存款和同业存放款项净增加额": {
+          "current_yuan": "3189100199.87",
+          "previous_yuan": "-437417306.80",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 57,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "收取利息、手续费及佣金的现金": {
+          "current_yuan": "3075945383.34",
+          "previous_yuan": "3667633965.97",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 57,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "收到的税费返还": {
+          "current_yuan": "0",
+          "previous_yuan": "0",
+          "current_blank": true,
+          "previous_blank": true,
+          "page": 57,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "收到其他与经营活动有关的现金": {
+          "current_yuan": "221421226.63",
+          "previous_yuan": "1234081863.41",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 57,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "购买商品、接受劳务支付的现金": {
+          "current_yuan": "7230646129.19",
+          "previous_yuan": "5521948744.75",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 57,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "客户贷款及垫款净增加额": {
+          "current_yuan": "2978755728.00",
+          "previous_yuan": "13000000.00",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 57,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "存放中央银行和同业款项净增加额": {
+          "current_yuan": "-2506406682.56",
+          "previous_yuan": "-4503181198.43",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 57,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "拆出资金净增加额": {
+          "current_yuan": "200000000.00",
+          "previous_yuan": "200000000.00",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 57,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "支付利息、手续费及佣金的现金": {
+          "current_yuan": "107241768.26",
+          "previous_yuan": "175423942.78",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 57,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "支付给职工及为职工支付的现金": {
+          "current_yuan": "8161813197.26",
+          "previous_yuan": "7669863126.24",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 57,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "支付的各项税费": {
+          "current_yuan": "41622706350.37",
+          "previous_yuan": "39841352755.42",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 57,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "支付其他与经营活动有关的现金": {
+          "current_yuan": "4047026186.46",
+          "previous_yuan": "5315417150.90",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 57,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "经营活动产生的现金流量净额": {
+          "current_yuan": "51669068693.03",
+          "previous_yuan": "45210612632.56",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 57,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "购建固定资产、无形资产和其他长期资产支付的现金": {
+          "current_yuan": "2089769498.78",
+          "previous_yuan": "3148864661.38",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 57,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        }
+      },
+      "cash_pages": [
+        56,
+        57,
+        58,
+        59
+      ],
+      "cash_reason": null,
+      "two_independent_pdf_engines": "pypdf+pymupdf; cash columns spatially resolved",
+      "cash_analysis": {
+        "cfo_yuan": "51669068693.03",
+        "explicit_financial_items_net_yuan": "5485454769.51",
+        "after_listed_financial_items_residual_yuan": "46183613923.52",
+        "capex_cash_yuan": "2089769498.78",
+        "simplified_cfo_minus_capex_yuan": "49579299194.25",
+        "cfo_to_consolidated_profit_percent": "104.33",
+        "boundary": "集团原报年度口径；金融剔除余额仍含金融业务分摊税费薪酬、酒店/冰淇淋及银行利息等，不是准确酒类CFO；CFO减购建长期资产现金仅简化代理，不是完整FCFF/FCFE。"
+      }
+    },
+    {
+      "year": 2021,
+      "pdf_path": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+      "pdf_sha256": "f65effdde58bcea99fd6bdb53f61b31d5c432e6dfb2661e5caf05156a433ea5a",
+      "industry": {
+        "production_wan_kl": "715.63",
+        "sales_revenue_yi": "6033.48",
+        "total_profit_yi": "1701.94",
+        "reported_production_yoy_percent": "-0.59",
+        "reported_revenue_yoy_percent": "18.6",
+        "reported_profit_yoy_percent": "32.95",
+        "scope": "年报引用的全国规模以上白酒；非高端酱香市场统计",
+        "location": 13,
+        "company_narrative": "白酒行业产销总量趋于平稳",
+        "narrative_pages": [
+          16,
+          17
+        ]
+      },
+      "products": [
+        {
+          "name": "茅台酒",
+          "revenue_yuan": "93464512115.94",
+          "cost_yuan": "5577910539.00",
+          "production_tonnes": "56472.25",
+          "reported_production_yoy_percent": "12.42",
+          "sales_tonnes": "36261.31",
+          "reported_sales_yoy_percent": "5.68",
+          "amount_page": 8,
+          "volume_pages": [
+            14
+          ],
+          "asp_wanyuan_per_sales_tonne": "257.75",
+          "gross_margin_percent": "94.03"
+        },
+        {
+          "name": "其他系列酒",
+          "revenue_yuan": "12594778226.24",
+          "cost_yuan": "3313079971.72",
+          "production_tonnes": "28248.92",
+          "reported_production_yoy_percent": "13.33",
+          "sales_tonnes": "30177.38",
+          "reported_sales_yoy_percent": "1.46",
+          "amount_page": 8,
+          "volume_pages": [
+            14
+          ],
+          "asp_wanyuan_per_sales_tonne": "41.74",
+          "gross_margin_percent": "73.69"
+        }
+      ],
+      "wine": {
+        "revenue_yuan": "106059290342.18",
+        "cost_yuan": "8890990510.72",
+        "gross_margin_percent": "91.62"
+      },
+      "channels": [
+        {
+          "name": "直销",
+          "revenue_yuan": "24029362357.92",
+          "cost_yuan": "932607888.24",
+          "sales_tonnes": "5735.70",
+          "display_revenue_wanyuan": "2402936.23",
+          "amount_page": 15,
+          "volume_page": 15,
+          "gross_margin_percent": "96.12",
+          "revenue_share_percent": "22.66",
+          "asp_wanyuan_per_sales_tonne": "418.94"
+        },
+        {
+          "name": "批发代理",
+          "revenue_yuan": "82029927984.26",
+          "cost_yuan": "7958382622.48",
+          "sales_tonnes": "60702.99",
+          "display_revenue_wanyuan": "8202992.80",
+          "amount_page": 15,
+          "volume_page": 15,
+          "gross_margin_percent": "90.30",
+          "revenue_share_percent": "77.34",
+          "asp_wanyuan_per_sales_tonne": "135.13"
+        }
+      ],
+      "physical_inventory": {
+        "finished_tonnes": "10282.35",
+        "semi_finished_tonnes": "250463.82",
+        "page": 13
+      },
+      "storage_disclosure": {
+        "minimum_years": 5,
+        "multi_vintage_blending": true,
+        "page": 14,
+        "boundary": "仅证明公司持续披露工艺与储存安排，不证明壁垒独有性"
+      },
+      "consolidated_net_profit_yuan": "55720529956.46",
+      "net_profit_page": 55,
+      "cash_rows": {
+        "销售商品、提供劳务收到的现金": {
+          "current_yuan": "119320536796.65",
+          "previous_yuan": "107024384560.17",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 57,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "客户存款和同业存放款项净增加额": {
+          "current_yuan": "7511166145.93",
+          "previous_yuan": "3189100199.87",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 57,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "收取利息、手续费及佣金的现金": {
+          "current_yuan": "3145747032.91",
+          "previous_yuan": "3075945383.34",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 57,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "收到的税费返还": {
+          "current_yuan": "0",
+          "previous_yuan": "0",
+          "current_blank": true,
+          "previous_blank": true,
+          "page": 57,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "收到其他与经营活动有关的现金": {
+          "current_yuan": "1643536862.48",
+          "previous_yuan": "221421226.63",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 57,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "购买商品、接受劳务支付的现金": {
+          "current_yuan": "7745959630.90",
+          "previous_yuan": "7230646129.19",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 57,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "客户贷款及垫款净增加额": {
+          "current_yuan": "484244272.00",
+          "previous_yuan": "2978755728.00",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 57,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "存放中央银行和同业款项净增加额": {
+          "current_yuan": "559089326.28",
+          "previous_yuan": "-2506406682.56",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 57,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "拆出资金净增加额": {
+          "current_yuan": "-400000000.00",
+          "previous_yuan": "200000000.00",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 57,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "支付利息、手续费及佣金的现金": {
+          "current_yuan": "163462728.48",
+          "previous_yuan": "107241768.26",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 57,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "支付给职工及为职工支付的现金": {
+          "current_yuan": "10061366201.66",
+          "previous_yuan": "8161813197.26",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 57,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "支付的各项税费": {
+          "current_yuan": "44609684025.28",
+          "previous_yuan": "41622706350.37",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 57,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "支付其他与经营活动有关的现金": {
+          "current_yuan": "4368504506.00",
+          "previous_yuan": "4047026186.46",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 57,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "经营活动产生的现金流量净额": {
+          "current_yuan": "64028676147.37",
+          "previous_yuan": "51669068693.03",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 57,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "购建固定资产、无形资产和其他长期资产支付的现金": {
+          "current_yuan": "3408784532.01",
+          "previous_yuan": "2089769498.78",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 58,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        }
+      },
+      "cash_pages": [
+        57,
+        58,
+        59,
+        60
+      ],
+      "cash_reason": null,
+      "two_independent_pdf_engines": "pypdf+pymupdf; cash columns spatially resolved",
+      "cash_analysis": {
+        "cfo_yuan": "64028676147.37",
+        "explicit_financial_items_net_yuan": "9850116852.08",
+        "after_listed_financial_items_residual_yuan": "54178559295.29",
+        "capex_cash_yuan": "3408784532.01",
+        "simplified_cfo_minus_capex_yuan": "60619891615.36",
+        "cfo_to_consolidated_profit_percent": "114.91",
+        "boundary": "集团原报年度口径；金融剔除余额仍含金融业务分摊税费薪酬、酒店/冰淇淋及银行利息等，不是准确酒类CFO；CFO减购建长期资产现金仅简化代理，不是完整FCFF/FCFE。"
+      }
+    },
+    {
+      "year": 2022,
+      "pdf_path": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "pdf_sha256": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358",
+      "industry": {
+        "production_wan_kl": "671.24",
+        "sales_revenue_yi": "6626.45",
+        "total_profit_yi": "2201.72",
+        "reported_production_yoy_percent": "-5.58",
+        "reported_revenue_yoy_percent": "9.64",
+        "reported_profit_yoy_percent": "29.36",
+        "scope": "年报引用的全国规模以上白酒；非高端酱香市场统计",
+        "location": 14,
+        "company_narrative": "行业“马太效应”越发明显",
+        "narrative_pages": [
+          18
+        ]
+      },
+      "products": [
+        {
+          "name": "茅台酒",
+          "revenue_yuan": "107833685277.94",
+          "cost_yuan": "6265810909.88",
+          "production_tonnes": "56810.44",
+          "reported_production_yoy_percent": "0.60",
+          "sales_tonnes": "37901.39",
+          "reported_sales_yoy_percent": "4.52",
+          "amount_page": 9,
+          "volume_pages": [
+            14,
+            15
+          ],
+          "asp_wanyuan_per_sales_tonne": "284.51",
+          "gross_margin_percent": "94.19"
+        },
+        {
+          "name": "其他系列酒",
+          "revenue_yuan": "15938647070.77",
+          "cost_yuan": "3630302426.92",
+          "production_tonnes": "35075.39",
+          "reported_production_yoy_percent": "24.17",
+          "sales_tonnes": "30274.93",
+          "reported_sales_yoy_percent": "0.32",
+          "amount_page": 9,
+          "volume_pages": [
+            14,
+            15
+          ],
+          "asp_wanyuan_per_sales_tonne": "52.65",
+          "gross_margin_percent": "77.22"
+        }
+      ],
+      "wine": {
+        "revenue_yuan": "123772332348.71",
+        "cost_yuan": "9896113336.80",
+        "gross_margin_percent": "92.00"
+      },
+      "channels": [
+        {
+          "name": "直销",
+          "revenue_yuan": "49378737661.60",
+          "cost_yuan": "1874222059.91",
+          "sales_tonnes": "11186.57",
+          "display_revenue_wanyuan": "4937873.77",
+          "amount_page": 16,
+          "volume_page": 15,
+          "gross_margin_percent": "96.20",
+          "revenue_share_percent": "39.89",
+          "asp_wanyuan_per_sales_tonne": "441.41"
+        },
+        {
+          "name": "批发代理",
+          "revenue_yuan": "74393594687.11",
+          "cost_yuan": "8021891276.89",
+          "sales_tonnes": "56989.75",
+          "display_revenue_wanyuan": "7439359.47",
+          "amount_page": 16,
+          "volume_page": 15,
+          "gross_margin_percent": "89.22",
+          "revenue_share_percent": "60.11",
+          "asp_wanyuan_per_sales_tonne": "130.54"
+        }
+      ],
+      "physical_inventory": {
+        "finished_tonnes": "12495.28",
+        "semi_finished_tonnes": "264127.89",
+        "page": 14
+      },
+      "storage_disclosure": {
+        "minimum_years": 5,
+        "multi_vintage_blending": true,
+        "page": 15,
+        "boundary": "仅证明公司持续披露工艺与储存安排，不证明壁垒独有性"
+      },
+      "consolidated_net_profit_yuan": "65375136766.75",
+      "net_profit_page": 59,
+      "cash_rows": {
+        "销售商品、提供劳务收到的现金": {
+          "current_yuan": "140691678592.00",
+          "previous_yuan": "119320536796.65",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 61,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "客户存款和同业存放款项净增加额": {
+          "current_yuan": "-8916033228.67",
+          "previous_yuan": "7511166145.93",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 61,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "收取利息、手续费及佣金的现金": {
+          "current_yuan": "3247615476.04",
+          "previous_yuan": "3145747032.91",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 61,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "收到的税费返还": {
+          "current_yuan": "33191912.56",
+          "previous_yuan": "0",
+          "current_blank": false,
+          "previous_blank": true,
+          "page": 61,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "收到其他与经营活动有关的现金": {
+          "current_yuan": "2759422171.88",
+          "previous_yuan": "1643536862.48",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 61,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "购买商品、接受劳务支付的现金": {
+          "current_yuan": "8357859151.03",
+          "previous_yuan": "7745959630.90",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 61,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "客户贷款及垫款净增加额": {
+          "current_yuan": "723778672.00",
+          "previous_yuan": "484244272.00",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 61,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "存放中央银行和同业款项净增加额": {
+          "current_yuan": "13037761321.90",
+          "previous_yuan": "559089326.28",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 61,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "拆出资金净增加额": {
+          "current_yuan": "0",
+          "previous_yuan": "-400000000.00",
+          "current_blank": true,
+          "previous_blank": false,
+          "page": 61,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "支付利息、手续费及佣金的现金": {
+          "current_yuan": "79226410.98",
+          "previous_yuan": "163462728.48",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 61,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "支付给职工及为职工支付的现金": {
+          "current_yuan": "11752241598.62",
+          "previous_yuan": "10061366201.66",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 61,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "支付的各项税费": {
+          "current_yuan": "62043324506.36",
+          "previous_yuan": "44609684025.28",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 62,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "支付其他与经营活动有关的现金": {
+          "current_yuan": "5123087432.89",
+          "previous_yuan": "4368504506.00",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 62,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "经营活动产生的现金流量净额": {
+          "current_yuan": "36698595830.03",
+          "previous_yuan": "64028676147.37",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 62,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "购建固定资产、无形资产和其他长期资产支付的现金": {
+          "current_yuan": "5306546416.54",
+          "previous_yuan": "3408784532.01",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 62,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        }
+      },
+      "cash_pages": [
+        61,
+        62,
+        63,
+        64
+      ],
+      "cash_reason": {
+        "page": 8,
+        "management_explanations": [
+          "公司吸收存款减少",
+          "不可提前支取的同业定期存款增加"
+        ],
+        "boundary": "核准管理层确实如此解释；现金分解作独立数字对照，不把自述等同完整因果证明"
+      },
+      "two_independent_pdf_engines": "pypdf+pymupdf; cash columns spatially resolved",
+      "cash_analysis": {
+        "cfo_yuan": "36698595830.03",
+        "explicit_financial_items_net_yuan": "-19509184157.51",
+        "after_listed_financial_items_residual_yuan": "56207779987.54",
+        "capex_cash_yuan": "5306546416.54",
+        "simplified_cfo_minus_capex_yuan": "31392049413.49",
+        "cfo_to_consolidated_profit_percent": "56.14",
+        "boundary": "集团原报年度口径；金融剔除余额仍含金融业务分摊税费薪酬、酒店/冰淇淋及银行利息等，不是准确酒类CFO；CFO减购建长期资产现金仅简化代理，不是完整FCFF/FCFE。"
+      }
+    },
+    {
+      "year": 2023,
+      "pdf_path": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "pdf_sha256": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1",
+      "industry": {
+        "production_wan_kl": "449.2",
+        "sales_revenue_yi": "7563",
+        "total_profit_yi": "2328",
+        "reported_production_yoy_percent": "-2.8",
+        "reported_revenue_yoy_percent": "9.7",
+        "reported_profit_yoy_percent": "7.5",
+        "scope": "年报引用的全国规模以上白酒；非高端酱香市场统计",
+        "location": 14,
+        "company_narrative": "全国白酒行业进入了“存量竞争”时期",
+        "narrative_pages": [
+          19
+        ]
+      },
+      "products": [
+        {
+          "name": "茅台酒",
+          "revenue_yuan": "126589066691.89",
+          "cost_yuan": "7445470669.11",
+          "production_tonnes": "57204.11",
+          "reported_production_yoy_percent": "0.69",
+          "sales_tonnes": "42109.50",
+          "reported_sales_yoy_percent": "11.10",
+          "amount_page": 9,
+          "volume_pages": [
+            15
+          ],
+          "asp_wanyuan_per_sales_tonne": "300.62",
+          "gross_margin_percent": "94.12"
+        },
+        {
+          "name": "其他系列酒",
+          "revenue_yuan": "20629929589.15",
+          "cost_yuan": "4174732984.21",
+          "production_tonnes": "42937.04",
+          "reported_production_yoy_percent": "22.41",
+          "sales_tonnes": "31164.54",
+          "reported_sales_yoy_percent": "2.94",
+          "amount_page": 9,
+          "volume_pages": [
+            15
+          ],
+          "asp_wanyuan_per_sales_tonne": "66.20",
+          "gross_margin_percent": "79.76"
+        }
+      ],
+      "wine": {
+        "revenue_yuan": "147218996281.04",
+        "cost_yuan": "11620203653.32",
+        "gross_margin_percent": "92.11"
+      },
+      "channels": [
+        {
+          "name": "直销",
+          "revenue_yuan": "67232876883.14",
+          "cost_yuan": "3050843541.66",
+          "sales_tonnes": "15634.95",
+          "display_revenue_wanyuan": "6723287.69",
+          "amount_page": 17,
+          "volume_page": 16,
+          "gross_margin_percent": "95.46",
+          "revenue_share_percent": "45.67",
+          "asp_wanyuan_per_sales_tonne": "430.02"
+        },
+        {
+          "name": "批发代理",
+          "revenue_yuan": "79986119397.90",
+          "cost_yuan": "8569360111.66",
+          "sales_tonnes": "57639.09",
+          "display_revenue_wanyuan": "7998611.94",
+          "amount_page": 17,
+          "volume_page": 16,
+          "gross_margin_percent": "89.29",
+          "revenue_share_percent": "54.33",
+          "asp_wanyuan_per_sales_tonne": "138.77"
+        }
+      ],
+      "physical_inventory": {
+        "finished_tonnes": "13985.07",
+        "semi_finished_tonnes": "279804.96",
+        "page": 15
+      },
+      "storage_disclosure": {
+        "minimum_years": 5,
+        "multi_vintage_blending": true,
+        "page": 15,
+        "boundary": "仅证明公司持续披露工艺与储存安排，不证明壁垒独有性"
+      },
+      "consolidated_net_profit_yuan": "77521476277.80",
+      "net_profit_page": 64,
+      "cash_rows": {
+        "销售商品、提供劳务收到的现金": {
+          "current_yuan": "163699909417.62",
+          "previous_yuan": "140691678592.00",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 66,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "客户存款和同业存放款项净增加额": {
+          "current_yuan": "-810223002.76",
+          "previous_yuan": "-8916033228.67",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 66,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "收取利息、手续费及佣金的现金": {
+          "current_yuan": "3018786023.42",
+          "previous_yuan": "3247615476.04",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 66,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "收到的税费返还": {
+          "current_yuan": "1500047.04",
+          "previous_yuan": "33191912.56",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 66,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "收到其他与经营活动有关的现金": {
+          "current_yuan": "2346196470.63",
+          "previous_yuan": "2759422171.88",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 66,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "购买商品、接受劳务支付的现金": {
+          "current_yuan": "11029476036.21",
+          "previous_yuan": "8357859151.03",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 66,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "客户贷款及垫款净增加额": {
+          "current_yuan": "-2051930316.19",
+          "previous_yuan": "723778672.00",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 66,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "存放中央银行和同业款项净增加额": {
+          "current_yuan": "1570003429.01",
+          "previous_yuan": "13037761321.90",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 67,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "拆出资金净增加额": {
+          "current_yuan": "2500000000.00",
+          "previous_yuan": "0",
+          "current_blank": false,
+          "previous_blank": true,
+          "page": 67,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "支付利息、手续费及佣金的现金": {
+          "current_yuan": "142896151.21",
+          "previous_yuan": "79226410.98",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 67,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "支付给职工及为职工支付的现金": {
+          "current_yuan": "13845293907.26",
+          "previous_yuan": "11752241598.62",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 67,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "支付的各项税费": {
+          "current_yuan": "66683472509.22",
+          "previous_yuan": "62043324506.36",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 67,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "支付其他与经营活动有关的现金": {
+          "current_yuan": "7943709518.14",
+          "previous_yuan": "5123087432.89",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 67,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "经营活动产生的现金流量净额": {
+          "current_yuan": "66593247721.09",
+          "previous_yuan": "36698595830.03",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 67,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "购建固定资产、无形资产和其他长期资产支付的现金": {
+          "current_yuan": "2619755888.79",
+          "previous_yuan": "5306546416.54",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 67,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        }
+      },
+      "cash_pages": [
+        66,
+        67,
+        68,
+        69
+      ],
+      "cash_reason": {
+        "page": 9,
+        "management_explanations": [
+          "销售商品收到的现金增加",
+          "不可提前支取的定期存款净增加额减少"
+        ],
+        "boundary": "核准管理层确实如此解释；现金分解作独立数字对照，不把自述等同完整因果证明"
+      },
+      "two_independent_pdf_engines": "pypdf+pymupdf; cash columns spatially resolved",
+      "cash_analysis": {
+        "cfo_yuan": "66593247721.09",
+        "explicit_financial_items_net_yuan": "47593756.63",
+        "after_listed_financial_items_residual_yuan": "66545653964.46",
+        "capex_cash_yuan": "2619755888.79",
+        "simplified_cfo_minus_capex_yuan": "63973491832.30",
+        "cfo_to_consolidated_profit_percent": "85.90",
+        "boundary": "集团原报年度口径；金融剔除余额仍含金融业务分摊税费薪酬、酒店/冰淇淋及银行利息等，不是准确酒类CFO；CFO减购建长期资产现金仅简化代理，不是完整FCFF/FCFE。"
+      }
+    },
+    {
+      "year": 2024,
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "industry": {
+        "production_wan_kl": "414.5",
+        "sales_revenue_yi": "7963.84",
+        "total_profit_yi": "2508.65",
+        "reported_production_yoy_percent": null,
+        "reported_revenue_yoy_percent": null,
+        "reported_profit_yoy_percent": null,
+        "scope": "年报引用的全国规模以上白酒；非高端酱香市场统计",
+        "location": 14,
+        "company_narrative": "白酒行业正处于宏观经济周期与产业调整周期的双重叠加时期",
+        "narrative_pages": [
+          20
+        ]
+      },
+      "products": [
+        {
+          "name": "茅台酒",
+          "revenue_yuan": "145928075955.31",
+          "cost_yuan": "8662079388.78",
+          "production_tonnes": "56271.99",
+          "reported_production_yoy_percent": "-1.63",
+          "sales_tonnes": "46412.95",
+          "reported_sales_yoy_percent": "10.22",
+          "amount_page": 9,
+          "volume_pages": [
+            15
+          ],
+          "asp_wanyuan_per_sales_tonne": "314.41",
+          "gross_margin_percent": "94.06"
+        },
+        {
+          "name": "其他系列酒",
+          "revenue_yuan": "24683762096.71",
+          "cost_yuan": "4967916424.11",
+          "production_tonnes": "48112.51",
+          "reported_production_yoy_percent": "12.05",
+          "sales_tonnes": "36919.81",
+          "reported_sales_yoy_percent": "18.47",
+          "amount_page": 9,
+          "volume_pages": [
+            15
+          ],
+          "asp_wanyuan_per_sales_tonne": "66.86",
+          "gross_margin_percent": "79.87"
+        }
+      ],
+      "wine": {
+        "revenue_yuan": "170611838052.02",
+        "cost_yuan": "13629995812.89",
+        "gross_margin_percent": "92.01"
+      },
+      "channels": [
+        {
+          "name": "直销",
+          "revenue_yuan": "74843327030.79",
+          "cost_yuan": "3493952839.59",
+          "sales_tonnes": "18221.93",
+          "display_revenue_wanyuan": "7484332.71",
+          "amount_page": 9,
+          "volume_page": 16,
+          "gross_margin_percent": "95.33",
+          "revenue_share_percent": "43.87",
+          "asp_wanyuan_per_sales_tonne": "410.73"
+        },
+        {
+          "name": "批发代理",
+          "revenue_yuan": "95768511021.23",
+          "cost_yuan": "10136042973.30",
+          "sales_tonnes": "65110.83",
+          "display_revenue_wanyuan": "9576851.10",
+          "amount_page": 9,
+          "volume_page": 16,
+          "gross_margin_percent": "89.42",
+          "revenue_share_percent": "56.13",
+          "asp_wanyuan_per_sales_tonne": "147.09"
+        }
+      ],
+      "physical_inventory": {
+        "finished_tonnes": "17760.00",
+        "semi_finished_tonnes": "292248.02",
+        "page": 14
+      },
+      "storage_disclosure": {
+        "minimum_years": 5,
+        "multi_vintage_blending": true,
+        "page": 15,
+        "boundary": "仅证明公司持续披露工艺与储存安排，不证明壁垒独有性"
+      },
+      "consolidated_net_profit_yuan": "89334728025.90",
+      "net_profit_page": 64,
+      "cash_rows": {
+        "销售商品、提供劳务收到的现金": {
+          "current_yuan": "182645203339.89",
+          "previous_yuan": "163699909417.62",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 66,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "客户存款和同业存放款项净增加额": {
+          "current_yuan": "11060205782.10",
+          "previous_yuan": "-810223002.76",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 66,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "收取利息、手续费及佣金的现金": {
+          "current_yuan": "3122827833.43",
+          "previous_yuan": "3018786023.42",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 66,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "收到的税费返还": {
+          "current_yuan": "0",
+          "previous_yuan": "1500047.04",
+          "current_blank": true,
+          "previous_blank": false,
+          "page": 67,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "收到其他与经营活动有关的现金": {
+          "current_yuan": "3258097705.14",
+          "previous_yuan": "2346196470.63",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 67,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "购买商品、接受劳务支付的现金": {
+          "current_yuan": "10824874163.03",
+          "previous_yuan": "11029476036.21",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 67,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "客户贷款及垫款净增加额": {
+          "current_yuan": "262376929.65",
+          "previous_yuan": "-2051930316.19",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 67,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "存放中央银行和同业款项净增加额": {
+          "current_yuan": "-4585245646.29",
+          "previous_yuan": "1570003429.01",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 67,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "拆出资金净增加额": {
+          "current_yuan": "-400000000.00",
+          "previous_yuan": "2500000000.00",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 67,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "支付利息、手续费及佣金的现金": {
+          "current_yuan": "97061751.28",
+          "previous_yuan": "142896151.21",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 67,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "支付给职工及为职工支付的现金": {
+          "current_yuan": "15352541000.17",
+          "previous_yuan": "13845293907.26",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 67,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "支付的各项税费": {
+          "current_yuan": "77055621533.11",
+          "previous_yuan": "66683472509.22",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 67,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "支付其他与经营活动有关的现金": {
+          "current_yuan": "9015412761.18",
+          "previous_yuan": "7943709518.14",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 67,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "经营活动产生的现金流量净额": {
+          "current_yuan": "92463692168.43",
+          "previous_yuan": "66593247721.09",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 67,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        "购建固定资产、无形资产和其他长期资产支付的现金": {
+          "current_yuan": "4678712053.56",
+          "previous_yuan": "2619755888.79",
+          "current_blank": false,
+          "previous_blank": false,
+          "page": 67,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        }
+      },
+      "cash_pages": [
+        66,
+        67,
+        68,
+        69
+      ],
+      "cash_reason": {
+        "page": 9,
+        "management_explanations": [
+          "销售商品收到的现金增加",
+          "归集集团公司其他成员单位资金较上期增加"
+        ],
+        "boundary": "核准管理层确实如此解释；现金分解作独立数字对照，不把自述等同完整因果证明"
+      },
+      "two_independent_pdf_engines": "pypdf+pymupdf; cash columns spatially resolved",
+      "cash_analysis": {
+        "cfo_yuan": "92463692168.43",
+        "explicit_financial_items_net_yuan": "18808840580.89",
+        "after_listed_financial_items_residual_yuan": "73654851587.54",
+        "capex_cash_yuan": "4678712053.56",
+        "simplified_cfo_minus_capex_yuan": "87784980114.87",
+        "cfo_to_consolidated_profit_percent": "103.50",
+        "boundary": "集团原报年度口径；金融剔除余额仍含金融业务分摊税费薪酬、酒店/冰淇淋及银行利息等，不是准确酒类CFO；CFO减购建长期资产现金仅简化代理，不是完整FCFF/FCFE。"
+      }
+    }
+  ],
+  "capital_2024": [
+    {
+      "name": "3万吨酱香系列酒技改工程及其配套设施项目",
+      "planned_wanyuan": "1018000.00",
+      "current_investment_wanyuan": "121954.68",
+      "accumulated_wanyuan": "672070.68",
+      "page": 14
+    },
+    {
+      "name": "“十四五”酱香酒习水同民坝一期建设项目",
+      "planned_wanyuan": "411000.00",
+      "current_investment_wanyuan": "83325.28",
+      "accumulated_wanyuan": "171485.28",
+      "page": 14
+    },
+    {
+      "name": "茅台酒“十四五”技改建设项目",
+      "planned_wanyuan": "1551600.00",
+      "current_investment_wanyuan": "56143.54",
+      "accumulated_wanyuan": "176431.54",
+      "page": 14
+    }
+  ],
+  "operating_process_2024": {
+    "pages": [
+      7,
+      8
+    ],
+    "process": "制曲—制酒—贮存—勾兑—包装",
+    "direct": "自营及i茅台等数字营销平台",
+    "wholesale": "经销商、商超、电商等"
+  },
+  "industry_comparability": "年度引用统计的样本/基数未形成完整统一桥接；用各报告披露同比，不从跨年绝对值重算行业CAGR或细分市占率",
+  "authority": "Agent在本人明确授权下原文核准；不替代或伪造本人窗口确认",
+  "industry_cross_report_conflicts": [
+    {
+      "year": 2021,
+      "variable": "production_wan_kl",
+      "naive_cross_report_yoy_percent": "-3.39",
+      "report_disclosed_yoy_percent": "-0.59",
+      "resolution": "保留两个年度原披露；不认定报告出错，也不把跨报告绝对值直接拼接为同口径增速"
+    },
+    {
+      "year": 2021,
+      "variable": "sales_revenue_yi",
+      "naive_cross_report_yoy_percent": "3.38",
+      "report_disclosed_yoy_percent": "18.6",
+      "resolution": "保留两个年度原披露；不认定报告出错，也不把跨报告绝对值直接拼接为同口径增速"
+    },
+    {
+      "year": 2021,
+      "variable": "total_profit_yi",
+      "naive_cross_report_yoy_percent": "7.35",
+      "report_disclosed_yoy_percent": "32.95",
+      "resolution": "保留两个年度原披露；不认定报告出错，也不把跨报告绝对值直接拼接为同口径增速"
+    },
+    {
+      "year": 2022,
+      "variable": "production_wan_kl",
+      "naive_cross_report_yoy_percent": "-6.20",
+      "report_disclosed_yoy_percent": "-5.58",
+      "resolution": "保留两个年度原披露；不认定报告出错，也不把跨报告绝对值直接拼接为同口径增速"
+    },
+    {
+      "year": 2022,
+      "variable": "sales_revenue_yi",
+      "naive_cross_report_yoy_percent": "9.83",
+      "report_disclosed_yoy_percent": "9.64",
+      "resolution": "保留两个年度原披露；不认定报告出错，也不把跨报告绝对值直接拼接为同口径增速"
+    },
+    {
+      "year": 2023,
+      "variable": "production_wan_kl",
+      "naive_cross_report_yoy_percent": "-33.08",
+      "report_disclosed_yoy_percent": "-2.8",
+      "resolution": "保留两个年度原披露；不认定报告出错，也不把跨报告绝对值直接拼接为同口径增速"
+    },
+    {
+      "year": 2023,
+      "variable": "sales_revenue_yi",
+      "naive_cross_report_yoy_percent": "14.13",
+      "report_disclosed_yoy_percent": "9.7",
+      "resolution": "保留两个年度原披露；不认定报告出错，也不把跨报告绝对值直接拼接为同口径增速"
+    },
+    {
+      "year": 2023,
+      "variable": "total_profit_yi",
+      "naive_cross_report_yoy_percent": "5.74",
+      "report_disclosed_yoy_percent": "7.5",
+      "resolution": "保留两个年度原披露；不认定报告出错，也不把跨报告绝对值直接拼接为同口径增速"
+    }
+  ],
+  "capital_2024_current_investment_yuan": "2614235000.00",
+  "maotai_2020_2024_change_percent": {
+    "revenue_yuan": "72.02",
+    "sales_tonnes": "35.27"
+  },
+  "maotai_2020_2024_asp_change_percent": "27.17",
+  "industry_stage": {
+    "state": "Interpretation",
+    "classification": "成熟期（存量竞争、结构升级），叠加调整周期",
+    "author": "本人暂定成熟期，Agent用跨年年报补证",
+    "boundary": "较强支持广义白酒的工作判断；不是高端酱香细分市场阶段已独立证实的Fact，成熟也不等于全行业衰退"
+  }
+}

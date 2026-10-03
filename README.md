@@ -1,5 +1,13 @@
 # 投资学：课程资料与研究工作空间
 
+<!-- scope-acceptance:lec03-three-dimensions:start -->
+## 当前节点：Lec03内容验收完成
+
+[最终三维结果及五年图片](投资学工作空间/outputs/lec03-final-results.md) · [内容验收](投资学工作空间/docs/lec03-acceptance.md) · [下一步](投资学工作空间/docs/next-review.md)。本人认可第3/4节，授权Agent补证完善其余内容；品牌定价权暂定有效，广义白酒成熟期并有结构升级/调整周期，资本现金分业边界与金融现金桥接完成。10项内容验收完成，签署待本人填写。
+<!-- scope-acceptance:lec03-three-dimensions:end -->
+
+
+
 本仓库汇集投资学课程材料、任务合同，以及贵州茅台（600519）2020—2024年年报研究工作空间。研究过程保留原件、机器提取候选、人工核验记录、成果与可复现脚本。
 
 ## 从这里开始
@@ -87,9 +95,3 @@ M01计算表15项输入、单位和结果已本人确认通过；后续可复用
 
 本人已完成新增成本核验，统计与附条件算术可复用；实际生产成本及桥接假设继续Unknown。[成本分析](投资学工作空间/outputs/m01-scale-and-production-cost.md)；[下一步](投资学工作空间/docs/next-review.md)。接下来更新品牌暂定判断并选择商业模式、行业竞争两维，Lec03未验收。
 <!-- scope-acceptance:m01-cost-confirmation:end -->
-
-<!-- scope-acceptance:lec03-three-dimensions:start -->
-## 最新研究进展
-
-Lec03三个维度已展开：品牌定价权五步链、酒类/其他业务的品牌—渠道—储存三路径，以及现有资源内的行业竞争五步分析。本人维持品牌定价权暂定Interpretation；本轮没有新增Fact。[从三维整合分析开始](投资学工作空间/outputs/lec03-integrated-analysis.md)；[下一步审阅](投资学工作空间/docs/next-review.md)。
-<!-- scope-acceptance:lec03-three-dimensions:end -->

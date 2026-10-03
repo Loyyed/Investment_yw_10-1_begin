@@ -20,6 +20,11 @@
 | docs/git-history.md | 操作、核验、来源或全部文件说明 |
 | docs/human-review-guide.md | 操作、核验、来源或全部文件说明 |
 | docs/images/business-model.png | 用程序绘制的说明图；辅助理解目录与研究逻辑 |
+| docs/images/lec03-cash-bridge.png | 用程序绘制的说明图；辅助理解目录与研究逻辑 |
+| docs/images/lec03-cash-bridge.svg | 用程序绘制的说明图；辅助理解目录与研究逻辑 |
+| docs/images/lec03-five-year-evidence.png | 用程序绘制的说明图；辅助理解目录与研究逻辑 |
+| docs/images/lec03-five-year-evidence.svg | 用程序绘制的说明图；辅助理解目录与研究逻辑 |
+| docs/images/lec03-industry-source-crops.png | 用程序绘制的说明图；辅助理解目录与研究逻辑 |
 | docs/images/lec03-three-paths.png | 用程序绘制的说明图；辅助理解目录与研究逻辑 |
 | docs/images/lec03-three-paths.svg | 用程序绘制的说明图；辅助理解目录与研究逻辑 |
 | docs/images/pdf-2020-p14.png | 原报告真实页面截图；页码在文件名 |
@@ -57,6 +62,7 @@
 | docs/images/pdf-2024-p9.png | 原报告真实页面截图；页码在文件名 |
 | docs/images/workflow.png | 用程序绘制的说明图；辅助理解目录与研究逻辑 |
 | docs/images/workspace-structure.png | 用程序绘制的说明图；辅助理解目录与研究逻辑 |
+| docs/lec03-acceptance.md | 操作、核验、来源或全部文件说明 |
 | docs/material-catalog.md | 操作、核验、来源或全部文件说明 |
 | docs/next-review.md | 操作、核验、来源或全部文件说明 |
 | docs/reading-coverage.md | 操作、核验、来源或全部文件说明 |
@@ -73,6 +79,9 @@
 | evidence/confirmed-facts.json | 本人核验专用记录；未伪造Fact |
 | evidence/evidence-log.md | 本人核验专用记录；未伪造Fact |
 | evidence/human-review-forms.md | 本人核验专用记录；未伪造Fact |
+| evidence/lec03-agent-facts.json | 本人核验专用记录；未伪造Fact |
+| evidence/lec03-approved-sections.md | 本人核验专用记录；未伪造Fact |
+| evidence/lec03-content-review.json | 本人核验专用记录；未伪造Fact |
 | evidence/lec03-research-update.json | 本人核验专用记录；未伪造Fact |
 | evidence/lec03-selected-question.json | 本人核验专用记录；未伪造Fact |
 | evidence/m01-disclosure-facts.json | 本人核验专用记录；未伪造Fact |
@@ -92,6 +101,7 @@
 | outputs/lec02-component-choice.md | 课件合同的阶段成果准备稿 |
 | outputs/lec02-disclosure-map.md | 课件合同的阶段成果准备稿 |
 | outputs/lec03-evidence-matrix.md | 课件合同的阶段成果准备稿 |
+| outputs/lec03-final-results.md | 课件合同的阶段成果准备稿 |
 | outputs/lec03-integrated-analysis.md | 课件合同的阶段成果准备稿 |
 | outputs/lec03-stage-deliverables.md | 课件合同的阶段成果准备稿 |
 | outputs/m01-average-price-and-margin.md | 课件合同的阶段成果准备稿 |
@@ -119,6 +129,7 @@
 | scripts/change_review.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
 | scripts/change_review_views.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
 | scripts/common.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
+| scripts/lec03_agent_analysis.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
 | scripts/m01_disclosure_review.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
 | scripts/m01_metric_review.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
 | scripts/m01_scale_review.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
@@ -280,10 +291,13 @@
 | tasks/04-change-verification.md | 对应研究合同；保留原条款和签署空栏 |
 | tasks/05-lec03-business-model.md | 对应研究合同；保留原条款和签署空栏 |
 | tests/test_contract_validation.py | 项目入口、运行器或总说明 |
+| tests/test_lec03_agent_analysis.py | 项目入口、运行器或总说明 |
 | tests/test_review_store.py | 项目入口、运行器或总说明 |
 | work/change-recalculation.json | 实际过程、候选、冲突、修正或验证记录 |
 | work/change-verification.md | 实际过程、候选、冲突、修正或验证记录 |
 | work/evidence-candidates.md | 实际过程、候选、冲突、修正或验证记录 |
+| work/lec03-agent-inputs.json | 实际过程、候选、冲突、修正或验证记录 |
+| work/lec03-agent-results.json | 实际过程、候选、冲突、修正或验证记录 |
 | work/lec03-claim-data.json | 实际过程、候选、冲突、修正或验证记录 |
 | work/lec03-claim-notes.md | 实际过程、候选、冲突、修正或验证记录 |
 | work/lec03-m01.md | 实际过程、候选、冲突、修正或验证记录 |
