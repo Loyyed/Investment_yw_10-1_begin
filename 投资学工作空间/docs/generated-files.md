@@ -20,6 +20,8 @@
 | docs/git-history.md | 操作、核验、来源或全部文件说明 |
 | docs/human-review-guide.md | 操作、核验、来源或全部文件说明 |
 | docs/images/business-model.png | 用程序绘制的说明图；辅助理解目录与研究逻辑 |
+| docs/images/lec03-three-paths.png | 用程序绘制的说明图；辅助理解目录与研究逻辑 |
+| docs/images/lec03-three-paths.svg | 用程序绘制的说明图；辅助理解目录与研究逻辑 |
 | docs/images/pdf-2020-p14.png | 原报告真实页面截图；页码在文件名 |
 | docs/images/pdf-2020-p15.png | 原报告真实页面截图；页码在文件名 |
 | docs/images/pdf-2020-p8.png | 原报告真实页面截图；页码在文件名 |
@@ -71,11 +73,13 @@
 | evidence/confirmed-facts.json | 本人核验专用记录；未伪造Fact |
 | evidence/evidence-log.md | 本人核验专用记录；未伪造Fact |
 | evidence/human-review-forms.md | 本人核验专用记录；未伪造Fact |
+| evidence/lec03-research-update.json | 本人核验专用记录；未伪造Fact |
 | evidence/lec03-selected-question.json | 本人核验专用记录；未伪造Fact |
 | evidence/m01-disclosure-facts.json | 本人核验专用记录；未伪造Fact |
 | evidence/m01-disclosure-review.json | 本人核验专用记录；未伪造Fact |
 | evidence/m01-metric-facts.json | 本人核验专用记录；未伪造Fact |
 | evidence/m01-metric-review.json | 本人核验专用记录；未伪造Fact |
+| evidence/m01-research-judgment-updates.json | 本人核验专用记录；未伪造Fact |
 | evidence/m01-research-judgment.json | 本人核验专用记录；未伪造Fact |
 | evidence/m01-scale-facts.json | 本人核验专用记录；未伪造Fact |
 | evidence/m01-scale-review.json | 本人核验专用记录；未伪造Fact |
@@ -88,6 +92,7 @@
 | outputs/lec02-component-choice.md | 课件合同的阶段成果准备稿 |
 | outputs/lec02-disclosure-map.md | 课件合同的阶段成果准备稿 |
 | outputs/lec03-evidence-matrix.md | 课件合同的阶段成果准备稿 |
+| outputs/lec03-integrated-analysis.md | 课件合同的阶段成果准备稿 |
 | outputs/lec03-stage-deliverables.md | 课件合同的阶段成果准备稿 |
 | outputs/m01-average-price-and-margin.md | 课件合同的阶段成果准备稿 |
 | outputs/m01-scale-and-production-cost.md | 课件合同的阶段成果准备稿 |

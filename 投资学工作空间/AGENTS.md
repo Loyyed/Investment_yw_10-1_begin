@@ -27,3 +27,8 @@
 - 本人M01成本聊天确认保存在evidence/m01-scale-review.json，使用ReviewStore.m01_scale_facts()重新校验PDF/清单、输入、已有Fact、计算及核验代码、公式和结果；变化回Unknown并留历史。M01-K01/K02为有范围的成本统计，K03只为原数及附条件算术，不能当实际生产成本Fact。
 - 生产桥接state与五项假设继续Unknown；arithmetic_state可为Fact。原数值窗口账本及原候选提取状态不批量升级。calculate_m01_scale.py可复算并保留当前有效确认；不运行旧生成脚本重建人工历史。姓名签署仍空。
 <!-- scope-acceptance:m01-cost-confirmation:end -->
+
+<!-- scope-acceptance:lec03-three-dimensions:start -->
+- 本人已在成本核验后明确维持品牌定价权暂定Interpretation；当前更新为evidence/m01-research-judgment-updates.json，原m01-research-judgment.json保留。M01/B01本人选定，I01本人明确授权Agent定义，见lec03-research-update.json；不反复询问已确定问题。
+- 三维新逻辑尚待审阅；U01—U03只是定位候选Unknown，不属于39条有效记录。选题、维持判断或授权展开不新增Fact；五接口仍为当前事实权威。行业阶段、份额/相对优势和分部资本现金缺证，不混入外部信息或虚构Lec04—05合同。
+<!-- scope-acceptance:lec03-three-dimensions:end -->

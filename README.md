@@ -87,3 +87,9 @@ M01计算表15项输入、单位和结果已本人确认通过；后续可复用
 
 本人已完成新增成本核验，统计与附条件算术可复用；实际生产成本及桥接假设继续Unknown。[成本分析](投资学工作空间/outputs/m01-scale-and-production-cost.md)；[下一步](投资学工作空间/docs/next-review.md)。接下来更新品牌暂定判断并选择商业模式、行业竞争两维，Lec03未验收。
 <!-- scope-acceptance:m01-cost-confirmation:end -->
+
+<!-- scope-acceptance:lec03-three-dimensions:start -->
+## 最新研究进展
+
+Lec03三个维度已展开：品牌定价权五步链、酒类/其他业务的品牌—渠道—储存三路径，以及现有资源内的行业竞争五步分析。本人维持品牌定价权暂定Interpretation；本轮没有新增Fact。[从三维整合分析开始](投资学工作空间/outputs/lec03-integrated-analysis.md)；[下一步审阅](投资学工作空间/docs/next-review.md)。
+<!-- scope-acceptance:lec03-three-dimensions:end -->

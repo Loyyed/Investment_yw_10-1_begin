@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="790" viewBox="0 0 1280 790" role="img" aria-labelledby="title desc">
+ <title id="title">收入、成本、资本投入和现金流：品牌、渠道、储存三条路径</title>
+ <desc id="desc">实线表示研究顺序，彩色连接线表示待验证机制。已核数字不等于因果证明，资本分配和现金细分仍待验证。</desc>
+ <defs>
+  <marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0 0L9 4.5L0 9Z" fill="#52637a" /></marker>
+  <style>text{font-family:'Microsoft YaHei','Noto Sans CJK SC',sans-serif;fill:#18334d}.heading{font-size:31px;font-weight:700}.sub{font-size:17px}.card{font-size:23px;font-weight:700}.body{font-size:17px}.note{font-size:16px}.path{font-size:21px;font-weight:700}</style>
+ </defs>
+ <rect width="1280" height="790" fill="#f5f8fc" />
+ <text x="48" y="58" class="heading" font-size="31" font-family="Microsoft YaHei" fill="#18334d" font-weight="700">收入 → 成本 → 资本投入 → 现金流</text>
+ <text x="48" y="92" class="sub" font-size="17" font-family="Microsoft YaHei" fill="#18334d">Lec03经济逻辑：分开酒类、其他业务、金融与未分配项目</text>
+ <g fill="#fff" stroke="#ccd8e4" stroke-width="2">
+  <rect x="48" y="132" width="265" height="188" rx="16" />
+  <rect x="354" y="132" width="265" height="188" rx="16" />
+  <rect x="660" y="132" width="265" height="188" rx="16" />
+  <rect x="966" y="132" width="265" height="188" rx="16" />
+ </g>
+ <g class="card"><text x="70" y="175" font-size="23" font-family="Microsoft YaHei" fill="#18334d" font-weight="700">收入</text><text x="376" y="175" font-size="23" font-family="Microsoft YaHei" fill="#18334d" font-weight="700">成本与费用</text><text x="682" y="175" font-size="23" font-family="Microsoft YaHei" fill="#18334d" font-weight="700">资本投入</text><text x="988" y="175" font-size="23" font-family="Microsoft YaHei" fill="#18334d" font-weight="700">现金流</text></g>
+ <g class="body">
+  <text x="70" y="211" font-size="17" font-family="Microsoft YaHei" fill="#18334d">产品组销量 × 均价</text><text x="70" y="242" font-size="17" font-family="Microsoft YaHei" fill="#18334d">产品与渠道为不同切面</text><text x="70" y="274" font-size="17" font-family="Microsoft YaHei" fill="#18334d">金融利息单列</text>
+  <text x="376" y="211" font-size="17" font-family="Microsoft YaHei" fill="#18334d">营业成本匹配收入</text><text x="376" y="242" font-size="17" font-family="Microsoft YaHei" fill="#18334d">品牌、履约费用另检验</text><text x="376" y="274" font-size="17" font-family="Microsoft YaHei" fill="#18334d">销售成本 ≠ 生产投入</text>
+  <text x="682" y="211" font-size="17" font-family="Microsoft YaHei" fill="#18334d">厂房、在建、生产存货</text><text x="682" y="242" font-size="17" font-family="Microsoft YaHei" fill="#18334d">按用途归属，缺证不硬拆</text><text x="682" y="274" font-size="17" font-family="Microsoft YaHei" fill="#18334d">分部资本仍Unknown</text>
+  <text x="988" y="211" font-size="17" font-family="Microsoft YaHei" fill="#18334d">收付款和存货时点</text><text x="988" y="242" font-size="17" font-family="Microsoft YaHei" fill="#18334d">金融活动与酒类分开</text><text x="988" y="274" font-size="17" font-family="Microsoft YaHei" fill="#18334d">利润 ≠ CFO ≠ FCF</text>
+ </g>
+ <g stroke="#52637a" stroke-width="2.5" marker-end="url(#arrow)"><path d="M317 222H345" stroke="#52637a" stroke-width="2.5" /><path d="M623 222H651" stroke="#52637a" stroke-width="2.5" /><path d="M929 222H957" stroke="#52637a" stroke-width="2.5" /></g>
+ <g stroke-width="2" stroke-dasharray="7 6" fill="none" marker-end="url(#arrow)">
+  <path d="M230 380V333" stroke="#477dae" stroke-width="2" stroke-dasharray="7 6" fill="none" /><path d="M615 490V348H490V332" stroke="#a66a21" stroke-width="2" stroke-dasharray="7 6" fill="none" /><path d="M993 601V356H790V332" stroke="#3e887e" stroke-width="2" stroke-dasharray="7 6" fill="none" />
+ </g>
+ <rect x="48" y="380" width="1183" height="91" rx="12" fill="#e5eff9" />
+ <rect x="48" y="490" width="1183" height="91" rx="12" fill="#fff0dc" />
+ <rect x="48" y="600" width="1183" height="91" rx="12" fill="#e2f1ed" />
+ <text x="71" y="418" class="path" font-size="21" font-family="Microsoft YaHei" fill="#18334d" font-weight="700">品牌路径</text><text x="71" y="449" class="body" font-size="17" font-family="Microsoft YaHei" fill="#18334d">支付意愿 → 净价与需求 → 毛利空间 → 扣维护投入后的收益；品牌因果与忠诚度仍待证</text>
+ <text x="71" y="528" class="path" font-size="21" font-family="Microsoft YaHei" fill="#18334d" font-weight="700">渠道路径</text><text x="71" y="559" class="body" font-size="17" font-family="Microsoft YaHei" fill="#18334d">客户触达 / 价值分配 → 履约成本、相关资产、回款与库存；组合均价不等于渠道净利润</text>
+ <text x="71" y="638" class="path" font-size="21" font-family="Microsoft YaHei" fill="#18334d" font-weight="700">储存时间路径</text><text x="71" y="669" class="body" font-size="17" font-family="Microsoft YaHei" fill="#18334d">品质与供给约束 → 存货及资本占用 → 多年后销售与收现；正常陈酿与可售品积压分开</text>
+ <text x="48" y="731" class="note" font-size="16" font-family="Microsoft YaHei" fill="#18334d">实线：合同要求的研究顺序；彩色连接线：Interpretation，尚未证明因果。数字Fact须查询当前ReviewStore绑定。</text>
+ <text x="48" y="759" class="note" font-size="16" font-family="Microsoft YaHei" fill="#18334d">五步品牌链：优势来源 → 影响机制 → 可观察结果 → 模仿壁垒 → 反证条件。暂定判断由研究者承担。</text>
+<polygon points="337,217 345,222 337,227" fill="#52637a" data-explicit-arrow="true" /><polygon points="643,217 651,222 643,227" fill="#52637a" data-explicit-arrow="true" /><polygon points="949,217 957,222 949,227" fill="#52637a" data-explicit-arrow="true" /></svg>

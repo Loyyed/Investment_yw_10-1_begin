@@ -37,9 +37,9 @@ updated: 2026-09-23
 
 | 来源 | 本组研究问题 |
 | --- | --- |
-| 商业模式 |  |
-| 行业竞争 |  |
-| 竞争优势 |  |
+| 商业模式 | 如何分开酒类及其他收入、成本、资本占用与现金转换？重点核查品牌、渠道和储存时间三条路径。 |
+| 行业竞争 | 以茅台酒为重点，在高端酱香白酒的候选市场边界下，现有年报的产品、渠道及供给时间证据能支持怎样的竞争位置判断？哪些需求、替代和进入风险会使判断失效？ |
+| 竞争优势 | 品牌是否在同口径下形成定价权？最重要的优势能否沿五步链条展开？ |
 
 ## 三、材料边界
 
@@ -134,10 +134,12 @@ outputs/lec03-stage-deliverables.md
 材料：指定五份年报和Lec03课件；不新增外部行业资料。
 合同来源：sources/original-tree/学生用/Lec03任务合同_商业模式与竞争优势证据表.md；正文条款完整保留。
 执行人：__________；复核人：__________；签署日期：__________。
-状态：M01既有统计Fact已核；本人品牌定价权暂定Interpretation已记录，新增两期成本统计及桥接算术已核、假设Unknown；其他两维未选，Lec03未验收。
+状态：M01本人维持暂定品牌定价权Interpretation；B01本人选定、I01本人授权Agent定义，三维底稿与五项成果已展开；新增逻辑待本人审阅，Lec03未正式验收。
 人工入口：docs/human-review-guide.md。
 
 <!-- scope-acceptance:m01-selection:start -->
+> 历史阶段记录：其中“未选/待核”等反映当时状态；本轮当前三维选题及判断见下方最新执行记录。
+
 ## 本轮本人选题登记
 
 原话：“选择研究M01问题”。登记时间：2026-10-03T13:48:52+08:00；姓名与签署留空。
@@ -156,6 +158,8 @@ outputs/lec03-stage-deliverables.md
 <!-- scope-acceptance:m01-selection:end -->
 
 <!-- scope-acceptance:m01-analysis:start -->
+> 历史阶段记录：其中“未选/待核”等反映当时状态；本轮当前三维选题及判断见下方最新执行记录。
+
 ## M01本轮核验与计算进展
 
 本人引用并确认第8页三项公司自述，登记M01-D01—D03，只支持公司披露内容；不确认因果机制。本人明确第15页应以销售收入除以销量计算均价，本轮已补算产品组、酒类及渠道均价，收入加权毛利率，并按本人四项标准补充反证与缺证。
@@ -164,19 +168,41 @@ outputs/lec03-stage-deliverables.md
 <!-- scope-acceptance:m01-analysis:end -->
 
 <!-- scope-acceptance:m01-metric-confirmation:start -->
+> 历史阶段记录：其中“未选/待核”等反映当时状态；本轮当前三维选题及判断见下方最新执行记录。
+
 ## M01计算结果本人确认
 
 本人原话“核对输入、单位和结果通过”。本轮15项计算Fact及确认范围见[计算表](../outputs/m01-average-price-and-margin.md)。品牌因果及持续性仍Unknown；其他两维未选，验收与正式签署尚未完成。
 <!-- scope-acceptance:m01-metric-confirmation:end -->
 
 <!-- scope-acceptance:m01-scale-judgment:start -->
+> 历史阶段记录：其中“未选/待核”等反映当时状态；本轮当前三维选题及判断见下方最新执行记录。
+
 ## M01暂定判断及生产成本补证
 
 本人已给出品牌定价权暂定判断，原答复保留在[evidence记录](../evidence/m01-research-judgment.json)。补算2023—2024单位销售成本，并纳入生产相关成本构成与存货桥接情景；新增输入、统计及附条件算术已本人核验，生产桥接假设和实际生产成本Unknown。机制充分成立与持续性未证实；其他两维和正式验收、姓名签署待完成。[成本分析](../outputs/m01-scale-and-production-cost.md)。
 <!-- scope-acceptance:m01-scale-judgment:end -->
 
 <!-- scope-acceptance:m01-cost-confirmation:start -->
+> 历史阶段记录：其中“未选/待核”等反映当时状态；本轮当前三维选题及判断见下方最新执行记录。
+
 ## M01新增成本核验完成
 
 本人原话“核验完毕”。两项成本统计及一项附条件桥接算术记录独立确认，详见[成本报告](../outputs/m01-scale-and-production-cost.md)。未确认桥接假设或实际生产成本；品牌暂定判断仍Interpretation，其他两维未选、Lec03未验收。
 <!-- scope-acceptance:m01-cost-confirmation:end -->
+
+<!-- scope-acceptance:lec03-three-dimensions:start -->
+## 当前三维执行记录（2026-10-03）
+
+本人本轮维持品牌定价权暂定判断。商业模式按本人原话选定，行业竞争由本人明确授权Agent定义。
+
+| 来源 | 当前问题 | 责任 |
+| --- | --- | --- |
+| 竞争优势 | 品牌是否在同口径下形成定价权？最重要的优势能否沿五步链条展开？ | 本人；human-selected |
+| 商业模式 | 如何分开酒类及其他收入、成本、资本占用与现金转换？重点核查品牌、渠道和储存时间三条路径。 | 本人；human-selected |
+| 行业竞争 | 以茅台酒为重点，在高端酱香白酒的候选市场边界下，现有年报的产品、渠道及供给时间证据能支持怎样的竞争位置判断？哪些需求、替代和进入风险会使判断失效？ | Agent；agent-defined-with-explicit-human-authorization |
+
+[三维整合分析](../outputs/lec03-integrated-analysis.md)；[矩阵](../outputs/lec03-evidence-matrix.md)；[五项成果](../outputs/lec03-stage-deliverables.md)；[实际答复和选题记录](../evidence/lec03-research-update.json)。已核数字复用39条分域记录，本轮不增加Fact。新增原文候选U01—U03仍Unknown，品牌因果/持续性、模仿壁垒、行业阶段/份额和分部资本现金缺证明确列示。
+
+过程底稿已按问题—证据—解释—边界组织，三路径图与品牌五步证据要求表已展开。本人尚未就本轮完整逻辑及Unknown表另作验收；11项验收不勾选，姓名、复核与签署留空。
+<!-- scope-acceptance:lec03-three-dimensions:end -->

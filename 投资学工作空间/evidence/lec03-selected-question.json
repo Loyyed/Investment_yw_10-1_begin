@@ -35,12 +35,73 @@
     "CH01": "ba5272fba49ad3c81e5558afa22c50fca2bab35d8dff128650f5fe9467f65258",
     "CH02": "d3ff78b0b8863903a891f4158667ca2d22c18194d2cac3726fa411ac7cfa5ccc"
   },
-  "remaining_dimensions": {
-    "商业模式": "待本人选择",
-    "行业竞争": "待本人选择"
-  },
-  "human_unknown_adjudication": "pending",
+  "remaining_dimensions": {},
+  "human_unknown_adjudication": "pending-for-new-complete-table",
   "new_fact_count": 0,
   "new_pdf_review_events": 0,
-  "usage_rule": "This records selection only. Query ReviewStore.facts()/change_facts() for current evidence; selecting M01 never proves brand pricing power."
+  "usage_rule": "This records selection only. Query ReviewStore.facts()/change_facts() for current evidence; selecting M01 never proves brand pricing power.",
+  "selection_history": [
+    {
+      "registered_at": "2026-10-03T13:48:52+08:00",
+      "statement_original": "选择研究M01问题",
+      "selected_id": "M01",
+      "title": "品牌是否在同口径下形成定价权？",
+      "selection_status": "human-selected"
+    },
+    {
+      "registered_at": "2026-10-03T16:53:16+08:00",
+      "statement_original": "不影响我对定价权的判断，因为我主要探究的是品牌是否形成定价权，从目前核验结果来看是暂时认定为有效，当然我想要你补全一下最重要的竞争优势主张能否沿“优势来源 → 影响机制 → 可观察结果 → 模仿壁垒 → 反证条件”展开这个逻辑链路。对商业模式的问题，采用如何分开酒类及其他收入、成本、资本占用与现金转换？重点核查品牌、渠道和储存时间三条路径。对行业竞争问题你自行定义一个靠现有资源能够完成的任务问题展开就行",
+      "selected_questions": [
+        {
+          "id": "M01",
+          "dimension": "竞争优势",
+          "question": "品牌是否在同口径下形成定价权？最重要的优势能否沿五步链条展开？",
+          "selection": "human-selected",
+          "author": "本人"
+        },
+        {
+          "id": "B01",
+          "dimension": "商业模式",
+          "question": "如何分开酒类及其他收入、成本、资本占用与现金转换？重点核查品牌、渠道和储存时间三条路径。",
+          "selection": "human-selected",
+          "author": "本人"
+        },
+        {
+          "id": "I01",
+          "dimension": "行业竞争",
+          "question": "以茅台酒为重点，在高端酱香白酒的候选市场边界下，现有年报的产品、渠道及供给时间证据能支持怎样的竞争位置判断？哪些需求、替代和进入风险会使判断失效？",
+          "selection": "agent-defined-with-explicit-human-authorization",
+          "author": "Agent"
+        }
+      ],
+      "new_fact_count": 0
+    }
+  ],
+  "selected_questions": [
+    {
+      "id": "M01",
+      "dimension": "竞争优势",
+      "question": "品牌是否在同口径下形成定价权？最重要的优势能否沿五步链条展开？",
+      "selection": "human-selected",
+      "author": "本人"
+    },
+    {
+      "id": "B01",
+      "dimension": "商业模式",
+      "question": "如何分开酒类及其他收入、成本、资本占用与现金转换？重点核查品牌、渠道和储存时间三条路径。",
+      "selection": "human-selected",
+      "author": "本人"
+    },
+    {
+      "id": "I01",
+      "dimension": "行业竞争",
+      "question": "以茅台酒为重点，在高端酱香白酒的候选市场边界下，现有年报的产品、渠道及供给时间证据能支持怎样的竞争位置判断？哪些需求、替代和进入风险会使判断失效？",
+      "selection": "agent-defined-with-explicit-human-authorization",
+      "author": "Agent"
+    }
+  ],
+  "current_update": "evidence/lec03-research-update.json",
+  "current_selection_status": "three-dimensions-defined-human-M01-B01-and-authorized-agent-I01",
+  "current_judgment_state": "Interpretation",
+  "updated_at": "2026-10-03T16:53:16+08:00"
 }

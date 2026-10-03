@@ -45,3 +45,9 @@
 
 本人原话“核验完毕”，所指为新增成本分析2—4节。独立登记成本统计、成本构成及附条件桥接算术，不覆盖原窗口权威；桥接假设和实际生产成本继续Unknown。使用m01_scale_facts()重检当前绑定。核算确认不自动修改本人暂定Interpretation或代写其认可Agent对规模经济的限定。
 <!-- scope-acceptance:m01-cost-confirmation:end -->
+
+<!-- scope-acceptance:lec03-three-dimensions:start -->
+## 三维研究确定（2026-10-03）
+
+本人在成本核验后明确维持品牌定价权暂定有效判断，研究品牌路径；B01采用分开酒类及其他收入/成本/资本/现金，核查品牌、渠道、储存；行业问题明确授权Agent据现有资源定义，I01已展开五步适用性分析。三维逻辑尚待本人审阅，不反复要求选题，不将行业问题写成本人原先提出。原话在lec03-research-update.json，原判断和所有Fact历史保留。
+<!-- scope-acceptance:lec03-three-dimensions:end -->

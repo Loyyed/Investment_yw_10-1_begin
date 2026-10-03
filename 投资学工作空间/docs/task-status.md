@@ -6,7 +6,7 @@
 | 第二次 | 51条收入成本候选，21组合计检查 | outputs/revenue-structure-table.md | 有效Fact 4/51条；逐行确认范围与正式验收仍须完成 <!-- review-store:task:第二次 --> |
 | 第三次 | 12条候选；收入/利润两组冲突；真实Agent修正保留 | outputs/metric-scope-decision.md | 有效Fact 12/12条；本人采用/排除裁决及实际修正按真实过程记录 <!-- review-store:task:第三次 --> |
 | 第四次 | 可比性材料、公式代入、披露变动率及阻断程序 | outputs/change-verification-record.md | 七项可比性独立确认7/7项；有效变化Fact 2/2条；姓名与正式签署待补 <!-- review-store:task:第四次 --> |
-| Lec03 | 六条矩阵、问题清单、经济逻辑图、优势证据表、两条人工核验准备 | outputs/lec03-evidence-matrix.md；lec03-stage-deliverables.md | M01已选；公司自述3 Fact已核、均价毛利率15项Fact已核、机制Unknown；商业模式/行业竞争待选；未验收 |
+| Lec03 | 三维选题、五步品牌链、三路径商业模式、行业五步及五项底稿已展开 | outputs/lec03-integrated-analysis.md；lec03-stage-deliverables.md | 本人维持暂定Interpretation；M01/B01本人选，I01本人授权Agent定义；新增逻辑及Unknown表待审阅，未验收 |
 | 课件补充 | 产品结构A、披露地图、组件选择、反方质询 | outputs/lec01-decision-card.md等 | 按个人实际过程改写Exit Ticket及小组裁决 |
 
 合同正式关闭：尚未。核验人来自实际提交；合同复核人与签署按实际情况填写。仅填姓名不等于已经核验。材料未含第五次及更后续独立合同，不能凭“等”虚构任务内容。
@@ -40,31 +40,49 @@
 <!-- scope-acceptance:task04-acceptance:end -->
 
 <!-- scope-acceptance:m01-selection:start -->
+> 历史阶段进度；本轮状态见最新三维进展。
+
 ## Lec03当前选题
 
 M01品牌定价权已由本人选定为竞争优势研究问题；另外两个维度尚待选择，机制尚未证实，Lec03未验收。[M01底稿](../work/lec03-m01.md)；[下一步](next-review.md)。
 <!-- scope-acceptance:m01-selection:end -->
 
 <!-- scope-acceptance:m01-analysis:start -->
+> 历史阶段进度；本轮状态见最新三维进展。
+
 ## M01当前进展
 
 三项公司自述已通过真实聊天核验；产品/渠道均价和毛利率已补算，输入、单位及15项结果已本人确认。四项判断标准及反证已整理，机制与持续性未证明。其他两维待选，Lec03未验收。[计算表](../outputs/m01-average-price-and-margin.md)；[下一步](next-review.md)。
 <!-- scope-acceptance:m01-analysis:end -->
 
 <!-- scope-acceptance:m01-metric-confirmation:start -->
+> 历史阶段进度；本轮状态见最新三维进展。
+
 ## M01计算核验已通过
 
 15项均价、毛利率、同比与收入占比结果已通过本人聊天确认，当前均为有效计算Fact。下一步形成自己的机制判断及反证，并选择商业模式和行业竞争两个维度；Lec03尚未验收。[下一步](next-review.md)。
 <!-- scope-acceptance:m01-metric-confirmation:end -->
 
 <!-- scope-acceptance:m01-scale-judgment:start -->
+> 历史阶段进度；本轮状态见最新三维进展。
+
 ## M01本人暂定判断已登记
 
 本人暂时倾向品牌定价权成立（Interpretation）；新增两期成本统计及存货桥接原数、附条件算术已本人核验；假设和实际生产成本继续Unknown。原36条Fact不变，机制及持续性仍未充分证实；其他两维未选、Lec03未验收。[成本分析](../outputs/m01-scale-and-production-cost.md)；[下一步](next-review.md)。
 <!-- scope-acceptance:m01-scale-judgment:end -->
 
 <!-- scope-acceptance:m01-cost-confirmation:start -->
+> 历史阶段进度；本轮状态见最新三维进展。
+
 ## M01成本核验已完成
 
 两期成本统计、成本构成及存货桥接原数/附条件算术已本人确认；假设和准确生产成本继续Unknown。本人品牌定价权暂定Interpretation保留，尚未说明根据成本新证据修改判断；商业模式、行业竞争两维未选，Lec03未验收。[下一步](next-review.md)。
 <!-- scope-acceptance:m01-cost-confirmation:end -->
+
+<!-- scope-acceptance:lec03-three-dimensions:start -->
+## 最新Lec03三维进展
+
+两期成本结果不改变对品牌定价权的暂定判断。研究重点是品牌是否形成定价权，结合目前已核验结果，暂时认定为有效；成本优势与品牌价格机制分别检验。 M01/B01由本人选定、I01由本人授权Agent定义；三维问题和五项研究底稿已展开。Fact仍为39条分域记录，本轮新增0；行业阶段/市占率/相对优势、品牌持续机制及分部资本现金缺证仍Unknown。
+
+[从整合分析开始](../outputs/lec03-integrated-analysis.md)；[下一步](next-review.md)审阅新增逻辑与缺证保留。Lec03未正式验收，姓名、复核及签署留空。
+<!-- scope-acceptance:lec03-three-dimensions:end -->

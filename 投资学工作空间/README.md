@@ -40,3 +40,9 @@
 
 当前新增两条独立聊天确认的变化证据CH01/CH02。原披露核验记录保持；动态有效性使用ReviewStore.change_facts()，旧导出不证明Fact。[第四次验收](docs/fourth-task-acceptance.md)；[下一步](docs/next-review.md)。
 <!-- scope-acceptance:task04-progress:end -->
+
+<!-- scope-acceptance:lec03-three-dimensions:start -->
+## Lec03当前阅读入口
+
+[三维整合分析](outputs/lec03-integrated-analysis.md)集中给出品牌五步链、三路径商业模式和行业五步。M01/B01本人选定，I01本人授权Agent定义；本人维持暂定品牌定价权Interpretation。新逻辑待审阅，正式验收及签署待完成。[下一步](docs/next-review.md)。
+<!-- scope-acceptance:lec03-three-dimensions:end -->

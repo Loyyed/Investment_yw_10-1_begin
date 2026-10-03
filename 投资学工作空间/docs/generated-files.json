@@ -64,6 +64,14 @@
     "purpose": "用程序绘制的说明图；辅助理解目录与研究逻辑"
   },
   {
+    "path": "docs/images/lec03-three-paths.png",
+    "purpose": "用程序绘制的说明图；辅助理解目录与研究逻辑"
+  },
+  {
+    "path": "docs/images/lec03-three-paths.svg",
+    "purpose": "用程序绘制的说明图；辅助理解目录与研究逻辑"
+  },
+  {
     "path": "docs/images/pdf-2020-p14.png",
     "purpose": "原报告真实页面截图；页码在文件名"
   },
@@ -268,6 +276,10 @@
     "purpose": "本人核验专用记录；未伪造Fact"
   },
   {
+    "path": "evidence/lec03-research-update.json",
+    "purpose": "本人核验专用记录；未伪造Fact"
+  },
+  {
     "path": "evidence/lec03-selected-question.json",
     "purpose": "本人核验专用记录；未伪造Fact"
   },
@@ -285,6 +297,10 @@
   },
   {
     "path": "evidence/m01-metric-review.json",
+    "purpose": "本人核验专用记录；未伪造Fact"
+  },
+  {
+    "path": "evidence/m01-research-judgment-updates.json",
     "purpose": "本人核验专用记录；未伪造Fact"
   },
   {
@@ -333,6 +349,10 @@
   },
   {
     "path": "outputs/lec03-evidence-matrix.md",
+    "purpose": "课件合同的阶段成果准备稿"
+  },
+  {
+    "path": "outputs/lec03-integrated-analysis.md",
     "purpose": "课件合同的阶段成果准备稿"
   },
   {

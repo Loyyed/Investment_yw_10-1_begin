@@ -87,3 +87,11 @@
 | R2024-06 | Unknown |  |  | 本人核验待完成 |
 | R2024-07 | Unknown |  |  | 本人核验待完成 |
 <!-- review-store:progress:end -->
+
+<!-- scope-acceptance:lec03-three-dimensions:start -->
+## Lec03三维缺证（本轮未升Fact）
+
+U01经营模式/渠道定义：2024第7—8、15页；U02储存/勾兑：第15页；U03宽行业引用/未来叙事：第14、20页。见[候选与来源绑定](../evidence/lec03-research-update.json)，仅Agent定位。原数据Fact无需重复核验。
+
+核心机制缺证：消费者支付意愿/忠诚、同款净价与终端量、可比竞品/细分市场分母、独有模仿壁垒、渠道贡献利润及分业务资本现金。生产桥接五项假设与真实生产投入继续Unknown。本人本轮维持暂定Interpretation；本轮完整逻辑及Unknown表尚待审阅。
+<!-- scope-acceptance:lec03-three-dimensions:end -->

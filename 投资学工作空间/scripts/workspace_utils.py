@@ -27,9 +27,21 @@ def contract_intact(actual, original):
         match = re.fullmatch(r'(\s*-\s*\*\*[^*]+\*\*\s*[：:])\s*', line)
         if match:
             blank_labels.add(re.sub(r'\s+', '', match.group(1)))
+    blank_table_rows = {}
+    for line in original.splitlines():
+        if line.strip().startswith('|') and line.strip().endswith('|'):
+            cells = [c.strip() for c in line.strip().split('|')[1:-1]]
+            if cells and cells[0] and any(not c for c in cells):
+                blank_table_rows[(len(cells), cells[0])] = [i for i, c in enumerate(cells) if not c]
     def normalize(text):
         lines = []
         for line in text.splitlines():
+            if line.strip().startswith('|') and line.strip().endswith('|'):
+                cells = [c.strip() for c in line.strip().split('|')[1:-1]]
+                if cells:
+                    for i in blank_table_rows.get((len(cells), cells[0]), []):
+                        cells[i] = ''
+                    line = '| ' + ' | '.join(cells) + ' |'
             match = re.match(r'(\s*-\s*\*\*[^*]+\*\*\s*[：:])(.*)$', line)
             if match and re.sub(r'\s+', '', match.group(1)) in blank_labels:
                 line = match.group(1)
