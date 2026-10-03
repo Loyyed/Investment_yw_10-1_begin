@@ -57,3 +57,9 @@ git push
 
 后续先读[会话交接](会话交接/CURRENT.md)，详细步骤见[第四次结果核验](投资学工作空间/docs/next-review.md)。
 <!-- scope-acceptance:current-version:end -->
+
+<!-- scope-acceptance:task04-progress:start -->
+## 最新任务进度
+
+第四次8项内容验收完成；本人确认后登记CH01营业收入同比15.71%、CH02归母净利润同比15.38%。姓名与正式签署待补。先读[会话交接](会话交接/CURRENT.md)，再按[下一步Lec03](投资学工作空间/docs/next-review.md)选研究问题。
+<!-- scope-acceptance:task04-progress:end -->

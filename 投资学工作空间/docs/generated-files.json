@@ -44,6 +44,10 @@
     "purpose": "操作、核验、来源或全部文件说明"
   },
   {
+    "path": "docs/fourth-task-acceptance.md",
+    "purpose": "操作、核验、来源或全部文件说明"
+  },
+  {
     "path": "docs/generated-files.md",
     "purpose": "操作、核验、来源或全部文件说明"
   },
@@ -244,6 +248,14 @@
     "purpose": "本人核验专用记录；未伪造Fact"
   },
   {
+    "path": "evidence/change-confirmed-facts.json",
+    "purpose": "本人核验专用记录；未伪造Fact"
+  },
+  {
+    "path": "evidence/change-review-state.json",
+    "purpose": "本人核验专用记录；未伪造Fact"
+  },
+  {
     "path": "evidence/confirmed-facts.json",
     "purpose": "本人核验专用记录；未伪造Fact"
   },
@@ -368,6 +380,14 @@
     "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
   },
   {
+    "path": "scripts/change_review.py",
+    "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
+  },
+  {
+    "path": "scripts/change_review_views.py",
+    "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
+  },
+  {
     "path": "scripts/common.py",
     "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
   },
@@ -377,6 +397,10 @@
   },
   {
     "path": "scripts/review_ui.py",
+    "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
+  },
+  {
+    "path": "scripts/test_change_review.py",
     "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
   },
   {

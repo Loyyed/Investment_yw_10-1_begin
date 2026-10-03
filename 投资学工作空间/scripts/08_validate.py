@@ -50,6 +50,9 @@ review_store=ReviewStore(W)
 review_store.sync()
 valid_facts=review_store.facts()
 check('人工确认机器视图与有效Fact一致', len(json.loads((W/'evidence/confirmed-facts.json').read_text(encoding='utf-8'))['facts'])==len(valid_facts))
+change_facts=review_store.change_facts()
+change_export=json.loads((W/'evidence/change-confirmed-facts.json').read_text(encoding='utf-8')) if (W/'evidence/change-confirmed-facts.json').exists() else {'facts':[]}
+check('变化确认导出与当前来源绑定的有效Fact一致', {r['id']:r['calc_digest'] for r in change_export['facts']}=={r['id']:r['calc_digest'] for r in change_facts})
 required=['人工核验入口.cmd','scripts/review_store.py','scripts/review_ui.py','README.md','CLAUDE.md','AGENTS.md','outputs/first-analysis.md','outputs/revenue-structure-table.md','outputs/metric-scope-decision.md','outputs/change-verification-record.md','outputs/lec03-evidence-matrix.md','outputs/lec03-stage-deliverables.md','work/notes.md','work/pending-checks.md','evidence/evidence-log.md','research.ipynb','工作流程与文件说明.md']
 check('必需交付文件存在',all((W/p).is_file() and (W/p).stat().st_size>0 for p in required))
 # Validate generated Markdown links only. Source snapshots keep original historical links.
@@ -92,8 +95,8 @@ try:
  outputs=''.join(o.get('text','') for c in nb.cells for o in c.get('outputs',[]))
  check('Notebook通过真实Jupyter内核执行',True,outputs[:700])
 except Exception as e:check('Notebook通过真实Jupyter内核执行',False,str(e))
-result={'date':'2026-10-02','checks':checks,'passed':sum(r['pass'] for r in checks),'failed':sum(not r['pass'] for r in checks),'human_reviewed_fact_count':len(valid_facts),'human_verification_complete':False}
+result={'date':'2026-10-03','checks':checks,'passed':sum(r['pass'] for r in checks),'failed':sum(not r['pass'] for r in checks),'human_reviewed_fact_count':len(valid_facts),'human_reviewed_change_fact_count':len(change_facts),'human_verification_complete':False}
 write('work/validation-results.json',json.dumps(result,ensure_ascii=False,indent=2))
-write('docs/verification-report.md','# 自动检查记录\n\n执行日期2026-10-02；'+str(result['passed'])+'项通过，'+str(result['failed'])+'项失败。当前有效人工Fact：'+str(len(valid_facts))+'条；合同签署与正式验收另行确认。HTML浏览器渲染未验证。\n\n'+table(['检查','结果','说明'],[[c['name'],'通过' if c['pass'] else '失败',c['details']] for c in checks]))
+write('docs/verification-report.md','# 自动检查记录\n\n执行日期2026-10-03；'+str(result['passed'])+'项通过，'+str(result['failed'])+'项失败。当前有效原始披露Fact：'+str(len(valid_facts))+'条；变化Fact：'+str(len(change_facts))+'条；合同签署与正式验收另行确认。HTML浏览器渲染未验证。\n\n'+table(['检查','结果','说明'],[[c['name'],'通过' if c['pass'] else '失败',c['details']] for c in checks]))
 print('RESULT',result['passed'],'passed,',result['failed'],'failed')
 raise SystemExit(1 if result['failed'] else 0)

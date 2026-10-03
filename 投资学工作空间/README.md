@@ -34,3 +34,9 @@
 
 当前有效Fact为16条；Unknown为47条；已撤回0条；需重新核验0条。共63条候选。 日期自动按Asia/Shanghai记录。合同验收、复核人与正式签署另行完成。
 <!-- review-store:progress:end -->
+
+<!-- scope-acceptance:task04-progress:start -->
+## 第四次变化事实
+
+当前新增两条独立聊天确认的变化证据CH01/CH02。原披露核验记录保持；动态有效性使用ReviewStore.change_facts()，旧导出不证明Fact。[第四次验收](docs/fourth-task-acceptance.md)；[下一步](docs/next-review.md)。
+<!-- scope-acceptance:task04-progress:end -->

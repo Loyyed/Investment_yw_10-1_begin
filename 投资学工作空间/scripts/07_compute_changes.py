@@ -23,5 +23,9 @@ def main():
    result.append({'metric':metric,'current':r['current'],'previous':r['previous'],'source_binding':snapshot['binding'],'formula':'(current-previous)/previous*100','percent':str(rate),'rounding':'ROUND_HALF_UP 2 decimal places','state':'Unknown','note':'公式复算结果仍待本人核验，不自动成为Fact'})
  except ValueError as e:
   write('work/change-recalculation.json',json.dumps({'status':'stopped','reason':str(e),'results':[]},ensure_ascii=False,indent=2));print(str(e));return 2
- write('work/change-recalculation.json',json.dumps({'status':'calculated-awaiting-human-verification','results':result},ensure_ascii=False,indent=2));print(json.dumps(result,ensure_ascii=False,indent=2));return 0
+ payload={'status':'calculated-awaiting-human-verification','results':result}
+ if (W/'evidence/change-review-state.json').exists():
+  from change_review import ChangeReviewStore
+  payload=ChangeReviewStore(W).annotate_calculation(payload)
+ write('work/change-recalculation.json',json.dumps(payload,ensure_ascii=False,indent=2));print(json.dumps(payload['results'],ensure_ascii=False,indent=2));return 0
 if __name__=='__main__':raise SystemExit(main())

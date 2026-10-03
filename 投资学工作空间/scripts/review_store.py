@@ -316,6 +316,11 @@ class ReviewStore:
     def facts(self) -> list[EvidenceRecord]:
         return [r for r in self.list_candidates() if r["state"] == "Fact"]
 
+    def change_facts(self) -> list[dict[str, Any]]:
+        """Return only source-bound, separately human-confirmed change facts."""
+        from change_review import ChangeReviewStore
+        return ChangeReviewStore(self.workspace).facts()
+
     def _comparability_binding(self, candidates: list[EvidenceRecord]) -> dict[str, Any]:
         inputs = {}
         for relative in ("work/structured-data.json", "work/scope-data.json"):
@@ -636,6 +641,12 @@ class ReviewStore:
                 save("config/human-review.json", _json(config))
             except Exception as error:
                 errors.append({"path": "config/human-review.json", "error": str(error)})
+        if self._path("evidence/change-review-state.json").exists():
+            try:
+                from change_review_views import sync_change_views
+                updated.extend(sync_change_views(self.workspace))
+            except Exception as error:
+                errors.append({"path": "evidence/change-review-state.json", "error": str(error)})
         return {"counts": counts, "updated_files": updated, "errors": errors, "sync_errors": errors,
                 "event_count": len(ledger["events"])}
 
@@ -688,7 +699,8 @@ class ReviewStore:
                         count = 0
                         if confirmation and confirmation.get("binding") == self._comparability_binding(candidates):
                             count = sum(confirmation["flags"].get(k) is True for k in FLAGS)
-                        content = f"七项可比性独立确认{count}/7项；变化复算与正式核验仍须完成"
+                        change_count = len(self.change_facts())
+                        content = f"七项可比性独立确认{count}/7项；有效变化Fact {change_count}/2条；姓名与正式签署待补"
                     cells[-2] = f" {content} <!-- review-store:task:{name} --> "
                     line = "|".join(cells) + ("\n" if line.endswith("\n") else "")
             lines.append(line)

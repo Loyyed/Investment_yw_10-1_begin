@@ -1,5 +1,5 @@
 {
-  "status": "calculated-awaiting-human-verification",
+  "status": "human-confirmed",
   "results": [
     {
       "metric": "营业收入",
@@ -9,8 +9,10 @@
       "formula": "(current-previous)/previous*100",
       "percent": "15.71",
       "rounding": "ROUND_HALF_UP 2 decimal places",
-      "state": "Unknown",
-      "note": "公式复算结果仍待本人核验，不自动成为Fact"
+      "state": "Fact",
+      "note": "本人聊天确认；仅支持变化方向与幅度",
+      "change_evidence_id": "CH01",
+      "confirmed_at": "2026-10-03T13:31:18+08:00"
     },
     {
       "metric": "归属于上市公司股东的净利润",
@@ -20,8 +22,10 @@
       "formula": "(current-previous)/previous*100",
       "percent": "15.38",
       "rounding": "ROUND_HALF_UP 2 decimal places",
-      "state": "Unknown",
-      "note": "公式复算结果仍待本人核验，不自动成为Fact"
+      "state": "Fact",
+      "note": "本人聊天确认；仅支持变化方向与幅度",
+      "change_evidence_id": "CH02",
+      "confirmed_at": "2026-10-03T13:31:18+08:00"
     }
   ]
 }
