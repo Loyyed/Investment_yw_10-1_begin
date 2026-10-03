@@ -33,3 +33,9 @@
 
 本人明确回复“核对输入、单位和结果通过”，按所指计算表独立登记15项计算Fact及真实聊天事件。保留原窗口账本、原Unknown提取快照和公司自述历史。复用须调用m01_metric_facts()重新校验来源、输入、原数值Fact、代码及计算结果，不能只信派生文件。确认统计不扩大为品牌机制认可或Lec03验收。
 <!-- scope-acceptance:m01-metric-confirmation:end -->
+
+<!-- scope-acceptance:m01-scale-judgment:start -->
+## M01暂定判断与生产成本范围（2026-10-03）
+
+本人暂时判断具有品牌定价权，登记为Interpretation；要求补算2023并纳入生产成本。分别处理营业成本/销量、生产相关成本构成及附条件生产投入存货桥接。保留本人原话与Agent限定，不伪称本人已接受限定；新数据和估算假设待核，不继承原确认，不把公司自述当作忠诚证据或单凭单位成本上升否定规模经济。
+<!-- scope-acceptance:m01-scale-judgment:end -->

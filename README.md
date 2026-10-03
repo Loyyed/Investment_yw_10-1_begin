@@ -75,3 +75,9 @@ M01三项公司自述已由本人核对；第15页产品组销售收入除以销
 
 M01计算表15项输入、单位和结果已本人确认通过；后续可复用当前有效计算Fact。[计算表](投资学工作空间/outputs/m01-average-price-and-margin.md)；[下一步](投资学工作空间/docs/next-review.md)。品牌机制裁决、其余两维选题及Lec03验收仍待完成。
 <!-- scope-acceptance:m01-metric-confirmation:end -->
+
+<!-- scope-acceptance:m01-scale-judgment:start -->
+## 最新研究进展
+
+本人给出品牌定价权暂定判断（Interpretation），已补算2023—2024单位成本并纳入生产相关成本和附条件存货桥接。新结果待核，既有36条Fact保持原确认。[成本分析](投资学工作空间/outputs/m01-scale-and-production-cost.md)；[下一步](投资学工作空间/docs/next-review.md)。
+<!-- scope-acceptance:m01-scale-judgment:end -->

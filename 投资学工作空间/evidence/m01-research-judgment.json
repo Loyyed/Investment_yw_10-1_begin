@@ -1,0 +1,26 @@
+{
+  "client_date": "2026-10-03",
+  "statement_original": "从当前结论来看茅台酒94.06%、系列酒79.87%、酒类加权92.01%的2024营业毛利率提供利润空间，茅台的高毛利从一定程度上说明它拥有品牌的定价权，且高毛利可以作为可持续高利润表现的背景。但对于规模经济情况来看，我认为你还需要进一步测算2023年的平均产量营业成品进一步判别，假如规模增长同时单位成本上升则说明茅台不具备规模经济，这可能从一定程度上影响对定价权的判断。同时贵州茅台自己也将品牌作为自己的核心竞争力，这意味着在品牌护城河和消费者忠诚度方面是利好的，因此暂时判定茅台具有品牌定价权",
+  "followup_original": "生产成本也同样纳入考虑",
+  "actor": "",
+  "judgment": "暂时判定茅台具有品牌定价权",
+  "state": "Interpretation",
+  "scale_condition_original": "假如规模增长同时单位成本上升则说明茅台不具备规模经济",
+  "agent_qualification": "单位成本上升削弱本期可观察的规模降本证据；未排除投入品涨价、产品组合与生产销售时滞，不构成充分否定条件。公司自述未独立证明消费者忠诚。",
+  "new_calculations_human_review": "pending",
+  "record_type": "human-provisional-research-interpretation-not-fact",
+  "registered_at": "2026-10-03T16:01:54+08:00",
+  "polished_judgment": "基于已核验的2024年茅台酒、系列酒及酒类整体毛利率，以及公司将品牌列为核心竞争力的披露，研究者暂时判断茅台具有品牌定价权。高毛利可作为高利润表现的背景；后续将结合2023—2024年单位销售成本及生产成本分析，检验规模经济是否提供进一步支持。",
+  "polished_text_author": "Agent根据本人答复整理；保留原始答复，未代写本人认可额外限定",
+  "mechanism_proof_state": "Unknown",
+  "sustainability_proof_state": "Unknown",
+  "support_metric_keys": {
+    "M01-G01": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+    "M01-G02": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+    "M01-G03": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149"
+  },
+  "support_disclosure_ids": [
+    "M01-D01"
+  ],
+  "supplemental_analysis": "outputs/m01-scale-and-production-cost.md"
+}

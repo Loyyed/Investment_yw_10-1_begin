@@ -288,6 +288,10 @@
     "purpose": "本人核验专用记录；未伪造Fact"
   },
   {
+    "path": "evidence/m01-research-judgment.json",
+    "purpose": "本人核验专用记录；未伪造Fact"
+  },
+  {
     "path": "evidence/review-state.json",
     "purpose": "本人核验专用记录；未伪造Fact"
   },
@@ -329,6 +333,10 @@
   },
   {
     "path": "outputs/m01-average-price-and-margin.md",
+    "purpose": "课件合同的阶段成果准备稿"
+  },
+  {
+    "path": "outputs/m01-scale-and-production-cost.md",
     "purpose": "课件合同的阶段成果准备稿"
   },
   {
@@ -408,6 +416,10 @@
     "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
   },
   {
+    "path": "scripts/calculate_m01_scale.py",
+    "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
+  },
+  {
     "path": "scripts/change_review.py",
     "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
   },
@@ -449,6 +461,10 @@
   },
   {
     "path": "scripts/test_m01_metric_review.py",
+    "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
+  },
+  {
+    "path": "scripts/test_m01_scale.py",
     "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
   },
   {
@@ -1085,6 +1101,14 @@
   },
   {
     "path": "work/m01-calculation-inputs.json",
+    "purpose": "实际过程、候选、冲突、修正或验证记录"
+  },
+  {
+    "path": "work/m01-scale-inputs.json",
+    "purpose": "实际过程、候选、冲突、修正或验证记录"
+  },
+  {
+    "path": "work/m01-scale-results.json",
     "purpose": "实际过程、候选、冲突、修正或验证记录"
   },
   {

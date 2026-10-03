@@ -134,7 +134,7 @@ outputs/lec03-stage-deliverables.md
 材料：指定五份年报和Lec03课件；不新增外部行业资料。
 合同来源：sources/original-tree/学生用/Lec03任务合同_商业模式与竞争优势证据表.md；正文条款完整保留。
 执行人：__________；复核人：__________；签署日期：__________。
-状态：M01三项公司叙事已核验；均价与毛利率15项结果已本人确认；机制Unknown，其他两维未选，Lec03未验收。
+状态：M01既有统计Fact已核；本人品牌定价权暂定Interpretation已记录，新增两期成本及生产桥接待核；其他两维未选，Lec03未验收。
 人工入口：docs/human-review-guide.md。
 
 <!-- scope-acceptance:m01-selection:start -->
@@ -168,3 +168,9 @@ outputs/lec03-stage-deliverables.md
 
 本人原话“核对输入、单位和结果通过”。本轮15项计算Fact及确认范围见[计算表](../outputs/m01-average-price-and-margin.md)。品牌因果及持续性仍Unknown；其他两维未选，验收与正式签署尚未完成。
 <!-- scope-acceptance:m01-metric-confirmation:end -->
+
+<!-- scope-acceptance:m01-scale-judgment:start -->
+## M01暂定判断及生产成本补证
+
+本人已给出品牌定价权暂定判断，原答复保留在[evidence记录](../evidence/m01-research-judgment.json)。补算2023—2024单位销售成本，并纳入生产相关成本构成与存货桥接情景；新增输入及结果待本人核验，生产桥接假设Unknown。机制充分成立与持续性未证实；其他两维和正式验收、姓名签署待完成。[成本分析](../outputs/m01-scale-and-production-cost.md)。
+<!-- scope-acceptance:m01-scale-judgment:end -->

@@ -76,6 +76,7 @@
 | evidence/m01-disclosure-review.json | 本人核验专用记录；未伪造Fact |
 | evidence/m01-metric-facts.json | 本人核验专用记录；未伪造Fact |
 | evidence/m01-metric-review.json | 本人核验专用记录；未伪造Fact |
+| evidence/m01-research-judgment.json | 本人核验专用记录；未伪造Fact |
 | evidence/review-state.json | 本人核验专用记录；未伪造Fact |
 | evidence/task03-adopted-evidence.json | 本人核验专用记录；未伪造Fact |
 | Git.cmd | 项目入口、运行器或总说明 |
@@ -87,6 +88,7 @@
 | outputs/lec03-evidence-matrix.md | 课件合同的阶段成果准备稿 |
 | outputs/lec03-stage-deliverables.md | 课件合同的阶段成果准备稿 |
 | outputs/m01-average-price-and-margin.md | 课件合同的阶段成果准备稿 |
+| outputs/m01-scale-and-production-cost.md | 课件合同的阶段成果准备稿 |
 | outputs/metric-scope-decision.md | 课件合同的阶段成果准备稿 |
 | outputs/red-team-review.md | 课件合同的阶段成果准备稿 |
 | outputs/revenue-structure-table.md | 课件合同的阶段成果准备稿 |
@@ -106,6 +108,7 @@
 | scripts/09_documentation.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
 | scripts/10_finalize.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
 | scripts/calculate_m01_metrics.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
+| scripts/calculate_m01_scale.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
 | scripts/change_review.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
 | scripts/change_review_views.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
 | scripts/common.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
@@ -117,6 +120,7 @@
 | scripts/test_m01_calculation.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
 | scripts/test_m01_disclosure_review.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
 | scripts/test_m01_metric_review.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
+| scripts/test_m01_scale.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
 | scripts/ui_smoke.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
 | scripts/workspace_utils.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
 | sources/annual_reports/md/SH600519_贵州茅台_2020.md | 规范原始年报／对应检索MD；按报告原样留存 |
@@ -276,6 +280,8 @@
 | work/lec03-m01.md | 实际过程、候选、冲突、修正或验证记录 |
 | work/m01-calculated-metrics.json | 实际过程、候选、冲突、修正或验证记录 |
 | work/m01-calculation-inputs.json | 实际过程、候选、冲突、修正或验证记录 |
+| work/m01-scale-inputs.json | 实际过程、候选、冲突、修正或验证记录 |
+| work/m01-scale-results.json | 实际过程、候选、冲突、修正或验证记录 |
 | work/metric-scope-candidates.md | 实际过程、候选、冲突、修正或验证记录 |
 | work/notebook-executed.ipynb | 实际过程、候选、冲突、修正或验证记录 |
 | work/notes.md | 实际过程、候选、冲突、修正或验证记录 |

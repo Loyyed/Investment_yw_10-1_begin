@@ -1,0 +1,178 @@
+{
+  "schema_version": 1,
+  "input_digest": "86a3d2a879607ede9ce18044e6205ce7ea20349bbd8ede6ac3dd338c622d5694",
+  "reports": [
+    {
+      "year": 2023,
+      "pdf": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "pdf_sha256": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1"
+    },
+    {
+      "year": 2024,
+      "pdf": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+    }
+  ],
+  "status": "calculated-awaiting-human-verification",
+  "products": [
+    {
+      "name": "茅台酒",
+      "unit_selling_cost_2023": "176812.14",
+      "unit_selling_cost_2024": "186630.66",
+      "unit_cost_change_percent": "5.55",
+      "sales_change_percent": "10.22",
+      "production_change_percent": "-1.63",
+      "average_price_2023_wanyuan_per_tonne": "300.62",
+      "gross_margin_2023": "94.12",
+      "state": "Unknown",
+      "note": "本轮新增两期输入及结果待本人核验；统计变化不单独证明规模机制"
+    },
+    {
+      "name": "其他系列酒",
+      "unit_selling_cost_2023": "133957.79",
+      "unit_selling_cost_2024": "134559.64",
+      "unit_cost_change_percent": "0.45",
+      "sales_change_percent": "18.47",
+      "production_change_percent": "12.05",
+      "average_price_2023_wanyuan_per_tonne": "66.20",
+      "gross_margin_2023": "79.76",
+      "state": "Unknown",
+      "note": "本轮新增两期输入及结果待本人核验；统计变化不单独证明规模机制"
+    }
+  ],
+  "years": [
+    {
+      "year": 2023,
+      "revenue_yuan": "147218996281.04",
+      "cost_yuan": "11620203653.32",
+      "production_tonnes": "100141.15",
+      "sales_tonnes": "73274.04",
+      "unit_selling_cost_yuan": "158585.55",
+      "average_sales_price_yuan": "2009156.26",
+      "gross_margin_percent": "92.11",
+      "productive_inventory_opening_gross": "34908195748.07",
+      "productive_inventory_closing_gross": "43071574695.36",
+      "inventory_bridge_production_input_yuan": "19783582600.61",
+      "bridge_per_reported_base_wine_tonne": "197556.97",
+      "state": "Unknown"
+    },
+    {
+      "year": 2024,
+      "revenue_yuan": "170611838052.02",
+      "cost_yuan": "13629995812.89",
+      "production_tonnes": "104384.50",
+      "sales_tonnes": "83332.76",
+      "unit_selling_cost_yuan": "163561.08",
+      "average_sales_price_yuan": "2047356.14",
+      "gross_margin_percent": "92.01",
+      "productive_inventory_opening_gross": "43071574695.36",
+      "productive_inventory_closing_gross": "51248809245.03",
+      "inventory_bridge_production_input_yuan": "21807230362.56",
+      "bridge_per_reported_base_wine_tonne": "208912.53",
+      "state": "Unknown"
+    }
+  ],
+  "cost_components": [
+    {
+      "component": "直接材料",
+      "amount_2023_yuan": "5984160283.88",
+      "amount_2024_yuan": "6895320421.92",
+      "unit_selling_cost_2023": "81668.22",
+      "unit_selling_cost_2024": "82744.41",
+      "unit_change_percent": "1.32",
+      "state": "Unknown",
+      "boundary": "已结转营业成本的生产相关构成；不是本年生产投入分项，制造费用也不等于全部固定成本"
+    },
+    {
+      "component": "直接人工",
+      "amount_2023_yuan": "4372013596.08",
+      "amount_2024_yuan": "5224448485.08",
+      "unit_selling_cost_2023": "59666.61",
+      "unit_selling_cost_2024": "62693.81",
+      "unit_change_percent": "5.07",
+      "state": "Unknown",
+      "boundary": "已结转营业成本的生产相关构成；不是本年生产投入分项，制造费用也不等于全部固定成本"
+    },
+    {
+      "component": "制造费用",
+      "amount_2023_yuan": "640613571.24",
+      "amount_2024_yuan": "776373890.79",
+      "unit_selling_cost_2023": "8742.71",
+      "unit_selling_cost_2024": "9316.55",
+      "unit_change_percent": "6.56",
+      "state": "Unknown",
+      "boundary": "已结转营业成本的生产相关构成；不是本年生产投入分项，制造费用也不等于全部固定成本"
+    },
+    {
+      "component": "燃料动力",
+      "amount_2023_yuan": "351386305.23",
+      "amount_2024_yuan": "422328634.52",
+      "unit_selling_cost_2023": "4795.51",
+      "unit_selling_cost_2024": "5067.98",
+      "unit_change_percent": "5.68",
+      "state": "Unknown",
+      "boundary": "已结转营业成本的生产相关构成；不是本年生产投入分项，制造费用也不等于全部固定成本"
+    },
+    {
+      "component": "运输费",
+      "amount_2023_yuan": "272029896.89",
+      "amount_2024_yuan": "311524380.58",
+      "unit_selling_cost_2023": "3712.50",
+      "unit_selling_cost_2024": "3738.32",
+      "unit_change_percent": "0.70",
+      "state": "Unknown",
+      "boundary": "已结转营业成本的生产相关构成；不是本年生产投入分项，制造费用也不等于全部固定成本"
+    }
+  ],
+  "aggregate_change_percent": {
+    "production_tonnes": "4.24",
+    "sales_tonnes": "13.73",
+    "cost_yuan": "17.30",
+    "unit_selling_cost_yuan": "3.14",
+    "inventory_bridge_production_input_yuan": "10.23",
+    "bridge_per_reported_base_wine_tonne": "5.75"
+  },
+  "mix_decomposition": {
+    "within_product_cost_effect_yuan_per_tonne": "5898.53",
+    "product_mix_effect_yuan_per_tonne": "-923.00",
+    "total_change_yuan_per_tonne": "4975.53",
+    "formula": "sum(w23*(u24-u23)) + sum((w24-w23)*u24)",
+    "boundary": "仅控制两大产品组销量占比；组内规格、渠道、酒龄与投入品价格未固定",
+    "state": "Unknown"
+  },
+  "checks": {
+    "quantity_totals": true,
+    "cost_component_totals": true,
+    "mix_decomposition": true
+  },
+  "production_bridge": {
+    "formula": "wine_COGS + (closing_WIP+semi_finished+finished)-(opening_WIP+semi_finished+finished)",
+    "inventory_basis": "账面余额；排除未投料原材料；不是全部存货净增加",
+    "assumptions": [
+      {
+        "condition": "存货产品范围与酒类营业成本一致",
+        "state": "Unknown"
+      },
+      {
+        "condition": "非原材料存货没有外购成品或其他非生产增加",
+        "state": "Unknown"
+      },
+      {
+        "condition": "没有未调整的非销售减少、转出或盘盈盘亏",
+        "state": "Unknown"
+      },
+      {
+        "condition": "合并范围与成本计价没有造成不可比变化",
+        "state": "Unknown"
+      },
+      {
+        "condition": "生产投入与年度基酒吨数的加工阶段和产品构成可匹配",
+        "state": "Unknown"
+      }
+    ],
+    "state": "Unknown",
+    "boundary": "条件情景估算；未单列披露的当期生产成本不能被此估算直接确认为Fact。分母为实际基酒产量，不是可直接匹配的完工包装成品量。"
+  },
+  "conclusion_state": "Interpretation",
+  "support_boundary": "只作两期成本统计与附条件敏感性分析；不充分证明有或无规模经济，不证明品牌因果或持续性"
+}

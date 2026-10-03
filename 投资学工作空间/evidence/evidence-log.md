@@ -141,3 +141,11 @@ N组确认不自动覆盖R2024-02/03；三项品牌及变动原因自述已在�
 
 [权威记录](m01-metric-review.json)；[派生导出](m01-metric-facts.json)。使用ReviewStore.m01_metric_facts()重检当前绑定；统计结果不证明品牌机制。原披露16、变化2、公司自述3加本轮15项，共36条分域有效Fact；原47条Unknown不批量升级。
 <!-- scope-acceptance:m01-metric-confirmation:end -->
+
+<!-- scope-acceptance:m01-scale-judgment:start -->
+## M01暂定研究判断与待核成本分析
+
+本人暂时判定茅台具有品牌定价权，登记为Interpretation；本轮追加考虑生产成本。原答复、整理表述及Agent限定分别保存在[m01-research-judgment.json](m01-research-judgment.json)。这不是新增原文核验或计算确认，不新增Fact、不创建窗口或聊天Fact确认事件。
+
+既有原披露16、变化2、公司自述3、计算15共36条有效Fact保留。新增2023输入、成本构成、存货桥接及比较结果Unknown；估算假设也Unknown，不因算术通过变成真实生产成本。使用已有Fact仍须调用对应ReviewStore接口。
+<!-- scope-acceptance:m01-scale-judgment:end -->

@@ -56,3 +56,9 @@ M01品牌定价权已由本人选定为竞争优势研究问题；另外两个�
 
 15项均价、毛利率、同比与收入占比结果已通过本人聊天确认，当前均为有效计算Fact。下一步形成自己的机制判断及反证，并选择商业模式和行业竞争两个维度；Lec03尚未验收。[下一步](next-review.md)。
 <!-- scope-acceptance:m01-metric-confirmation:end -->
+
+<!-- scope-acceptance:m01-scale-judgment:start -->
+## M01本人暂定判断已登记
+
+本人暂时倾向品牌定价权成立（Interpretation）；新增两期单位成本、生产相关成本及存货桥接补证已整理，等待核验。原36条Fact不变，机制及持续性仍未充分证实；其他两维未选、Lec03未验收。[成本分析](../outputs/m01-scale-and-production-cost.md)；[下一步](next-review.md)。
+<!-- scope-acceptance:m01-scale-judgment:end -->
