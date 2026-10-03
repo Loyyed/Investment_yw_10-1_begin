@@ -13,7 +13,7 @@
       "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
     }
   ],
-  "status": "calculated-awaiting-human-verification",
+  "status": "human-confirmed-statistics-and-conditional-arithmetic",
   "products": [
     {
       "name": "茅台酒",
@@ -24,8 +24,8 @@
       "production_change_percent": "-1.63",
       "average_price_2023_wanyuan_per_tonne": "300.62",
       "gross_margin_2023": "94.12",
-      "state": "Unknown",
-      "note": "本轮新增两期输入及结果待本人核验；统计变化不单独证明规模机制"
+      "state": "Fact",
+      "note": "本人聊天确认当前输入、单位与结果；仅支持所列两期公司销售口径统计量及大类组合拆分；不是准确单位生产成本"
     },
     {
       "name": "其他系列酒",
@@ -36,8 +36,8 @@
       "production_change_percent": "12.05",
       "average_price_2023_wanyuan_per_tonne": "66.20",
       "gross_margin_2023": "79.76",
-      "state": "Unknown",
-      "note": "本轮新增两期输入及结果待本人核验；统计变化不单独证明规模机制"
+      "state": "Fact",
+      "note": "本人聊天确认当前输入、单位与结果；仅支持所列两期公司销售口径统计量及大类组合拆分；不是准确单位生产成本"
     }
   ],
   "years": [
@@ -54,7 +54,20 @@
       "productive_inventory_closing_gross": "43071574695.36",
       "inventory_bridge_production_input_yuan": "19783582600.61",
       "bridge_per_reported_base_wine_tonne": "197556.97",
-      "state": "Unknown"
+      "field_states": {
+        "revenue_yuan": "Fact",
+        "cost_yuan": "Fact",
+        "production_tonnes": "Fact",
+        "sales_tonnes": "Fact",
+        "unit_selling_cost_yuan": "Fact",
+        "average_sales_price_yuan": "Fact",
+        "gross_margin_percent": "Fact",
+        "productive_inventory_opening_gross": "Fact",
+        "productive_inventory_closing_gross": "Fact",
+        "inventory_bridge_production_input_yuan": "Unknown",
+        "bridge_per_reported_base_wine_tonne": "Unknown"
+      },
+      "arithmetic_fact_id": "M01-K03"
     },
     {
       "year": 2024,
@@ -69,7 +82,20 @@
       "productive_inventory_closing_gross": "51248809245.03",
       "inventory_bridge_production_input_yuan": "21807230362.56",
       "bridge_per_reported_base_wine_tonne": "208912.53",
-      "state": "Unknown"
+      "field_states": {
+        "revenue_yuan": "Fact",
+        "cost_yuan": "Fact",
+        "production_tonnes": "Fact",
+        "sales_tonnes": "Fact",
+        "unit_selling_cost_yuan": "Fact",
+        "average_sales_price_yuan": "Fact",
+        "gross_margin_percent": "Fact",
+        "productive_inventory_opening_gross": "Fact",
+        "productive_inventory_closing_gross": "Fact",
+        "inventory_bridge_production_input_yuan": "Unknown",
+        "bridge_per_reported_base_wine_tonne": "Unknown"
+      },
+      "arithmetic_fact_id": "M01-K03"
     }
   ],
   "cost_components": [
@@ -80,8 +106,9 @@
       "unit_selling_cost_2023": "81668.22",
       "unit_selling_cost_2024": "82744.41",
       "unit_change_percent": "1.32",
-      "state": "Unknown",
-      "boundary": "已结转营业成本的生产相关构成；不是本年生产投入分项，制造费用也不等于全部固定成本"
+      "state": "Fact",
+      "boundary": "已结转营业成本的生产相关构成；不是本年生产投入分项，制造费用也不等于全部固定成本",
+      "note": "本人聊天确认当前输入、单位与结果；仅支持已结转营业成本的生产相关构成及每销售吨计算；不是当年新投入生产分项"
     },
     {
       "component": "直接人工",
@@ -90,8 +117,9 @@
       "unit_selling_cost_2023": "59666.61",
       "unit_selling_cost_2024": "62693.81",
       "unit_change_percent": "5.07",
-      "state": "Unknown",
-      "boundary": "已结转营业成本的生产相关构成；不是本年生产投入分项，制造费用也不等于全部固定成本"
+      "state": "Fact",
+      "boundary": "已结转营业成本的生产相关构成；不是本年生产投入分项，制造费用也不等于全部固定成本",
+      "note": "本人聊天确认当前输入、单位与结果；仅支持已结转营业成本的生产相关构成及每销售吨计算；不是当年新投入生产分项"
     },
     {
       "component": "制造费用",
@@ -100,8 +128,9 @@
       "unit_selling_cost_2023": "8742.71",
       "unit_selling_cost_2024": "9316.55",
       "unit_change_percent": "6.56",
-      "state": "Unknown",
-      "boundary": "已结转营业成本的生产相关构成；不是本年生产投入分项，制造费用也不等于全部固定成本"
+      "state": "Fact",
+      "boundary": "已结转营业成本的生产相关构成；不是本年生产投入分项，制造费用也不等于全部固定成本",
+      "note": "本人聊天确认当前输入、单位与结果；仅支持已结转营业成本的生产相关构成及每销售吨计算；不是当年新投入生产分项"
     },
     {
       "component": "燃料动力",
@@ -110,8 +139,9 @@
       "unit_selling_cost_2023": "4795.51",
       "unit_selling_cost_2024": "5067.98",
       "unit_change_percent": "5.68",
-      "state": "Unknown",
-      "boundary": "已结转营业成本的生产相关构成；不是本年生产投入分项，制造费用也不等于全部固定成本"
+      "state": "Fact",
+      "boundary": "已结转营业成本的生产相关构成；不是本年生产投入分项，制造费用也不等于全部固定成本",
+      "note": "本人聊天确认当前输入、单位与结果；仅支持已结转营业成本的生产相关构成及每销售吨计算；不是当年新投入生产分项"
     },
     {
       "component": "运输费",
@@ -120,8 +150,9 @@
       "unit_selling_cost_2023": "3712.50",
       "unit_selling_cost_2024": "3738.32",
       "unit_change_percent": "0.70",
-      "state": "Unknown",
-      "boundary": "已结转营业成本的生产相关构成；不是本年生产投入分项，制造费用也不等于全部固定成本"
+      "state": "Fact",
+      "boundary": "已结转营业成本的生产相关构成；不是本年生产投入分项，制造费用也不等于全部固定成本",
+      "note": "本人聊天确认当前输入、单位与结果；仅支持已结转营业成本的生产相关构成及每销售吨计算；不是当年新投入生产分项"
     }
   ],
   "aggregate_change_percent": {
@@ -138,7 +169,7 @@
     "total_change_yuan_per_tonne": "4975.53",
     "formula": "sum(w23*(u24-u23)) + sum((w24-w23)*u24)",
     "boundary": "仅控制两大产品组销量占比；组内规格、渠道、酒龄与投入品价格未固定",
-    "state": "Unknown"
+    "state": "Fact"
   },
   "checks": {
     "quantity_totals": true,
@@ -171,7 +202,9 @@
       }
     ],
     "state": "Unknown",
-    "boundary": "条件情景估算；未单列披露的当期生产成本不能被此估算直接确认为Fact。分母为实际基酒产量，不是可直接匹配的完工包装成品量。"
+    "boundary": "条件情景估算；未单列披露的当期生产成本不能被此估算直接确认为Fact。分母为实际基酒产量，不是可直接匹配的完工包装成品量。",
+    "arithmetic_state": "Fact",
+    "arithmetic_fact_id": "M01-K03"
   },
   "conclusion_state": "Interpretation",
   "support_boundary": "只作两期成本统计与附条件敏感性分析；不充分证明有或无规模经济，不证明品牌因果或持续性"

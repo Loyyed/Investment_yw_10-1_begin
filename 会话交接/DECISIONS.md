@@ -39,3 +39,9 @@
 
 本人暂时判断具有品牌定价权，登记为Interpretation；要求补算2023并纳入生产成本。分别处理营业成本/销量、生产相关成本构成及附条件生产投入存货桥接。保留本人原话与Agent限定，不伪称本人已接受限定；新数据和估算假设待核，不继承原确认，不把公司自述当作忠诚证据或单凭单位成本上升否定规模经济。
 <!-- scope-acceptance:m01-scale-judgment:end -->
+
+<!-- scope-acceptance:m01-cost-confirmation:start -->
+## M01成本确认（2026-10-03）
+
+本人原话“核验完毕”，所指为新增成本分析2—4节。独立登记成本统计、成本构成及附条件桥接算术，不覆盖原窗口权威；桥接假设和实际生产成本继续Unknown。使用m01_scale_facts()重检当前绑定。核算确认不自动修改本人暂定Interpretation或代写其认可Agent对规模经济的限定。
+<!-- scope-acceptance:m01-cost-confirmation:end -->

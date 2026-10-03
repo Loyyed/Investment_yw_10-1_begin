@@ -292,6 +292,14 @@
     "purpose": "本人核验专用记录；未伪造Fact"
   },
   {
+    "path": "evidence/m01-scale-facts.json",
+    "purpose": "本人核验专用记录；未伪造Fact"
+  },
+  {
+    "path": "evidence/m01-scale-review.json",
+    "purpose": "本人核验专用记录；未伪造Fact"
+  },
+  {
     "path": "evidence/review-state.json",
     "purpose": "本人核验专用记录；未伪造Fact"
   },
@@ -440,6 +448,10 @@
     "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
   },
   {
+    "path": "scripts/m01_scale_review.py",
+    "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
+  },
+  {
     "path": "scripts/review_store.py",
     "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
   },
@@ -465,6 +477,10 @@
   },
   {
     "path": "scripts/test_m01_scale.py",
+    "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
+  },
+  {
+    "path": "scripts/test_m01_scale_review.py",
     "purpose": "本轮实际使用的可重运行脚本，保留实现与检查方法"
   },
   {

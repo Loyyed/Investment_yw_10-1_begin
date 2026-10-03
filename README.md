@@ -79,5 +79,11 @@ M01计算表15项输入、单位和结果已本人确认通过；后续可复用
 <!-- scope-acceptance:m01-scale-judgment:start -->
 ## 最新研究进展
 
-本人给出品牌定价权暂定判断（Interpretation），已补算2023—2024单位成本并纳入生产相关成本和附条件存货桥接。新结果待核，既有36条Fact保持原确认。[成本分析](投资学工作空间/outputs/m01-scale-and-production-cost.md)；[下一步](投资学工作空间/docs/next-review.md)。
+本人给出品牌定价权暂定判断（Interpretation），已补算2023—2024单位成本并纳入生产相关成本和附条件存货桥接。新增成本统计及桥接原数/附条件算术已核，估算假设继续Unknown，既有36条Fact保持原确认。[成本分析](投资学工作空间/outputs/m01-scale-and-production-cost.md)；[下一步](投资学工作空间/docs/next-review.md)。
 <!-- scope-acceptance:m01-scale-judgment:end -->
+
+<!-- scope-acceptance:m01-cost-confirmation:start -->
+## 最新成本核验
+
+本人已完成新增成本核验，统计与附条件算术可复用；实际生产成本及桥接假设继续Unknown。[成本分析](投资学工作空间/outputs/m01-scale-and-production-cost.md)；[下一步](投资学工作空间/docs/next-review.md)。接下来更新品牌暂定判断并选择商业模式、行业竞争两维，Lec03未验收。
+<!-- scope-acceptance:m01-cost-confirmation:end -->

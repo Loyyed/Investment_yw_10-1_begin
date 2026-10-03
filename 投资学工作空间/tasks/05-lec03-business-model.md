@@ -134,7 +134,7 @@ outputs/lec03-stage-deliverables.md
 材料：指定五份年报和Lec03课件；不新增外部行业资料。
 合同来源：sources/original-tree/学生用/Lec03任务合同_商业模式与竞争优势证据表.md；正文条款完整保留。
 执行人：__________；复核人：__________；签署日期：__________。
-状态：M01既有统计Fact已核；本人品牌定价权暂定Interpretation已记录，新增两期成本及生产桥接待核；其他两维未选，Lec03未验收。
+状态：M01既有统计Fact已核；本人品牌定价权暂定Interpretation已记录，新增两期成本统计及桥接算术已核、假设Unknown；其他两维未选，Lec03未验收。
 人工入口：docs/human-review-guide.md。
 
 <!-- scope-acceptance:m01-selection:start -->
@@ -172,5 +172,11 @@ outputs/lec03-stage-deliverables.md
 <!-- scope-acceptance:m01-scale-judgment:start -->
 ## M01暂定判断及生产成本补证
 
-本人已给出品牌定价权暂定判断，原答复保留在[evidence记录](../evidence/m01-research-judgment.json)。补算2023—2024单位销售成本，并纳入生产相关成本构成与存货桥接情景；新增输入及结果待本人核验，生产桥接假设Unknown。机制充分成立与持续性未证实；其他两维和正式验收、姓名签署待完成。[成本分析](../outputs/m01-scale-and-production-cost.md)。
+本人已给出品牌定价权暂定判断，原答复保留在[evidence记录](../evidence/m01-research-judgment.json)。补算2023—2024单位销售成本，并纳入生产相关成本构成与存货桥接情景；新增输入、统计及附条件算术已本人核验，生产桥接假设和实际生产成本Unknown。机制充分成立与持续性未证实；其他两维和正式验收、姓名签署待完成。[成本分析](../outputs/m01-scale-and-production-cost.md)。
 <!-- scope-acceptance:m01-scale-judgment:end -->
+
+<!-- scope-acceptance:m01-cost-confirmation:start -->
+## M01新增成本核验完成
+
+本人原话“核验完毕”。两项成本统计及一项附条件桥接算术记录独立确认，详见[成本报告](../outputs/m01-scale-and-production-cost.md)。未确认桥接假设或实际生产成本；品牌暂定判断仍Interpretation，其他两维未选、Lec03未验收。
+<!-- scope-acceptance:m01-cost-confirmation:end -->

@@ -79,5 +79,5 @@ flowchart LR
 <!-- scope-acceptance:m01-scale-judgment:start -->
 ## M01本人暂定判断与两期成本补证
 
-本人暂时判断“茅台具有品牌定价权”，并提出规模增长/单位成本检验条件；将生产成本纳入分析。新报告分别计算单位销售成本、成本构成和附条件生产投入桥接；新增结果待核，不能视为准确生产制造成本或直接判有无规模经济。[成本分析](m01-scale-and-production-cost.md)。
+本人暂时判断“茅台具有品牌定价权”，并提出规模增长/单位成本检验条件；将生产成本纳入分析。新报告分别计算单位销售成本、成本构成和附条件生产投入桥接；新增统计及桥接算术已核，桥接假设仍Unknown，不能视为准确生产制造成本或直接判有无规模经济。[成本分析](m01-scale-and-production-cost.md)。
 <!-- scope-acceptance:m01-scale-judgment:end -->

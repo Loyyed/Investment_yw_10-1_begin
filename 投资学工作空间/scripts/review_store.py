@@ -316,6 +316,11 @@ class ReviewStore:
     def facts(self) -> list[EvidenceRecord]:
         return [r for r in self.list_candidates() if r["state"] == "Fact"]
 
+    def m01_scale_facts(self) -> list[dict[str, Any]]:
+        """Cost statistics and qualified bridge arithmetic; not production proof."""
+        from m01_scale_review import M01ScaleReview
+        return M01ScaleReview(self.workspace).facts()
+
     def m01_metric_facts(self) -> list[dict[str, Any]]:
         """Return source-bound M01 metrics explicitly confirmed in chat."""
         from m01_metric_review import M01MetricReview

@@ -123,6 +123,9 @@ if __name__=='__main__':
  import sys
  sys.stdout.reconfigure(encoding='utf-8')
  root=Path(__file__).resolve().parents[1];result=calculate(root)
+ from m01_scale_review import M01ScaleReview
+ result=M01ScaleReview(root).annotate(result)
  from review_store import ReviewStore
  ReviewStore._atomic_text(root/'work/m01-scale-results.json',json.dumps(result,ensure_ascii=False,indent=2)+'\n')
+ ReviewStore._atomic_text(root/'evidence/m01-scale-facts.json',json.dumps(M01ScaleReview(root).export(),ensure_ascii=False,indent=2)+'\n')
  print(json.dumps(result,ensure_ascii=False,indent=2))

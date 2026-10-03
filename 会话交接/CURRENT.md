@@ -2,9 +2,10 @@
 
 更新：2026-10-03。
 
-- Git根D:/投资学；成果投资学工作空间/；原件课件与任务文件/。中文提交；旧弃用标签保留。继续前只核git log -1/status及logs/latest-publish.json。
-- 当前原披露16、变化2、公司自述3、计算15共36条分域Fact；原47 Unknown、17窗口事件及各聊天确认历史不变。使用分别调用ReviewStore.facts()/change_facts()/m01_disclosure_facts()/m01_metric_facts()校验当前来源；摘要不是证明。
-- 本人暂时判定“茅台具有品牌定价权”，据高毛利及公司品牌自述，并提出规模增长/单位成本条件，追加“生产成本也同样纳入考虑”。实际原话、整理判断及Agent限定分别在evidence/m01-research-judgment.json。本人判断为Interpretation，机制充分成立及持续性Unknown；未代写其认可Agent修正。
-- 新outputs/m01-scale-and-production-cost.md、work/m01-scale-inputs/results.json及calculate_m01_scale.py补算2023—2024单位销售成本、成本构成和附条件存货桥接。新增输入/结果尚待核，不自动继承原15项确认。茅台酒17.68→18.66万元/销售吨（+5.55%），系列酒+0.45%，酒类整体+3.14%；茅台酒基酒产量−1.63%，不是生产扩张样本。
-- 生产投入桥接用酒类营业成本＋在产品/自制半成品/库存商品账面余额净增加，排除原材料；情景估计197.84→218.07亿元，非直接披露生产成本。存货范围、非生产流动项及加工阶段匹配假设Unknown，÷基酒吨数不能当准确单位制造成本。来源2023页9/10/14/15/80/94、2024页9/10/14/15/79/93。
-- 下一步依docs/next-review.md分别核新增销售成本/构成、生产桥接原数与算式，保留假设Unknown，再据补证修订本人判断。成本上升不充分否定规模经济，品牌自述不独立证明忠诚。其他两维仍未选，Lec03未验收；姓名签署最后补。不新增外部材料、不全文读日志或重扫项目。
+- Git根D:/投资学；成果投资学工作空间/；原件课件与任务文件/。中文提交，旧弃用标签保留。继续前只核git log -1/status及logs/latest-publish.json。
+- 原披露16、变化2、公司自述3、均价等15共36项旧Fact保留；本轮新增M01-K01成本统计、K02成本构成、K03附条件桥接算术3项，合计39条分域证据记录。K03不是实际生产成本Fact。原47 Unknown、17窗口事件不变，各真实聊天历史保留。
+- 使用ReviewStore.facts()/change_facts()/m01_disclosure_facts()/m01_metric_facts()/m01_scale_facts()核对当前来源；交接与派生导出不能证明Fact。
+- 本人本轮原话“核验完毕”，针对4832eb6成本分析第2—4节。evidence/m01-scale-review.json登记1真实聊天事件，绑定两期PDF/清单、输入、已有Fact、计算/核验代码与结果。work/m01-scale-results.json已同步统计确认；生产桥接state及五项假设仍Unknown，arithmetic_state为Fact。
+- 成本分析见outputs/m01-scale-and-production-cost.md。茅台酒17.68→18.66万元/销售吨（+5.55%）、系列酒+0.45%、酒类整体+3.14%；茅台酒基酒产量−1.63%。桥接估计197.84→218.07亿元只确认原数及给定算式，未证明范围、滚动调整或加工阶段匹配。
+- 本人品牌定价权暂定判断仍Interpretation，原话在evidence/m01-research-judgment.json；本次核算确认没有修改判断，也不代写其认可Agent限定。品牌因果/持续性及规模机制未充分证明。
+- 下一步依docs/next-review.md说明维持、收窄或撤回暂定判断，再选择商业模式/行业竞争两维。已核数据不反复核；来源变化才重核。Lec03未验收，姓名签署最后补。不新增外部材料，不全文读日志或重扫项目。
