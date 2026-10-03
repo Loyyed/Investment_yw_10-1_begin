@@ -67,5 +67,5 @@ git push
 <!-- scope-acceptance:m01-progress:start -->
 ## 当前研究问题
 
-本人已选择M01品牌定价权问题。背景Fact可复用，品牌机制仍待验证；商业模式、行业竞争两个维度尚待选择。[M01底稿](投资学工作空间/work/lec03-m01.md)；[下一步核验](投资学工作空间/docs/next-review.md)。
+M01三项公司自述已由本人核对；第15页产品组销售收入除以销量可以计算均价，产品/渠道均价与毛利率已补算，待本人核验。[计算表](投资学工作空间/outputs/m01-average-price-and-margin.md)；[M01底稿](投资学工作空间/work/lec03-m01.md)；[下一步](投资学工作空间/docs/next-review.md)。商业模式和行业竞争两维待选，品牌机制仍Unknown。
 <!-- scope-acceptance:m01-progress:end -->

@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+  "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+  "required_fact_bindings": {
+    "N2024-01": "f16c157c84ba73c30b76cad87cf764ebaa745a92d6b80b754c2c9408955f60cf",
+    "N2024-02": "2fcfac23b6630b5fcced6e23db91ec1d54f7734eb131894fe9db158a28677013",
+    "C06": "be35adf58a71900dfa0eff92ac291910dd59a6a0a2a0192079f06fd5a54c11b2"
+  },
+  "products": [
+    {
+      "name": "茅台酒",
+      "fact_id": "N2024-01",
+      "revenue_yuan": "145928075955.31",
+      "cost_yuan": "8662079388.78",
+      "sales_tonnes": "46412.95",
+      "source_row_numbers": [
+        "56,271.99",
+        "-1.63",
+        "46,412.95",
+        "10.22",
+        "14,592,807.60",
+        "15.28"
+      ],
+      "quantity_state": "Unknown",
+      "numerical_income_cost_state": "Fact",
+      "volume_column": "销量（吨）",
+      "source_page": 15
+    },
+    {
+      "name": "其他系列酒",
+      "fact_id": "N2024-02",
+      "revenue_yuan": "24683762096.71",
+      "cost_yuan": "4967916424.11",
+      "sales_tonnes": "36919.81",
+      "source_row_numbers": [
+        "48,112.51",
+        "12.05",
+        "36,919.81",
+        "18.47",
+        "2,468,376.21",
+        "19.65"
+      ],
+      "quantity_state": "Unknown",
+      "numerical_income_cost_state": "Fact",
+      "volume_column": "销量（吨）",
+      "source_page": 15
+    }
+  ],
+  "channels": [
+    {
+      "name": "直销",
+      "source_row_numbers": [
+        "7,484,332.71",
+        "6,723,287.69",
+        "18,221.93",
+        "15,634.95"
+      ],
+      "state": "Unknown",
+      "source_page": 16,
+      "revenue_wanyuan_2024": "7484332.71",
+      "revenue_wanyuan_2023": "6723287.69",
+      "sales_tonnes_2024": "18221.93",
+      "sales_tonnes_2023": "15634.95"
+    },
+    {
+      "name": "批发代理",
+      "source_row_numbers": [
+        "9,576,851.10",
+        "7,998,611.94",
+        "65,110.83",
+        "57,639.09"
+      ],
+      "state": "Unknown",
+      "source_page": 16,
+      "revenue_wanyuan_2024": "9576851.10",
+      "revenue_wanyuan_2023": "7998611.94",
+      "sales_tonnes_2024": "65110.83",
+      "sales_tonnes_2023": "57639.09"
+    }
+  ],
+  "wine": {
+    "revenue_yuan": "170611838052.02",
+    "cost_yuan": "13629995812.89",
+    "sales_tonnes": "83332.76",
+    "quantity_state": "Unknown"
+  },
+  "rule": "均价分母使用匹配的销售量；第15页产量不作分母；输入与新增结果等待本人实际核验"
+}

@@ -316,6 +316,11 @@ class ReviewStore:
     def facts(self) -> list[EvidenceRecord]:
         return [r for r in self.list_candidates() if r["state"] == "Fact"]
 
+    def m01_disclosure_facts(self) -> list[dict[str, Any]]:
+        """Return explicitly quoted, source-bound company-disclosure chat facts."""
+        from m01_disclosure_review import M01DisclosureReview
+        return M01DisclosureReview(self.workspace).facts()
+
     def change_facts(self) -> list[dict[str, Any]]:
         """Return only source-bound, separately human-confirmed change facts."""
         from change_review import ChangeReviewStore

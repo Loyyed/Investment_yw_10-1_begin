@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "user_response": "1、公司坚持“顺天敬人、明理厚德”的企业核心价值观，拥有“品质、品牌、工艺、环境、文 化”组成的“五大核心竞争力”。表明公司确实将品牌作为核心竞争力。营业收入变动原因说明：主要是本期销量增加及茅台酒主要产品销售价格调整。营业成本变动原因说明：主要是本期销量增加、原材料及人工成本上涨。表明将营业收入增长归因于销量增加和茅台酒主要产品销售价格调整。\n2.、虽然第9页“主营业务分产品、分销售模式情况”。这些是产品组和渠道组，不能当成同一规格、同一渠道的实际成交价或终端销，但是由于可以获取酒类的营业收入与酒类的生产、销售量，可以因此计算出贵州茅台的平均销售价格，也可以根据这批数据计算其平均毛利率等数据。同时我也注意到pdf第15页有茅台酒以及其他酒系列的产品、销量、销售收入等数据，可以据此计算贵州茅台的销售价格与终端i希奥良。根据渠道控制力、成本优势或规模经济、品牌护城河与消费者忠诚度、可持续的高利润表现等标准进一步判断品牌是否形成了可持续定价权。工作完push到仓库",
+  "user_followup": "第15页的产品情况不是有茅台酒的销量和销售收入吗，怎么不能计算茅台酒的销售均价了。期销售均价的分母肯定是销量而非生产量啊",
+  "original_text_format": "本轮答复转录；保留用语及笔误，空白与Markdown换行已规范化",
+  "context": "上一条要求本人核对2024年报第8—9页的公司品牌及收入变化自述；本轮第1项明确引用并确认公司披露内容。只确认公司这样披露，不确认因果机制真实成立。",
+  "records": [
+    {
+      "id": "M01-D01",
+      "claim": "公司将品牌与品质、工艺、环境、文化并列为五大核心竞争力。",
+      "review_excerpt": "“品质、品牌、工艺、环境、文化”组成的“五大核心竞争力”",
+      "kind": "company-self-disclosure",
+      "page": 8,
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "submitted_state": "Fact",
+      "registered_at": "2026-10-03T15:01:12+08:00",
+      "actor": "",
+      "channel": "actual-user-chat",
+      "support_boundary": "只证明公司作出该披露；原因解释本身的真实性、品牌机制及持续性另行验证"
+    },
+    {
+      "id": "M01-D02",
+      "claim": "公司将营业收入变动主要归因于本期销量增加及茅台酒主要产品销售价格调整。",
+      "review_excerpt": "主要是本期销量增加及茅台酒主要产品销售价格调整。",
+      "kind": "company-self-disclosure",
+      "page": 8,
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "submitted_state": "Fact",
+      "registered_at": "2026-10-03T15:01:12+08:00",
+      "actor": "",
+      "channel": "actual-user-chat",
+      "support_boundary": "只证明公司作出该披露；原因解释本身的真实性、品牌机制及持续性另行验证"
+    },
+    {
+      "id": "M01-D03",
+      "claim": "公司将营业成本变动主要归因于本期销量增加、原材料及人工成本上涨。",
+      "review_excerpt": "主要是本期销量增加、原材料及人工成本上涨。",
+      "kind": "company-self-disclosure",
+      "page": 8,
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "submitted_state": "Fact",
+      "registered_at": "2026-10-03T15:01:12+08:00",
+      "actor": "",
+      "channel": "actual-user-chat",
+      "support_boundary": "只证明公司作出该披露；原因解释本身的真实性、品牌机制及持续性另行验证"
+    }
+  ],
+  "events": [
+    {
+      "type": "chat-disclosure-review",
+      "registered_at": "2026-10-03T15:01:12+08:00",
+      "actor": "",
+      "response_digest": "9078511b5bbf490ab6de1223e58bdac8f6ad8c8d4dfcd9039cac5b7d75d3b76e",
+      "records": [
+        {
+          "id": "M01-D01",
+          "claim": "公司将品牌与品质、工艺、环境、文化并列为五大核心竞争力。",
+          "review_excerpt": "“品质、品牌、工艺、环境、文化”组成的“五大核心竞争力”",
+          "kind": "company-self-disclosure",
+          "page": 8,
+          "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+          "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+          "submitted_state": "Fact",
+          "registered_at": "2026-10-03T15:01:12+08:00",
+          "actor": "",
+          "channel": "actual-user-chat",
+          "support_boundary": "只证明公司作出该披露；原因解释本身的真实性、品牌机制及持续性另行验证"
+        },
+        {
+          "id": "M01-D02",
+          "claim": "公司将营业收入变动主要归因于本期销量增加及茅台酒主要产品销售价格调整。",
+          "review_excerpt": "主要是本期销量增加及茅台酒主要产品销售价格调整。",
+          "kind": "company-self-disclosure",
+          "page": 8,
+          "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+          "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+          "submitted_state": "Fact",
+          "registered_at": "2026-10-03T15:01:12+08:00",
+          "actor": "",
+          "channel": "actual-user-chat",
+          "support_boundary": "只证明公司作出该披露；原因解释本身的真实性、品牌机制及持续性另行验证"
+        },
+        {
+          "id": "M01-D03",
+          "claim": "公司将营业成本变动主要归因于本期销量增加、原材料及人工成本上涨。",
+          "review_excerpt": "主要是本期销量增加、原材料及人工成本上涨。",
+          "kind": "company-self-disclosure",
+          "page": 8,
+          "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+          "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+          "submitted_state": "Fact",
+          "registered_at": "2026-10-03T15:01:12+08:00",
+          "actor": "",
+          "channel": "actual-user-chat",
+          "support_boundary": "只证明公司作出该披露；原因解释本身的真实性、品牌机制及持续性另行验证"
+        }
+      ]
+    }
+  ],
+  "correction": "可以计算产品组销售均价，分母使用销量；此前终端粒度限制不否定组合均价计算。",
+  "calculation_human_review": "pending",
+  "mechanism_conclusion": "Unknown"
+}

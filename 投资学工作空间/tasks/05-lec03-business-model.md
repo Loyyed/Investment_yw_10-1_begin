@@ -134,7 +134,7 @@ outputs/lec03-stage-deliverables.md
 材料：指定五份年报和Lec03课件；不新增外部行业资料。
 合同来源：sources/original-tree/学生用/Lec03任务合同_商业模式与竞争优势证据表.md；正文条款完整保留。
 执行人：__________；复核人：__________；签署日期：__________。
-状态：本人已选M01竞争优势问题；M01底稿已整理，叙事及Unknown边界待本人核对，其他两维选题未定，Lec03未验收。
+状态：M01三项公司叙事已核验；均价与毛利率已复算、待本人确认；机制Unknown，其他两维未选，Lec03未验收。
 人工入口：docs/human-review-guide.md。
 
 <!-- scope-acceptance:m01-selection:start -->
@@ -150,7 +150,15 @@ outputs/lec03-stage-deliverables.md
 
 目前只有竞争优势维度已选定；不得把M01视为三个维度全部完成。配套商业模式、行业竞争问题仅为Agent建议，见[M01底稿](../work/lec03-m01.md)及[阶段成果](../outputs/lec03-stage-deliverables.md)。
 
-复用有效背景C01、N2024-01、N2024-02与CH01、CH02；不新增或扩大Fact。原文叙事待本人核，定价权机制仍Unknown，机制假设为Interpretation。保留其他候选与反方证据。
+复用有效背景C01、N2024-01、N2024-02与CH01、CH02；不新增或扩大Fact。原文三项公司叙事已本人核对并单独登记；新增均价计算待核，定价权机制仍Unknown，机制假设为Interpretation。保留其他候选与反方证据。
 
 [选题记录](../evidence/lec03-selected-question.json)；[M01矩阵](../outputs/lec03-evidence-matrix.md)；[下一步](../docs/next-review.md)。合同验收未勾选，执行人与复核人签署仍留空。
 <!-- scope-acceptance:m01-selection:end -->
+
+<!-- scope-acceptance:m01-analysis:start -->
+## M01本轮核验与计算进展
+
+本人引用并确认第8页三项公司自述，登记M01-D01—D03，只支持公司披露内容；不确认因果机制。本人明确第15页应以销售收入除以销量计算均价，本轮已补算产品组、酒类及渠道均价，收入加权毛利率，并按本人四项标准补充反证与缺证。
+
+[研究底稿](../work/lec03-m01.md)、[计算表](../outputs/m01-average-price-and-margin.md)、[实际答复记录](../evidence/m01-disclosure-review.json)。新增数量及计算结果待本人确认；姓名与签署空白；其他两维未选、11项验收未勾选。
+<!-- scope-acceptance:m01-analysis:end -->

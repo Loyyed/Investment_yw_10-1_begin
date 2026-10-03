@@ -12,3 +12,8 @@
 - 含人工记录或手写修改时，旧生成脚本停止重建；不得覆盖evidence、人工notes或合同。需要重建时使用新的资料副本。
 - 保存前检查差异，保留被排除候选、真实修正与Unknown，不强制回滚，不伪造学生核验或错误。
 - 第四次复算结果按约定可由本人明确聊天确认；实际原话及所指上下文保存在evidence/change-review-state.json，不伪造窗口事件。变化Fact使用ReviewStore(...).change_facts()重新校验PDF、输入、原值Fact、可比性及公式结果；change-confirmed-facts.json仅为派生视图。
+
+<!-- scope-acceptance:m01-disclosures:start -->
+- M01本人已在聊天逐项引用核对的公司自述独立登记evidence/m01-disclosure-review.json，属于公司披露叙事核验，未写入原数值窗口权威。调用ReviewStore.m01_disclosure_facts()校验PDF、清单、真实答复和对应事件；导出不能单独证明Fact。该约定只覆盖M01-D01—D03；不把管理层原因解释确认为因果，不扩展原数值窗口规则。
+- work/m01-calculation-inputs.json中的新增销量及渠道输入、m01-calculated-metrics.json中的新增均价/毛利率仍待本人实际核验。均价使用匹配销售收入÷销量；不得以粒度限制否定产品组统计，也不得将它直接等同固定产品终端价格或可持续定价权。
+<!-- scope-acceptance:m01-disclosures:end -->

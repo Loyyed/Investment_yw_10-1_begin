@@ -192,6 +192,11 @@
       "details": ""
     },
     {
+      "name": "公司自述聊天导出与来源绑定的有效Fact一致",
+      "pass": true,
+      "details": ""
+    },
+    {
       "name": "必需交付文件存在",
       "pass": true,
       "details": ""
@@ -232,9 +237,10 @@
       "details": "D:\\Anaconda\\python.exe\n收入成本候选: 51\n分项合计检查通过: 21\n人工可比性确认: {'consolidation_scope': True, 'metric_definition': True, 'no_restatement': True, 'periods': True, 'report_version': True, 'reporting_entity': True, 'unit_currency': True}\n全部确认前不执行正式变化计算。\n"
     }
   ],
-  "passed": 46,
+  "passed": 47,
   "failed": 0,
   "human_reviewed_fact_count": 16,
   "human_reviewed_change_fact_count": 2,
+  "human_reviewed_disclosure_fact_count": 3,
   "human_verification_complete": false
 }

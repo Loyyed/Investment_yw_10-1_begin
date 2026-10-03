@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "authority": "m01-disclosure-review.json",
+  "facts": [
+    {
+      "id": "M01-D01",
+      "claim": "公司将品牌与品质、工艺、环境、文化并列为五大核心竞争力。",
+      "review_excerpt": "“品质、品牌、工艺、环境、文化”组成的“五大核心竞争力”",
+      "kind": "company-self-disclosure",
+      "page": 8,
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "submitted_state": "Fact",
+      "registered_at": "2026-10-03T15:01:12+08:00",
+      "actor": "",
+      "channel": "actual-user-chat",
+      "support_boundary": "只证明公司作出该披露；原因解释本身的真实性、品牌机制及持续性另行验证",
+      "state": "Fact",
+      "stale_reason": ""
+    },
+    {
+      "id": "M01-D02",
+      "claim": "公司将营业收入变动主要归因于本期销量增加及茅台酒主要产品销售价格调整。",
+      "review_excerpt": "主要是本期销量增加及茅台酒主要产品销售价格调整。",
+      "kind": "company-self-disclosure",
+      "page": 8,
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "submitted_state": "Fact",
+      "registered_at": "2026-10-03T15:01:12+08:00",
+      "actor": "",
+      "channel": "actual-user-chat",
+      "support_boundary": "只证明公司作出该披露；原因解释本身的真实性、品牌机制及持续性另行验证",
+      "state": "Fact",
+      "stale_reason": ""
+    },
+    {
+      "id": "M01-D03",
+      "claim": "公司将营业成本变动主要归因于本期销量增加、原材料及人工成本上涨。",
+      "review_excerpt": "主要是本期销量增加、原材料及人工成本上涨。",
+      "kind": "company-self-disclosure",
+      "page": 8,
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "submitted_state": "Fact",
+      "registered_at": "2026-10-03T15:01:12+08:00",
+      "actor": "",
+      "channel": "actual-user-chat",
+      "support_boundary": "只证明公司作出该披露；原因解释本身的真实性、品牌机制及持续性另行验证",
+      "state": "Fact",
+      "stale_reason": ""
+    }
+  ]
+}
