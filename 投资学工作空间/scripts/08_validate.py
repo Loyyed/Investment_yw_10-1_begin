@@ -56,6 +56,9 @@ check('变化确认导出与当前来源绑定的有效Fact一致', {r['id']:r['
 narrative_facts=review_store.m01_disclosure_facts()
 narrative_export=json.loads((W/'evidence/m01-disclosure-facts.json').read_text(encoding='utf-8')) if (W/'evidence/m01-disclosure-facts.json').exists() else {'facts':[]}
 check('公司自述聊天导出与来源绑定的有效Fact一致', narrative_export['facts']==narrative_facts)
+metric_facts=review_store.m01_metric_facts()
+metric_export=json.loads((W/'evidence/m01-metric-facts.json').read_text(encoding='utf-8')) if (W/'evidence/m01-metric-facts.json').exists() else {'facts':[]}
+check('M01计算导出与当前绑定的有效Fact一致', metric_export['facts']==metric_facts)
 required=['人工核验入口.cmd','scripts/review_store.py','scripts/review_ui.py','README.md','CLAUDE.md','AGENTS.md','outputs/first-analysis.md','outputs/revenue-structure-table.md','outputs/metric-scope-decision.md','outputs/change-verification-record.md','outputs/lec03-evidence-matrix.md','outputs/lec03-stage-deliverables.md','work/notes.md','work/pending-checks.md','evidence/evidence-log.md','research.ipynb','工作流程与文件说明.md']
 check('必需交付文件存在',all((W/p).is_file() and (W/p).stat().st_size>0 for p in required))
 # Validate generated Markdown links only. Source snapshots keep original historical links.
@@ -98,8 +101,8 @@ try:
  outputs=''.join(o.get('text','') for c in nb.cells for o in c.get('outputs',[]))
  check('Notebook通过真实Jupyter内核执行',True,outputs[:700])
 except Exception as e:check('Notebook通过真实Jupyter内核执行',False,str(e))
-result={'date':'2026-10-03','checks':checks,'passed':sum(r['pass'] for r in checks),'failed':sum(not r['pass'] for r in checks),'human_reviewed_fact_count':len(valid_facts),'human_reviewed_change_fact_count':len(change_facts),'human_reviewed_disclosure_fact_count':len(narrative_facts),'human_verification_complete':False}
+result={'date':'2026-10-03','checks':checks,'passed':sum(r['pass'] for r in checks),'failed':sum(not r['pass'] for r in checks),'human_reviewed_fact_count':len(valid_facts),'human_reviewed_change_fact_count':len(change_facts),'human_reviewed_disclosure_fact_count':len(narrative_facts),'human_reviewed_m01_metric_fact_count':len(metric_facts),'human_verification_complete':False}
 write('work/validation-results.json',json.dumps(result,ensure_ascii=False,indent=2))
-write('docs/verification-report.md','# 自动检查记录\n\n执行日期2026-10-03；'+str(result['passed'])+'项通过，'+str(result['failed'])+'项失败。当前有效原始披露Fact：'+str(len(valid_facts))+'条；变化Fact：'+str(len(change_facts))+'条；公司自述Fact：'+str(len(narrative_facts))+'条；合同签署与正式验收另行确认。HTML浏览器渲染未验证。\n\n'+table(['检查','结果','说明'],[[c['name'],'通过' if c['pass'] else '失败',c['details']] for c in checks]))
+write('docs/verification-report.md','# 自动检查记录\n\n执行日期2026-10-03；'+str(result['passed'])+'项通过，'+str(result['failed'])+'项失败。当前有效原始披露Fact：'+str(len(valid_facts))+'条；变化Fact：'+str(len(change_facts))+'条；公司自述Fact：'+str(len(narrative_facts))+'条；M01计算Fact：'+str(len(metric_facts))+'条；合同签署与正式验收另行确认。HTML浏览器渲染未验证。\n\n'+table(['检查','结果','说明'],[[c['name'],'通过' if c['pass'] else '失败',c['details']] for c in checks]))
 print('RESULT',result['passed'],'passed,',result['failed'],'failed')
 raise SystemExit(1 if result['failed'] else 0)

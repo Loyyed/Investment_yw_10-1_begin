@@ -67,5 +67,11 @@ git push
 <!-- scope-acceptance:m01-progress:start -->
 ## 当前研究问题
 
-M01三项公司自述已由本人核对；第15页产品组销售收入除以销量可以计算均价，产品/渠道均价与毛利率已补算，待本人核验。[计算表](投资学工作空间/outputs/m01-average-price-and-margin.md)；[M01底稿](投资学工作空间/work/lec03-m01.md)；[下一步](投资学工作空间/docs/next-review.md)。商业模式和行业竞争两维待选，品牌机制仍Unknown。
+M01三项公司自述已由本人核对；第15页产品组销售收入除以销量可以计算均价，产品/渠道均价与毛利率15项结果已本人核验通过。[计算表](投资学工作空间/outputs/m01-average-price-and-margin.md)；[M01底稿](投资学工作空间/work/lec03-m01.md)；[下一步](投资学工作空间/docs/next-review.md)。商业模式和行业竞争两维待选，品牌机制仍Unknown。
 <!-- scope-acceptance:m01-progress:end -->
+
+<!-- scope-acceptance:m01-metric-confirmation:start -->
+## 最新本人确认
+
+M01计算表15项输入、单位和结果已本人确认通过；后续可复用当前有效计算Fact。[计算表](投资学工作空间/outputs/m01-average-price-and-margin.md)；[下一步](投资学工作空间/docs/next-review.md)。品牌机制裁决、其余两维选题及Lec03验收仍待完成。
+<!-- scope-acceptance:m01-metric-confirmation:end -->

@@ -15,5 +15,10 @@
 
 <!-- scope-acceptance:m01-disclosures:start -->
 - M01本人已在聊天逐项引用核对的公司自述独立登记evidence/m01-disclosure-review.json，属于公司披露叙事核验，未写入原数值窗口权威。调用ReviewStore.m01_disclosure_facts()校验PDF、清单、真实答复和对应事件；导出不能单独证明Fact。该约定只覆盖M01-D01—D03；不把管理层原因解释确认为因果，不扩展原数值窗口规则。
-- work/m01-calculation-inputs.json中的新增销量及渠道输入、m01-calculated-metrics.json中的新增均价/毛利率仍待本人实际核验。均价使用匹配销售收入÷销量；不得以粒度限制否定产品组统计，也不得将它直接等同固定产品终端价格或可持续定价权。
+- 本人已明确聊天确认M01计算表的输入、单位和结果；原输入JSON保留提取状态，当前确认由独立计算账本维护。均价使用匹配销售收入÷销量；不得以粒度限制否定产品组统计，也不得将它直接等同固定产品终端价格或可持续定价权。
 <!-- scope-acceptance:m01-disclosures:end -->
+
+<!-- scope-acceptance:m01-metric-confirmation:start -->
+- M01计算结果本人明确聊天确认保存在evidence/m01-metric-review.json；原话、对应审阅版本及真实事件保留，不伪造窗口事件。使用ReviewStore.m01_metric_facts()重检PDF/清单、输入、原披露Fact绑定、计算脚本、公式、单位与结果；变化即Unknown并留历史。m01-metric-facts.json及计算表仅是派生视图。
+- 可重运行calculate_m01_metrics.py以复算并保留当前有效确认；不得运行旧生成脚本重写人工历史。15项统计Fact不证明品牌因果、终端动销或可持续性；姓名签署继续留空。
+<!-- scope-acceptance:m01-metric-confirmation:end -->

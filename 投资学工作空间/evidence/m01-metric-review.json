@@ -1,0 +1,1925 @@
+{
+  "schema_version": 1,
+  "records": {
+    "M01-A01": {
+      "id": "M01-A01",
+      "calculation": {
+        "id": "M01-A01",
+        "label": "茅台酒公司组合均价",
+        "value": "314.41",
+        "exact": "314.4124128186422108484808657928444539724365721205",
+        "unit": "万元/销售吨",
+        "formula": "revenue_yuan/sales_tonnes/10000",
+        "inputs": {
+          "name": "茅台酒",
+          "fact_id": "N2024-01",
+          "revenue_yuan": "145928075955.31",
+          "cost_yuan": "8662079388.78",
+          "sales_tonnes": "46412.95",
+          "source_row_numbers": [
+            "56,271.99",
+            "-1.63",
+            "46,412.95",
+            "10.22",
+            "14,592,807.60",
+            "15.28"
+          ],
+          "quantity_state": "Unknown",
+          "numerical_income_cost_state": "Fact",
+          "volume_column": "销量（吨）",
+          "source_page": 15
+        },
+        "scope": "产品组；跨规格、渠道和地区组合均价，不是单品成交价",
+        "source_pages": [
+          15,
+          108
+        ],
+        "rounding": "ROUND_HALF_UP 2 decimal places"
+      },
+      "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+      "submitted_state": "Fact",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "actor": "",
+      "client_date": "2026-10-03",
+      "statement_original": "核对输入、单位和结果通过",
+      "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+      "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+      "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+      "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+    },
+    "M01-G01": {
+      "id": "M01-G01",
+      "calculation": {
+        "id": "M01-G01",
+        "label": "茅台酒毛利率",
+        "value": "94.06",
+        "exact": "94.064144728782188753926119161695507212307604311305",
+        "unit": "%",
+        "formula": "(revenue_yuan-cost_yuan)/revenue_yuan*100",
+        "inputs": {
+          "name": "茅台酒",
+          "fact_id": "N2024-01",
+          "revenue_yuan": "145928075955.31",
+          "cost_yuan": "8662079388.78",
+          "sales_tonnes": "46412.95",
+          "source_row_numbers": [
+            "56,271.99",
+            "-1.63",
+            "46,412.95",
+            "10.22",
+            "14,592,807.60",
+            "15.28"
+          ],
+          "quantity_state": "Unknown",
+          "numerical_income_cost_state": "Fact",
+          "volume_column": "销量（吨）",
+          "source_page": 15
+        },
+        "scope": "营业毛利率；不是净利率、经济利润或ROIC",
+        "source_pages": [
+          9,
+          16,
+          108
+        ],
+        "rounding": "ROUND_HALF_UP 2 decimal places"
+      },
+      "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+      "submitted_state": "Fact",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "actor": "",
+      "client_date": "2026-10-03",
+      "statement_original": "核对输入、单位和结果通过",
+      "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+      "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+      "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+      "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+    },
+    "M01-A02": {
+      "id": "M01-A02",
+      "calculation": {
+        "id": "M01-A02",
+        "label": "其他系列酒公司组合均价",
+        "value": "66.86",
+        "exact": "66.857771198470414663564086597412066855165289312161",
+        "unit": "万元/销售吨",
+        "formula": "revenue_yuan/sales_tonnes/10000",
+        "inputs": {
+          "name": "其他系列酒",
+          "fact_id": "N2024-02",
+          "revenue_yuan": "24683762096.71",
+          "cost_yuan": "4967916424.11",
+          "sales_tonnes": "36919.81",
+          "source_row_numbers": [
+            "48,112.51",
+            "12.05",
+            "36,919.81",
+            "18.47",
+            "2,468,376.21",
+            "19.65"
+          ],
+          "quantity_state": "Unknown",
+          "numerical_income_cost_state": "Fact",
+          "volume_column": "销量（吨）",
+          "source_page": 15
+        },
+        "scope": "产品组；跨规格、渠道和地区组合均价，不是单品成交价",
+        "source_pages": [
+          15,
+          108
+        ],
+        "rounding": "ROUND_HALF_UP 2 decimal places"
+      },
+      "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+      "submitted_state": "Fact",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "actor": "",
+      "client_date": "2026-10-03",
+      "statement_original": "核对输入、单位和结果通过",
+      "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+      "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+      "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+      "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+    },
+    "M01-G02": {
+      "id": "M01-G02",
+      "calculation": {
+        "id": "M01-G02",
+        "label": "其他系列酒毛利率",
+        "value": "79.87",
+        "exact": "79.873746940819228987598096457476299260925749424900",
+        "unit": "%",
+        "formula": "(revenue_yuan-cost_yuan)/revenue_yuan*100",
+        "inputs": {
+          "name": "其他系列酒",
+          "fact_id": "N2024-02",
+          "revenue_yuan": "24683762096.71",
+          "cost_yuan": "4967916424.11",
+          "sales_tonnes": "36919.81",
+          "source_row_numbers": [
+            "48,112.51",
+            "12.05",
+            "36,919.81",
+            "18.47",
+            "2,468,376.21",
+            "19.65"
+          ],
+          "quantity_state": "Unknown",
+          "numerical_income_cost_state": "Fact",
+          "volume_column": "销量（吨）",
+          "source_page": 15
+        },
+        "scope": "营业毛利率；不是净利率、经济利润或ROIC",
+        "source_pages": [
+          9,
+          16,
+          108
+        ],
+        "rounding": "ROUND_HALF_UP 2 decimal places"
+      },
+      "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+      "submitted_state": "Fact",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "actor": "",
+      "client_date": "2026-10-03",
+      "statement_original": "核对输入、单位和结果通过",
+      "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+      "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+      "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+      "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+    },
+    "M01-A03": {
+      "id": "M01-A03",
+      "calculation": {
+        "id": "M01-A03",
+        "label": "酒类整体公司组合均价",
+        "value": "204.74",
+        "exact": "204.73561424344999493596515944029694924301079191425",
+        "unit": "万元/销售吨",
+        "formula": "sum(product_revenue_yuan)/sum(product_sales_tonnes)/10000",
+        "inputs": {
+          "revenue_yuan": "170611838052.02",
+          "cost_yuan": "13629995812.89",
+          "sales_tonnes": "83332.76",
+          "quantity_state": "Unknown"
+        },
+        "scope": "仅酒类收入与酒类销量匹配；不加其他业务或金融业务利息",
+        "source_pages": [
+          9,
+          10,
+          15,
+          108
+        ],
+        "rounding": "ROUND_HALF_UP 2 decimal places"
+      },
+      "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+      "submitted_state": "Fact",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "actor": "",
+      "client_date": "2026-10-03",
+      "statement_original": "核对输入、单位和结果通过",
+      "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+      "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+      "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+      "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+    },
+    "M01-G03": {
+      "id": "M01-G03",
+      "calculation": {
+        "id": "M01-G03",
+        "label": "酒类整体加权毛利率",
+        "value": "92.01",
+        "exact": "92.011107805582530398351354544798717522635039629973",
+        "unit": "%",
+        "formula": "sum(product_revenue_yuan-product_cost_yuan)/sum(product_revenue_yuan)*100",
+        "inputs": {
+          "revenue_yuan": "170611838052.02",
+          "cost_yuan": "13629995812.89",
+          "sales_tonnes": "83332.76",
+          "quantity_state": "Unknown"
+        },
+        "scope": "收入加权毛利率；不取两个产品毛利率的简单算术平均",
+        "source_pages": [
+          9,
+          16,
+          108
+        ],
+        "rounding": "ROUND_HALF_UP 2 decimal places"
+      },
+      "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+      "submitted_state": "Fact",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "actor": "",
+      "client_date": "2026-10-03",
+      "statement_original": "核对输入、单位和结果通过",
+      "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+      "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+      "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+      "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+    },
+    "M01-A04": {
+      "id": "M01-A04",
+      "calculation": {
+        "id": "M01-A04",
+        "label": "直销2024组合均价",
+        "value": "410.73",
+        "exact": "410.73216229016355567165497836947019333297844959343",
+        "unit": "万元/销售吨",
+        "formula": "revenue_wanyuan_2024/sales_tonnes_2024",
+        "inputs": {
+          "name": "直销",
+          "source_row_numbers": [
+            "7,484,332.71",
+            "6,723,287.69",
+            "18,221.93",
+            "15,634.95"
+          ],
+          "state": "Unknown",
+          "source_page": 16,
+          "revenue_wanyuan_2024": "7484332.71",
+          "revenue_wanyuan_2023": "6723287.69",
+          "sales_tonnes_2024": "18221.93",
+          "sales_tonnes_2023": "15634.95"
+        },
+        "scope": "同页公司渠道组销售口径；不代表全渠道终端动销或同款成交价",
+        "source_pages": [
+          16
+        ],
+        "rounding": "ROUND_HALF_UP 2 decimal places"
+      },
+      "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+      "submitted_state": "Fact",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "actor": "",
+      "client_date": "2026-10-03",
+      "statement_original": "核对输入、单位和结果通过",
+      "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+      "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+      "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+      "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+    },
+    "M01-A04-P": {
+      "id": "M01-A04-P",
+      "calculation": {
+        "id": "M01-A04-P",
+        "label": "直销2023比较组合均价",
+        "value": "430.02",
+        "exact": "430.01657760338216623654057096440986379873296684671",
+        "unit": "万元/销售吨",
+        "formula": "revenue_wanyuan_2023/sales_tonnes_2023",
+        "inputs": {
+          "name": "直销",
+          "source_row_numbers": [
+            "7,484,332.71",
+            "6,723,287.69",
+            "18,221.93",
+            "15,634.95"
+          ],
+          "state": "Unknown",
+          "source_page": 16,
+          "revenue_wanyuan_2024": "7484332.71",
+          "revenue_wanyuan_2023": "6723287.69",
+          "sales_tonnes_2024": "18221.93",
+          "sales_tonnes_2023": "15634.95"
+        },
+        "scope": "同页2023比较列；相同渠道组仍可能有产品组合变化",
+        "source_pages": [
+          16
+        ],
+        "rounding": "ROUND_HALF_UP 2 decimal places"
+      },
+      "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+      "submitted_state": "Fact",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "actor": "",
+      "client_date": "2026-10-03",
+      "statement_original": "核对输入、单位和结果通过",
+      "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+      "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+      "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+      "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+    },
+    "M01-C01": {
+      "id": "M01-C01",
+      "calculation": {
+        "id": "M01-C01",
+        "label": "直销组合均价同比",
+        "value": "-4.48",
+        "exact": "-4.4845748553920249581266690663099082816214962464171",
+        "unit": "%",
+        "formula": "((revenue24/volume24)/(revenue23/volume23)-1)*100",
+        "inputs": {
+          "name": "直销",
+          "source_row_numbers": [
+            "7,484,332.71",
+            "6,723,287.69",
+            "18,221.93",
+            "15,634.95"
+          ],
+          "state": "Unknown",
+          "source_page": 16,
+          "revenue_wanyuan_2024": "7484332.71",
+          "revenue_wanyuan_2023": "6723287.69",
+          "sales_tonnes_2024": "18221.93",
+          "sales_tonnes_2023": "15634.95"
+        },
+        "scope": "组合均价变化，不是固定SKU提价或降价幅度",
+        "source_pages": [
+          16
+        ],
+        "rounding": "ROUND_HALF_UP 2 decimal places"
+      },
+      "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+      "submitted_state": "Fact",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "actor": "",
+      "client_date": "2026-10-03",
+      "statement_original": "核对输入、单位和结果通过",
+      "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+      "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+      "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+      "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+    },
+    "M01-A05": {
+      "id": "M01-A05",
+      "calculation": {
+        "id": "M01-A05",
+        "label": "批发代理2024组合均价",
+        "value": "147.09",
+        "exact": "147.08537888397367995462506007065184086886928027181",
+        "unit": "万元/销售吨",
+        "formula": "revenue_wanyuan_2024/sales_tonnes_2024",
+        "inputs": {
+          "name": "批发代理",
+          "source_row_numbers": [
+            "9,576,851.10",
+            "7,998,611.94",
+            "65,110.83",
+            "57,639.09"
+          ],
+          "state": "Unknown",
+          "source_page": 16,
+          "revenue_wanyuan_2024": "9576851.10",
+          "revenue_wanyuan_2023": "7998611.94",
+          "sales_tonnes_2024": "65110.83",
+          "sales_tonnes_2023": "57639.09"
+        },
+        "scope": "同页公司渠道组销售口径；不代表全渠道终端动销或同款成交价",
+        "source_pages": [
+          16
+        ],
+        "rounding": "ROUND_HALF_UP 2 decimal places"
+      },
+      "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+      "submitted_state": "Fact",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "actor": "",
+      "client_date": "2026-10-03",
+      "statement_original": "核对输入、单位和结果通过",
+      "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+      "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+      "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+      "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+    },
+    "M01-A05-P": {
+      "id": "M01-A05-P",
+      "calculation": {
+        "id": "M01-A05-P",
+        "label": "批发代理2023比较组合均价",
+        "value": "138.77",
+        "exact": "138.77061452566305262626457149132645917900508144733",
+        "unit": "万元/销售吨",
+        "formula": "revenue_wanyuan_2023/sales_tonnes_2023",
+        "inputs": {
+          "name": "批发代理",
+          "source_row_numbers": [
+            "9,576,851.10",
+            "7,998,611.94",
+            "65,110.83",
+            "57,639.09"
+          ],
+          "state": "Unknown",
+          "source_page": 16,
+          "revenue_wanyuan_2024": "9576851.10",
+          "revenue_wanyuan_2023": "7998611.94",
+          "sales_tonnes_2024": "65110.83",
+          "sales_tonnes_2023": "57639.09"
+        },
+        "scope": "同页2023比较列；相同渠道组仍可能有产品组合变化",
+        "source_pages": [
+          16
+        ],
+        "rounding": "ROUND_HALF_UP 2 decimal places"
+      },
+      "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+      "submitted_state": "Fact",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "actor": "",
+      "client_date": "2026-10-03",
+      "statement_original": "核对输入、单位和结果通过",
+      "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+      "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+      "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+      "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+    },
+    "M01-C02": {
+      "id": "M01-C02",
+      "calculation": {
+        "id": "M01-C02",
+        "label": "批发代理组合均价同比",
+        "value": "5.99",
+        "exact": "5.9917327502884018715856060603898707768342446154738",
+        "unit": "%",
+        "formula": "((revenue24/volume24)/(revenue23/volume23)-1)*100",
+        "inputs": {
+          "name": "批发代理",
+          "source_row_numbers": [
+            "9,576,851.10",
+            "7,998,611.94",
+            "65,110.83",
+            "57,639.09"
+          ],
+          "state": "Unknown",
+          "source_page": 16,
+          "revenue_wanyuan_2024": "9576851.10",
+          "revenue_wanyuan_2023": "7998611.94",
+          "sales_tonnes_2024": "65110.83",
+          "sales_tonnes_2023": "57639.09"
+        },
+        "scope": "组合均价变化，不是固定SKU提价或降价幅度",
+        "source_pages": [
+          16
+        ],
+        "rounding": "ROUND_HALF_UP 2 decimal places"
+      },
+      "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+      "submitted_state": "Fact",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "actor": "",
+      "client_date": "2026-10-03",
+      "statement_original": "核对输入、单位和结果通过",
+      "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+      "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+      "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+      "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+    },
+    "M01-C03": {
+      "id": "M01-C03",
+      "calculation": {
+        "id": "M01-C03",
+        "label": "渠道表酒类组合均价同比",
+        "value": "1.90",
+        "exact": "1.9012897027744497650889061521041124386368083870681",
+        "unit": "%",
+        "formula": "((sum(channel_revenue24)/sum(channel_volume24))/(sum(channel_revenue23)/sum(channel_volume23))-1)*100",
+        "inputs": [
+          {
+            "name": "直销",
+            "source_row_numbers": [
+              "7,484,332.71",
+              "6,723,287.69",
+              "18,221.93",
+              "15,634.95"
+            ],
+            "state": "Unknown",
+            "source_page": 16,
+            "revenue_wanyuan_2024": "7484332.71",
+            "revenue_wanyuan_2023": "6723287.69",
+            "sales_tonnes_2024": "18221.93",
+            "sales_tonnes_2023": "15634.95"
+          },
+          {
+            "name": "批发代理",
+            "source_row_numbers": [
+              "9,576,851.10",
+              "7,998,611.94",
+              "65,110.83",
+              "57,639.09"
+            ],
+            "state": "Unknown",
+            "source_page": 16,
+            "revenue_wanyuan_2024": "9576851.10",
+            "revenue_wanyuan_2023": "7998611.94",
+            "sales_tonnes_2024": "65110.83",
+            "sales_tonnes_2023": "57639.09"
+          }
+        ],
+        "scope": "同第16页展示收入/销量口径；万元展示精度保留",
+        "source_pages": [
+          16
+        ],
+        "rounding": "ROUND_HALF_UP 2 decimal places"
+      },
+      "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+      "submitted_state": "Fact",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "actor": "",
+      "client_date": "2026-10-03",
+      "statement_original": "核对输入、单位和结果通过",
+      "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+      "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+      "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+      "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+    },
+    "M01-S01": {
+      "id": "M01-S01",
+      "calculation": {
+        "id": "M01-S01",
+        "label": "2024直销酒类收入占比",
+        "value": "43.87",
+        "exact": "43.867604929109546941807433701167070422647301635278",
+        "unit": "%",
+        "formula": "direct_revenue24/sum(channel_revenue24)*100",
+        "inputs": [
+          {
+            "name": "直销",
+            "source_row_numbers": [
+              "7,484,332.71",
+              "6,723,287.69",
+              "18,221.93",
+              "15,634.95"
+            ],
+            "state": "Unknown",
+            "source_page": 16,
+            "revenue_wanyuan_2024": "7484332.71",
+            "revenue_wanyuan_2023": "6723287.69",
+            "sales_tonnes_2024": "18221.93",
+            "sales_tonnes_2023": "15634.95"
+          },
+          {
+            "name": "批发代理",
+            "source_row_numbers": [
+              "9,576,851.10",
+              "7,998,611.94",
+              "65,110.83",
+              "57,639.09"
+            ],
+            "state": "Unknown",
+            "source_page": 16,
+            "revenue_wanyuan_2024": "9576851.10",
+            "revenue_wanyuan_2023": "7998611.94",
+            "sales_tonnes_2024": "65110.83",
+            "sales_tonnes_2023": "57639.09"
+          }
+        ],
+        "scope": "渠道收入组合指标，不等于渠道控制力",
+        "source_pages": [
+          16
+        ],
+        "rounding": "ROUND_HALF_UP 2 decimal places"
+      },
+      "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+      "submitted_state": "Fact",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "actor": "",
+      "client_date": "2026-10-03",
+      "statement_original": "核对输入、单位和结果通过",
+      "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+      "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+      "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+      "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+    },
+    "M01-S02": {
+      "id": "M01-S02",
+      "calculation": {
+        "id": "M01-S02",
+        "label": "2023直销酒类收入占比",
+        "value": "45.67",
+        "exact": "45.668615185362461270903257747587292849924150719128",
+        "unit": "%",
+        "formula": "direct_revenue23/sum(channel_revenue23)*100",
+        "inputs": [
+          {
+            "name": "直销",
+            "source_row_numbers": [
+              "7,484,332.71",
+              "6,723,287.69",
+              "18,221.93",
+              "15,634.95"
+            ],
+            "state": "Unknown",
+            "source_page": 16,
+            "revenue_wanyuan_2024": "7484332.71",
+            "revenue_wanyuan_2023": "6723287.69",
+            "sales_tonnes_2024": "18221.93",
+            "sales_tonnes_2023": "15634.95"
+          },
+          {
+            "name": "批发代理",
+            "source_row_numbers": [
+              "9,576,851.10",
+              "7,998,611.94",
+              "65,110.83",
+              "57,639.09"
+            ],
+            "state": "Unknown",
+            "source_page": 16,
+            "revenue_wanyuan_2024": "9576851.10",
+            "revenue_wanyuan_2023": "7998611.94",
+            "sales_tonnes_2024": "65110.83",
+            "sales_tonnes_2023": "57639.09"
+          }
+        ],
+        "scope": "同页2023比较列",
+        "source_pages": [
+          16
+        ],
+        "rounding": "ROUND_HALF_UP 2 decimal places"
+      },
+      "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+      "submitted_state": "Fact",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "actor": "",
+      "client_date": "2026-10-03",
+      "statement_original": "核对输入、单位和结果通过",
+      "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+      "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+      "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+      "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+    }
+  },
+  "events": [
+    {
+      "type": "chat-m01-metric-confirmation",
+      "sequence": 1,
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "actor": "",
+      "client_date": "2026-10-03",
+      "statement_original": "核对输入、单位和结果通过",
+      "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+      "binding": {
+        "calculation": {
+          "input_digest": "ec8707cddc02616c063a1b366c363137c261cbcf2da1d11b988404f005237cae",
+          "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+          "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+          "required_fact_bindings": {
+            "N2024-01": "f16c157c84ba73c30b76cad87cf764ebaa745a92d6b80b754c2c9408955f60cf",
+            "N2024-02": "2fcfac23b6630b5fcced6e23db91ec1d54f7734eb131894fe9db158a28677013",
+            "C06": "be35adf58a71900dfa0eff92ac291910dd59a6a0a2a0192079f06fd5a54c11b2"
+          },
+          "checks": {
+            "product_sales_equal_wine_sales": true,
+            "channel_sales_equal_wine_sales": true,
+            "product_revenue_equal_wine_revenue": true,
+            "product_cost_equal_wine_cost": true,
+            "gross_margin_matches_report_displays": {
+              "茅台酒毛利率": "94.06",
+              "其他系列酒毛利率": "79.87",
+              "酒类整体加权毛利率": "92.01"
+            }
+          },
+          "support_boundary": "仅支持公司披露口径的组合统计；终端动销、同款价格、因果机制及持续性Unknown",
+          "results": [
+            {
+              "id": "M01-A01",
+              "label": "茅台酒公司组合均价",
+              "value": "314.41",
+              "exact": "314.4124128186422108484808657928444539724365721205",
+              "unit": "万元/销售吨",
+              "formula": "revenue_yuan/sales_tonnes/10000",
+              "inputs": {
+                "name": "茅台酒",
+                "fact_id": "N2024-01",
+                "revenue_yuan": "145928075955.31",
+                "cost_yuan": "8662079388.78",
+                "sales_tonnes": "46412.95",
+                "source_row_numbers": [
+                  "56,271.99",
+                  "-1.63",
+                  "46,412.95",
+                  "10.22",
+                  "14,592,807.60",
+                  "15.28"
+                ],
+                "quantity_state": "Unknown",
+                "numerical_income_cost_state": "Fact",
+                "volume_column": "销量（吨）",
+                "source_page": 15
+              },
+              "scope": "产品组；跨规格、渠道和地区组合均价，不是单品成交价",
+              "source_pages": [
+                15,
+                108
+              ],
+              "rounding": "ROUND_HALF_UP 2 decimal places"
+            },
+            {
+              "id": "M01-G01",
+              "label": "茅台酒毛利率",
+              "value": "94.06",
+              "exact": "94.064144728782188753926119161695507212307604311305",
+              "unit": "%",
+              "formula": "(revenue_yuan-cost_yuan)/revenue_yuan*100",
+              "inputs": {
+                "name": "茅台酒",
+                "fact_id": "N2024-01",
+                "revenue_yuan": "145928075955.31",
+                "cost_yuan": "8662079388.78",
+                "sales_tonnes": "46412.95",
+                "source_row_numbers": [
+                  "56,271.99",
+                  "-1.63",
+                  "46,412.95",
+                  "10.22",
+                  "14,592,807.60",
+                  "15.28"
+                ],
+                "quantity_state": "Unknown",
+                "numerical_income_cost_state": "Fact",
+                "volume_column": "销量（吨）",
+                "source_page": 15
+              },
+              "scope": "营业毛利率；不是净利率、经济利润或ROIC",
+              "source_pages": [
+                9,
+                16,
+                108
+              ],
+              "rounding": "ROUND_HALF_UP 2 decimal places"
+            },
+            {
+              "id": "M01-A02",
+              "label": "其他系列酒公司组合均价",
+              "value": "66.86",
+              "exact": "66.857771198470414663564086597412066855165289312161",
+              "unit": "万元/销售吨",
+              "formula": "revenue_yuan/sales_tonnes/10000",
+              "inputs": {
+                "name": "其他系列酒",
+                "fact_id": "N2024-02",
+                "revenue_yuan": "24683762096.71",
+                "cost_yuan": "4967916424.11",
+                "sales_tonnes": "36919.81",
+                "source_row_numbers": [
+                  "48,112.51",
+                  "12.05",
+                  "36,919.81",
+                  "18.47",
+                  "2,468,376.21",
+                  "19.65"
+                ],
+                "quantity_state": "Unknown",
+                "numerical_income_cost_state": "Fact",
+                "volume_column": "销量（吨）",
+                "source_page": 15
+              },
+              "scope": "产品组；跨规格、渠道和地区组合均价，不是单品成交价",
+              "source_pages": [
+                15,
+                108
+              ],
+              "rounding": "ROUND_HALF_UP 2 decimal places"
+            },
+            {
+              "id": "M01-G02",
+              "label": "其他系列酒毛利率",
+              "value": "79.87",
+              "exact": "79.873746940819228987598096457476299260925749424900",
+              "unit": "%",
+              "formula": "(revenue_yuan-cost_yuan)/revenue_yuan*100",
+              "inputs": {
+                "name": "其他系列酒",
+                "fact_id": "N2024-02",
+                "revenue_yuan": "24683762096.71",
+                "cost_yuan": "4967916424.11",
+                "sales_tonnes": "36919.81",
+                "source_row_numbers": [
+                  "48,112.51",
+                  "12.05",
+                  "36,919.81",
+                  "18.47",
+                  "2,468,376.21",
+                  "19.65"
+                ],
+                "quantity_state": "Unknown",
+                "numerical_income_cost_state": "Fact",
+                "volume_column": "销量（吨）",
+                "source_page": 15
+              },
+              "scope": "营业毛利率；不是净利率、经济利润或ROIC",
+              "source_pages": [
+                9,
+                16,
+                108
+              ],
+              "rounding": "ROUND_HALF_UP 2 decimal places"
+            },
+            {
+              "id": "M01-A03",
+              "label": "酒类整体公司组合均价",
+              "value": "204.74",
+              "exact": "204.73561424344999493596515944029694924301079191425",
+              "unit": "万元/销售吨",
+              "formula": "sum(product_revenue_yuan)/sum(product_sales_tonnes)/10000",
+              "inputs": {
+                "revenue_yuan": "170611838052.02",
+                "cost_yuan": "13629995812.89",
+                "sales_tonnes": "83332.76",
+                "quantity_state": "Unknown"
+              },
+              "scope": "仅酒类收入与酒类销量匹配；不加其他业务或金融业务利息",
+              "source_pages": [
+                9,
+                10,
+                15,
+                108
+              ],
+              "rounding": "ROUND_HALF_UP 2 decimal places"
+            },
+            {
+              "id": "M01-G03",
+              "label": "酒类整体加权毛利率",
+              "value": "92.01",
+              "exact": "92.011107805582530398351354544798717522635039629973",
+              "unit": "%",
+              "formula": "sum(product_revenue_yuan-product_cost_yuan)/sum(product_revenue_yuan)*100",
+              "inputs": {
+                "revenue_yuan": "170611838052.02",
+                "cost_yuan": "13629995812.89",
+                "sales_tonnes": "83332.76",
+                "quantity_state": "Unknown"
+              },
+              "scope": "收入加权毛利率；不取两个产品毛利率的简单算术平均",
+              "source_pages": [
+                9,
+                16,
+                108
+              ],
+              "rounding": "ROUND_HALF_UP 2 decimal places"
+            },
+            {
+              "id": "M01-A04",
+              "label": "直销2024组合均价",
+              "value": "410.73",
+              "exact": "410.73216229016355567165497836947019333297844959343",
+              "unit": "万元/销售吨",
+              "formula": "revenue_wanyuan_2024/sales_tonnes_2024",
+              "inputs": {
+                "name": "直销",
+                "source_row_numbers": [
+                  "7,484,332.71",
+                  "6,723,287.69",
+                  "18,221.93",
+                  "15,634.95"
+                ],
+                "state": "Unknown",
+                "source_page": 16,
+                "revenue_wanyuan_2024": "7484332.71",
+                "revenue_wanyuan_2023": "6723287.69",
+                "sales_tonnes_2024": "18221.93",
+                "sales_tonnes_2023": "15634.95"
+              },
+              "scope": "同页公司渠道组销售口径；不代表全渠道终端动销或同款成交价",
+              "source_pages": [
+                16
+              ],
+              "rounding": "ROUND_HALF_UP 2 decimal places"
+            },
+            {
+              "id": "M01-A04-P",
+              "label": "直销2023比较组合均价",
+              "value": "430.02",
+              "exact": "430.01657760338216623654057096440986379873296684671",
+              "unit": "万元/销售吨",
+              "formula": "revenue_wanyuan_2023/sales_tonnes_2023",
+              "inputs": {
+                "name": "直销",
+                "source_row_numbers": [
+                  "7,484,332.71",
+                  "6,723,287.69",
+                  "18,221.93",
+                  "15,634.95"
+                ],
+                "state": "Unknown",
+                "source_page": 16,
+                "revenue_wanyuan_2024": "7484332.71",
+                "revenue_wanyuan_2023": "6723287.69",
+                "sales_tonnes_2024": "18221.93",
+                "sales_tonnes_2023": "15634.95"
+              },
+              "scope": "同页2023比较列；相同渠道组仍可能有产品组合变化",
+              "source_pages": [
+                16
+              ],
+              "rounding": "ROUND_HALF_UP 2 decimal places"
+            },
+            {
+              "id": "M01-C01",
+              "label": "直销组合均价同比",
+              "value": "-4.48",
+              "exact": "-4.4845748553920249581266690663099082816214962464171",
+              "unit": "%",
+              "formula": "((revenue24/volume24)/(revenue23/volume23)-1)*100",
+              "inputs": {
+                "name": "直销",
+                "source_row_numbers": [
+                  "7,484,332.71",
+                  "6,723,287.69",
+                  "18,221.93",
+                  "15,634.95"
+                ],
+                "state": "Unknown",
+                "source_page": 16,
+                "revenue_wanyuan_2024": "7484332.71",
+                "revenue_wanyuan_2023": "6723287.69",
+                "sales_tonnes_2024": "18221.93",
+                "sales_tonnes_2023": "15634.95"
+              },
+              "scope": "组合均价变化，不是固定SKU提价或降价幅度",
+              "source_pages": [
+                16
+              ],
+              "rounding": "ROUND_HALF_UP 2 decimal places"
+            },
+            {
+              "id": "M01-A05",
+              "label": "批发代理2024组合均价",
+              "value": "147.09",
+              "exact": "147.08537888397367995462506007065184086886928027181",
+              "unit": "万元/销售吨",
+              "formula": "revenue_wanyuan_2024/sales_tonnes_2024",
+              "inputs": {
+                "name": "批发代理",
+                "source_row_numbers": [
+                  "9,576,851.10",
+                  "7,998,611.94",
+                  "65,110.83",
+                  "57,639.09"
+                ],
+                "state": "Unknown",
+                "source_page": 16,
+                "revenue_wanyuan_2024": "9576851.10",
+                "revenue_wanyuan_2023": "7998611.94",
+                "sales_tonnes_2024": "65110.83",
+                "sales_tonnes_2023": "57639.09"
+              },
+              "scope": "同页公司渠道组销售口径；不代表全渠道终端动销或同款成交价",
+              "source_pages": [
+                16
+              ],
+              "rounding": "ROUND_HALF_UP 2 decimal places"
+            },
+            {
+              "id": "M01-A05-P",
+              "label": "批发代理2023比较组合均价",
+              "value": "138.77",
+              "exact": "138.77061452566305262626457149132645917900508144733",
+              "unit": "万元/销售吨",
+              "formula": "revenue_wanyuan_2023/sales_tonnes_2023",
+              "inputs": {
+                "name": "批发代理",
+                "source_row_numbers": [
+                  "9,576,851.10",
+                  "7,998,611.94",
+                  "65,110.83",
+                  "57,639.09"
+                ],
+                "state": "Unknown",
+                "source_page": 16,
+                "revenue_wanyuan_2024": "9576851.10",
+                "revenue_wanyuan_2023": "7998611.94",
+                "sales_tonnes_2024": "65110.83",
+                "sales_tonnes_2023": "57639.09"
+              },
+              "scope": "同页2023比较列；相同渠道组仍可能有产品组合变化",
+              "source_pages": [
+                16
+              ],
+              "rounding": "ROUND_HALF_UP 2 decimal places"
+            },
+            {
+              "id": "M01-C02",
+              "label": "批发代理组合均价同比",
+              "value": "5.99",
+              "exact": "5.9917327502884018715856060603898707768342446154738",
+              "unit": "%",
+              "formula": "((revenue24/volume24)/(revenue23/volume23)-1)*100",
+              "inputs": {
+                "name": "批发代理",
+                "source_row_numbers": [
+                  "9,576,851.10",
+                  "7,998,611.94",
+                  "65,110.83",
+                  "57,639.09"
+                ],
+                "state": "Unknown",
+                "source_page": 16,
+                "revenue_wanyuan_2024": "9576851.10",
+                "revenue_wanyuan_2023": "7998611.94",
+                "sales_tonnes_2024": "65110.83",
+                "sales_tonnes_2023": "57639.09"
+              },
+              "scope": "组合均价变化，不是固定SKU提价或降价幅度",
+              "source_pages": [
+                16
+              ],
+              "rounding": "ROUND_HALF_UP 2 decimal places"
+            },
+            {
+              "id": "M01-C03",
+              "label": "渠道表酒类组合均价同比",
+              "value": "1.90",
+              "exact": "1.9012897027744497650889061521041124386368083870681",
+              "unit": "%",
+              "formula": "((sum(channel_revenue24)/sum(channel_volume24))/(sum(channel_revenue23)/sum(channel_volume23))-1)*100",
+              "inputs": [
+                {
+                  "name": "直销",
+                  "source_row_numbers": [
+                    "7,484,332.71",
+                    "6,723,287.69",
+                    "18,221.93",
+                    "15,634.95"
+                  ],
+                  "state": "Unknown",
+                  "source_page": 16,
+                  "revenue_wanyuan_2024": "7484332.71",
+                  "revenue_wanyuan_2023": "6723287.69",
+                  "sales_tonnes_2024": "18221.93",
+                  "sales_tonnes_2023": "15634.95"
+                },
+                {
+                  "name": "批发代理",
+                  "source_row_numbers": [
+                    "9,576,851.10",
+                    "7,998,611.94",
+                    "65,110.83",
+                    "57,639.09"
+                  ],
+                  "state": "Unknown",
+                  "source_page": 16,
+                  "revenue_wanyuan_2024": "9576851.10",
+                  "revenue_wanyuan_2023": "7998611.94",
+                  "sales_tonnes_2024": "65110.83",
+                  "sales_tonnes_2023": "57639.09"
+                }
+              ],
+              "scope": "同第16页展示收入/销量口径；万元展示精度保留",
+              "source_pages": [
+                16
+              ],
+              "rounding": "ROUND_HALF_UP 2 decimal places"
+            },
+            {
+              "id": "M01-S01",
+              "label": "2024直销酒类收入占比",
+              "value": "43.87",
+              "exact": "43.867604929109546941807433701167070422647301635278",
+              "unit": "%",
+              "formula": "direct_revenue24/sum(channel_revenue24)*100",
+              "inputs": [
+                {
+                  "name": "直销",
+                  "source_row_numbers": [
+                    "7,484,332.71",
+                    "6,723,287.69",
+                    "18,221.93",
+                    "15,634.95"
+                  ],
+                  "state": "Unknown",
+                  "source_page": 16,
+                  "revenue_wanyuan_2024": "7484332.71",
+                  "revenue_wanyuan_2023": "6723287.69",
+                  "sales_tonnes_2024": "18221.93",
+                  "sales_tonnes_2023": "15634.95"
+                },
+                {
+                  "name": "批发代理",
+                  "source_row_numbers": [
+                    "9,576,851.10",
+                    "7,998,611.94",
+                    "65,110.83",
+                    "57,639.09"
+                  ],
+                  "state": "Unknown",
+                  "source_page": 16,
+                  "revenue_wanyuan_2024": "9576851.10",
+                  "revenue_wanyuan_2023": "7998611.94",
+                  "sales_tonnes_2024": "65110.83",
+                  "sales_tonnes_2023": "57639.09"
+                }
+              ],
+              "scope": "渠道收入组合指标，不等于渠道控制力",
+              "source_pages": [
+                16
+              ],
+              "rounding": "ROUND_HALF_UP 2 decimal places"
+            },
+            {
+              "id": "M01-S02",
+              "label": "2023直销酒类收入占比",
+              "value": "45.67",
+              "exact": "45.668615185362461270903257747587292849924150719128",
+              "unit": "%",
+              "formula": "direct_revenue23/sum(channel_revenue23)*100",
+              "inputs": [
+                {
+                  "name": "直销",
+                  "source_row_numbers": [
+                    "7,484,332.71",
+                    "6,723,287.69",
+                    "18,221.93",
+                    "15,634.95"
+                  ],
+                  "state": "Unknown",
+                  "source_page": 16,
+                  "revenue_wanyuan_2024": "7484332.71",
+                  "revenue_wanyuan_2023": "6723287.69",
+                  "sales_tonnes_2024": "18221.93",
+                  "sales_tonnes_2023": "15634.95"
+                },
+                {
+                  "name": "批发代理",
+                  "source_row_numbers": [
+                    "9,576,851.10",
+                    "7,998,611.94",
+                    "65,110.83",
+                    "57,639.09"
+                  ],
+                  "state": "Unknown",
+                  "source_page": 16,
+                  "revenue_wanyuan_2024": "9576851.10",
+                  "revenue_wanyuan_2023": "7998611.94",
+                  "sales_tonnes_2024": "65110.83",
+                  "sales_tonnes_2023": "57639.09"
+                }
+              ],
+              "scope": "同页2023比较列",
+              "source_pages": [
+                16
+              ],
+              "rounding": "ROUND_HALF_UP 2 decimal places"
+            }
+          ],
+          "page15_direct_averages": [
+            {
+              "name": "茅台酒",
+              "revenue_wanyuan": "14,592,807.60",
+              "sales_tonnes": "46412.95",
+              "average_wanyuan_per_tonne": "314.41",
+              "average_yuan_per_tonne": "3144124.13"
+            },
+            {
+              "name": "其他系列酒",
+              "revenue_wanyuan": "2,468,376.21",
+              "sales_tonnes": "36919.81",
+              "average_wanyuan_per_tonne": "66.86",
+              "average_yuan_per_tonne": "668577.71"
+            }
+          ]
+        },
+        "calculation_code_sha256": "b22128809bb8b6072872d9cb1a7400d3bbae9864d06e494647e5e6a9ea4f3c37"
+      },
+      "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+      "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+      "records": [
+        {
+          "id": "M01-A01",
+          "calculation": {
+            "id": "M01-A01",
+            "label": "茅台酒公司组合均价",
+            "value": "314.41",
+            "exact": "314.4124128186422108484808657928444539724365721205",
+            "unit": "万元/销售吨",
+            "formula": "revenue_yuan/sales_tonnes/10000",
+            "inputs": {
+              "name": "茅台酒",
+              "fact_id": "N2024-01",
+              "revenue_yuan": "145928075955.31",
+              "cost_yuan": "8662079388.78",
+              "sales_tonnes": "46412.95",
+              "source_row_numbers": [
+                "56,271.99",
+                "-1.63",
+                "46,412.95",
+                "10.22",
+                "14,592,807.60",
+                "15.28"
+              ],
+              "quantity_state": "Unknown",
+              "numerical_income_cost_state": "Fact",
+              "volume_column": "销量（吨）",
+              "source_page": 15
+            },
+            "scope": "产品组；跨规格、渠道和地区组合均价，不是单品成交价",
+            "source_pages": [
+              15,
+              108
+            ],
+            "rounding": "ROUND_HALF_UP 2 decimal places"
+          },
+          "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+          "submitted_state": "Fact",
+          "confirmed_at": "2026-10-03T15:14:46+08:00",
+          "actor": "",
+          "client_date": "2026-10-03",
+          "statement_original": "核对输入、单位和结果通过",
+          "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+          "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+          "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+          "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+          "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+        },
+        {
+          "id": "M01-G01",
+          "calculation": {
+            "id": "M01-G01",
+            "label": "茅台酒毛利率",
+            "value": "94.06",
+            "exact": "94.064144728782188753926119161695507212307604311305",
+            "unit": "%",
+            "formula": "(revenue_yuan-cost_yuan)/revenue_yuan*100",
+            "inputs": {
+              "name": "茅台酒",
+              "fact_id": "N2024-01",
+              "revenue_yuan": "145928075955.31",
+              "cost_yuan": "8662079388.78",
+              "sales_tonnes": "46412.95",
+              "source_row_numbers": [
+                "56,271.99",
+                "-1.63",
+                "46,412.95",
+                "10.22",
+                "14,592,807.60",
+                "15.28"
+              ],
+              "quantity_state": "Unknown",
+              "numerical_income_cost_state": "Fact",
+              "volume_column": "销量（吨）",
+              "source_page": 15
+            },
+            "scope": "营业毛利率；不是净利率、经济利润或ROIC",
+            "source_pages": [
+              9,
+              16,
+              108
+            ],
+            "rounding": "ROUND_HALF_UP 2 decimal places"
+          },
+          "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+          "submitted_state": "Fact",
+          "confirmed_at": "2026-10-03T15:14:46+08:00",
+          "actor": "",
+          "client_date": "2026-10-03",
+          "statement_original": "核对输入、单位和结果通过",
+          "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+          "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+          "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+          "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+          "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+        },
+        {
+          "id": "M01-A02",
+          "calculation": {
+            "id": "M01-A02",
+            "label": "其他系列酒公司组合均价",
+            "value": "66.86",
+            "exact": "66.857771198470414663564086597412066855165289312161",
+            "unit": "万元/销售吨",
+            "formula": "revenue_yuan/sales_tonnes/10000",
+            "inputs": {
+              "name": "其他系列酒",
+              "fact_id": "N2024-02",
+              "revenue_yuan": "24683762096.71",
+              "cost_yuan": "4967916424.11",
+              "sales_tonnes": "36919.81",
+              "source_row_numbers": [
+                "48,112.51",
+                "12.05",
+                "36,919.81",
+                "18.47",
+                "2,468,376.21",
+                "19.65"
+              ],
+              "quantity_state": "Unknown",
+              "numerical_income_cost_state": "Fact",
+              "volume_column": "销量（吨）",
+              "source_page": 15
+            },
+            "scope": "产品组；跨规格、渠道和地区组合均价，不是单品成交价",
+            "source_pages": [
+              15,
+              108
+            ],
+            "rounding": "ROUND_HALF_UP 2 decimal places"
+          },
+          "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+          "submitted_state": "Fact",
+          "confirmed_at": "2026-10-03T15:14:46+08:00",
+          "actor": "",
+          "client_date": "2026-10-03",
+          "statement_original": "核对输入、单位和结果通过",
+          "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+          "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+          "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+          "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+          "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+        },
+        {
+          "id": "M01-G02",
+          "calculation": {
+            "id": "M01-G02",
+            "label": "其他系列酒毛利率",
+            "value": "79.87",
+            "exact": "79.873746940819228987598096457476299260925749424900",
+            "unit": "%",
+            "formula": "(revenue_yuan-cost_yuan)/revenue_yuan*100",
+            "inputs": {
+              "name": "其他系列酒",
+              "fact_id": "N2024-02",
+              "revenue_yuan": "24683762096.71",
+              "cost_yuan": "4967916424.11",
+              "sales_tonnes": "36919.81",
+              "source_row_numbers": [
+                "48,112.51",
+                "12.05",
+                "36,919.81",
+                "18.47",
+                "2,468,376.21",
+                "19.65"
+              ],
+              "quantity_state": "Unknown",
+              "numerical_income_cost_state": "Fact",
+              "volume_column": "销量（吨）",
+              "source_page": 15
+            },
+            "scope": "营业毛利率；不是净利率、经济利润或ROIC",
+            "source_pages": [
+              9,
+              16,
+              108
+            ],
+            "rounding": "ROUND_HALF_UP 2 decimal places"
+          },
+          "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+          "submitted_state": "Fact",
+          "confirmed_at": "2026-10-03T15:14:46+08:00",
+          "actor": "",
+          "client_date": "2026-10-03",
+          "statement_original": "核对输入、单位和结果通过",
+          "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+          "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+          "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+          "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+          "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+        },
+        {
+          "id": "M01-A03",
+          "calculation": {
+            "id": "M01-A03",
+            "label": "酒类整体公司组合均价",
+            "value": "204.74",
+            "exact": "204.73561424344999493596515944029694924301079191425",
+            "unit": "万元/销售吨",
+            "formula": "sum(product_revenue_yuan)/sum(product_sales_tonnes)/10000",
+            "inputs": {
+              "revenue_yuan": "170611838052.02",
+              "cost_yuan": "13629995812.89",
+              "sales_tonnes": "83332.76",
+              "quantity_state": "Unknown"
+            },
+            "scope": "仅酒类收入与酒类销量匹配；不加其他业务或金融业务利息",
+            "source_pages": [
+              9,
+              10,
+              15,
+              108
+            ],
+            "rounding": "ROUND_HALF_UP 2 decimal places"
+          },
+          "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+          "submitted_state": "Fact",
+          "confirmed_at": "2026-10-03T15:14:46+08:00",
+          "actor": "",
+          "client_date": "2026-10-03",
+          "statement_original": "核对输入、单位和结果通过",
+          "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+          "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+          "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+          "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+          "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+        },
+        {
+          "id": "M01-G03",
+          "calculation": {
+            "id": "M01-G03",
+            "label": "酒类整体加权毛利率",
+            "value": "92.01",
+            "exact": "92.011107805582530398351354544798717522635039629973",
+            "unit": "%",
+            "formula": "sum(product_revenue_yuan-product_cost_yuan)/sum(product_revenue_yuan)*100",
+            "inputs": {
+              "revenue_yuan": "170611838052.02",
+              "cost_yuan": "13629995812.89",
+              "sales_tonnes": "83332.76",
+              "quantity_state": "Unknown"
+            },
+            "scope": "收入加权毛利率；不取两个产品毛利率的简单算术平均",
+            "source_pages": [
+              9,
+              16,
+              108
+            ],
+            "rounding": "ROUND_HALF_UP 2 decimal places"
+          },
+          "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+          "submitted_state": "Fact",
+          "confirmed_at": "2026-10-03T15:14:46+08:00",
+          "actor": "",
+          "client_date": "2026-10-03",
+          "statement_original": "核对输入、单位和结果通过",
+          "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+          "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+          "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+          "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+          "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+        },
+        {
+          "id": "M01-A04",
+          "calculation": {
+            "id": "M01-A04",
+            "label": "直销2024组合均价",
+            "value": "410.73",
+            "exact": "410.73216229016355567165497836947019333297844959343",
+            "unit": "万元/销售吨",
+            "formula": "revenue_wanyuan_2024/sales_tonnes_2024",
+            "inputs": {
+              "name": "直销",
+              "source_row_numbers": [
+                "7,484,332.71",
+                "6,723,287.69",
+                "18,221.93",
+                "15,634.95"
+              ],
+              "state": "Unknown",
+              "source_page": 16,
+              "revenue_wanyuan_2024": "7484332.71",
+              "revenue_wanyuan_2023": "6723287.69",
+              "sales_tonnes_2024": "18221.93",
+              "sales_tonnes_2023": "15634.95"
+            },
+            "scope": "同页公司渠道组销售口径；不代表全渠道终端动销或同款成交价",
+            "source_pages": [
+              16
+            ],
+            "rounding": "ROUND_HALF_UP 2 decimal places"
+          },
+          "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+          "submitted_state": "Fact",
+          "confirmed_at": "2026-10-03T15:14:46+08:00",
+          "actor": "",
+          "client_date": "2026-10-03",
+          "statement_original": "核对输入、单位和结果通过",
+          "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+          "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+          "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+          "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+          "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+        },
+        {
+          "id": "M01-A04-P",
+          "calculation": {
+            "id": "M01-A04-P",
+            "label": "直销2023比较组合均价",
+            "value": "430.02",
+            "exact": "430.01657760338216623654057096440986379873296684671",
+            "unit": "万元/销售吨",
+            "formula": "revenue_wanyuan_2023/sales_tonnes_2023",
+            "inputs": {
+              "name": "直销",
+              "source_row_numbers": [
+                "7,484,332.71",
+                "6,723,287.69",
+                "18,221.93",
+                "15,634.95"
+              ],
+              "state": "Unknown",
+              "source_page": 16,
+              "revenue_wanyuan_2024": "7484332.71",
+              "revenue_wanyuan_2023": "6723287.69",
+              "sales_tonnes_2024": "18221.93",
+              "sales_tonnes_2023": "15634.95"
+            },
+            "scope": "同页2023比较列；相同渠道组仍可能有产品组合变化",
+            "source_pages": [
+              16
+            ],
+            "rounding": "ROUND_HALF_UP 2 decimal places"
+          },
+          "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+          "submitted_state": "Fact",
+          "confirmed_at": "2026-10-03T15:14:46+08:00",
+          "actor": "",
+          "client_date": "2026-10-03",
+          "statement_original": "核对输入、单位和结果通过",
+          "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+          "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+          "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+          "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+          "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+        },
+        {
+          "id": "M01-C01",
+          "calculation": {
+            "id": "M01-C01",
+            "label": "直销组合均价同比",
+            "value": "-4.48",
+            "exact": "-4.4845748553920249581266690663099082816214962464171",
+            "unit": "%",
+            "formula": "((revenue24/volume24)/(revenue23/volume23)-1)*100",
+            "inputs": {
+              "name": "直销",
+              "source_row_numbers": [
+                "7,484,332.71",
+                "6,723,287.69",
+                "18,221.93",
+                "15,634.95"
+              ],
+              "state": "Unknown",
+              "source_page": 16,
+              "revenue_wanyuan_2024": "7484332.71",
+              "revenue_wanyuan_2023": "6723287.69",
+              "sales_tonnes_2024": "18221.93",
+              "sales_tonnes_2023": "15634.95"
+            },
+            "scope": "组合均价变化，不是固定SKU提价或降价幅度",
+            "source_pages": [
+              16
+            ],
+            "rounding": "ROUND_HALF_UP 2 decimal places"
+          },
+          "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+          "submitted_state": "Fact",
+          "confirmed_at": "2026-10-03T15:14:46+08:00",
+          "actor": "",
+          "client_date": "2026-10-03",
+          "statement_original": "核对输入、单位和结果通过",
+          "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+          "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+          "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+          "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+          "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+        },
+        {
+          "id": "M01-A05",
+          "calculation": {
+            "id": "M01-A05",
+            "label": "批发代理2024组合均价",
+            "value": "147.09",
+            "exact": "147.08537888397367995462506007065184086886928027181",
+            "unit": "万元/销售吨",
+            "formula": "revenue_wanyuan_2024/sales_tonnes_2024",
+            "inputs": {
+              "name": "批发代理",
+              "source_row_numbers": [
+                "9,576,851.10",
+                "7,998,611.94",
+                "65,110.83",
+                "57,639.09"
+              ],
+              "state": "Unknown",
+              "source_page": 16,
+              "revenue_wanyuan_2024": "9576851.10",
+              "revenue_wanyuan_2023": "7998611.94",
+              "sales_tonnes_2024": "65110.83",
+              "sales_tonnes_2023": "57639.09"
+            },
+            "scope": "同页公司渠道组销售口径；不代表全渠道终端动销或同款成交价",
+            "source_pages": [
+              16
+            ],
+            "rounding": "ROUND_HALF_UP 2 decimal places"
+          },
+          "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+          "submitted_state": "Fact",
+          "confirmed_at": "2026-10-03T15:14:46+08:00",
+          "actor": "",
+          "client_date": "2026-10-03",
+          "statement_original": "核对输入、单位和结果通过",
+          "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+          "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+          "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+          "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+          "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+        },
+        {
+          "id": "M01-A05-P",
+          "calculation": {
+            "id": "M01-A05-P",
+            "label": "批发代理2023比较组合均价",
+            "value": "138.77",
+            "exact": "138.77061452566305262626457149132645917900508144733",
+            "unit": "万元/销售吨",
+            "formula": "revenue_wanyuan_2023/sales_tonnes_2023",
+            "inputs": {
+              "name": "批发代理",
+              "source_row_numbers": [
+                "9,576,851.10",
+                "7,998,611.94",
+                "65,110.83",
+                "57,639.09"
+              ],
+              "state": "Unknown",
+              "source_page": 16,
+              "revenue_wanyuan_2024": "9576851.10",
+              "revenue_wanyuan_2023": "7998611.94",
+              "sales_tonnes_2024": "65110.83",
+              "sales_tonnes_2023": "57639.09"
+            },
+            "scope": "同页2023比较列；相同渠道组仍可能有产品组合变化",
+            "source_pages": [
+              16
+            ],
+            "rounding": "ROUND_HALF_UP 2 decimal places"
+          },
+          "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+          "submitted_state": "Fact",
+          "confirmed_at": "2026-10-03T15:14:46+08:00",
+          "actor": "",
+          "client_date": "2026-10-03",
+          "statement_original": "核对输入、单位和结果通过",
+          "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+          "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+          "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+          "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+          "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+        },
+        {
+          "id": "M01-C02",
+          "calculation": {
+            "id": "M01-C02",
+            "label": "批发代理组合均价同比",
+            "value": "5.99",
+            "exact": "5.9917327502884018715856060603898707768342446154738",
+            "unit": "%",
+            "formula": "((revenue24/volume24)/(revenue23/volume23)-1)*100",
+            "inputs": {
+              "name": "批发代理",
+              "source_row_numbers": [
+                "9,576,851.10",
+                "7,998,611.94",
+                "65,110.83",
+                "57,639.09"
+              ],
+              "state": "Unknown",
+              "source_page": 16,
+              "revenue_wanyuan_2024": "9576851.10",
+              "revenue_wanyuan_2023": "7998611.94",
+              "sales_tonnes_2024": "65110.83",
+              "sales_tonnes_2023": "57639.09"
+            },
+            "scope": "组合均价变化，不是固定SKU提价或降价幅度",
+            "source_pages": [
+              16
+            ],
+            "rounding": "ROUND_HALF_UP 2 decimal places"
+          },
+          "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+          "submitted_state": "Fact",
+          "confirmed_at": "2026-10-03T15:14:46+08:00",
+          "actor": "",
+          "client_date": "2026-10-03",
+          "statement_original": "核对输入、单位和结果通过",
+          "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+          "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+          "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+          "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+          "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+        },
+        {
+          "id": "M01-C03",
+          "calculation": {
+            "id": "M01-C03",
+            "label": "渠道表酒类组合均价同比",
+            "value": "1.90",
+            "exact": "1.9012897027744497650889061521041124386368083870681",
+            "unit": "%",
+            "formula": "((sum(channel_revenue24)/sum(channel_volume24))/(sum(channel_revenue23)/sum(channel_volume23))-1)*100",
+            "inputs": [
+              {
+                "name": "直销",
+                "source_row_numbers": [
+                  "7,484,332.71",
+                  "6,723,287.69",
+                  "18,221.93",
+                  "15,634.95"
+                ],
+                "state": "Unknown",
+                "source_page": 16,
+                "revenue_wanyuan_2024": "7484332.71",
+                "revenue_wanyuan_2023": "6723287.69",
+                "sales_tonnes_2024": "18221.93",
+                "sales_tonnes_2023": "15634.95"
+              },
+              {
+                "name": "批发代理",
+                "source_row_numbers": [
+                  "9,576,851.10",
+                  "7,998,611.94",
+                  "65,110.83",
+                  "57,639.09"
+                ],
+                "state": "Unknown",
+                "source_page": 16,
+                "revenue_wanyuan_2024": "9576851.10",
+                "revenue_wanyuan_2023": "7998611.94",
+                "sales_tonnes_2024": "65110.83",
+                "sales_tonnes_2023": "57639.09"
+              }
+            ],
+            "scope": "同第16页展示收入/销量口径；万元展示精度保留",
+            "source_pages": [
+              16
+            ],
+            "rounding": "ROUND_HALF_UP 2 decimal places"
+          },
+          "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+          "submitted_state": "Fact",
+          "confirmed_at": "2026-10-03T15:14:46+08:00",
+          "actor": "",
+          "client_date": "2026-10-03",
+          "statement_original": "核对输入、单位和结果通过",
+          "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+          "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+          "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+          "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+          "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+        },
+        {
+          "id": "M01-S01",
+          "calculation": {
+            "id": "M01-S01",
+            "label": "2024直销酒类收入占比",
+            "value": "43.87",
+            "exact": "43.867604929109546941807433701167070422647301635278",
+            "unit": "%",
+            "formula": "direct_revenue24/sum(channel_revenue24)*100",
+            "inputs": [
+              {
+                "name": "直销",
+                "source_row_numbers": [
+                  "7,484,332.71",
+                  "6,723,287.69",
+                  "18,221.93",
+                  "15,634.95"
+                ],
+                "state": "Unknown",
+                "source_page": 16,
+                "revenue_wanyuan_2024": "7484332.71",
+                "revenue_wanyuan_2023": "6723287.69",
+                "sales_tonnes_2024": "18221.93",
+                "sales_tonnes_2023": "15634.95"
+              },
+              {
+                "name": "批发代理",
+                "source_row_numbers": [
+                  "9,576,851.10",
+                  "7,998,611.94",
+                  "65,110.83",
+                  "57,639.09"
+                ],
+                "state": "Unknown",
+                "source_page": 16,
+                "revenue_wanyuan_2024": "9576851.10",
+                "revenue_wanyuan_2023": "7998611.94",
+                "sales_tonnes_2024": "65110.83",
+                "sales_tonnes_2023": "57639.09"
+              }
+            ],
+            "scope": "渠道收入组合指标，不等于渠道控制力",
+            "source_pages": [
+              16
+            ],
+            "rounding": "ROUND_HALF_UP 2 decimal places"
+          },
+          "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+          "submitted_state": "Fact",
+          "confirmed_at": "2026-10-03T15:14:46+08:00",
+          "actor": "",
+          "client_date": "2026-10-03",
+          "statement_original": "核对输入、单位和结果通过",
+          "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+          "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+          "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+          "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+          "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+        },
+        {
+          "id": "M01-S02",
+          "calculation": {
+            "id": "M01-S02",
+            "label": "2023直销酒类收入占比",
+            "value": "45.67",
+            "exact": "45.668615185362461270903257747587292849924150719128",
+            "unit": "%",
+            "formula": "direct_revenue23/sum(channel_revenue23)*100",
+            "inputs": [
+              {
+                "name": "直销",
+                "source_row_numbers": [
+                  "7,484,332.71",
+                  "6,723,287.69",
+                  "18,221.93",
+                  "15,634.95"
+                ],
+                "state": "Unknown",
+                "source_page": 16,
+                "revenue_wanyuan_2024": "7484332.71",
+                "revenue_wanyuan_2023": "6723287.69",
+                "sales_tonnes_2024": "18221.93",
+                "sales_tonnes_2023": "15634.95"
+              },
+              {
+                "name": "批发代理",
+                "source_row_numbers": [
+                  "9,576,851.10",
+                  "7,998,611.94",
+                  "65,110.83",
+                  "57,639.09"
+                ],
+                "state": "Unknown",
+                "source_page": 16,
+                "revenue_wanyuan_2024": "9576851.10",
+                "revenue_wanyuan_2023": "7998611.94",
+                "sales_tonnes_2024": "65110.83",
+                "sales_tonnes_2023": "57639.09"
+              }
+            ],
+            "scope": "同页2023比较列",
+            "source_pages": [
+              16
+            ],
+            "rounding": "ROUND_HALF_UP 2 decimal places"
+          },
+          "binding_digest": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90",
+          "submitted_state": "Fact",
+          "confirmed_at": "2026-10-03T15:14:46+08:00",
+          "actor": "",
+          "client_date": "2026-10-03",
+          "statement_original": "核对输入、单位和结果通过",
+          "confirmation_context": "本人回复上一条M01销售均价与毛利率计算表核验要求；确认该表产品、酒类及两期渠道均价、毛利率、同比、收入占比的输入、单位与结果通过。对应已推送902a237版本的计算表与数据；不扩大为品牌因果或可持续性结论。",
+          "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149",
+          "reviewed_commit": "902a2376211eb39a8633454d2fc4b061c559ab98",
+          "reviewed_artifact_sha256": "53ab712a3c0f1a700faaa095842e67af9de991fa17f963bbe2397bd1ab214a4f",
+          "support_boundary": "仅支持所列公司口径统计量及对应计算结果；不证明品牌因果、终端动销或可持续定价权"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-10-03T15:14:46+08:00"
+}

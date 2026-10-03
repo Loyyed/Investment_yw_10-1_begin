@@ -74,6 +74,8 @@
 | evidence/lec03-selected-question.json | 本人核验专用记录；未伪造Fact |
 | evidence/m01-disclosure-facts.json | 本人核验专用记录；未伪造Fact |
 | evidence/m01-disclosure-review.json | 本人核验专用记录；未伪造Fact |
+| evidence/m01-metric-facts.json | 本人核验专用记录；未伪造Fact |
+| evidence/m01-metric-review.json | 本人核验专用记录；未伪造Fact |
 | evidence/review-state.json | 本人核验专用记录；未伪造Fact |
 | evidence/task03-adopted-evidence.json | 本人核验专用记录；未伪造Fact |
 | Git.cmd | 项目入口、运行器或总说明 |
@@ -108,11 +110,13 @@
 | scripts/change_review_views.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
 | scripts/common.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
 | scripts/m01_disclosure_review.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
+| scripts/m01_metric_review.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
 | scripts/review_store.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
 | scripts/review_ui.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
 | scripts/test_change_review.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
 | scripts/test_m01_calculation.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
 | scripts/test_m01_disclosure_review.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
+| scripts/test_m01_metric_review.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
 | scripts/ui_smoke.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
 | scripts/workspace_utils.py | 本轮实际使用的可重运行脚本，保留实现与检查方法 |
 | sources/annual_reports/md/SH600519_贵州茅台_2020.md | 规范原始年报／对应检索MD；按报告原样留存 |

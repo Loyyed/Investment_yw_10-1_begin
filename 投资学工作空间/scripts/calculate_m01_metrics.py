@@ -113,7 +113,10 @@ if __name__=='__main__':
  sys.stdout.reconfigure(encoding='utf-8')
  root=Path(__file__).resolve().parents[1]
  output=calculate(root)
+ from m01_metric_review import M01MetricReview
+ output=M01MetricReview(root).annotate(output)
  destination=root/'work/m01-calculated-metrics.json'
  from review_store import ReviewStore
  ReviewStore._atomic_text(destination,json.dumps(output,ensure_ascii=False,indent=2)+'\n')
+ ReviewStore._atomic_text(root/'evidence/m01-metric-facts.json',json.dumps(M01MetricReview(root).export(),ensure_ascii=False,indent=2)+'\n')
  print(json.dumps(output,ensure_ascii=False,indent=2))

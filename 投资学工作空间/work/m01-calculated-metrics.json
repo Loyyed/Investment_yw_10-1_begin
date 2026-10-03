@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "status": "calculated-awaiting-human-verification",
+  "status": "human-confirmed",
   "input_digest": "ec8707cddc02616c063a1b366c363137c261cbcf2da1d11b988404f005237cae",
   "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
   "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
@@ -52,9 +52,11 @@
         15,
         108
       ],
-      "state": "Unknown",
+      "state": "Fact",
       "rounding": "ROUND_HALF_UP 2 decimal places",
-      "note": "程序复算；数量及新增计算结果尚待本人核验，不证明品牌机制"
+      "note": "本人明确聊天核验输入、单位和结果；仅支持该统计量",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149"
     },
     {
       "id": "M01-G01",
@@ -88,9 +90,11 @@
         16,
         108
       ],
-      "state": "Unknown",
+      "state": "Fact",
       "rounding": "ROUND_HALF_UP 2 decimal places",
-      "note": "程序复算；数量及新增计算结果尚待本人核验，不证明品牌机制"
+      "note": "本人明确聊天核验输入、单位和结果；仅支持该统计量",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149"
     },
     {
       "id": "M01-A02",
@@ -123,9 +127,11 @@
         15,
         108
       ],
-      "state": "Unknown",
+      "state": "Fact",
       "rounding": "ROUND_HALF_UP 2 decimal places",
-      "note": "程序复算；数量及新增计算结果尚待本人核验，不证明品牌机制"
+      "note": "本人明确聊天核验输入、单位和结果；仅支持该统计量",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149"
     },
     {
       "id": "M01-G02",
@@ -159,9 +165,11 @@
         16,
         108
       ],
-      "state": "Unknown",
+      "state": "Fact",
       "rounding": "ROUND_HALF_UP 2 decimal places",
-      "note": "程序复算；数量及新增计算结果尚待本人核验，不证明品牌机制"
+      "note": "本人明确聊天核验输入、单位和结果；仅支持该统计量",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149"
     },
     {
       "id": "M01-A03",
@@ -183,9 +191,11 @@
         15,
         108
       ],
-      "state": "Unknown",
+      "state": "Fact",
       "rounding": "ROUND_HALF_UP 2 decimal places",
-      "note": "程序复算；数量及新增计算结果尚待本人核验，不证明品牌机制"
+      "note": "本人明确聊天核验输入、单位和结果；仅支持该统计量",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149"
     },
     {
       "id": "M01-G03",
@@ -206,9 +216,11 @@
         16,
         108
       ],
-      "state": "Unknown",
+      "state": "Fact",
       "rounding": "ROUND_HALF_UP 2 decimal places",
-      "note": "程序复算；数量及新增计算结果尚待本人核验，不证明品牌机制"
+      "note": "本人明确聊天核验输入、单位和结果；仅支持该统计量",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149"
     },
     {
       "id": "M01-A04",
@@ -236,9 +248,11 @@
       "source_pages": [
         16
       ],
-      "state": "Unknown",
+      "state": "Fact",
       "rounding": "ROUND_HALF_UP 2 decimal places",
-      "note": "程序复算；数量及新增计算结果尚待本人核验，不证明品牌机制"
+      "note": "本人明确聊天核验输入、单位和结果；仅支持该统计量",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149"
     },
     {
       "id": "M01-A04-P",
@@ -266,9 +280,11 @@
       "source_pages": [
         16
       ],
-      "state": "Unknown",
+      "state": "Fact",
       "rounding": "ROUND_HALF_UP 2 decimal places",
-      "note": "程序复算；数量及新增计算结果尚待本人核验，不证明品牌机制"
+      "note": "本人明确聊天核验输入、单位和结果；仅支持该统计量",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149"
     },
     {
       "id": "M01-C01",
@@ -296,9 +312,11 @@
       "source_pages": [
         16
       ],
-      "state": "Unknown",
+      "state": "Fact",
       "rounding": "ROUND_HALF_UP 2 decimal places",
-      "note": "程序复算；数量及新增计算结果尚待本人核验，不证明品牌机制"
+      "note": "本人明确聊天核验输入、单位和结果；仅支持该统计量",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149"
     },
     {
       "id": "M01-A05",
@@ -326,9 +344,11 @@
       "source_pages": [
         16
       ],
-      "state": "Unknown",
+      "state": "Fact",
       "rounding": "ROUND_HALF_UP 2 decimal places",
-      "note": "程序复算；数量及新增计算结果尚待本人核验，不证明品牌机制"
+      "note": "本人明确聊天核验输入、单位和结果；仅支持该统计量",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149"
     },
     {
       "id": "M01-A05-P",
@@ -356,9 +376,11 @@
       "source_pages": [
         16
       ],
-      "state": "Unknown",
+      "state": "Fact",
       "rounding": "ROUND_HALF_UP 2 decimal places",
-      "note": "程序复算；数量及新增计算结果尚待本人核验，不证明品牌机制"
+      "note": "本人明确聊天核验输入、单位和结果；仅支持该统计量",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149"
     },
     {
       "id": "M01-C02",
@@ -386,9 +408,11 @@
       "source_pages": [
         16
       ],
-      "state": "Unknown",
+      "state": "Fact",
       "rounding": "ROUND_HALF_UP 2 decimal places",
-      "note": "程序复算；数量及新增计算结果尚待本人核验，不证明品牌机制"
+      "note": "本人明确聊天核验输入、单位和结果；仅支持该统计量",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149"
     },
     {
       "id": "M01-C03",
@@ -433,9 +457,11 @@
       "source_pages": [
         16
       ],
-      "state": "Unknown",
+      "state": "Fact",
       "rounding": "ROUND_HALF_UP 2 decimal places",
-      "note": "程序复算；数量及新增计算结果尚待本人核验，不证明品牌机制"
+      "note": "本人明确聊天核验输入、单位和结果；仅支持该统计量",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149"
     },
     {
       "id": "M01-S01",
@@ -480,9 +506,11 @@
       "source_pages": [
         16
       ],
-      "state": "Unknown",
+      "state": "Fact",
       "rounding": "ROUND_HALF_UP 2 decimal places",
-      "note": "程序复算；数量及新增计算结果尚待本人核验，不证明品牌机制"
+      "note": "本人明确聊天核验输入、单位和结果；仅支持该统计量",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149"
     },
     {
       "id": "M01-S02",
@@ -527,9 +555,11 @@
       "source_pages": [
         16
       ],
-      "state": "Unknown",
+      "state": "Fact",
       "rounding": "ROUND_HALF_UP 2 decimal places",
-      "note": "程序复算；数量及新增计算结果尚待本人核验，不证明品牌机制"
+      "note": "本人明确聊天核验输入、单位和结果；仅支持该统计量",
+      "confirmed_at": "2026-10-03T15:14:46+08:00",
+      "confirmation_key": "693096a9030d2a70b715cea7f77c39bad1a1e20a107e865248688f5f24d85149"
     }
   ],
   "page15_direct_averages": [
@@ -539,7 +569,8 @@
       "sales_tonnes": "46412.95",
       "average_wanyuan_per_tonne": "314.41",
       "average_yuan_per_tonne": "3144124.13",
-      "state": "Unknown"
+      "state": "Fact",
+      "note": "第15页展示精度的直接均价视图，不另计Fact编号"
     },
     {
       "name": "其他系列酒",
@@ -547,7 +578,8 @@
       "sales_tonnes": "36919.81",
       "average_wanyuan_per_tonne": "66.86",
       "average_yuan_per_tonne": "668577.71",
-      "state": "Unknown"
+      "state": "Fact",
+      "note": "第15页展示精度的直接均价视图，不另计Fact编号"
     }
   ],
   "support_boundary": "仅支持公司披露口径的组合统计；终端动销、同款价格、因果机制及持续性Unknown"

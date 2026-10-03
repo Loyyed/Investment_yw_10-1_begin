@@ -6,7 +6,7 @@
 | 第二次 | 51条收入成本候选，21组合计检查 | outputs/revenue-structure-table.md | 有效Fact 4/51条；逐行确认范围与正式验收仍须完成 <!-- review-store:task:第二次 --> |
 | 第三次 | 12条候选；收入/利润两组冲突；真实Agent修正保留 | outputs/metric-scope-decision.md | 有效Fact 12/12条；本人采用/排除裁决及实际修正按真实过程记录 <!-- review-store:task:第三次 --> |
 | 第四次 | 可比性材料、公式代入、披露变动率及阻断程序 | outputs/change-verification-record.md | 七项可比性独立确认7/7项；有效变化Fact 2/2条；姓名与正式签署待补 <!-- review-store:task:第四次 --> |
-| Lec03 | 六条矩阵、问题清单、经济逻辑图、优势证据表、两条人工核验准备 | outputs/lec03-evidence-matrix.md；lec03-stage-deliverables.md | M01已选；公司自述3 Fact已核、均价毛利率待本人核对、机制Unknown；商业模式/行业竞争待选；未验收 |
+| Lec03 | 六条矩阵、问题清单、经济逻辑图、优势证据表、两条人工核验准备 | outputs/lec03-evidence-matrix.md；lec03-stage-deliverables.md | M01已选；公司自述3 Fact已核、均价毛利率15项Fact已核、机制Unknown；商业模式/行业竞争待选；未验收 |
 | 课件补充 | 产品结构A、披露地图、组件选择、反方质询 | outputs/lec01-decision-card.md等 | 按个人实际过程改写Exit Ticket及小组裁决 |
 
 合同正式关闭：尚未。核验人来自实际提交；合同复核人与签署按实际情况填写。仅填姓名不等于已经核验。材料未含第五次及更后续独立合同，不能凭“等”虚构任务内容。
@@ -48,5 +48,11 @@ M01品牌定价权已由本人选定为竞争优势研究问题；另外两个�
 <!-- scope-acceptance:m01-analysis:start -->
 ## M01当前进展
 
-三项公司自述已通过真实聊天核验；产品/渠道均价和毛利率已补算，等待本人核对输入与结果。四项判断标准及反证已整理，机制与持续性未证明。其他两维待选，Lec03未验收。[计算表](../outputs/m01-average-price-and-margin.md)；[下一步](next-review.md)。
+三项公司自述已通过真实聊天核验；产品/渠道均价和毛利率已补算，输入、单位及15项结果已本人确认。四项判断标准及反证已整理，机制与持续性未证明。其他两维待选，Lec03未验收。[计算表](../outputs/m01-average-price-and-margin.md)；[下一步](next-review.md)。
 <!-- scope-acceptance:m01-analysis:end -->
+
+<!-- scope-acceptance:m01-metric-confirmation:start -->
+## M01计算核验已通过
+
+15项均价、毛利率、同比与收入占比结果已通过本人聊天确认，当前均为有效计算Fact。下一步形成自己的机制判断及反证，并选择商业模式和行业竞争两个维度；Lec03尚未验收。[下一步](next-review.md)。
+<!-- scope-acceptance:m01-metric-confirmation:end -->
