@@ -2,8 +2,8 @@
 
 - 先读../会话交接/CURRENT.md；稳定偏好按需读../会话交接/DECISIONS.md。只读本次相关合同和成果，不全文读取日志，不重新扫描项目。
 - sources保持原样；不得修改工作空间内外的原件，不把摘要当来源。
-- 统一人工核验入口为“人工核验入口.cmd”。只有本人明确点击确认，才由程序写入evidence/review-state.json并形成Fact；开窗、选择条目、机器匹配、任务文字校对均不自动确认。
-- 人工确认由review-state.json的记录和事件历史维护；confirmed-facts.json与Markdown为派生视图。后续使用调用scripts/review_store.py的ReviewStore(...).facts()核对最新来源，不只凭旧导出文件判Fact。
+- 统一人工核验入口为“人工核验入口.cmd”。原始披露Fact须由本人明确点击确认，才由程序写入evidence/review-state.json；开窗、选择条目、机器匹配、任务文字校对均不自动确认。
+- 原始披露人工确认由review-state.json的记录和事件历史维护；confirmed-facts.json与Markdown为派生视图。后续使用调用scripts/review_store.py的ReviewStore(...).facts()核对最新来源，不只凭旧导出文件判Fact。
 - 指定源PDF或候选内容改变，旧确认对当前材料失效，需本人重核。缺证、疑问、撤回保留Unknown及历史。
 - 原始work/structured-data.json继续保留提取状态；不得把机器候选批量改成Fact，不能把来源核验扩大为机制成立。
 - 姓名可待补，但确认方式、时间、位置、口径与支持边界自动保留。核验确认、复核签署和合同正式关闭分别记录，不代填签名。
