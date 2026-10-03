@@ -15,3 +15,9 @@
 
 本人聊天回复“核对完毕”，指向已展示的两期输入、同比公式、结果15.71%/15.38%及两位舍入。登记两条独立变化Fact CH01/CH02，不改原16条披露Fact或17条窗口事件，不冒充新的PDF点击事件。原值调用ReviewStore.facts()；变化调用ReviewStore.change_facts()，来源/输入/原值确认或可比性变化则Unknown。第四次8项内容通过，姓名与签署待补。下一步本人选择Lec03三个研究问题，不代选、不批量核验47条Unknown。
 <!-- scope-acceptance:task04-confirmation:end -->
+
+<!-- scope-acceptance:m01-selection:start -->
+## Lec03选题（2026-10-03）
+
+本人原话“选择研究M01问题”，只选定竞争优势问题“品牌是否在同口径下形成定价权？”。不得自动选定其他两个维度或认定机制成立。M01背景复用当前有效Fact；原值确认、变化确认及47条Unknown不变。叙事理解和Unknown缺证边界待本人核对，Lec03未验收。
+<!-- scope-acceptance:m01-selection:end -->

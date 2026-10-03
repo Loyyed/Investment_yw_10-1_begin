@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "record_type": "human-question-selection-not-fact-confirmation",
+  "client_date": "2026-10-03",
+  "registered_at": "2026-10-03T13:48:52+08:00",
+  "actor": "",
+  "statement_original": "选择研究M01问题",
+  "selected_id": "M01",
+  "title": "品牌是否在同口径下形成定价权？",
+  "dimension": "竞争优势",
+  "selection_status": "human-selected",
+  "hypothesis_status": "Interpretation",
+  "mechanism_conclusion": "Unknown",
+  "source_pdf": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+  "source_pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+  "source_pages": [
+    8,
+    9
+  ],
+  "background_evidence_ids": [
+    "C01",
+    "N2024-01",
+    "N2024-02"
+  ],
+  "change_evidence_ids": [
+    "CH01",
+    "CH02"
+  ],
+  "reuse_fact_bindings": {
+    "C01": "bf6e838d821bfa014ee564b83dbd1438bee886ca176f83e4f985a3eff0a0cc10",
+    "N2024-01": "f16c157c84ba73c30b76cad87cf764ebaa745a92d6b80b754c2c9408955f60cf",
+    "N2024-02": "2fcfac23b6630b5fcced6e23db91ec1d54f7734eb131894fe9db158a28677013"
+  },
+  "reuse_change_digests": {
+    "CH01": "ba5272fba49ad3c81e5558afa22c50fca2bab35d8dff128650f5fe9467f65258",
+    "CH02": "d3ff78b0b8863903a891f4158667ca2d22c18194d2cac3726fa411ac7cfa5ccc"
+  },
+  "remaining_dimensions": {
+    "商业模式": "待本人选择",
+    "行业竞争": "待本人选择"
+  },
+  "human_unknown_adjudication": "pending",
+  "new_fact_count": 0,
+  "new_pdf_review_events": 0,
+  "usage_rule": "This records selection only. Query ReviewStore.facts()/change_facts() for current evidence; selecting M01 never proves brand pricing power."
+}

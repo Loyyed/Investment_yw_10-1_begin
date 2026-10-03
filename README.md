@@ -63,3 +63,9 @@ git push
 
 第四次8项内容验收完成；本人确认后登记CH01营业收入同比15.71%、CH02归母净利润同比15.38%。姓名与正式签署待补。先读[会话交接](会话交接/CURRENT.md)，再按[下一步Lec03](投资学工作空间/docs/next-review.md)选研究问题。
 <!-- scope-acceptance:task04-progress:end -->
+
+<!-- scope-acceptance:m01-progress:start -->
+## 当前研究问题
+
+本人已选择M01品牌定价权问题。背景Fact可复用，品牌机制仍待验证；商业模式、行业竞争两个维度尚待选择。[M01底稿](投资学工作空间/work/lec03-m01.md)；[下一步核验](投资学工作空间/docs/next-review.md)。
+<!-- scope-acceptance:m01-progress:end -->

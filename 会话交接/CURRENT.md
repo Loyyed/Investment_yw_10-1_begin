@@ -2,11 +2,12 @@
 
 更新：2026-10-03。
 
-- Git根D:/投资学；成果投资学工作空间/；原件课件与任务文件/。已以e2a71d6完整文件树恢复再重做第三次；71de2c4、e63b162已加中文弃用标签，登记见docs/deprecated-versions.md。最新推送SHA及标签从logs/latest-publish.json读取；继续前核对git log -1和git status --short。
-- 原值16条Fact、47条Unknown及17条窗口核验事件保留。第四次本人聊天确认两期输入、公式、舍入及收入15.71%、归母15.38%；独立变化记录CH01/CH02为Fact，合计18条Fact（16原值+2变化），新增1条聊天核验事件，不混入窗口事件。
-- 使用事实须调用ReviewStore(...).facts()及ReviewStore(...).change_facts()，核对当前来源绑定；本摘要不能证明Fact，绑定变化使旧变化确认失效并回到Unknown。
-- 第三次采用7项：主指标C01/C02/C03，结构C04/C06/C07，扣非补充C12不得替代C02；C10桥接对照，C05/C08/C09/C10/C11不能替代主指标，C04单独不代表总体收入。保留十二项初选→旧六项→七项角色重划真实修正链。误用诊断比例/金额仍非Fact。
-- 第三次、第四次各8项内容验收完成，姓名、复核及正式签署留空，合同未正式关闭。第四次七项可比性及已核验变化可引用，不直接证明机制。
-- 下一步Lec03：读outputs/lec03-evidence-matrix.md候选M01—M06及tasks/05-lec03-business-model.md，由本人聊天选择商业模式、行业竞争、竞争优势各一个问题；本轮未自动选择或验收。随后只按所选问题核必要PDF，至少一条Fact、一条Unknown，不需批量核47条；不新增外部行业资料。操作见docs/next-review.md。
+- Git根D:/投资学；成果投资学工作空间/；原件课件与任务文件/。e2a71d6恢复后重做第三次；旧71de2c4/e63b162有中文弃用标签。最新提交从logs/latest-publish.json读取，继续前检查git log -1及git status --short。
+- 原值16 Fact、47 Unknown、17窗口事件保留；CH01收入同比15.71%、CH02归母同比15.38%为2条独立聊天确认变化Fact，1聊天事件。共18 Fact。使用调用ReviewStore.facts()及change_facts()核对当前绑定，摘要及旧导出不能证明Fact。
+- 第三次主C01/C02/C03、结构C04/C06/C07、补充C12；C10仅桥接。第三/第四各8项内容通过，姓名与签署待补，合同未正式关闭。诊断比率仍非Fact。
+- 本轮本人原话“选择研究M01问题”，已选竞争优势问题“品牌是否在同口径下形成定价权？”。选题记录evidence/lec03-selected-question.json只证明选题，不是原文或机制Fact。
+- M01已整理到work/lec03-m01.md、lec03-claim-notes.md及outputs/lec03-evidence-matrix.md。复用C01/N2024-01/N2024-02与CH01/CH02作背景；R2024-02/03仍Unknown。第8页品牌及收入原因自述由Agent定位，本人待核；定价权假设Interpretation，机制成立、持续性及同款量价证据Unknown。
+- 下一步本人核2024PDF第8—9页，确认公司自述不能直接证明可持续定价权，并聊天提交实际理解及Unknown边界。已有效原值不重核，不新增窗口事件，不批量核47条。
+- 商业模式/行业竞争两个维度尚待本人选题；底稿有配套建议但不算已选。Lec03未验收。操作见docs/next-review.md；姓名签署最后补。
 
-稳定偏好按需读DECISIONS.md。原件不改、中文提交、保留真实历史、签署最后补；不全文读取日志、不重扫项目。权威接口及绑定优先于导出Markdown与交接摘要。
+稳定偏好按需读DECISIONS.md；原件不改、中文提交、保留真实修正、不新增合同外数据、不全文读日志或重扫项目。

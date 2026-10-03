@@ -71,6 +71,7 @@
 | evidence/confirmed-facts.json | 本人核验专用记录；未伪造Fact |
 | evidence/evidence-log.md | 本人核验专用记录；未伪造Fact |
 | evidence/human-review-forms.md | 本人核验专用记录；未伪造Fact |
+| evidence/lec03-selected-question.json | 本人核验专用记录；未伪造Fact |
 | evidence/review-state.json | 本人核验专用记录；未伪造Fact |
 | evidence/task03-adopted-evidence.json | 本人核验专用记录；未伪造Fact |
 | Git.cmd | 项目入口、运行器或总说明 |
@@ -261,6 +262,7 @@
 | work/evidence-candidates.md | 实际过程、候选、冲突、修正或验证记录 |
 | work/lec03-claim-data.json | 实际过程、候选、冲突、修正或验证记录 |
 | work/lec03-claim-notes.md | 实际过程、候选、冲突、修正或验证记录 |
+| work/lec03-m01.md | 实际过程、候选、冲突、修正或验证记录 |
 | work/metric-scope-candidates.md | 实际过程、候选、冲突、修正或验证记录 |
 | work/notebook-executed.ipynb | 实际过程、候选、冲突、修正或验证记录 |
 | work/notes.md | 实际过程、候选、冲突、修正或验证记录 |
