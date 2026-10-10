@@ -8,5 +8,5 @@
 - 执行人与复核人按明确授权均lxy，2026-10-10，同人复核不宣称独立；旧核验actor Leo及时间不重命名，签署不等同新PDF点击、教师批准或新机制敲定。授权/签署分别在公司evidence/20261010-*.json。
 - 旧公司六域当前有效数16/2/3/15/3/16，调用facts/change_facts/m01_disclosure_facts/m01_metric_facts/m01_scale_facts/lec03_agent_facts动态检验；16年度组与39个人工域条目有重叠，不报55独立事实。48项复算及保护检查通过，新量价分解仅Agent参考。
 - 研究重点：2022重述、行业绝对量/同比基数不衔接、渠道跨表69.21元差异、直销占比下降、库存与金融现金。具体取证/重算/停止标准见work/yearly-changes.md的R01—R06；有效旧事实仍可有依据挑战。准确生产成本、同SKU净溢价、终端量、细分市占率及分部资本现金仍Unknown。
-- 通用工作台六步导航/模板/skill参考安装并通过36项测试，已推送Investment_yw_finaltask，节点d7c2e31431975a5c3168c972392079734a97aa00。本轮公司清洗与合同成果同步Investment_yw_10-1_begin，实际远程校验结果保留于本轮发布记录。
+- 通用工作台六步导航/模板/skill参考安装并通过36项测试，已推送Investment_yw_finaltask，节点d7c2e31431975a5c3168c972392079734a97aa00。本轮公司清洗与合同成果已同步Investment_yw_10-1_begin，成果节点d7a97addb77550e9b7063599b925be9127c52cd7；两个远程HEAD已校验，记录见../投资学工作空间/docs/20261010-repository-sync.json。
 - 当前工作台入口：../投资学工作空间/工作台.html；当前四环节成果outputs/task05-business-model-map.md；旧三维报告outputs/lec03-final-results.md保留。新的机制和最终判断由人工敲定，网络仅解释/新闻旁证，核心数据以本地原稿为中心。
