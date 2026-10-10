@@ -1,0 +1,1151 @@
+{
+  "contracts": [
+    {
+      "name": "第一次",
+      "file": "第一次任务合同.md",
+      "original_sha256": "4867e16f12245ff4d5842c23841f4c7ebf4830b201169766b54c9a74eaa6f0fb",
+      "executed_copy": "tasks/executed-20261010/第一次任务合同.md",
+      "clauses": 40,
+      "open_original_clauses": [],
+      "source_refs": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "name": "第二次",
+      "file": "第二次任务合同_年报收入信息结构化提取.md",
+      "original_sha256": "fa9d200800e8a581eb8631e8d2d9daa475686c401f0995a51cf752e814a3da8d",
+      "executed_copy": "tasks/executed-20261010/第二次任务合同_年报收入信息结构化提取.md",
+      "clauses": 9,
+      "open_original_clauses": [],
+      "source_refs": [
+        "work/revenue-structure-extraction.md",
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/revenue-structure-table.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "name": "第三次",
+      "file": "第三次任务合同_年报指标口径识别.md",
+      "original_sha256": "9453a5d0801b6251e56538e9ab2eaee325029e4fc907eaeb85378812f99bebf9",
+      "executed_copy": "tasks/executed-20261010/第三次任务合同_年报指标口径识别.md",
+      "clauses": 9,
+      "open_original_clauses": [],
+      "source_refs": [
+        "work/metric-scope-candidates.md",
+        "work/scope-adjudication.md",
+        "outputs/metric-scope-decision.md",
+        "docs/third-task-acceptance.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "name": "第四次",
+      "file": "第四次任务合同_年报指标变化核验.md",
+      "original_sha256": "3d1af9c2753f9fc5fc5338038d48e7c3f033faf1960260b4d69fe3792be3e13b",
+      "executed_copy": "tasks/executed-20261010/第四次任务合同_年报指标变化核验.md",
+      "clauses": 9,
+      "open_original_clauses": [],
+      "source_refs": [
+        "work/change-verification.md",
+        "outputs/change-verification-record.md",
+        "docs/fourth-task-acceptance.md",
+        "evidence/change-review-state.json",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "name": "第五次综合",
+      "file": "第五次任务合同_贵州茅台商业模式、竞争优势与叙事核验.md",
+      "original_sha256": "742749871e570ecaa486f20c17e210f918edd39289c2a83dc4cd5dd4c2fe1d28",
+      "executed_copy": "tasks/executed-20261010/第五次任务合同_贵州茅台商业模式、竞争优势与叙事核验.md",
+      "clauses": 12,
+      "open_original_clauses": [
+        "第五次综合-07"
+      ],
+      "source_refs": [
+        "work/lec03-evidence-expansion.md",
+        "outputs/lec03-evidence-matrix.md",
+        "outputs/lec03-stage-deliverables.md",
+        "outputs/lec03-final-results.md"
+      ]
+    },
+    {
+      "name": "第五次第一部分",
+      "file": "第五次任务合同第一部分_贵州茅台商业模式验证.md",
+      "original_sha256": "33c24262c521635601f76fb51f22f01a670db4b7c569fd12a372766c554ffee3",
+      "executed_copy": "tasks/executed-20261010/第五次任务合同第一部分_贵州茅台商业模式验证.md",
+      "clauses": 7,
+      "open_original_clauses": [
+        "第五次第一部分-04"
+      ],
+      "source_refs": [
+        "work/task05-business-model-checks.md",
+        "outputs/task05-business-model-map.md",
+        "work/lec03-evidence-expansion.md"
+      ]
+    }
+  ],
+  "clauses": [
+    {
+      "id": "第一次-01",
+      "requirement": "已阅读 `CLAUDE.md` 与本任务合同。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-02",
+      "requirement": "已确认只读取本合同指定的原始材料。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-03",
+      "requirement": "已确认不会修改 `sources/` 中的原始材料。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-04",
+      "requirement": "已确认不会补猜年报未披露的信息。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-05",
+      "requirement": "已确认不会解释营业收入或净利润变化的原因。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-06",
+      "requirement": "已确认不会评价公司经营质量、投资价值或形成买卖建议。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-07",
+      "requirement": "已确认不会进行估值、预测或使用报告期外信息。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-08",
+      "requirement": "已确认任何无法核验的信息只保留为待核验线索或 `Unknown`。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-09",
+      "requirement": "已记录使用的关键词。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-10",
+      "requirement": "已记录合并利润表所在的页码、章节或表格位置。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-11",
+      "requirement": "已记录“营业收入”所在行的候选位置。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-12",
+      "requirement": "已记录“归属于上市公司股东的净利润”所在行的候选位置。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-13",
+      "requirement": "已记录定位失败、歧义或需要人工修正的地方。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-14",
+      "requirement": "已建立“营业收入”的待核验线索。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-15",
+      "requirement": "已建立“归属于上市公司股东的净利润”的待核验线索。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-16",
+      "requirement": "每条线索均保留了候选页码与表名或位置。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-17",
+      "requirement": "每条线索均说明了尚未确认的内容。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-18",
+      "requirement": "已核对材料版本与本次任务一致。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-19",
+      "requirement": "已核对 PDF 页码与报告页码，必要时记录两种页码。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-20",
+      "requirement": "已核对表名、章节或段落位置。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-21",
+      "requirement": "已核对报告期，排除比较期、上年同期或期初数混淆。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-22",
+      "requirement": "已核对表格单位。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-23",
+      "requirement": "已核对会计口径，排除母公司口径或其他不相符口径。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-24",
+      "requirement": "已阅读表下注释、脚注和必要上下文。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-25",
+      "requirement": "已判断原始材料能否支持当前主张。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-26",
+      "requirement": "无法确认的内容已保留在过程底稿，并说明原因或标记为 `Unknown`。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-27",
+      "requirement": "已在 `outputs/first-analysis.md` 写入本次阶段成果。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-28",
+      "requirement": "已核验内容与待核验线索已明确区分。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-29",
+      "requirement": "阶段成果未加入解释、预测、估值或投资建议。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-30",
+      "requirement": "尚未解决的问题已明确列出。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-31",
+      "requirement": "`work/notes.md` 已保留完整的检索路径、修正与遗漏记录。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-32",
+      "requirement": "`work/pending-checks.md` 已包含两项指标的待核验线索。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-33",
+      "requirement": "研究者已对每项线索完成必要的证据核验，或明确保留为 `Unknown`。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-34",
+      "requirement": "已核验记录已按项目规则转入 `evidence/evidence-log.md`。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-35",
+      "requirement": "`outputs/first-analysis.md` 已形成阶段成果，并写明材料范围与支持边界。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-36",
+      "requirement": "已检查过程底稿、证据记录与阶段成果的差异，准备纳入版本历史。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-37",
+      "requirement": "已定位的指标及其证据定位；",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-38",
+      "requirement": "已完成证据核验的内容；",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-39",
+      "requirement": "仍待核验或标记为 `Unknown` 的问题；",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第一次-40",
+      "requirement": "下一步需要补充的原始材料或人工判断。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/first-analysis.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第二次-01",
+      "requirement": "每行均可回到 PDF 的页码、表名、表头、行项目和必要脚注；",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/revenue-structure-extraction.md",
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/revenue-structure-table.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第二次-02",
+      "requirement": "已核对报告期、单位、币种、报表主体和会计口径；",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/revenue-structure-extraction.md",
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/revenue-structure-table.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第二次-03",
+      "requirement": "收入与成本没有跨列、跨行或跨表错位；",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/revenue-structure-extraction.md",
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/revenue-structure-table.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第二次-04",
+      "requirement": "分项与合计的关系已经检查，差异没有被擅自修改；",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/revenue-structure-extraction.md",
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/revenue-structure-table.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第二次-05",
+      "requirement": "Agent 线索与人工核验结果明确分开；",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/revenue-structure-extraction.md",
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/revenue-structure-table.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第二次-06",
+      "requirement": "核验通过的 `Fact` 已写入 `evidence/evidence-log.md` 并取得证据编号；",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/revenue-structure-extraction.md",
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/revenue-structure-table.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第二次-07",
+      "requirement": "未解决问题保留在过程底稿并标为 `Unknown`；",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/revenue-structure-extraction.md",
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/revenue-structure-table.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第二次-08",
+      "requirement": "没有在阶段成果中加入机制解释、预测、估值或投资建议；",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/revenue-structure-extraction.md",
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/revenue-structure-table.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第二次-09",
+      "requirement": "执行人和复核人已签署。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/revenue-structure-extraction.md",
+        "work/notes.md",
+        "work/pending-checks.md",
+        "outputs/revenue-structure-table.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第三次-01",
+      "requirement": "每个候选均有唯一编号和可复核的原文位置；",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/metric-scope-candidates.md",
+        "work/scope-adjudication.md",
+        "outputs/metric-scope-decision.md",
+        "docs/third-task-acceptance.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第三次-02",
+      "requirement": "每项采用或排除决定，都能由明确的口径差异或研究用途解释；",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/metric-scope-candidates.md",
+        "work/scope-adjudication.md",
+        "outputs/metric-scope-decision.md",
+        "docs/third-task-acceptance.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第三次-03",
+      "requirement": "合并报表、母公司报表和其他主体没有混用；",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/metric-scope-candidates.md",
+        "work/scope-adjudication.md",
+        "outputs/metric-scope-decision.md",
+        "docs/third-task-acceptance.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第三次-04",
+      "requirement": "被排除候选和修正历史完整保留；",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/metric-scope-candidates.md",
+        "work/scope-adjudication.md",
+        "outputs/metric-scope-decision.md",
+        "docs/third-task-acceptance.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第三次-05",
+      "requirement": "仍然无法确认的内容明确标为 `Unknown`；",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/metric-scope-candidates.md",
+        "work/scope-adjudication.md",
+        "outputs/metric-scope-decision.md",
+        "docs/third-task-acceptance.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第三次-06",
+      "requirement": "采用指标已由学生回到 PDF 原文核验；",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/metric-scope-candidates.md",
+        "work/scope-adjudication.md",
+        "outputs/metric-scope-decision.md",
+        "docs/third-task-acceptance.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第三次-07",
+      "requirement": "核验通过的 `Fact` 已写入 `evidence/evidence-log.md` 并取得证据编号；",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/metric-scope-candidates.md",
+        "work/scope-adjudication.md",
+        "outputs/metric-scope-decision.md",
+        "docs/third-task-acceptance.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第三次-08",
+      "requirement": "没有在阶段成果中加入变化解释、预测、估值或投资建议；",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/metric-scope-candidates.md",
+        "work/scope-adjudication.md",
+        "outputs/metric-scope-decision.md",
+        "docs/third-task-acceptance.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第三次-09",
+      "requirement": "执行人和复核人已签署。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/metric-scope-candidates.md",
+        "work/scope-adjudication.md",
+        "outputs/metric-scope-decision.md",
+        "docs/third-task-acceptance.md",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第四次-01",
+      "requirement": "已核对两期材料、报告期、比较基数、单位和币种；",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/change-verification.md",
+        "outputs/change-verification-record.md",
+        "docs/fourth-task-acceptance.md",
+        "evidence/change-review-state.json",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第四次-02",
+      "requirement": "已核对报表主体、合并范围、指标定义和重述情况；",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/change-verification.md",
+        "outputs/change-verification-record.md",
+        "docs/fourth-task-acceptance.md",
+        "evidence/change-review-state.json",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第四次-03",
+      "requirement": "公式、代入值、结果和舍入规则均可复算；",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/change-verification.md",
+        "outputs/change-verification-record.md",
+        "docs/fourth-task-acceptance.md",
+        "evidence/change-review-state.json",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第四次-04",
+      "requirement": "原文限制、冲突和修正过程完整保留；",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/change-verification.md",
+        "outputs/change-verification-record.md",
+        "docs/fourth-task-acceptance.md",
+        "evidence/change-review-state.json",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第四次-05",
+      "requirement": "不可比或仍无法确认的内容已停止计算并标为 `Unknown`；",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/change-verification.md",
+        "outputs/change-verification-record.md",
+        "docs/fourth-task-acceptance.md",
+        "evidence/change-review-state.json",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第四次-06",
+      "requirement": "`Fact` 只描述变化事实，没有混入机制解释；",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/change-verification.md",
+        "outputs/change-verification-record.md",
+        "docs/fourth-task-acceptance.md",
+        "evidence/change-review-state.json",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第四次-07",
+      "requirement": "核验通过的 `Fact` 已写入 `evidence/evidence-log.md` 并取得证据编号；",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/change-verification.md",
+        "outputs/change-verification-record.md",
+        "docs/fourth-task-acceptance.md",
+        "evidence/change-review-state.json",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第四次-08",
+      "requirement": "没有根据阶段成果直接作出预测、估值或买卖建议；",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/change-verification.md",
+        "outputs/change-verification-record.md",
+        "docs/fourth-task-acceptance.md",
+        "evidence/change-review-state.json",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第四次-09",
+      "requirement": "执行人和复核人已签署。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/change-verification.md",
+        "outputs/change-verification-record.md",
+        "docs/fourth-task-acceptance.md",
+        "evidence/change-review-state.json",
+        "evidence/evidence-log.md"
+      ]
+    },
+    {
+      "id": "第五次综合-01",
+      "requirement": "已列明实际使用的年报版本、报告期、冻结时点和材料边界；前四次成果只作为方法与少量证据起点，未被当成完整输入包。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/lec03-evidence-expansion.md",
+        "outputs/lec03-evidence-matrix.md",
+        "outputs/lec03-stage-deliverables.md",
+        "outputs/lec03-final-results.md"
+      ]
+    },
+    {
+      "id": "第五次综合-02",
+      "requirement": "至少两条新问题驱动的证据链有独立取证记录；每条均记录定位、结构化提取、口径判断，以及变化核验或停止计算的理由。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/lec03-evidence-expansion.md",
+        "outputs/lec03-evidence-matrix.md",
+        "outputs/lec03-stage-deliverables.md",
+        "outputs/lec03-final-results.md"
+      ]
+    },
+    {
+      "id": "第五次综合-03",
+      "requirement": "研究问题明确对应 Lec03 第三、四、五节；收入三乘数、成本与再投资问题、行业竞争五步法及优势来源均已转成可观察变量或明确的证据缺口，没有只罗列术语。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/lec03-evidence-expansion.md",
+        "outputs/lec03-evidence-matrix.md",
+        "outputs/lec03-stage-deliverables.md",
+        "outputs/lec03-final-results.md"
+      ]
+    },
+    {
+      "id": "第五次综合-04",
+      "requirement": "商业模式梳理覆盖收入、成本、资本投入、现金流四个环节，并区分已知事实与待验证关系。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/lec03-evidence-expansion.md",
+        "outputs/lec03-evidence-matrix.md",
+        "outputs/lec03-stage-deliverables.md",
+        "outputs/lec03-final-results.md"
+      ]
+    },
+    {
+      "id": "第五次综合-05",
+      "requirement": "已按“定边界 → 分阶段 → 识别核心矛盾 → 验逻辑 → 防风险”提出行业问题；证据不足时阶段与竞争位置保留 `Unknown`，没有预设行业成熟或公司具有护城河。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/lec03-evidence-expansion.md",
+        "outputs/lec03-evidence-matrix.md",
+        "outputs/lec03-stage-deliverables.md",
+        "outputs/lec03-final-results.md"
+      ]
+    },
+    {
+      "id": "第五次综合-06",
+      "requirement": "已从讲义七类来源中选出一项适用的竞争优势主张，回答护城河三问的证据状态，而非只写“品牌强”或“护城河深”。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/lec03-evidence-expansion.md",
+        "outputs/lec03-evidence-matrix.md",
+        "outputs/lec03-stage-deliverables.md",
+        "outputs/lec03-final-results.md"
+      ]
+    },
+    {
+      "id": "第五次综合-07",
+      "requirement": "管理层表述可以回到批准 PDF 的原文；至少一项**本任务新增**的相关事实由学生亲自核验，写明版本、页码、期间、单位、主体和口径，并登记证据编号。",
+      "status": "原稿新增亲查条款待补；本轮按用户授权复用有效记录",
+      "original_check_completed": false,
+      "evidence": [
+        "work/lec03-evidence-expansion.md",
+        "outputs/lec03-evidence-matrix.md",
+        "outputs/lec03-stage-deliverables.md",
+        "outputs/lec03-final-results.md"
+      ]
+    },
+    {
+      "id": "第五次综合-08",
+      "requirement": "叙事拆解到来源、机制、结果、模仿壁垒、反证；变量注明方向、期间和口径。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/lec03-evidence-expansion.md",
+        "outputs/lec03-evidence-matrix.md",
+        "outputs/lec03-stage-deliverables.md",
+        "outputs/lec03-final-results.md"
+      ]
+    },
+    {
+      "id": "第五次综合-09",
+      "requirement": "已把营业收入变化事实与提价、销量、产品结构、渠道或品牌等可能机制分开；至少有一种替代解释或反方证据要求。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/lec03-evidence-expansion.md",
+        "outputs/lec03-evidence-matrix.md",
+        "outputs/lec03-stage-deliverables.md",
+        "outputs/lec03-final-results.md"
+      ]
+    },
+    {
+      "id": "第五次综合-10",
+      "requirement": "至少一项证据不足的主张保留为 `Unknown`，并写明如何继续核验；结论没有超出证据支持边界。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/lec03-evidence-expansion.md",
+        "outputs/lec03-evidence-matrix.md",
+        "outputs/lec03-stage-deliverables.md",
+        "outputs/lec03-final-results.md"
+      ]
+    },
+    {
+      "id": "第五次综合-11",
+      "requirement": "阶段成果写入现有 Lec03 文件，Agent 候选与学生核验清晰可分；未形成估值或买卖 `Decision`。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/lec03-evidence-expansion.md",
+        "outputs/lec03-evidence-matrix.md",
+        "outputs/lec03-stage-deliverables.md",
+        "outputs/lec03-final-results.md"
+      ]
+    },
+    {
+      "id": "第五次综合-12",
+      "requirement": "执行人和复核人签署。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/lec03-evidence-expansion.md",
+        "outputs/lec03-evidence-matrix.md",
+        "outputs/lec03-stage-deliverables.md",
+        "outputs/lec03-final-results.md"
+      ]
+    },
+    {
+      "id": "第五次第一部分-01",
+      "requirement": "已明确材料版本、报告期和截止时点；旧输出只在适用口径内复用。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/task05-business-model-checks.md",
+        "outputs/task05-business-model-map.md",
+        "work/lec03-evidence-expansion.md"
+      ]
+    },
+    {
+      "id": "第五次第一部分-02",
+      "requirement": "收入、成本、资本投入、现金流四环节均有已知事实或具体证据缺口；没有把概念图当成事实图。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/task05-business-model-checks.md",
+        "outputs/task05-business-model-map.md",
+        "work/lec03-evidence-expansion.md"
+      ]
+    },
+    {
+      "id": "第五次第一部分-03",
+      "requirement": "至少一条新证据链完成“定位 → 提取 → 口径识别 → 变化核验或说明停止”的全过程。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/task05-business-model-checks.md",
+        "outputs/task05-business-model-map.md",
+        "work/lec03-evidence-expansion.md"
+      ]
+    },
+    {
+      "id": "第五次第一部分-04",
+      "requirement": "新 `Fact` 有学生本人对 PDF 的核验记录和证据编号；Agent 输出未直接写成事实。",
+      "status": "原稿新增亲查条款待补；本轮按用户授权复用有效记录",
+      "original_check_completed": false,
+      "evidence": [
+        "work/task05-business-model-checks.md",
+        "outputs/task05-business-model-map.md",
+        "work/lec03-evidence-expansion.md"
+      ]
+    },
+    {
+      "id": "第五次第一部分-05",
+      "requirement": "市场需求、份额与 ASP 分开；成本变化与售价、产品结构的可能作用分开。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/task05-business-model-checks.md",
+        "outputs/task05-business-model-map.md",
+        "work/lec03-evidence-expansion.md"
+      ]
+    },
+    {
+      "id": "第五次第一部分-06",
+      "requirement": "至少一项替代解释、一项 `Unknown` 和一张交给第六次任务的具体问题卡已完成。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/task05-business-model-checks.md",
+        "outputs/task05-business-model-map.md",
+        "work/lec03-evidence-expansion.md"
+      ]
+    },
+    {
+      "id": "第五次第一部分-07",
+      "requirement": "没有把收入增长直接写成定价权、护城河或买卖结论；执行人与复核人签署。",
+      "status": "本轮核对通过（旧核验复用/新增底稿或授权签署）",
+      "original_check_completed": true,
+      "evidence": [
+        "work/task05-business-model-checks.md",
+        "outputs/task05-business-model-map.md",
+        "work/lec03-evidence-expansion.md"
+      ]
+    }
+  ],
+  "teacher_approval": "未提供，不代签",
+  "mechanism_final_decision": "人工另行确认",
+  "reuse_authorization": "不要过分相信之前的工作，我同样需要你逐一完成，但是对于之前完成的工作和数据可以给予信任和认定，不需要重复进行确认Fact，并完成我作为执行人的签署，时间选择当天，姓名选择“lxy”。"
+}

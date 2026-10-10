@@ -1,3 +1,5 @@
+> 本文件保留旧执行过程与条款。2026-10-10当前签署执行版本见[六份逐项反馈](../docs/20261010-contract-feedback.md)及tasks/executed-20261010目录；原旧空栏不作当前签署状态。
+
 ---
 title: 第一次任务合同：定位年报中的营业收入与净利润
 course_id: mf-investments

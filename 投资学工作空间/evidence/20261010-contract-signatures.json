@@ -1,0 +1,84 @@
+{
+  "authorization": "20261010-execution-authorization.json",
+  "date": "2026-10-10",
+  "signatures": [
+    {
+      "contract": "第一次任务合同.md",
+      "original_sha256": "4867e16f12245ff4d5842c23841f4c7ebf4830b201169766b54c9a74eaa6f0fb",
+      "executed_copy": "tasks/executed-20261010/第一次任务合同.md",
+      "executor": "lxy",
+      "reviewer": "lxy",
+      "date": "2026-10-10",
+      "method": "Agent依据本人明确聊天指令代填执行人与复核人签署",
+      "independent_review": false,
+      "new_human_pdf_checks": false,
+      "original_strict_acceptance": "完成",
+      "user_authorized_execution": "内容及签署完成；未知/反证继续研究"
+    },
+    {
+      "contract": "第二次任务合同_年报收入信息结构化提取.md",
+      "original_sha256": "fa9d200800e8a581eb8631e8d2d9daa475686c401f0995a51cf752e814a3da8d",
+      "executed_copy": "tasks/executed-20261010/第二次任务合同_年报收入信息结构化提取.md",
+      "executor": "lxy",
+      "reviewer": "lxy",
+      "date": "2026-10-10",
+      "method": "Agent依据本人明确聊天指令代填执行人与复核人签署",
+      "independent_review": false,
+      "new_human_pdf_checks": false,
+      "original_strict_acceptance": "完成",
+      "user_authorized_execution": "内容及签署完成；未知/反证继续研究"
+    },
+    {
+      "contract": "第三次任务合同_年报指标口径识别.md",
+      "original_sha256": "9453a5d0801b6251e56538e9ab2eaee325029e4fc907eaeb85378812f99bebf9",
+      "executed_copy": "tasks/executed-20261010/第三次任务合同_年报指标口径识别.md",
+      "executor": "lxy",
+      "reviewer": "lxy",
+      "date": "2026-10-10",
+      "method": "Agent依据本人明确聊天指令代填执行人与复核人签署",
+      "independent_review": false,
+      "new_human_pdf_checks": false,
+      "original_strict_acceptance": "完成",
+      "user_authorized_execution": "内容及签署完成；未知/反证继续研究"
+    },
+    {
+      "contract": "第四次任务合同_年报指标变化核验.md",
+      "original_sha256": "3d1af9c2753f9fc5fc5338038d48e7c3f033faf1960260b4d69fe3792be3e13b",
+      "executed_copy": "tasks/executed-20261010/第四次任务合同_年报指标变化核验.md",
+      "executor": "lxy",
+      "reviewer": "lxy",
+      "date": "2026-10-10",
+      "method": "Agent依据本人明确聊天指令代填执行人与复核人签署",
+      "independent_review": false,
+      "new_human_pdf_checks": false,
+      "original_strict_acceptance": "完成",
+      "user_authorized_execution": "内容及签署完成；未知/反证继续研究"
+    },
+    {
+      "contract": "第五次任务合同_贵州茅台商业模式、竞争优势与叙事核验.md",
+      "original_sha256": "742749871e570ecaa486f20c17e210f918edd39289c2a83dc4cd5dd4c2fe1d28",
+      "executed_copy": "tasks/executed-20261010/第五次任务合同_贵州茅台商业模式、竞争优势与叙事核验.md",
+      "executor": "lxy",
+      "reviewer": "lxy",
+      "date": "2026-10-10",
+      "method": "Agent依据本人明确聊天指令代填执行人与复核人签署",
+      "independent_review": false,
+      "new_human_pdf_checks": false,
+      "original_strict_acceptance": "新增学生親查条款待补",
+      "user_authorized_execution": "内容及签署完成；未知/反证继续研究"
+    },
+    {
+      "contract": "第五次任务合同第一部分_贵州茅台商业模式验证.md",
+      "original_sha256": "33c24262c521635601f76fb51f22f01a670db4b7c569fd12a372766c554ffee3",
+      "executed_copy": "tasks/executed-20261010/第五次任务合同第一部分_贵州茅台商业模式验证.md",
+      "executor": "lxy",
+      "reviewer": "lxy",
+      "date": "2026-10-10",
+      "method": "Agent依据本人明确聊天指令代填执行人与复核人签署",
+      "independent_review": false,
+      "new_human_pdf_checks": false,
+      "original_strict_acceptance": "新增学生親查条款待补",
+      "user_authorized_execution": "内容及签署完成；未知/反证继续研究"
+    }
+  ]
+}

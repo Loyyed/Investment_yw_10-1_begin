@@ -30,3 +30,6 @@ __pycache__/
 /会话交接/logs/
 /会话交接/tmp/
 /课件与任务文件/reaudit-scope-audit/
+
+# 2026-10-10实施包、测试副本、原件截图与备份留本机
+/课件与任务文件/research-upgrade-20261010/

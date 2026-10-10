@@ -1,0 +1,461 @@
+{
+  "checked_date": "2026-10-10",
+  "domain_counts": {
+    "facts": 16,
+    "change_facts": 2,
+    "m01_disclosure_facts": 3,
+    "m01_metric_facts": 15,
+    "m01_scale_facts": 3,
+    "lec03_agent_facts": 16
+  },
+  "domain_ids": {
+    "facts": [
+      "C01",
+      "C03",
+      "C04",
+      "C05",
+      "C06",
+      "C07",
+      "C08",
+      "C09",
+      "C02",
+      "C10",
+      "C11",
+      "C12",
+      "N2024-01",
+      "N2024-02",
+      "N2024-03",
+      "N2024-08"
+    ],
+    "change_facts": [
+      "CH01",
+      "CH02"
+    ],
+    "m01_disclosure_facts": [
+      "M01-D01",
+      "M01-D02",
+      "M01-D03"
+    ],
+    "m01_metric_facts": [
+      "M01-A01",
+      "M01-G01",
+      "M01-A02",
+      "M01-G02",
+      "M01-A03",
+      "M01-G03",
+      "M01-A04",
+      "M01-A04-P",
+      "M01-C01",
+      "M01-A05",
+      "M01-A05-P",
+      "M01-C02",
+      "M01-C03",
+      "M01-S01",
+      "M01-S02"
+    ],
+    "m01_scale_facts": [
+      "M01-K01",
+      "M01-K02",
+      "M01-K03"
+    ],
+    "lec03_agent_facts": [
+      "L03-A2020-I",
+      "L03-A2020-B",
+      "L03-A2020-C",
+      "L03-A2021-I",
+      "L03-A2021-B",
+      "L03-A2021-C",
+      "L03-A2022-I",
+      "L03-A2022-B",
+      "L03-A2022-C",
+      "L03-A2023-I",
+      "L03-A2023-B",
+      "L03-A2023-C",
+      "L03-A2024-I",
+      "L03-A2024-B",
+      "L03-A2024-C",
+      "L03-A2024-P"
+    ]
+  },
+  "checks": [
+    {
+      "check": "第一次两项当前原值Fact",
+      "passed": true
+    },
+    {
+      "check": "第二次至少3行商品维度有效Fact",
+      "passed": true
+    },
+    {
+      "check": "第二次商品分项与合计列0",
+      "passed": true
+    },
+    {
+      "check": "第二次商品分项与合计列1",
+      "passed": true
+    },
+    {
+      "check": "第三次12项当前原值有效",
+      "passed": true
+    },
+    {
+      "check": "收入组成C03=C01+C04",
+      "passed": true
+    },
+    {
+      "check": "主营其他C01=C06+C07",
+      "passed": true
+    },
+    {
+      "check": "利润归属C09=C02+C10",
+      "passed": true
+    },
+    {
+      "check": "第四次复算CH01",
+      "passed": true
+    },
+    {
+      "check": "第四次复算CH02",
+      "passed": true
+    },
+    {
+      "check": "第四次CH01/02独立绑定有效",
+      "passed": true
+    },
+    {
+      "check": "2020产品收入合计",
+      "passed": true
+    },
+    {
+      "check": "2020渠道收入合计",
+      "passed": true
+    },
+    {
+      "check": "2020产品成本合计",
+      "passed": true
+    },
+    {
+      "check": "2020金融现金桥接",
+      "passed": true
+    },
+    {
+      "check": "2020现金剔除余额",
+      "passed": true
+    },
+    {
+      "check": "2020现金转换率",
+      "passed": true
+    },
+    {
+      "check": "2020匹配销量ASP",
+      "passed": true
+    },
+    {
+      "check": "2021产品收入合计",
+      "passed": true
+    },
+    {
+      "check": "2021渠道收入合计",
+      "passed": true
+    },
+    {
+      "check": "2021产品成本合计",
+      "passed": true
+    },
+    {
+      "check": "2021金融现金桥接",
+      "passed": true
+    },
+    {
+      "check": "2021现金剔除余额",
+      "passed": true
+    },
+    {
+      "check": "2021现金转换率",
+      "passed": true
+    },
+    {
+      "check": "2021匹配销量ASP",
+      "passed": true
+    },
+    {
+      "check": "2022产品收入合计",
+      "passed": true
+    },
+    {
+      "check": "2022渠道收入合计",
+      "passed": true
+    },
+    {
+      "check": "2022产品成本合计",
+      "passed": true
+    },
+    {
+      "check": "2022金融现金桥接",
+      "passed": true
+    },
+    {
+      "check": "2022现金剔除余额",
+      "passed": true
+    },
+    {
+      "check": "2022现金转换率",
+      "passed": true
+    },
+    {
+      "check": "2022匹配销量ASP",
+      "passed": true
+    },
+    {
+      "check": "2023产品收入合计",
+      "passed": true
+    },
+    {
+      "check": "2023渠道收入合计",
+      "passed": true
+    },
+    {
+      "check": "2023产品成本合计",
+      "passed": true
+    },
+    {
+      "check": "2023金融现金桥接",
+      "passed": true
+    },
+    {
+      "check": "2023现金剔除余额",
+      "passed": true
+    },
+    {
+      "check": "2023现金转换率",
+      "passed": true
+    },
+    {
+      "check": "2023匹配销量ASP",
+      "passed": true
+    },
+    {
+      "check": "2024产品收入合计",
+      "passed": true
+    },
+    {
+      "check": "2024渠道收入合计",
+      "passed": true
+    },
+    {
+      "check": "2024产品成本合计",
+      "passed": true
+    },
+    {
+      "check": "2024金融现金桥接",
+      "passed": true
+    },
+    {
+      "check": "2024现金剔除余额",
+      "passed": true
+    },
+    {
+      "check": "2024现金转换率",
+      "passed": true
+    },
+    {
+      "check": "2024匹配销量ASP",
+      "passed": true
+    },
+    {
+      "check": "量价恒等分解残差小于一分",
+      "passed": true
+    },
+    {
+      "check": "原件与八项受保护账本/输入未改变",
+      "passed": true
+    }
+  ],
+  "year_rows": [
+    {
+      "year": 2020,
+      "revenue_yuan": "84830936002.19",
+      "sales_tonnes": "34312.53",
+      "asp_wanyuan_per_sales_tonne": "247.23",
+      "gross_margin_percent": "93.99",
+      "direct_share_percent": "13.96",
+      "cfo_to_all_profit_percent": "104.33",
+      "finished_inventory_tonnes": "8314.11",
+      "source_ids": [
+        "L03-A2020-B",
+        "L03-A2020-C",
+        "L03-A2020-I"
+      ]
+    },
+    {
+      "year": 2021,
+      "revenue_yuan": "93464512115.94",
+      "sales_tonnes": "36261.31",
+      "asp_wanyuan_per_sales_tonne": "257.75",
+      "gross_margin_percent": "94.03",
+      "direct_share_percent": "22.66",
+      "cfo_to_all_profit_percent": "114.91",
+      "finished_inventory_tonnes": "10282.35",
+      "source_ids": [
+        "L03-A2021-B",
+        "L03-A2021-C",
+        "L03-A2021-I"
+      ]
+    },
+    {
+      "year": 2022,
+      "revenue_yuan": "107833685277.94",
+      "sales_tonnes": "37901.39",
+      "asp_wanyuan_per_sales_tonne": "284.51",
+      "gross_margin_percent": "94.19",
+      "direct_share_percent": "39.89",
+      "cfo_to_all_profit_percent": "56.14",
+      "finished_inventory_tonnes": "12495.28",
+      "source_ids": [
+        "L03-A2022-B",
+        "L03-A2022-C",
+        "L03-A2022-I"
+      ]
+    },
+    {
+      "year": 2023,
+      "revenue_yuan": "126589066691.89",
+      "sales_tonnes": "42109.50",
+      "asp_wanyuan_per_sales_tonne": "300.62",
+      "gross_margin_percent": "94.12",
+      "direct_share_percent": "45.67",
+      "cfo_to_all_profit_percent": "85.90",
+      "finished_inventory_tonnes": "13985.07",
+      "source_ids": [
+        "L03-A2023-B",
+        "L03-A2023-C",
+        "L03-A2023-I"
+      ]
+    },
+    {
+      "year": 2024,
+      "revenue_yuan": "145928075955.31",
+      "sales_tonnes": "46412.95",
+      "asp_wanyuan_per_sales_tonne": "314.41",
+      "gross_margin_percent": "94.06",
+      "direct_share_percent": "43.87",
+      "cfo_to_all_profit_percent": "103.50",
+      "finished_inventory_tonnes": "17760.00",
+      "source_ids": [
+        "L03-A2024-B",
+        "L03-A2024-C",
+        "L03-A2024-I"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "year": 2020,
+      "company_industry_disclosure": "市场份额逐渐向头部企业集中",
+      "industry_location": [
+        16
+      ],
+      "cash_reason": null,
+      "support_boundary": "公司披露内容与已核算术；机制及行业阶段另列Interpretation"
+    },
+    {
+      "year": 2021,
+      "company_industry_disclosure": "白酒行业产销总量趋于平稳",
+      "industry_location": [
+        16,
+        17
+      ],
+      "cash_reason": null,
+      "support_boundary": "公司披露内容与已核算术；机制及行业阶段另列Interpretation"
+    },
+    {
+      "year": 2022,
+      "company_industry_disclosure": "行业“马太效应”越发明显",
+      "industry_location": [
+        18
+      ],
+      "cash_reason": {
+        "page": 8,
+        "management_explanations": [
+          "公司吸收存款减少",
+          "不可提前支取的同业定期存款增加"
+        ],
+        "boundary": "核准管理层确实如此解释；现金分解作独立数字对照，不把自述等同完整因果证明"
+      },
+      "support_boundary": "公司披露内容与已核算术；机制及行业阶段另列Interpretation"
+    },
+    {
+      "year": 2023,
+      "company_industry_disclosure": "全国白酒行业进入了“存量竞争”时期",
+      "industry_location": [
+        19
+      ],
+      "cash_reason": {
+        "page": 9,
+        "management_explanations": [
+          "销售商品收到的现金增加",
+          "不可提前支取的定期存款净增加额减少"
+        ],
+        "boundary": "核准管理层确实如此解释；现金分解作独立数字对照，不把自述等同完整因果证明"
+      },
+      "support_boundary": "公司披露内容与已核算术；机制及行业阶段另列Interpretation"
+    },
+    {
+      "year": 2024,
+      "company_industry_disclosure": "白酒行业正处于宏观经济周期与产业调整周期的双重叠加时期",
+      "industry_location": [
+        20
+      ],
+      "cash_reason": {
+        "page": 9,
+        "management_explanations": [
+          "销售商品收到的现金增加",
+          "归集集团公司其他成员单位资金较上期增加"
+        ],
+        "boundary": "核准管理层确实如此解释；现金分解作独立数字对照，不把自述等同完整因果证明"
+      },
+      "support_boundary": "公司披露内容与已核算术；机制及行业阶段另列Interpretation"
+    }
+  ],
+  "decomposition": {
+    "input_ids": [
+      "L03-A2023-B",
+      "L03-A2024-B"
+    ],
+    "input_scope": "茅台酒产品组、销售收入人民币元/销售量吨；年度组统计，非固定SKU",
+    "formula": "ΔR=P0ΔQ+Q0ΔP+ΔPΔQ, P=R/Q",
+    "revenue_change_yuan": "19339009263.42",
+    "quantity_term_yuan": "12936979044.05",
+    "group_asp_term_yuan": "5808428283.98",
+    "interaction_yuan": "593601935.40",
+    "revenue_yoy_percent": "15.28",
+    "quantity_yoy_percent": "10.22",
+    "group_asp_yoy_percent": "4.59",
+    "state": "Agent复算参考；未新增人工计算Fact",
+    "support_boundary": "算术分解，不将组ASP变化归因为同款提价/纯品牌效应"
+  },
+  "signals": {
+    "direct_share_change_pp": "-1.80",
+    "finished_inventory_yoy_percent": "26.99",
+    "industry_production_cross_report_2023_percent": "-33.08",
+    "industry_reported_2023_percent": "-2.8",
+    "state": "排查/复算信号，不是新增因果Fact"
+  },
+  "protected_sha256": {
+    "evidence/review-state.json": "504167f25b3877058908d39c6b47edff835673a28d055dd0b9336817b41f3daf",
+    "evidence/change-review-state.json": "c3f8f262123cfc758a65d22716ff165bba2f4c452fa780511856028904f96587",
+    "evidence/m01-disclosure-review.json": "f5be129332a7f660558b50437aabf86195dbb3293b203e2b257e510cc63d412a",
+    "evidence/m01-metric-review.json": "9ebbdadb66a9d073d6168e5cc091adcaf8f99b7cccf480549ac92c964dc3c75e",
+    "evidence/m01-scale-review.json": "bd02573af59a5f98f47289cacacc14580284b11a6012e96ac379c0bae12b7360",
+    "evidence/lec03-agent-facts.json": "2251b8067e5e080b1ddd8260b379c7d4fde39c6a7df7cd28c14f382995f86f05",
+    "sources/manifest.json": "d3e2fd3327ad731415248870d6a8ae85769b7a49e4796538d6fee55c0da73fdc",
+    "work/structured-data.json": "ee368ae1d172969c940932ea34435bb5c04ef81d89e429fe52fd034cd9d7a900",
+    "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c",
+    "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf": "f65effdde58bcea99fd6bdb53f61b31d5c432e6dfb2661e5caf05156a433ea5a",
+    "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358",
+    "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1",
+    "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+  },
+  "script_sha256": "15bc059284622cac790b5614c9372ffb051ed3af512559ba5c50cd83e9b121f7",
+  "authority_note": "快照仅作本轮底稿；下次须重运行ReviewStore；未改任何事实核验或签署历史"
+}
