@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-12",
+  "toolkit": {
+    "date": "2026-10-12",
+    "repository": "git@github.com:Loyyed/Investment_yw_finaltask.git",
+    "branch": "main",
+    "head": "5340c93932e28849faf99497c7deb1fddcf97159",
+    "remote_verified": true,
+    "original_source_checks": []
+  },
+  "company_results": {
+    "date": "2026-10-12",
+    "repository": "git@github.com:Loyyed/Investment_yw_10-1_begin.git",
+    "branch": "main",
+    "head": "36e09845b2c4b58a9da58ba30b39f1615a7c67cb",
+    "remote_verified": true,
+    "original_source_checks": [],
+    "full_supplemental_originals_uploaded": false,
+    "publication_scope": "成果及元信息；完整原件/逐行载荷本地保留"
+  },
+  "full_supplemental_originals_uploaded": false,
+  "raw_upload_status": "自动审批拒绝后本地保留，待本人明确授权",
+  "scope_document": "20261012-publication-scope.md",
+  "verification": {
+    "toolkit_tests": 45,
+    "supplement_checks": 126,
+    "protected_existing_files": 13,
+    "supplemental_originals": 4
+  },
+  "note": "本记录绑定已核对的成果节点；随后仅追加本同步记录和交接摘要，不要求记录自身提交SHA。远程仓库未包含完整复算原始输入。"
+}
