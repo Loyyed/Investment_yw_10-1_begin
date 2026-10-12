@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-12",
+  "request": "同时修改GitHub当前情况与内容描述，使用中文；随后列出各任务待办",
+  "descriptions": [
+    {
+      "repository": "Loyyed/Investment_yw_finaltask",
+      "description": "证券投资分析通用工作台：中文方法与模板、六步研究流程、原文核验和年度变化检查、只读CSV审查；不预置公司事实与投资结论。",
+      "previous_description": null,
+      "status": "中文简介已准备；GitHub description字段尚未修改",
+      "reason": "现有SSH支持成果推送；未找到HTTPS设置写入凭据；GitHub插件未安装/连接"
+    },
+    {
+      "repository": "Loyyed/Investment_yw_10-1_begin",
+      "description": "贵州茅台2020—2024证券投资分析：前四次合同完成；第五、七次新增本人核验待补，第六次按完整缺口路径交付；保留修正冲突，结论待本人裁决。补充原件留本地，仅上传成果。",
+      "previous_description": null,
+      "status": "中文简介已准备；GitHub description字段尚未修改",
+      "reason": "现有SSH支持成果推送；未找到HTTPS设置写入凭据；GitHub插件未安装/连接"
+    }
+  ],
+  "readme_update_scope": [
+    "根README",
+    "公司README",
+    "通用README",
+    "合同状态",
+    "逐次待办与分工"
+  ],
+  "description_written": false,
+  "readme_publication_status": "安装后按明确清单推送并核远端",
+  "preserved_history": "首页原版本由Git提交保存；旧合同、确认账本、签署及原件不改",
+  "originals_local_only": true
+}

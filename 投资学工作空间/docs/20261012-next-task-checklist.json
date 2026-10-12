@@ -1,0 +1,105 @@
+{
+  "date": "2026-10-12",
+  "purpose": "共同执行待办，不生成新确认或改动合同状态",
+  "contract_map_sources": [
+    {
+      "path": "work/20261010-contract-map.json",
+      "sha256": "afd219a11ab6c4378089c95f0b525fbbcc77761603945181ba6ccca7d3e65bbe",
+      "completion_field": "original_check_completed"
+    },
+    {
+      "path": "work/20261012-supplement/contract-map.json",
+      "sha256": "42fd3efaca18fa563a7ce4c625dafb1b04d5be35d307d8b70fe06d687e2e5d94",
+      "completion_field": "checked"
+    }
+  ],
+  "mandatory_open_clauses": [
+    {
+      "id": "第五次综合-07",
+      "requirement": "管理层表述可以回到批准 PDF 的原文；至少一项**本任务新增**的相关事实由学生亲自核验，写明版本、页码、期间、单位、主体和口径，并登记证据编号。",
+      "status": "待真实本人新原文核验"
+    },
+    {
+      "id": "第五次第一部分-04",
+      "requirement": "新 `Fact` 有学生本人对 PDF 的核验记录和证据编号；Agent 输出未直接写成事实。",
+      "status": "待真实本人新原文核验"
+    },
+    {
+      "id": "T7-3",
+      "requirement": "可观察变量写明方向、期间、产品／渠道口径；新增事实经学生回原文核验。",
+      "status": "待真实本人新原文核验",
+      "stage_note": "outputs/lec03-stage-deliverables.md新增学生本次核验记录待补"
+    }
+  ],
+  "task06_gap_route_completed": true,
+  "task06_new_boundary_final_judgment": "待人工",
+  "task07_final_judgment": "待人工",
+  "work_items": [
+    {
+      "id": "H01",
+      "type": "合同必补",
+      "description": "第五两稿新增本人PDF核验",
+      "status": "待共同执行",
+      "human_confirmation_occurred": false
+    },
+    {
+      "id": "D01",
+      "type": "新数据口径前置",
+      "description": "关键字段定义、单位、样本及可获期",
+      "status": "待共同执行",
+      "human_confirmation_occurred": false
+    },
+    {
+      "id": "D02",
+      "type": "口径冲突",
+      "description": "库存分类核查",
+      "status": "待共同执行",
+      "human_confirmation_occurred": false
+    },
+    {
+      "id": "D03",
+      "type": "口径冲突",
+      "description": "行业可比基数核查",
+      "status": "待共同执行",
+      "human_confirmation_occurred": false
+    },
+    {
+      "id": "H02",
+      "type": "人工裁决",
+      "description": "第六次竞争边界",
+      "status": "待共同执行",
+      "human_confirmation_occurred": false
+    },
+    {
+      "id": "D04",
+      "type": "新证据准备",
+      "description": "同SKU价格层级和需求",
+      "status": "待共同执行",
+      "human_confirmation_occurred": false
+    },
+    {
+      "id": "H03",
+      "type": "合同必补",
+      "description": "第七新增本人核验及阶段记录",
+      "status": "待共同执行",
+      "human_confirmation_occurred": false
+    },
+    {
+      "id": "H04",
+      "type": "人工裁决",
+      "description": "本版最大可辩护结论",
+      "status": "待共同执行",
+      "human_confirmation_occurred": false
+    }
+  ],
+  "optional_research": [
+    "E01重述桥接",
+    "E02渠道精度",
+    "E03分部现金资本",
+    "E04品牌净收益和库存",
+    "E05年度事件",
+    "E06后续另定合同/范围"
+  ],
+  "no_repeated_old_fact_confirmation": true,
+  "originals_local_only": true
+}

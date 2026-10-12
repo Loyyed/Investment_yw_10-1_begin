@@ -1,97 +1,60 @@
-# 投资学：课程资料与研究工作空间
+# 投资学：贵州茅台证券投资分析
 
-<!-- scope-acceptance:lec03-three-dimensions:start -->
-## 当前节点：Lec03内容验收完成
+本仓库保存贵州茅台2020—2024年研究成果、真实合同执行稿、证据与计算过程，以及中文学习交接。当前更新日期为2026-10-12；研究结论依照附件证据形成，最终判断由本人确认。
 
-[最终三维结果及五年图片](投资学工作空间/outputs/lec03-final-results.md) · [内容验收](投资学工作空间/docs/lec03-acceptance.md) · [下一步](投资学工作空间/docs/next-review.md)。本人认可第3/4节，授权Agent补证完善其余内容；品牌定价权暂定有效，广义白酒成熟期并有结构升级/调整周期，资本现金分业边界与金融现金桥接完成。10项内容验收完成，签署待本人填写。
-<!-- scope-acceptance:lec03-three-dimensions:end -->
+## 当前进度
 
+| 任务 | 当前完成情况 | 仍需完成 |
+| --- | --- | --- |
+| 第一次：年报指标定位 | 定位、真实核验、逐项验收及授权签署完成 | 无合同必补项；出现具体来源矛盾时再返工 |
+| 第二次：收入结构化提取 | 候选提取、合计检查、最低核验要求及签署完成 | 为后续研究按需补选候选，不要求全表升级为事实 |
+| 第三次：指标口径识别 | 指标角色、采用/排除、真实修正及签署完成 | 后续新指标另审主体、期间、单位与口径 |
+| 第四次：变化核验 | 原值、可比性、变化核验及签署完成 | 年度重述桥接属于后续补证；原比较链保留 |
+| 第五次：商业模式，两份版本 | 四环节分析、取证、矩阵与授权签署完成 | 两稿的新增学生亲查条款仍待实际发生并登记 |
+| 第六次：行业竞争与优势 | 行业五步、品牌链、护城河三问、风险、完整缺口记录和签署完成 | 新竞争边界及机制解释待本人裁决；缺口路径符合合同，不假定缺证已解决 |
+| 第七次：叙事核验 | 原话、支持/挑战/替代、反证与最大表述已合并原成果；授权签署完成 | 新增学生本人核验、阶段核验记录及本版结论裁决待补 |
 
+前四次签署为lxy/lxy、2026-10-10；第五两稿沿用该日签署，第六七次为lxy/lxy、2026-10-12。均注明同人身份；签署不替代新原文核验或机制确认。旧核验人的实际姓名和时间保留。
 
-本仓库汇集投资学课程材料、任务合同，以及贵州茅台（600519）2020—2024年年报研究工作空间。研究过程保留原件、机器提取候选、人工核验记录、成果与可复现脚本。
+## 从这里继续
 
-## 从这里开始
+1. 阅读[各次任务待办与合作清单](投资学工作空间/docs/20261012-next-task-checklist.md)，按顺序逐项完成。
+2. 看[补充材料与第六七次反馈](投资学工作空间/docs/20261012-supplement-feedback.md)，了解已完成内容与限制。
+3. 根据问题打开[修正冲突登记](投资学工作空间/work/20261012-supplement/conflict-register.md)、[集中审核卡](投资学工作空间/docs/20261012-human-review-card.md)及对应原件。
+4. 本机使用[工作台](投资学工作空间/工作台.html)和[人工核验指南](投资学工作空间/docs/human-review-guide.md)；确认后登记真实答复，更新受影响结果和交接。
 
-1. 阅读[工作流程与文件说明](投资学工作空间/工作流程与文件说明.md)，了解各目录和成果的用途。
-2. 在本机打开投资学工作空间，双击[人工核验入口.cmd](投资学工作空间/人工核验入口.cmd)。完成PDF核对后，选择记录，点击“确认所选为Fact”；记录及相关成果自动同步。
-3. 查看[简洁核验指南](投资学工作空间/docs/human-review-guide.md)、[任务进度](投资学工作空间/docs/task-status.md)和[工作空间说明](投资学工作空间/README.md)。有疑问可保留Unknown或撤回确认，合同正式签署另行完成。
+学习交接：[课件与方法](会话交接/01_课件学习与证券分析方法.md)、[合同与流程](会话交接/02_任务合同与操作流程.md)、[补充学习与方法修正](会话交接/03_补充材料学习与方法修正_20261012.md)。Agent接手先读[CURRENT](会话交接/CURRENT.md)，再按当前问题读取底稿。
 
-![工作空间构成](投资学工作空间/docs/images/workspace-structure.png)
+## 研究成果与过程
 
-## 目录与用途
-
-| 位置 | 用途 |
+| 内容 | 入口 |
 | --- | --- |
-| 课件与任务文件/ | 原始课件、附件、任务文件与压缩包，保留出处和原始字节。 |
-| 投资学工作空间/sources/ | 按用途整理的课程材料、指定年报PDF及检索MD。 |
-| 投资学工作空间/tasks/ | 第一次至第四次任务合同，以及Lec03任务要求。 |
-| 投资学工作空间/work/ | 数据候选、口径冲突、过程记录、复算与检查结果。 |
-| 投资学工作空间/evidence/ | 人工核验记录、有效Fact导出和证据账本。 |
-| 投资学工作空间/outputs/ | 定位、收入结构、口径裁决、变化核验及Lec03阶段成果。 |
-| 投资学工作空间/scripts/、tests/ | 自动同步、计算、原件检查与回归测试。 |
-| 投资学工作空间/docs/、config/ | 图示、操作说明、文件清单、原件位置及运行配置。 |
+| 第一次定位、收入结构 | [定位成果](投资学工作空间/outputs/first-analysis.md)、[收入结构](投资学工作空间/outputs/revenue-structure-table.md) |
+| 口径与变化 | [口径卡](投资学工作空间/outputs/metric-scope-decision.md)、[变化记录](投资学工作空间/outputs/change-verification-record.md) |
+| 商业模式 | [收入、成本、资本、现金四环图](投资学工作空间/outputs/task05-business-model-map.md) |
+| 行业竞争与优势 | [第六次成果](投资学工作空间/outputs/task06-industry-advantage.md) |
+| 叙事核验与综合成果 | [第七次过程](投资学工作空间/work/task07-narrative-audit.md)、[现有证据矩阵](投资学工作空间/outputs/lec03-evidence-matrix.md)、[阶段成果](投资学工作空间/outputs/lec03-stage-deliverables.md) |
+| 年度变化与返工 | [年度挑战清单](投资学工作空间/work/yearly-changes.md)、[研究底稿索引](投资学工作空间/work/INDEX.md) |
+| 真实授权与执行稿 | [10日授权签署](投资学工作空间/evidence/20261010-contract-signatures.json)、[12日授权签署](投资学工作空间/evidence/20261012-contract-signatures.json) |
 
-主要成果：[第一次定位](投资学工作空间/outputs/first-analysis.md)、[收入结构](投资学工作空间/outputs/revenue-structure-table.md)、[口径卡](投资学工作空间/outputs/metric-scope-decision.md)、[变化核验](投资学工作空间/outputs/change-verification-record.md)、[Lec03矩阵](投资学工作空间/outputs/lec03-evidence-matrix.md)。
+## 来源、计算与判断边界
 
-## 运行与人工核验
+原文披露、计算事实、机制解释、未知事项和投资决定分开。旧有效记录可以复用；使用时通过ReviewStore核对当前来源与依赖，不凭README、交接或签名证明事实。来源改变或出现具体冲突，仅重核受影响条目并保留历史。
 
-本机工作目录为D:/投资学，Python使用已有D:/Anaconda/python.exe。人工核验窗口、研究笔记、运行检查均可从工作空间内对应的cmd入口打开，详细环境说明见[运行指南](投资学工作空间/docs/run-guide.md)。
+补充CSV已做全量结构和算术检查，但单位、字段定义、统计样本及真实公开日期仍有缺口。观察日期不等于当时可获日期；主研究窗2020—2024与之后材料分开。大数据量、机器检查通过或报价变化都不能代替人工核验和因果论证。
 
-机器定位和自动检查保留为候选。只有本人明确确认的披露记录才形成Fact；最新有效状态以核验窗口和证据账本为准。后续程序通过ReviewStore(...).facts()检查来源版本，数据或PDF改变后必须重新核验。第四次任务的七项可比性独立确认；核验记录不代替合同复核、签署或机制判断。
+本轮留有13项方法修正或口径冲突，包含来源位置、核查、运算、影响与未决事项。工具45项测试及补充126项检查已通过；这些检查不代表所有经营机制成立。
 
-复制到其他电脑或改变资料位置时，更新投资学工作空间/config/workspace.json中的original_source_root，并调整cmd入口中的Python路径。
+## GitHub保存范围
 
-## Git与保存范围
+本人于2026-10-12明确选择：**仅上传成果，原件保留本地**。本轮补充课件PDF、供应商CSV、两份原合同及对应两份逐行输入JSON不上传。来源元信息、签署执行副本、分析结果、修正记录、代码和图表按授权同步；详情见[上传范围](投资学工作空间/docs/20261012-publication-scope.md)。
 
-远程仓库：[Loyyed/Investment_yw_10-1_begin](https://github.com/Loyyed/Investment_yw_10-1_begin)，origin使用git@github.com:Loyyed/Investment_yw_10-1_begin.git。
+这项范围针对本轮补充材料；仓库历史中已纳入的资料按原记录保留，不宣称历史从未包含原件。GitHub读者缺少本轮完整原始输入，不能认为远程具备全量复算条件。本地原件和中间产物完整保留。
 
-D:/投资学的根仓库用于整包保存和推送；原投资学工作空间内部的独立Git历史继续保留在本机。根仓库按普通文件保存完整工作空间，克隆后可直接浏览其内容。后续提交与推送请从D:/投资学根目录执行，提交信息使用中文。
+[通用工作台仓库](https://github.com/Loyyed/Investment_yw_finaltask)发布方法、程序、空模板及验证，不继承茅台事实或授权。公司研究在本仓库独立维护。提交使用中文，仅按明确文件清单暂存，不强推，不顺带上传其他目录。
 
-~~~cmd
-cd /d D:\投资学
-git status
-git add -A
-git diff --staged
-git commit -m "记录人工核验与研究成果更新"
-git push
-~~~
+## 本机运行与历史
 
-课程原件、规范来源、合同、核验记录、成果、图片、脚本和配置进入版本控制。临时构建目录、自动缓存、升级备份及原件的重复解包副本留在本机；排除规则见根目录与工作空间内的.gitignore。文件位置和用途详见[全部文件清单](投资学工作空间/docs/generated-files.md)。
+本机公司目录D:/投资学/投资学工作空间，使用已有D:/Anaconda/python.exe；运行与资料位置见[运行指南](投资学工作空间/docs/run-guide.md)。本地窗口负责核验，GitHub用于浏览与版本记录。
 
-<!-- scope-acceptance:current-version:start -->
-## 当前版本与弃用提示
-
-第三次合同以2026-10-03重新核验版为准：3项主指标、3项结构项、1项扣非补充。旧71de2c4和e63b162已标为弃用，详见[弃用登记](投资学工作空间/docs/deprecated-versions.md)。
-
-后续先读[会话交接](会话交接/CURRENT.md)，详细步骤见[第四次结果核验](投资学工作空间/docs/next-review.md)。
-<!-- scope-acceptance:current-version:end -->
-
-<!-- scope-acceptance:task04-progress:start -->
-## 最新任务进度
-
-第四次8项内容验收完成；本人确认后登记CH01营业收入同比15.71%、CH02归母净利润同比15.38%。姓名与正式签署待补。先读[会话交接](会话交接/CURRENT.md)，再按[下一步Lec03](投资学工作空间/docs/next-review.md)选研究问题。
-<!-- scope-acceptance:task04-progress:end -->
-
-<!-- scope-acceptance:m01-progress:start -->
-## 当前研究问题
-
-M01三项公司自述已由本人核对；第15页产品组销售收入除以销量可以计算均价，产品/渠道均价与毛利率15项结果已本人核验通过。[计算表](投资学工作空间/outputs/m01-average-price-and-margin.md)；[M01底稿](投资学工作空间/work/lec03-m01.md)；[下一步](投资学工作空间/docs/next-review.md)。商业模式和行业竞争两维待选，品牌机制仍Unknown。
-<!-- scope-acceptance:m01-progress:end -->
-
-<!-- scope-acceptance:m01-metric-confirmation:start -->
-## 最新本人确认
-
-M01计算表15项输入、单位和结果已本人确认通过；后续可复用当前有效计算Fact。[计算表](投资学工作空间/outputs/m01-average-price-and-margin.md)；[下一步](投资学工作空间/docs/next-review.md)。品牌机制裁决、其余两维选题及Lec03验收仍待完成。
-<!-- scope-acceptance:m01-metric-confirmation:end -->
-
-<!-- scope-acceptance:m01-scale-judgment:start -->
-## 最新研究进展
-
-本人给出品牌定价权暂定判断（Interpretation），已补算2023—2024单位成本并纳入生产相关成本和附条件存货桥接。新增成本统计及桥接原数/附条件算术已核，估算假设继续Unknown，既有36条Fact保持原确认。[成本分析](投资学工作空间/outputs/m01-scale-and-production-cost.md)；[下一步](投资学工作空间/docs/next-review.md)。
-<!-- scope-acceptance:m01-scale-judgment:end -->
-
-<!-- scope-acceptance:m01-cost-confirmation:start -->
-## 最新成本核验
-
-本人已完成新增成本核验，统计与附条件算术可复用；实际生产成本及桥接假设继续Unknown。[成本分析](投资学工作空间/outputs/m01-scale-and-production-cost.md)；[下一步](投资学工作空间/docs/next-review.md)。接下来更新品牌暂定判断并选择商业模式、行业竞争两维，Lec03未验收。
-<!-- scope-acceptance:m01-cost-confirmation:end -->
+首页已将旧“待签署”“后续合同未提供”等当时状态收回历史，不删除原核验或修正。改写前的首页见[原版本](https://github.com/Loyyed/Investment_yw_10-1_begin/blob/5085d8dea68daf25592aba499d45090b4982d951/README.md)，合同状态依据[10日逐项映射](投资学工作空间/work/20261010-contract-map.json)与[12日逐项映射](投资学工作空间/work/20261012-supplement/contract-map.json)。

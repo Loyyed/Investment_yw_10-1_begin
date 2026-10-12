@@ -1,65 +1,40 @@
-> 当前节点2026-10-12：[补充学习与第六七次反馈](docs/20261012-supplement-feedback.md)、[修正冲突登记](work/20261012-supplement/conflict-register.md)、[集中审核卡](docs/20261012-human-review-card.md)。新第六七次内容及lxy授权签署已完成，第七次新增学生亲查/新机制裁决待补；旧10日状态和签署保留历史。
-
 # 投资学工作空间
 
-## 当前入口：2026-10-10流程改进与合同执行
+贵州茅台2020—2024证券投资分析，当前日期2026-10-12。前四次合同逐项验收及授权签署完成；第五两稿、第六、第七次研究底稿和授权签署已整理。第五两稿和第七次的新增学生亲查尚未发生，本版新机制判断仍待本人最终裁决。
 
-先读[六份合同逐项反馈与签署](docs/20261010-contract-feedback.md)，按[底稿索引](work/INDEX.md)进入过程。前四次已按用户授权认定旧有效记录、逐项复核并签署；第五次新增问题链及四环节内容完成，两份原稿各有“新增学生亲查”条款待补，其差异明确保留。
+## 现在从这里开始
 
-执行人与复核人均lxy，2026-10-10，同人复核。旧核验身份、来源、真实修正和Unknown保留；允许质疑旧记录并有依据返工，新机制敲定仍由人工决定。
+- [各次任务待办与合作清单](docs/20261012-next-task-checklist.md)：按合同列出必补条款、人工裁决和可选研究扩展。
+- [当前任务状态](docs/task-status.md)、[第六七次反馈](docs/20261012-supplement-feedback.md)、[前四次和第五两稿反馈](docs/20261010-contract-feedback.md)。
+- [13项修正冲突](work/20261012-supplement/conflict-register.md)、[集中审核卡](docs/20261012-human-review-card.md)、[年度变化与返工](work/yearly-changes.md)。
+- [本地工作台](工作台.html)、[人工核验指南](docs/human-review-guide.md)、[过程索引](work/INDEX.md)。
 
-[新四环节成果](outputs/task05-business-model-map.md) · [三轮取证](work/lec03-evidence-expansion.md) · [年度变化与返工](work/yearly-changes.md) · [签署执行合同](tasks/executed-20261010/) · [本地工作台](工作台.html) · [清洗验证](docs/20261010-workflow-cleanup.md)
+两份主交接位于../会话交接；Agent先读[CURRENT](../会话交接/CURRENT.md)，不全文读日志或重新全盘扫描。
 
-六步：明确问题/材料 → 定位提取/口径 → 可比变化/年度异常 → 机制/行业/优势 → 报告/人工裁决 → 签署/版本/交接。学习交接位于../会话交接两份主MD；通用模板位于../投资学公司分析通用工作台。
+## 分工和执行顺序
 
-以下旧阶段摘要保留历史，旧“签署留空”“0条Fact”等状态不作为当前状态；Fact动态有效性仍以ReviewStore为准。
+我准备原页/原行、口径说明、运算与正反证；你查看当前新证据并给出真实确认、疑问或修改理由。未变的有效旧事实不机械重核；新材料缺定义或不能支持结论时保留Unknown。确认、机制裁决、合同验收和签署分别登记，既有修正历史不覆盖。
 
+流程为：明确问题与来源 → 定位提取与口径 → 可比变化与年度异常 → 商业模式/行业/优势 → 报告与人工裁决 → 签署、版本和交接。第五到第七次按实际前置缺口推进，不因有文件或签名就假定全部完成。
 
-<!-- scope-acceptance:lec03-three-dimensions:start -->
-## 当前入口：Lec03内容已核准
+执行/复核均lxy、同人身份；10日与12日签署按真实当日分别保留。旧核验人的姓名、原时间及历史有效性不被新签署覆盖。
 
-先读[三维最终结果与图片](outputs/lec03-final-results.md)，再按需看[10项内容验收](docs/lec03-acceptance.md)及[任务合同](tasks/05-lec03-business-model.md)。本人审核第3、4节通过，Agent按明确授权完成五年补证和其余内容。签署继续留空，下一步仅在准备好时统一填写姓名/日期；不重复核已确认内容。
-<!-- scope-acceptance:lec03-three-dimensions:end -->
+## 文件用途
 
-
-
-日常核验：双击[人工核验入口.cmd](人工核验入口.cmd)，选择记录，点“确认所选为Fact”。系统自动记录并同步相关文件；操作方法见[简洁核验指南](docs/human-review-guide.md)。
-
-贵州茅台（600519），指定2020—2024年年报，2026秋金融专硕投资学任务。建立日期2026-10-02。
-
-资料与自动化研究准备已完成。人工核验状态以核验入口和证据账本为准；学生本人承担口径与判断，人员及正式签署可以以后补齐。
-
-[带图片的工作流程与文件说明](工作流程与文件说明.md) · [本地工作台](工作台.html) · [任务进度](docs/task-status.md) · [本人核验入口](docs/human-review-guide.md) · [全部文件位置](docs/generated-files.md)
-
-![工作台构成](docs/images/workspace-structure.png)
-
-| 位置 | 内容与用途 |
+| 位置 | 用途 |
 | --- | --- |
-| sources/annual_reports/ | 五份原PDF与五份检索MD；保持原样，SHA-256见manifest.json |
-| sources/course/ | 按正文用途整理的Lec01—03课件、附件、模板与原图片，副本原字节不变 |
-| sources/toolkit/ | MinerU工具参考源码与说明；只读取，不安装或调用API |
-| sources/original-tree/、sources/unpacked/ | 原目录副本与六个ZIP解包结果，保留出处；重复内容不重复进Git |
-| tasks/ | 00本次执行说明、01—04合同和05Lec03合同 |
-| work/ | 原页全文、检索、候选、口径冲突、修正、Unknown、计算与检查 |
-| evidence/ | 本人核验后的证据日志、统一核验账本及人工表 |
-| outputs/ | 六份合同成果准备稿与课件补充成果 |
-| docs/ | 图片、核验指南、资料用途、运行与Git说明、文件清单 |
-| scripts/ | 实际使用的解包、提取、生成、核验和计算脚本 |
-| config/ | Python版本、依赖锁定及本人可比性确认配置 |
-| .git/ | 本地版本库，无远程服务，无Token |
+| sources/ | 年报及其他规范来源；原件保持原样 |
+| tasks/ | 实际合同及10日、12日签署执行副本 |
+| work/ | 提取候选、数据字典、口径冲突、运算、Unknown和核验过程 |
+| evidence/ | 真实核验、授权与事件历史；导出仅是派生视图 |
+| outputs/ | 定位、结构、口径、变化、商业模式、行业及叙事成果 |
+| docs/ | 当前状态、待办、图片、反馈与运行说明 |
+| scripts/、tests/ | 检查与复算工具；不伪造人工核验 |
 
-常用成果：[第一次定位](outputs/first-analysis.md)、[收入结构](outputs/revenue-structure-table.md)、[口径卡](outputs/metric-scope-decision.md)、[变化记录准备](outputs/change-verification-record.md)、[Lec03矩阵](outputs/lec03-evidence-matrix.md)、[Lec03五项成果](outputs/lec03-stage-deliverables.md)。
+Fact的当前有效性须由ReviewStore接口核当前来源与依赖，旧摘要不能证明Fact。完整运行方法见[运行指南](docs/run-guide.md)。
 
-运行环境为本机D:/Anaconda/python.exe。双击“打开研究笔记.cmd”使用已有JupyterLab；双击“运行检查.cmd”执行验证。也可以用支持Python的编辑器打开投资学工作空间.code-workspace。详细说明见docs/run-guide.md。
+## 上传和保存
 
-<!-- review-store:progress:start -->
-## 人工核验进度
+根仓库D:/投资学统一同步到Investment_yw_10-1_begin。本轮仅上传成果及元信息，四份补充原件和两份逐行输入保留本地；不再列为待授权事项。见[上传范围](docs/20261012-publication-scope.md)。GitHub未包含这些完整输入，本地核验入口和原件链接不代表远程可直接复算。
 
-当前有效Fact为16条；Unknown为47条；已撤回0条；需重新核验0条。共63条候选。 日期自动按Asia/Shanghai记录。合同验收、复核人与正式签署另行完成。
-<!-- review-store:progress:end -->
-
-<!-- scope-acceptance:task04-progress:start -->
-## 第四次变化事实
-
-当前新增两条独立聊天确认的变化证据CH01/CH02。原披露核验记录保持；动态有效性使用ReviewStore.change_facts()，旧导出不证明Fact。[第四次验收](docs/fourth-task-acceptance.md)；[下一步](docs/next-review.md)。
-<!-- scope-acceptance:task04-progress:end -->
+历史过程和旧状态保留在Git版本及原合同/底稿内。改写前README见[原版本](https://github.com/Loyyed/Investment_yw_10-1_begin/blob/5085d8dea68daf25592aba499d45090b4982d951/投资学工作空间/README.md)。原工作空间内部Git历史继续保留；后续成果从根仓库按明确清单提交。
