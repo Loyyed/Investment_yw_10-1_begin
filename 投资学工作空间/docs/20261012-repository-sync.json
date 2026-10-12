@@ -19,7 +19,7 @@
     "publication_scope": "成果及元信息；完整原件/逐行载荷本地保留"
   },
   "full_supplemental_originals_uploaded": false,
-  "raw_upload_status": "自动审批拒绝后本地保留，待本人明确授权",
+  "raw_upload_status": "本人明确选择仅上传成果，原件与逐行输入保留本地；非待授权",
   "scope_document": "20261012-publication-scope.md",
   "verification": {
     "toolkit_tests": 45,
@@ -27,5 +27,24 @@
     "protected_existing_files": 13,
     "supplemental_originals": 4
   },
-  "note": "本记录绑定已核对的成果节点；随后仅追加本同步记录和交接摘要，不要求记录自身提交SHA。远程仓库未包含完整复算原始输入。"
+  "note": "本记录绑定已核对的成果节点；随后仅追加本同步记录和交接摘要，不要求记录自身提交SHA。远程仓库未包含完整复算原始输入。",
+  "user_decision": {
+    "date": "2026-10-12",
+    "channel": "用户对本聊天上传范围选项的明确回复",
+    "question": "是否明确授权将四份完整补充原件及对应两份逐行输入JSON上传到Loyyed/Investment_yw_10-1_begin？",
+    "answer": "仅上传成果，原件保留本地",
+    "original_upload_authorized": false,
+    "scope": "本轮补充材料的四份原件及两份逐行输入继续保留本地，仅同步成果与元信息",
+    "future_action": "按本人选择执行，不再将本轮原件上传列为待授权事项；变更须新的明确指示"
+  },
+  "prior_handover_node": {
+    "date": "2026-10-12",
+    "repository": "git@github.com:Loyyed/Investment_yw_10-1_begin.git",
+    "branch": "main",
+    "head": "7543806966908da7e2837e573756e2aad3cf0cd2",
+    "remote_verified": true,
+    "original_source_checks": [],
+    "full_supplemental_originals_uploaded": false,
+    "publication_scope": "成果及元信息；完整原件/逐行载荷本地保留"
+  }
 }

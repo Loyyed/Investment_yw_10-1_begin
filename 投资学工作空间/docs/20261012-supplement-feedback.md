@@ -33,7 +33,7 @@
 
 重跑工具：通用series-audit只读原CSV、写新的检查JSON；公司scripts/verify_supplement_20261012.py接受--workspace/--inputs/--output，对当前来源与旧API复查，不写权威事件。作图脚本以chart-inputs.json输入，结果不替代源数。输入、计算、原行、目录、修正及失败过程保留在work/20261012-supplement；本机PDF文字缓存/概览及隔离测试包保留于课件目录忽略的实施包。
 
-通用方法同步Investment_yw_finaltask；本轮合同/公司成果/主交接与来源元信息同步Investment_yw_10-1_begin；完整原补充材料和逐行输入保留本地，外传待本人明确授权。发布结果按实际Git远程校验记录，不强推、不纳入用户其他目录改动。
+通用方法同步Investment_yw_finaltask；本轮合同/公司成果/主交接与来源元信息同步Investment_yw_10-1_begin；本人已于2026-10-12明确选择“仅上传成果，原件保留本地”，完整原补充材料和逐行输入按此决定保留本地，不再待授权。发布结果按实际Git远程校验记录，不强推、不纳入用户其他目录改动。
 
 ## 新原稿逐条映射
 

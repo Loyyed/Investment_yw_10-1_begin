@@ -37,6 +37,15 @@
     "result": "Rejected before execution",
     "reason": "该推送会将原始PDF、19MB供应商CSV及其他补充材料外传至GitHub；用户授权了成果上传，但未明确授权这些可能含敏感内容的原始载荷发送到该外部目的地。"
   },
-  "original_upload_approval": "待本人明确授权；未将拒绝解释成已获批准",
-  "reproducibility": "完整原件与逐行输入保留本地；远程仅成果和元信息，不宣称远程已具备全量输入"
+  "original_upload_approval": "本人2026-10-12明确选择仅上传成果，原件保留本地；不上传完整原件及两份逐行输入",
+  "reproducibility": "完整原件与逐行输入保留本地；远程仅成果和元信息，不宣称远程已具备全量输入",
+  "user_decision": {
+    "date": "2026-10-12",
+    "channel": "用户对本聊天上传范围选项的明确回复",
+    "question": "是否明确授权将四份完整补充原件及对应两份逐行输入JSON上传到Loyyed/Investment_yw_10-1_begin？",
+    "answer": "仅上传成果，原件保留本地",
+    "original_upload_authorized": false,
+    "scope": "本轮补充材料的四份原件及两份逐行输入继续保留本地，仅同步成果与元信息",
+    "future_action": "按本人选择执行，不再将本轮原件上传列为待授权事项；变更须新的明确指示"
+  }
 }
