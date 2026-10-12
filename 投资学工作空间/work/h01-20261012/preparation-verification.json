@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-12",
+  "count": 14,
+  "checks": [
+    {
+      "check": "完整原63候选字段、状态、来源指纹不变",
+      "passed": true
+    },
+    {
+      "check": "只新增R2024-08一条候选",
+      "passed": true
+    },
+    {
+      "check": "新增候选保持Unknown无人工事件",
+      "passed": true
+    },
+    {
+      "check": "现有原披露Fact和绑定逐条不变",
+      "passed": true
+    },
+    {
+      "check": "其他五个当前事实接口结果不变",
+      "passed": true
+    },
+    {
+      "check": "原候选文件字节为新文件完整前缀",
+      "passed": true
+    },
+    {
+      "check": "新增候选绑定实际原PDF",
+      "passed": true
+    },
+    {
+      "check": "顺序为期末后期初且只有两值",
+      "passed": true
+    },
+    {
+      "check": "第104页合同负债表含原标签、单位和两值",
+      "passed": true
+    },
+    {
+      "check": "第60页合并表金额交叉一致",
+      "passed": true
+    },
+    {
+      "check": "第58页合并标题和两期日期明确",
+      "passed": true
+    },
+    {
+      "check": "差额和百分比Decimal复算一致",
+      "passed": true
+    },
+    {
+      "check": "第13页展示同比与复算舍入一致",
+      "passed": true
+    },
+    {
+      "check": "13份原权威记录及来源文件未变",
+      "passed": true
+    }
+  ],
+  "old_facts_preserved": true,
+  "new_candidate_unknown": true,
+  "human_events_added": 0
+}

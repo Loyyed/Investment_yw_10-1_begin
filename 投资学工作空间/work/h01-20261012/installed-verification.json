@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-12",
+  "count": 20,
+  "checks": [
+    {
+      "check": "六接口事实及当前来源绑定与开工前逐条相同",
+      "passed": true
+    },
+    {
+      "check": "64候选且R2024-08仍Unknown无确认时间",
+      "passed": true
+    },
+    {
+      "check": "原63候选文件及行指纹与备份一致",
+      "passed": true
+    },
+    {
+      "check": "产物SHA:workspace/docs/20261012-h01-review-card.md",
+      "passed": true
+    },
+    {
+      "check": "产物SHA:workspace/docs/images/20261012-h01-contract-liabilities-p104.png",
+      "passed": true
+    },
+    {
+      "check": "产物SHA:workspace/work/h01-20261012/candidate.json",
+      "passed": true
+    },
+    {
+      "check": "产物SHA:workspace/work/h01-20261012/preparation-verification.json",
+      "passed": true
+    },
+    {
+      "check": "产物SHA:workspace/work/h01-20261012/notes.md",
+      "passed": true
+    },
+    {
+      "check": "产物SHA:workspace/work/task05-business-model-checks.md",
+      "passed": true
+    },
+    {
+      "check": "产物SHA:workspace/work/INDEX.md",
+      "passed": true
+    },
+    {
+      "check": "产物SHA:workspace/docs/20261012-next-task-checklist.json",
+      "passed": true
+    },
+    {
+      "check": "产物SHA:workspace/docs/20261012-next-task-checklist.md",
+      "passed": true
+    },
+    {
+      "check": "产物SHA:handover/CURRENT.md",
+      "passed": true
+    },
+    {
+      "check": "产物SHA:root/.gitignore",
+      "passed": true
+    },
+    {
+      "check": "产物SHA:workspace/scripts/review_store.py",
+      "passed": true
+    },
+    {
+      "check": "产物SHA:workspace/tests/test_review_store.py",
+      "passed": true
+    },
+    {
+      "check": "产物SHA:workspace/work/additional-evidence-candidates.md",
+      "passed": true
+    },
+    {
+      "check": "产物SHA:workspace/AGENTS.md",
+      "passed": true
+    },
+    {
+      "check": "产物SHA:workspace/work/h01-20261012/isolated-tests.json",
+      "passed": true
+    },
+    {
+      "check": "13份原权威/来源字节未变",
+      "passed": true
+    }
+  ],
+  "new_candidate_state": "Unknown",
+  "human_confirmation": false,
+  "facts_unchanged": true
+}

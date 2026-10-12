@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-12",
+  "work_item": "H01",
+  "candidate_id": "R2024-08",
+  "state": "Unknown",
+  "human_confirmation": false,
+  "human_reply": null,
+  "current_task_scope": "第五次第一部分及综合稿的收入确认/营运资本/现金问题；不预先关闭两稿",
+  "source": {
+    "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+    "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+    "primary_pdf_page": 104,
+    "primary_report_page": 104,
+    "table": "26、合同负债／(1)合同负债情况",
+    "row": "预收货款",
+    "unit": "人民币元",
+    "entity": "贵州茅台酒股份有限公司合并财务报表附注",
+    "current_date": "2024-12-31",
+    "comparison_date": "2023-12-31（2024期初）",
+    "comparison_version": "同2024年报比较列；不称已核独立2023年报",
+    "binding_pages": [
+      58,
+      60,
+      104
+    ]
+  },
+  "value": {
+    "current_yuan": "9592453014.66",
+    "opening_yuan": "14125755802.29"
+  },
+  "agent_calculation": {
+    "date": "2026-10-12",
+    "candidate_id": "R2024-08",
+    "state": "Unknown",
+    "human_confirmation": false,
+    "pdf": "D:\\投资学\\投资学工作空间\\sources\\annual_reports\\pdf\\600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+    "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+    "primary_page": 104,
+    "cross_check_pages": [
+      13,
+      58,
+      59,
+      60,
+      83
+    ],
+    "primary_label": "预收货款",
+    "current_date": "2024-12-31",
+    "opening_date": "2023-12-31（2024年度期初比较列）",
+    "current_yuan": "9592453014.66",
+    "opening_yuan": "14125755802.29",
+    "change_yuan": "-4533302787.63",
+    "change_percent_full": "-32.09246181995502587070795821",
+    "change_percent_rounded": "-32.09",
+    "formula": "(期末余额/期初余额-1)*100",
+    "calculation_state": "Agent复算参考，待原值及本次比较口径核验；未登记新变化Fact",
+    "unsupported": "不能仅凭余额下降认定终端需求转差、品牌失效，不能把余额差当本年预收现金净变化。",
+    "date_clarification": {
+      "old_label": "2024-01-01期初",
+      "current_label": "2023-12-31（2024年度期初比较列）",
+      "reason": "已核第58页合并资产负债表表头，明确右列2023年12月31日；原附注仍保留“期初余额”标签",
+      "values_and_formula_changed": false
+    }
+  },
+  "prior_check": {
+    "six_current_fact_counts": {
+      "facts": 16,
+      "change_facts": 2,
+      "m01_disclosure_facts": 3,
+      "m01_metric_facts": 15,
+      "m01_scale_facts": 3,
+      "lec03_agent_facts": 16
+    },
+    "new_balance_values_present": false,
+    "old_candidate_count": 63,
+    "old_candidate_file_sha256": "f26ec0100bde18767366a91c4be629b386f327a1fe585d7845c07a0016b0dd4a",
+    "proposed_candidate_file_sha256": "16d501be28f05bd03a7ce1d52fb16265f2ebd90d60fa8adef4f5771119be76e1",
+    "original_candidate_file_preserved": true
+  },
+  "review_path": "原披露Fact保持窗口权威；本人亲核后本人在现有窗口仅确认R2024-08；聊天答复记录问题/实做/口径判断，不由Agent伪造窗口事件",
+  "support_boundary": "本次余额及分类披露；原因自述和经营机制分别审阅",
+  "corrections": [
+    {
+      "id": "H01-C01",
+      "old": "期初标签临时表述为2024-01-01",
+      "new": "2023-12-31（2024期初比较列）",
+      "basis": "第58页合并资产负债表明确日期，金额/公式未变"
+    },
+    {
+      "id": "H01-C02",
+      "old": "容易把第104页重大变动勾不适用理解成余额没有下降",
+      "new": "第13页有同比及公司原因说明，第104页子栏目不适用不否定同报告数值变化",
+      "status": "提醒；披露栏目适用判断原因仍未知，不编解释"
+    },
+    {
+      "id": "H01-C04",
+      "finding": "向原候选账本追加后，原CH01/02暂时因比较来源候选集合扩张失效（2→0）；权威账本和事件未改",
+      "initial_preparation_check_limit": "临时替换实例候选路径的预检没有覆盖change_facts内部重新构造实例的实际全局路径",
+      "resolution": "恢复原63候选全部字节；新候选改入独立补充账本；原比较绑定保持原候选集合，新增披露按自身行/PDF指纹核验",
+      "precision": "约束是候选集合全量行指纹及PDF/结构化输入绑定，不是MD文件整体SHA；此前进度中的文件指纹说法在此明确",
+      "final_status": "已恢复原63候选完整字节；27项隔离测试通过，20项安装后复查通过；六域逐条与开工前一致，原CH01/02有效数2，新增Unknown，无新人工事件"
+    }
+  ],
+  "next_human_action": "回原PDF104页核余额和单位，58/60页核合并/日期；在核验入口登记，再回复原文一致或具体差异",
+  "registration_file": "work/additional-evidence-candidates.md",
+  "tests": {
+    "review_store_isolated": 27,
+    "preparation_checks_initial": 14,
+    "notes": "初版14项预检未覆盖真实比较候选集合扩张，失败与修正记录保留；最终生产复查另存",
+    "installed_checks": 20,
+    "final_old_fact_domains_match": true,
+    "new_candidate_state": "Unknown"
+  }
+}

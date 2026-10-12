@@ -163,13 +163,17 @@ class ReviewStore:
                 os.unlink(name)
         return True
 
-    def _candidates(self) -> list[EvidenceRecord]:
+    def _candidates(self, include_additional: bool = True) -> list[EvidenceRecord]:
         rows: list[EvidenceRecord] = []
         ids: set[str] = set()
         pdf_dir = self._path("sources/annual_reports/pdf")
         pdfs = list(pdf_dir.glob("*.pdf")) if pdf_dir.exists() else []
         hashes: dict[Path, str] = {}
-        for line in self.candidates_path.read_text(encoding="utf-8-sig").splitlines():
+        source_texts = [self.candidates_path.read_text(encoding="utf-8-sig")]
+        additional = self._path("work/additional-evidence-candidates.md")
+        if include_additional and additional.exists():
+            source_texts.append(additional.read_text(encoding="utf-8-sig"))
+        for line in "\n".join(source_texts).splitlines():
             if not line.startswith("|"):
                 continue
             cells = [s.strip() for s in re.split(r"(?<!\\)\|", line)[1:-1]]
@@ -342,6 +346,11 @@ class ReviewStore:
         return ChangeReviewStore(self.workspace).facts()
 
     def _comparability_binding(self, candidates: list[EvidenceRecord]) -> dict[str, Any]:
+        # The original comparison confirmation binds the legacy source cohort.
+        # New unrelated candidates must not expand that historical claim scope.
+        # Their own PDF/row bindings still govern explicit disclosure review.
+        original_ids = {r["id"] for r in self._candidates(include_additional=False)}
+        candidates = [r for r in candidates if r["id"] in original_ids]
         inputs = {}
         for relative in ("work/structured-data.json", "work/scope-data.json"):
             path = self._path(relative)

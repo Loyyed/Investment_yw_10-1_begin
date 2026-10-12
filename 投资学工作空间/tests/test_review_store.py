@@ -419,5 +419,61 @@ class ReviewStoreTests(unittest.TestCase):
         self.assertEqual(self.store.sync()["updated_files"], [])
 
 
+    def _write_additional(self, identifier="R2024-08", value="120.00／100.00"):
+        row = ("| " + identifier + " | 测试新增合同负债 | Unknown | 2024年报告 | "
+               "2024-12-31／2023-12-31 | PDF104页 | " + value + " | 人民币元；合并 | "
+               "测试原披露 | 不证明原因 | 否 | 待本人核验 |\n")
+        target = self.fixture / "work/additional-evidence-candidates.md"
+        target.write_text(row, encoding="utf-8")
+        return target
+
+    def test_additional_read_keeps_original_candidates_and_comparison_binding(self):
+        source_before = (self.fixture / "work/evidence-candidates.md").read_bytes()
+        binding_before = self.store.comparison_snapshot()["binding"]
+        self._write_additional()
+        rows = self.store.list_candidates()
+        self.assertEqual(len(rows), 64)
+        new = next(r for r in rows if r["id"] == "R2024-08")
+        self.assertEqual(new["state"], "Unknown")
+        self.assertEqual(new["confirmed_at"], "")
+        self.assertFalse(self.store.state_path.exists())
+        self.assertEqual(source_before, (self.fixture / "work/evidence-candidates.md").read_bytes())
+        self.assertEqual(binding_before, self.store.comparison_snapshot()["binding"])
+
+    def test_additional_explicit_confirmation_preserves_old_comparability(self):
+        self.store.submit(["C01", "C02"], actor="测试核验者")
+        self.store.save_comparability({k: True for k in FLAGS}, actor="测试核验者")
+        old = self.store.comparison_snapshot()
+        self._write_additional()
+        result = self.store.submit(["R2024-08"], actor="新增测试核验者", note="仅合成测试")
+        self.assertEqual(result["changed"], 1)
+        facts = {r["id"]: r for r in self.store.facts()}
+        self.assertEqual(facts["R2024-08"]["actor"], "新增测试核验者")
+        self.assertEqual(facts["R2024-08"]["state"], "Fact")
+        self.assertTrue(self.store.validate_comparability(old["binding"]))
+        self.assertEqual(old, self.store.comparison_snapshot())
+        self.assertEqual(len(self.state()["events"]), 4)
+
+    def test_additional_change_invalidates_only_its_confirmation(self):
+        self.store.submit(["C01", "C02"], actor="测试核验者")
+        self.store.save_comparability({k: True for k in FLAGS}, actor="测试核验者")
+        path = self._write_additional()
+        self.store.submit(["R2024-08"], actor="测试核验者")
+        authority_before = self.store.state_path.read_bytes()
+        binding_before = self.store.comparison_snapshot()["binding"]
+        path.write_text(path.read_text("utf8").replace("120.00", "121.00"), encoding="utf8")
+        facts = {r["id"] for r in self.store.facts()}
+        self.assertEqual(facts, {"C01", "C02"})
+        self.assertEqual(authority_before, self.store.state_path.read_bytes())
+        self.assertEqual(binding_before, self.store.comparison_snapshot()["binding"])
+        self.assertTrue(self.store.validate_comparability(binding_before))
+
+    def test_additional_duplicate_id_cannot_replace_original_disclosure(self):
+        self._write_additional(identifier="C01")
+        with self.assertRaisesRegex(ValueError, "编号不合法"):
+            self.store.list_candidates()
+        self.assertFalse(self.store.state_path.exists())
+
+
 if __name__ == "__main__":
     unittest.main()

@@ -17,3 +17,5 @@
 | 原三维解释与人工答复 | lec03-claim-notes.md；../evidence/lec03-content-review.json | 真实旧答复保持原身份，新结论敲定另记 |
 
 来源原件sources、权威evidence与结构提取候选分别保留；不合并各域为“55独立Fact”。旧人工有效条目39条分布于五域，16个年度Agent组有重叠；使用时按编号、当前来源和支持范围核验。新签署lxy不改写旧核验actor Leo。
+
+- 2026-10-12当前H01：[第五次新增核验卡](../docs/20261012-h01-review-card.md)、[合同负债证据链过程](h01-20261012/notes.md)。R2024-08为新增Unknown，待本人在现有窗口确认，不代替第五两稿新亲查事件。

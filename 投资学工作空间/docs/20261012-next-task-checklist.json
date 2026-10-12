@@ -39,8 +39,10 @@
       "id": "H01",
       "type": "合同必补",
       "description": "第五两稿新增本人PDF核验",
-      "status": "待共同执行",
-      "human_confirmation_occurred": false
+      "status": "候选R2024-08及原页/运算/窗口入口已准备，待本人真实核验",
+      "human_confirmation_occurred": false,
+      "review_card": "docs/20261012-h01-review-card.md",
+      "candidate_id": "R2024-08"
     },
     {
       "id": "D01",
