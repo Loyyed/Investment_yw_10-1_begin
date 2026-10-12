@@ -25,7 +25,29 @@
     "逐次待办与分工"
   ],
   "description_written": false,
-  "readme_publication_status": "安装后按明确清单推送并核远端",
+  "readme_publication_status": "两个中文首页及合同合作待办已推送，远程HEAD核对一致",
   "preserved_history": "首页原版本由Git提交保存；旧合同、确认账本、签署及原件不改",
-  "originals_local_only": true
+  "originals_local_only": true,
+  "verified_readme_nodes": {
+    "toolkit": {
+      "date": "2026-10-12",
+      "repository": "git@github.com:Loyyed/Investment_yw_finaltask.git",
+      "branch": "main",
+      "head": "628a147360956e99cfd4b3c011ef1a09c15ce551",
+      "remote_verified": true,
+      "original_source_checks": [],
+      "full_supplemental_originals_uploaded": false,
+      "publication_scope": "成果及元信息；完整原件/逐行载荷本地保留"
+    },
+    "company_results": {
+      "date": "2026-10-12",
+      "repository": "git@github.com:Loyyed/Investment_yw_10-1_begin.git",
+      "branch": "main",
+      "head": "5ee56167e81890a0ac658e958e65cc73b4657969",
+      "remote_verified": true,
+      "original_source_checks": [],
+      "full_supplemental_originals_uploaded": false,
+      "publication_scope": "成果及元信息；完整原件/逐行载荷本地保留"
+    }
+  }
 }
