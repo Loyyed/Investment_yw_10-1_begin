@@ -7,14 +7,14 @@
       "description": "证券投资分析通用工作台：中文方法与模板、六步研究流程、原文核验和年度变化检查、只读CSV审查；不预置公司事实与投资结论。",
       "previous_description": null,
       "status": "中文简介已准备；GitHub description字段尚未修改",
-      "reason": "现有SSH支持成果推送；未找到HTTPS设置写入凭据；GitHub插件未安装/连接"
+      "reason": "现有SSH可推送成果，无HTTPS设置写入凭据；用户本轮选择不安装GitHub插件，简介保留待办理"
     },
     {
       "repository": "Loyyed/Investment_yw_10-1_begin",
       "description": "贵州茅台2020—2024证券投资分析：前四次合同完成；第五、七次新增本人核验待补，第六次按完整缺口路径交付；保留修正冲突，结论待本人裁决。补充原件留本地，仅上传成果。",
       "previous_description": null,
       "status": "中文简介已准备；GitHub description字段尚未修改",
-      "reason": "现有SSH支持成果推送；未找到HTTPS设置写入凭据；GitHub插件未安装/连接"
+      "reason": "现有SSH可推送成果，无HTTPS设置写入凭据；用户本轮选择不安装GitHub插件，简介保留待办理"
     }
   ],
   "readme_update_scope": [
@@ -49,5 +49,12 @@
       "full_supplemental_originals_uploaded": false,
       "publication_scope": "成果及元信息；完整原件/逐行载荷本地保留"
     }
+  },
+  "connection_decision": {
+    "date": "2026-10-12",
+    "source": "本聊天插件建议反馈",
+    "github_plugin_selected_for_installation": false,
+    "scope": "当前请求",
+    "action": "不使用或再次推荐本轮已拒绝的GitHub插件；README已完成，简介文本保留，实际字段尚未写入"
   }
 }
