@@ -65,15 +65,15 @@
       "original_sha256": "742749871e570ecaa486f20c17e210f918edd39289c2a83dc4cd5dd4c2fe1d28",
       "executed_copy": "tasks/executed-20261010/第五次任务合同_贵州茅台商业模式、竞争优势与叙事核验.md",
       "clauses": 12,
-      "open_original_clauses": [
-        "第五次综合-07"
-      ],
+      "open_original_clauses": [],
       "source_refs": [
         "work/lec03-evidence-expansion.md",
         "outputs/lec03-evidence-matrix.md",
         "outputs/lec03-stage-deliverables.md",
         "outputs/lec03-final-results.md"
-      ]
+      ],
+      "completion_update_date": "2026-10-12",
+      "current_executed_copy": "tasks/executed-20261012/第五次任务合同_贵州茅台商业模式、竞争优势与叙事核验.md"
     },
     {
       "name": "第五次第一部分",
@@ -81,14 +81,14 @@
       "original_sha256": "33c24262c521635601f76fb51f22f01a670db4b7c569fd12a372766c554ffee3",
       "executed_copy": "tasks/executed-20261010/第五次任务合同第一部分_贵州茅台商业模式验证.md",
       "clauses": 7,
-      "open_original_clauses": [
-        "第五次第一部分-04"
-      ],
+      "open_original_clauses": [],
       "source_refs": [
         "work/task05-business-model-checks.md",
         "outputs/task05-business-model-map.md",
         "work/lec03-evidence-expansion.md"
-      ]
+      ],
+      "completion_update_date": "2026-10-12",
+      "current_executed_copy": "tasks/executed-20261012/第五次任务合同第一部分_贵州茅台商业模式验证.md"
     }
   ],
   "clauses": [
@@ -998,13 +998,21 @@
     {
       "id": "第五次综合-07",
       "requirement": "管理层表述可以回到批准 PDF 的原文；至少一项**本任务新增**的相关事实由学生亲自核验，写明版本、页码、期间、单位、主体和口径，并登记证据编号。",
-      "status": "原稿新增亲查条款待补；本轮按用户授权复用有效记录",
-      "original_check_completed": false,
+      "status": "2026-10-12 H01本人窗口新增核验完成；R2024-08，事件18及真实聊天反馈",
+      "original_check_completed": true,
       "evidence": [
         "work/lec03-evidence-expansion.md",
         "outputs/lec03-evidence-matrix.md",
         "outputs/lec03-stage-deliverables.md",
-        "outputs/lec03-final-results.md"
+        "outputs/lec03-final-results.md",
+        "work/h01-20261012/human-confirmation-receipt.json"
+      ],
+      "status_history": [
+        {
+          "date": "2026-10-10",
+          "status": "原稿新增亲查条款待补；本轮按用户授权复用有效记录",
+          "completed": false
+        }
       ]
     },
     {
@@ -1103,12 +1111,20 @@
     {
       "id": "第五次第一部分-04",
       "requirement": "新 `Fact` 有学生本人对 PDF 的核验记录和证据编号；Agent 输出未直接写成事实。",
-      "status": "原稿新增亲查条款待补；本轮按用户授权复用有效记录",
-      "original_check_completed": false,
+      "status": "2026-10-12 H01本人窗口新增核验完成；R2024-08，事件18及真实聊天反馈",
+      "original_check_completed": true,
       "evidence": [
         "work/task05-business-model-checks.md",
         "outputs/task05-business-model-map.md",
-        "work/lec03-evidence-expansion.md"
+        "work/lec03-evidence-expansion.md",
+        "work/h01-20261012/human-confirmation-receipt.json"
+      ],
+      "status_history": [
+        {
+          "date": "2026-10-10",
+          "status": "原稿新增亲查条款待补；本轮按用户授权复用有效记录",
+          "completed": false
+        }
       ]
     },
     {

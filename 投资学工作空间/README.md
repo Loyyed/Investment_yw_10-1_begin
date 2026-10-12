@@ -38,3 +38,9 @@ Fact的当前有效性须由ReviewStore接口核当前来源与依赖，旧摘�
 根仓库D:/投资学统一同步到Investment_yw_10-1_begin。本轮仅上传成果及元信息，四份补充原件和两份逐行输入保留本地；不再列为待授权事项。见[上传范围](docs/20261012-publication-scope.md)。GitHub未包含这些完整输入，本地核验入口和原件链接不代表远程可直接复算。
 
 历史过程和旧状态保留在Git版本及原合同/底稿内。改写前README见[原版本](https://github.com/Loyyed/Investment_yw_10-1_begin/blob/5085d8dea68daf25592aba499d45090b4982d951/投资学工作空间/README.md)。原工作空间内部Git历史继续保留；后续成果从根仓库按明确清单提交。
+
+<!-- review-store:progress:start -->
+## 人工核验进度
+
+当前有效Fact为17条；Unknown为47条；已撤回0条；需重新核验0条。共64条候选。 日期自动按Asia/Shanghai记录。合同验收、复核人与正式签署另行完成。
+<!-- review-store:progress:end -->

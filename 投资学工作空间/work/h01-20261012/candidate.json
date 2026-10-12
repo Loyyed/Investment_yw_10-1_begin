@@ -2,9 +2,9 @@
   "date": "2026-10-12",
   "work_item": "H01",
   "candidate_id": "R2024-08",
-  "state": "Unknown",
-  "human_confirmation": false,
-  "human_reply": null,
+  "state": "Fact",
+  "human_confirmation": true,
+  "human_reply": "H01原文、两期金额、人民币元和合并口径均一致，已在窗口确认R2024-08。我觉得你这样做也太费token了，你直接跟我一条条核对和进行工作吧，或者核验窗口已经有的就直接让我去核验窗口做也行",
   "current_task_scope": "第五次第一部分及综合稿的收入确认/营运资本/现金问题；不预先关闭两稿",
   "source": {
     "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
@@ -109,5 +109,10 @@
     "installed_checks": 20,
     "final_old_fact_domains_match": true,
     "new_candidate_state": "Unknown"
-  }
+  },
+  "preparation_state": "Unknown",
+  "window_actor": "Leo",
+  "window_confirmed_at": "2026-10-12T20:28:01+08:00",
+  "human_confirmation_receipt": "human-confirmation-receipt.json",
+  "current_fact_binding": "50b379e85fe4a04982f34e70de7b4dfa961702aa7a8675eee71b443cbab01145"
 }

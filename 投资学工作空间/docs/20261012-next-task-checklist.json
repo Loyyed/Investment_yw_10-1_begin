@@ -15,16 +15,6 @@
   ],
   "mandatory_open_clauses": [
     {
-      "id": "第五次综合-07",
-      "requirement": "管理层表述可以回到批准 PDF 的原文；至少一项**本任务新增**的相关事实由学生亲自核验，写明版本、页码、期间、单位、主体和口径，并登记证据编号。",
-      "status": "待真实本人新原文核验"
-    },
-    {
-      "id": "第五次第一部分-04",
-      "requirement": "新 `Fact` 有学生本人对 PDF 的核验记录和证据编号；Agent 输出未直接写成事实。",
-      "status": "待真实本人新原文核验"
-    },
-    {
       "id": "T7-3",
       "requirement": "可观察变量写明方向、期间、产品／渠道口径；新增事实经学生回原文核验。",
       "status": "待真实本人新原文核验",
@@ -39,10 +29,11 @@
       "id": "H01",
       "type": "合同必补",
       "description": "第五两稿新增本人PDF核验",
-      "status": "候选R2024-08及原页/运算/窗口入口已准备，待本人真实核验",
-      "human_confirmation_occurred": false,
+      "status": "2026-10-12本人新增窗口核验及两份第五条款补齐完成",
+      "human_confirmation_occurred": true,
       "review_card": "docs/20261012-h01-review-card.md",
-      "candidate_id": "R2024-08"
+      "candidate_id": "R2024-08",
+      "evidence": "work/h01-20261012/human-confirmation-receipt.json"
     },
     {
       "id": "D01",
@@ -103,5 +94,6 @@
     "E06后续另定合同/范围"
   ],
   "no_repeated_old_fact_confirmation": true,
-  "originals_local_only": true
+  "originals_local_only": true,
+  "next_work_item": "D01"
 }

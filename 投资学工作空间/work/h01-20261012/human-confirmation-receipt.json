@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-12",
+  "candidate_id": "R2024-08",
+  "current_fact": {
+    "id": "R2024-08",
+    "claim": "合同负债（预收货款）期末／期初余额",
+    "source_version": "2024年年度报告；SHA见manifest与H01核验卡",
+    "year": 2024,
+    "period": "2024-12-31期末／2023-12-31比较列（2024期初）",
+    "location": "PDF／报告104页附注26；58页表头／60页合并表交叉",
+    "value": "期末9,592,453,014.66／期初14,125,755,802.29",
+    "scope": "人民币元；合并财务报表附注；预收货款余额，非本年收款流量",
+    "unit": "人民币元",
+    "table": "来源定位见原PDF与口径",
+    "support_boundary": "限定为公司披露的合并合同负债余额及附注构成",
+    "unsupported_boundary": "不能单凭余额变化证明需求、品牌或资金占用优势；不证明净预收现金变化",
+    "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+    "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+    "state": "Fact",
+    "actor": "Leo",
+    "confirmed_at": "2026-10-12T20:28:01+08:00",
+    "note": "",
+    "pending_issue": "H01本任务新增候选，待本人亲看PDF并在核验入口确认；原因说明及计算判断另记",
+    "stale_reason": "",
+    "numbers": [
+      "9,592,453,014.66",
+      "14,125,755,802.29"
+    ],
+    "candidate_fingerprint": "08473577ca81abd824af877a884d22b1ee7228958c98a8ad615e52991dc637de",
+    "binding": "50b379e85fe4a04982f34e70de7b4dfa961702aa7a8675eee71b443cbab01145",
+    "submitted_state": "Fact"
+  },
+  "window_event_sequence": 18,
+  "window_actor": "Leo",
+  "window_confirmed_at": "2026-10-12T20:28:01+08:00",
+  "user_reply": "H01原文、两期金额、人民币元和合并口径均一致，已在窗口确认R2024-08。我觉得你这样做也太费token了，你直接跟我一条条核对和进行工作吧，或者核验窗口已经有的就直接让我去核验窗口做也行",
+  "window_actor_and_time_preserved": true,
+  "applies_to": [
+    "第五次综合-07",
+    "第五次第一部分-04"
+  ],
+  "support": "仅披露两期预收货款余额及所核单位/日期/合并口径",
+  "new_mechanism_judgment": false,
+  "task07_new_check_completed": false
+}
