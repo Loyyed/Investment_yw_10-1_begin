@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-12",
+  "source": "本人本聊天字段说明",
+  "user_quote": "我没有各字段定义与单位为，但我可以直接告诉你。\n\n batch_no表示条目Number代码，batch_name为batch_no的对应实际名称time为时间字段id为index_name的对应id代码，index_name为实际小条目名称value为小条目对应数值，实际单位需要对应小条目确定，rtime为详细时间",
+  "request_followup": "你自己也去补充材料的iFinD CSV文件去仔细研读",
+  "accepted_header_descriptions": {
+    "batch_no": "条目Number代码；文件内为分类条目代码，同一代码多行重复",
+    "batch_name": "batch_no对应的实际名称",
+    "time": "时间字段；具体统计日/期间按细项另审",
+    "id": "index_name对应ID代码",
+    "index_name": "实际小条目名称",
+    "value": "小条目数值；实际单位按各小条目确定",
+    "rtime": "详细时间；是否公开/更新/其他时间尚未说明"
+  },
+  "unresolved": [
+    "各细项单位、币种与统计定义",
+    "rtime业务含义及是否能代表可获时间",
+    "thscode业务含义；全文件为空"
+  ],
+  "verification": {
+    "date": "2026-10-12",
+    "source": "D:\\投资学\\课件与任务文件\\补充材料\\白酒行业_iFinD字段全集_上市以来.csv",
+    "sha256": "2c91b0a280bf1f31eec38b2dbf1f8b3171b48e77efbde3c7010433481369a5e2",
+    "records_read": 138652,
+    "unique_ids": 538,
+    "unique_names": 538,
+    "batches": [
+      {
+        "batch_no": "1",
+        "batch_names": [
+          "01_白酒与乳制品_价格"
+        ],
+        "rows": 100253,
+        "indicators": 173
+      },
+      {
+        "batch_no": "13",
+        "batch_names": [
+          "13_白酒制造_产品销售收入"
+        ],
+        "rows": 268,
+        "indicators": 2
+      },
+      {
+        "batch_no": "2",
+        "batch_names": [
+          "02_白酒与乳制品_全国产销与白酒地区产量"
+        ],
+        "rows": 11695,
+        "indicators": 77
+      },
+      {
+        "batch_no": "3",
+        "batch_names": [
+          "03_白酒与乳制品_地区产量与进出口"
+        ],
+        "rows": 12433,
+        "indicators": 80
+      },
+      {
+        "batch_no": "4",
+        "batch_names": [
+          "04_白酒与乳制品_产能与公司经营"
+        ],
+        "rows": 2975,
+        "indicators": 141
+      },
+      {
+        "batch_no": "5",
+        "batch_names": [
+          "05_白酒与乳制品_行业财务"
+        ],
+        "rows": 11028,
+        "indicators": 65
+      }
+    ],
+    "batch_no_to_name_conflicts": {},
+    "id_to_index_name_conflicts": {},
+    "index_name_to_multiple_ids": {},
+    "blank_fields": {
+      "thscode": 138652
+    },
+    "non_finite_or_non_numeric_values": 0,
+    "time_length_distribution": {
+      "10": 138652
+    },
+    "rtime_length_distribution": {
+      "19": 138652
+    },
+    "date_order_only_not_semantics": {
+      "rtime_equal_time": 61077,
+      "rtime_after_time": 74598,
+      "rtime_before_time": 2977
+    },
+    "time_examples": [
+      {
+        "csv_line": 346,
+        "id": "S004210537",
+        "index_name": "价格:白酒:五粮液(52°):500ml:京东",
+        "time": "2025-06-23",
+        "rtime": "2025-06-24 08:53:58"
+      },
+      {
+        "csv_line": 714,
+        "id": "S004210537",
+        "index_name": "价格:白酒:五粮液(52°):500ml:京东",
+        "time": "2024-02-17",
+        "rtime": "2024-02-18 09:06:19"
+      },
+      {
+        "csv_line": 715,
+        "id": "S004210537",
+        "index_name": "价格:白酒:五粮液(52°):500ml:京东",
+        "time": "2024-02-16",
+        "rtime": "2024-02-18 09:06:19"
+      }
+    ],
+    "policy": "用户说明字段结构；具体指标单位、定义及rtime业务含义不由机器日期比较证明"
+  },
+  "company_numeric_facts_promoted": false
+}

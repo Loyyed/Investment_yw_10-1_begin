@@ -36,11 +36,23 @@
       "id": "SC02",
       "kind": "时间窗口与版本",
       "location": "time/rtime；python-profile.json",
-      "original": "文件覆盖至2026-10-10，历史观测也可能晚更新",
+      "original": "time与rtime字段含义不同；rtime是详细时间，具体业务含义待核",
       "finding": "截至2024-12-31观测121191条，之后17461条；前者中1035条rtime晚于截止期",
-      "treatment": "主研究会计期至2024；2025/26独立跟踪；更新日不当实际公告日",
-      "state": "已分窗；历史可获性Unknown",
-      "impact": "不把2026导出版本用于无前视偏差的2024回测或当时判断"
+      "treatment": "保留原时间字段与分窗；收回rtime=更新日假设，不把其当已知公开/更新日；全字段日期比较仅为线索",
+      "state": "已分窗；rtime语义及历史可获性Unknown",
+      "impact": "不把2026导出版本用于无前视偏差的2024回测或当时判断",
+      "history": [
+        {
+          "date": "2026-10-12",
+          "previous": {
+            "original": "文件覆盖至2026-10-10，历史观测也可能晚更新",
+            "treatment": "主研究会计期至2024；2025/26独立跟踪；更新日不当实际公告日",
+            "state": "已分窗；历史可获性Unknown"
+          },
+          "reason": "此前将rtime称为更新日缺少字段说明；本人仅说明详细时间，全量研读发现日期早/晚/同日均有"
+        }
+      ],
+      "clarification_source": "csv-header-user-clarification.json"
     },
     {
       "id": "SC03",
