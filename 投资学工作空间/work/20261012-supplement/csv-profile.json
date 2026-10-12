@@ -1,0 +1,31 @@
+{
+  "source": "D:/投资学/课件与任务文件/补充材料/白酒行业_iFinD字段全集_上市以来.csv",
+  "sha256": "2c91b0a280bf1f31eec38b2dbf1f8b3171b48e77efbde3c7010433481369a5e2",
+  "bytes": 19098818,
+  "encoding": "UTF-8 BOM",
+  "header": [
+    "batch_no",
+    "batch_name",
+    "time",
+    "id",
+    "index_name",
+    "value",
+    "rtime",
+    "thscode"
+  ],
+  "records": 138652,
+  "series": 538,
+  "min_time": "2001-01-31",
+  "max_time": "2026-10-10",
+  "blank_fields": {
+    "thscode": 138652
+  },
+  "non_numeric": 0,
+  "bad_rows": [],
+  "duplicate_keys": 0,
+  "conflict_keys": 0,
+  "duplicate_examples": [],
+  "conflict_examples": [],
+  "unit_policy": "原CSV无unit列；不能凭名称默补单位、定义或披露时点",
+  "source_policy": "附件iFinD导出；供应商上游来源及字段元数据尚待补；不冒充原始年报或新学生核验"
+}

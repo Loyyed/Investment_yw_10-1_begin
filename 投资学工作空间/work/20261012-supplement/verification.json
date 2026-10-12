@@ -1,0 +1,521 @@
+{
+  "date": "2026-10-12",
+  "checks": [
+    {
+      "check": "两解析器条数一致",
+      "passed": true
+    },
+    {
+      "check": "两解析器序列数一致",
+      "passed": true
+    },
+    {
+      "check": "两解析器重复/冲突均0",
+      "passed": true
+    },
+    {
+      "check": "主/后续窗口分开",
+      "passed": true
+    },
+    {
+      "check": "原行绑定100879",
+      "passed": true
+    },
+    {
+      "check": "原行绑定100868",
+      "passed": true
+    },
+    {
+      "check": "原行绑定100857",
+      "passed": true
+    },
+    {
+      "check": "原行绑定100846",
+      "passed": true
+    },
+    {
+      "check": "原行绑定100835",
+      "passed": true
+    },
+    {
+      "check": "原行绑定100824",
+      "passed": true
+    },
+    {
+      "check": "原行绑定101173",
+      "passed": true
+    },
+    {
+      "check": "原行绑定101162",
+      "passed": true
+    },
+    {
+      "check": "原行绑定101151",
+      "passed": true
+    },
+    {
+      "check": "原行绑定101140",
+      "passed": true
+    },
+    {
+      "check": "原行绑定101129",
+      "passed": true
+    },
+    {
+      "check": "原行绑定101118",
+      "passed": true
+    },
+    {
+      "check": "原行绑定25630",
+      "passed": true
+    },
+    {
+      "check": "原行绑定25277",
+      "passed": true
+    },
+    {
+      "check": "原行绑定24922",
+      "passed": true
+    },
+    {
+      "check": "原行绑定24561",
+      "passed": true
+    },
+    {
+      "check": "原行绑定24196",
+      "passed": true
+    },
+    {
+      "check": "原行绑定27681",
+      "passed": true
+    },
+    {
+      "check": "原行绑定27328",
+      "passed": true
+    },
+    {
+      "check": "原行绑定26973",
+      "passed": true
+    },
+    {
+      "check": "原行绑定26612",
+      "passed": true
+    },
+    {
+      "check": "原行绑定26247",
+      "passed": true
+    },
+    {
+      "check": "原行绑定29732",
+      "passed": true
+    },
+    {
+      "check": "原行绑定29379",
+      "passed": true
+    },
+    {
+      "check": "原行绑定29024",
+      "passed": true
+    },
+    {
+      "check": "原行绑定28663",
+      "passed": true
+    },
+    {
+      "check": "原行绑定28298",
+      "passed": true
+    },
+    {
+      "check": "原行绑定45158",
+      "passed": true
+    },
+    {
+      "check": "原行绑定44801",
+      "passed": true
+    },
+    {
+      "check": "原行绑定44447",
+      "passed": true
+    },
+    {
+      "check": "原行绑定44088",
+      "passed": true
+    },
+    {
+      "check": "原行绑定43730",
+      "passed": true
+    },
+    {
+      "check": "原行绑定53690",
+      "passed": true
+    },
+    {
+      "check": "原行绑定53334",
+      "passed": true
+    },
+    {
+      "check": "原行绑定52978",
+      "passed": true
+    },
+    {
+      "check": "原行绑定52624",
+      "passed": true
+    },
+    {
+      "check": "原行绑定52265",
+      "passed": true
+    },
+    {
+      "check": "原行绑定51907",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125144",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125143",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125142",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125141",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125140",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125139",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125174",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125173",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125172",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125171",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125170",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125169",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125228",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125227",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125226",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125225",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125224",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125223",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125238",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125237",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125236",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125235",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125234",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125233",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125248",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125247",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125246",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125245",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125244",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125243",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125258",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125257",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125256",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125255",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125254",
+      "passed": true
+    },
+    {
+      "check": "原行绑定125253",
+      "passed": true
+    },
+    {
+      "check": "原行绑定23913",
+      "passed": true
+    },
+    {
+      "check": "原行绑定25964",
+      "passed": true
+    },
+    {
+      "check": "原行绑定28015",
+      "passed": true
+    },
+    {
+      "check": "原行绑定43447",
+      "passed": true
+    },
+    {
+      "check": "原行绑定51624",
+      "passed": true
+    },
+    {
+      "check": "库存原报告绑定2020",
+      "passed": true
+    },
+    {
+      "check": "库存原报告绑定2021",
+      "passed": true
+    },
+    {
+      "check": "库存原报告绑定2022",
+      "passed": true
+    },
+    {
+      "check": "库存原报告绑定2023",
+      "passed": true
+    },
+    {
+      "check": "库存原报告绑定2024",
+      "passed": true
+    },
+    {
+      "check": "库存合计2020",
+      "passed": true
+    },
+    {
+      "check": "库存合计2021",
+      "passed": true
+    },
+    {
+      "check": "库存合计2022",
+      "passed": true
+    },
+    {
+      "check": "库存合计2023",
+      "passed": true
+    },
+    {
+      "check": "库存合计2024",
+      "passed": true
+    },
+    {
+      "check": "销售量交叉S0174334912020",
+      "passed": true
+    },
+    {
+      "check": "销售量交叉S0174334922020",
+      "passed": true
+    },
+    {
+      "check": "销售量交叉S0174334912021",
+      "passed": true
+    },
+    {
+      "check": "销售量交叉S0174334922021",
+      "passed": true
+    },
+    {
+      "check": "销售量交叉S0174334912022",
+      "passed": true
+    },
+    {
+      "check": "销售量交叉S0174334922022",
+      "passed": true
+    },
+    {
+      "check": "销售量交叉S0174334912023",
+      "passed": true
+    },
+    {
+      "check": "销售量交叉S0174334922023",
+      "passed": true
+    },
+    {
+      "check": "销售量交叉S0174334912024",
+      "passed": true
+    },
+    {
+      "check": "销售量交叉S0174334922024",
+      "passed": true
+    },
+    {
+      "check": "报价同比Decimal复算",
+      "passed": true
+    },
+    {
+      "check": "行业机械比2020",
+      "passed": true
+    },
+    {
+      "check": "行业机械比2021",
+      "passed": true
+    },
+    {
+      "check": "行业机械比2022",
+      "passed": true
+    },
+    {
+      "check": "行业机械比2023",
+      "passed": true
+    },
+    {
+      "check": "行业机械比2024",
+      "passed": true
+    },
+    {
+      "check": "行业机械比2025",
+      "passed": true
+    },
+    {
+      "check": "主会计期条数",
+      "passed": true
+    },
+    {
+      "check": "更早历史条数",
+      "passed": true
+    },
+    {
+      "check": "后续跟踪条数",
+      "passed": true
+    },
+    {
+      "check": "主期晚更新条数",
+      "passed": true
+    },
+    {
+      "check": "凯利归一化风险本金比例",
+      "passed": true
+    },
+    {
+      "check": "凯利比例单位转换",
+      "passed": true
+    },
+    {
+      "check": "期望回报两案例",
+      "passed": true
+    },
+    {
+      "check": "出厂观测均值2021",
+      "passed": true
+    },
+    {
+      "check": "出厂观测均值2022",
+      "passed": true
+    },
+    {
+      "check": "出厂观测均值2023",
+      "passed": true
+    },
+    {
+      "check": "出厂观测均值2024",
+      "passed": true
+    },
+    {
+      "check": "旧原件与权威保持",
+      "passed": true
+    },
+    {
+      "check": "补充原件SHA 《证券投资分析》slides_2026_脱敏.key.pdf",
+      "passed": true
+    },
+    {
+      "check": "补充原件SHA 白酒行业_iFinD字段全集_上市以来.csv",
+      "passed": true
+    },
+    {
+      "check": "补充原件SHA 第七次任务合同_贵州茅台叙事核验.md",
+      "passed": true
+    },
+    {
+      "check": "补充原件SHA 第六次任务合同_贵州茅台行业竞争与竞争优势.md",
+      "passed": true
+    }
+  ],
+  "count": 126,
+  "kelly": {
+    "risked_capital_fraction": "0.89",
+    "unconstrained_investment_fraction": "2.966666666666666666666666667",
+    "no_leverage_math_domain": [
+      0,
+      1
+    ],
+    "actual_portfolio_decision": "不生成"
+  },
+  "old_authority_preserved": true,
+  "source_fingerprint": "2c91b0a280bf1f31eec38b2dbf1f8b3171b48e77efbde3c7010433481369a5e2"
+}

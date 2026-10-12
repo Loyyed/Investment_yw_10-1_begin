@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-12",
+  "signatures": [
+    {
+      "contract": "第六次任务合同_贵州茅台行业竞争与竞争优势.md",
+      "original_sha256": "93acb50f2cd9c6977db83c0c69be0b52bda65ff8787556109c801175479c1629",
+      "executed_copy": "tasks/executed-20261012/第六次任务合同_贵州茅台行业竞争与竞争优势.md",
+      "executor": "lxy",
+      "reviewer": "lxy",
+      "date": "2026-10-12",
+      "same_person": true,
+      "independent_review": false,
+      "authorization": "evidence/20261012-execution-authorization.json",
+      "human_new_source_checks": false,
+      "teacher_approval": "未提供",
+      "new_mechanism_final_judgment": "待人工",
+      "content": "内容/完整缺口路径和签署完成；新市场边界/解释待人工"
+    },
+    {
+      "contract": "第七次任务合同_贵州茅台叙事核验.md",
+      "original_sha256": "5237bc4d19110ed6f60eb6f425c5735d472606a341e72384829d1f99e7861035",
+      "executed_copy": "tasks/executed-20261012/第七次任务合同_贵州茅台叙事核验.md",
+      "executor": "lxy",
+      "reviewer": "lxy",
+      "date": "2026-10-12",
+      "same_person": true,
+      "independent_review": false,
+      "authorization": "evidence/20261012-execution-authorization.json",
+      "human_new_source_checks": false,
+      "teacher_approval": "未提供",
+      "new_mechanism_final_judgment": "待人工",
+      "content": "内容及签署完成；新学生亲查与最终裁决待补"
+    }
+  ]
+}

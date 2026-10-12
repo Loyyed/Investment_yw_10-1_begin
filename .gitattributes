@@ -2,3 +2,6 @@ README.md text eol=lf
 .gitignore text eol=lf
 .gitattributes text eol=lf
 课件与任务文件/** -text
+
+# 附件供应商CSV保持原字节与来源SHA，避免换行转换
+/课件与任务文件/补充材料/*.csv -text -diff

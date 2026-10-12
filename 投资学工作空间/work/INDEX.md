@@ -1,3 +1,5 @@
+> 2026-10-12新增入口：[补充反馈](../docs/20261012-supplement-feedback.md)、[第六次过程](task06-industry-advantage-checks.md)、[第七次审计](task07-narrative-audit.md)、[数据与原行](20261012-supplement/data-guide.md)、[修正/冲突](20261012-supplement/conflict-register.md)。新合同真实提供，旧“无第六七次”属10日历史。
+
 # 过程底稿入口（2026-10-10）
 
 先看[本轮合同反馈](../docs/20261010-contract-feedback.md)，再按问题进入过程。中间产物保留，新的入口替代旧状态提示，历史不删除。

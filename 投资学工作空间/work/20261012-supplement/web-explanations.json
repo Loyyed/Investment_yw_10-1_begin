@@ -1,0 +1,17 @@
+{
+  "retrieved_on": "2026-10-12",
+  "purpose": "仅解释补充课件交易时段，非核心公司/行业数据",
+  "items": [
+    {
+      "url": "https://www.sse.com.cn/lawandrules/sselawsrules2025/stocks/exchange/c/c_20260424_10816482.shtml",
+      "published": "2026-04-24",
+      "effective": "2026-07-06",
+      "finding": "当前通知注明2026规则有效；正文docx web工具不支持读取，检索片段与投教对照，保留限制"
+    },
+    {
+      "url": "https://edu.sse.com.cn/best/article/gsxlsc/c/4725367.shtml",
+      "published": "2019-02-24",
+      "finding": "官方解释开盘9:20—9:25不接受撤单，可反证课件9:22分界"
+    }
+  ]
+}

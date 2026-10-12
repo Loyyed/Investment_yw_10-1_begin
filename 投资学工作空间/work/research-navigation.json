@@ -7,7 +7,8 @@
       "question": "研究哪家公司、哪个时点、哪些合同？",
       "files": [
         "docs/20261010-contract-feedback.md",
-        "work/20261010-contract-map.json"
+        "work/20261010-contract-map.json",
+        "docs/20261012-supplement-feedback.md"
       ],
       "record_ids": [],
       "work_status": "底稿完成",
@@ -19,7 +20,8 @@
       "question": "数字在哪一页？期间、单位和主体是否对应？",
       "files": [
         "work/metric-scope-candidates.md",
-        "outputs/revenue-structure-table.md"
+        "outputs/revenue-structure-table.md",
+        "work/series-definition.md"
       ],
       "record_ids": [
         "C01",
@@ -38,7 +40,8 @@
       "question": "两期可比吗？哪些重大变化需要停算或重新解释？",
       "files": [
         "work/yearly-changes.md",
-        "work/20261010-recheck/results.json"
+        "work/20261010-recheck/results.json",
+        "work/20261012-supplement/conflict-register.md"
       ],
       "record_ids": [],
       "work_status": "底稿完成",
@@ -50,7 +53,9 @@
       "question": "收入、成本、资本和现金怎样相连？什么会证明解释错了？",
       "files": [
         "work/lec03-evidence-expansion.md",
-        "outputs/task05-business-model-map.md"
+        "outputs/task05-business-model-map.md",
+        "outputs/task06-industry-advantage.md",
+        "work/task07-narrative-audit.md"
       ],
       "record_ids": [],
       "work_status": "底稿完成",
@@ -62,7 +67,8 @@
       "question": "结论得到什么支持，还有哪些Unknown影响判断？",
       "files": [
         "outputs/lec03-final-results.md",
-        "docs/20261010-contract-feedback.md"
+        "docs/20261010-contract-feedback.md",
+        "docs/20261012-human-review-card.md"
       ],
       "record_ids": [],
       "work_status": "待人工敲定新机制",
@@ -74,7 +80,8 @@
       "question": "真实确认和签署已记录吗？下一人从哪里继续？",
       "files": [
         "work/INDEX.md",
-        "evidence/20261010-contract-signatures.json"
+        "evidence/20261010-contract-signatures.json",
+        "evidence/20261012-contract-signatures.json"
       ],
       "record_ids": [],
       "work_status": "底稿完成",
@@ -83,5 +90,5 @@
   ],
   "network_policy": "附件优先；网络仅作解释/新闻旁证，单独记录，不补核心数据",
   "final_judgment": "人工确认",
-  "signature_status": "本轮执行/复核lxy，同人，2026-10-10；未伪造新本人PDF核验"
+  "signature_status": "10日/12日执行与复核lxy，同人授权填写；新核验与终判不由签名替代"
 }

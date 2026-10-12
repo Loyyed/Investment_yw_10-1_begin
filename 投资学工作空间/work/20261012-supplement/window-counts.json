@@ -1,0 +1,18 @@
+{
+  "source_sha256": "2c91b0a280bf1f31eec38b2dbf1f8b3171b48e77efbde3c7010433481369a5e2",
+  "main": {
+    "from": "2020-01-01",
+    "to": "2024-12-31",
+    "records": 49629,
+    "updated_after_period_end": 462
+  },
+  "earlier_history": {
+    "records": 71562
+  },
+  "later_followup": {
+    "records": 17461
+  },
+  "total": 138652,
+  "cutoff_only_count": 121191,
+  "note": "按观测期划分，非真实可获信息集；原rtime不是公告日"
+}

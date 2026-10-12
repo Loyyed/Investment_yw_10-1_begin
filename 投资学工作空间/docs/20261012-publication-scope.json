@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-12",
+  "repository": "Loyyed/Investment_yw_10-1_begin",
+  "published_scope": "学习与流程、合同签署执行稿、报告/矩阵、修正与冲突、代码/图表、检查及来源元信息",
+  "local_only_originals": [
+    {
+      "path": "D:/投资学/课件与任务文件/补充材料/《证券投资分析》slides_2026_脱敏.key.pdf",
+      "name": "《证券投资分析》slides_2026_脱敏.key.pdf",
+      "sha256": "17f7194158f23f9f0a4057c6ccacaf25ca3152cfe481b01deee6d0d07939fc52",
+      "bytes": 14089562
+    },
+    {
+      "path": "D:/投资学/课件与任务文件/补充材料/白酒行业_iFinD字段全集_上市以来.csv",
+      "name": "白酒行业_iFinD字段全集_上市以来.csv",
+      "sha256": "2c91b0a280bf1f31eec38b2dbf1f8b3171b48e77efbde3c7010433481369a5e2",
+      "bytes": 19098818
+    },
+    {
+      "path": "D:/投资学/课件与任务文件/补充材料/第七次任务合同_贵州茅台叙事核验.md",
+      "name": "第七次任务合同_贵州茅台叙事核验.md",
+      "sha256": "5237bc4d19110ed6f60eb6f425c5735d472606a341e72384829d1f99e7861035",
+      "bytes": 6203
+    },
+    {
+      "path": "D:/投资学/课件与任务文件/补充材料/第六次任务合同_贵州茅台行业竞争与竞争优势.md",
+      "name": "第六次任务合同_贵州茅台行业竞争与竞争优势.md",
+      "sha256": "93acb50f2cd9c6977db83c0c69be0b52bda65ff8787556109c801175479c1629",
+      "bytes": 6297
+    }
+  ],
+  "local_only_row_inputs": [
+    "work/20261012-supplement/selected-observations.json",
+    "work/20261012-supplement/series-catalog.json"
+  ],
+  "auto_review": {
+    "action": "首次拟将完整四原件随成果推送",
+    "result": "Rejected before execution",
+    "reason": "该推送会将原始PDF、19MB供应商CSV及其他补充材料外传至GitHub；用户授权了成果上传，但未明确授权这些可能含敏感内容的原始载荷发送到该外部目的地。"
+  },
+  "original_upload_approval": "待本人明确授权；未将拒绝解释成已获批准",
+  "reproducibility": "完整原件与逐行输入保留本地；远程仅成果和元信息，不宣称远程已具备全量输入"
+}

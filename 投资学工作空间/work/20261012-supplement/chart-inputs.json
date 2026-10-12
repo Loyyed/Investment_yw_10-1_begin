@@ -1,0 +1,30 @@
+[
+  {
+    "year": 2021,
+    "company_asp": "257.75",
+    "company_record_id": "L03-A2021-B",
+    "quote": "2730.0",
+    "csv_line": 45158
+  },
+  {
+    "year": 2022,
+    "company_asp": "284.51",
+    "company_record_id": "L03-A2022-B",
+    "quote": "2820.0",
+    "csv_line": 44801
+  },
+  {
+    "year": 2023,
+    "company_asp": "300.62",
+    "company_record_id": "L03-A2023-B",
+    "quote": "2810.0",
+    "csv_line": 44447
+  },
+  {
+    "year": 2024,
+    "company_asp": "314.41",
+    "company_record_id": "L03-A2024-B",
+    "quote": "2400.0",
+    "csv_line": 44088
+  }
+]

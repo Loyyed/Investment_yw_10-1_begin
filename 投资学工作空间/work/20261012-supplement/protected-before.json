@@ -1,0 +1,15 @@
+{
+  "evidence/review-state.json": "504167f25b3877058908d39c6b47edff835673a28d055dd0b9336817b41f3daf",
+  "evidence/change-review-state.json": "c3f8f262123cfc758a65d22716ff165bba2f4c452fa780511856028904f96587",
+  "evidence/m01-disclosure-review.json": "f5be129332a7f660558b50437aabf86195dbb3293b203e2b257e510cc63d412a",
+  "evidence/m01-metric-review.json": "9ebbdadb66a9d073d6168e5cc091adcaf8f99b7cccf480549ac92c964dc3c75e",
+  "evidence/m01-scale-review.json": "bd02573af59a5f98f47289cacacc14580284b11a6012e96ac379c0bae12b7360",
+  "evidence/lec03-agent-facts.json": "2251b8067e5e080b1ddd8260b379c7d4fde39c6a7df7cd28c14f382995f86f05",
+  "sources/manifest.json": "d3e2fd3327ad731415248870d6a8ae85769b7a49e4796538d6fee55c0da73fdc",
+  "work/structured-data.json": "ee368ae1d172969c940932ea34435bb5c04ef81d89e429fe52fd034cd9d7a900",
+  "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c",
+  "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf": "f65effdde58bcea99fd6bdb53f61b31d5c432e6dfb2661e5caf05156a433ea5a",
+  "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358",
+  "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1",
+  "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+}
