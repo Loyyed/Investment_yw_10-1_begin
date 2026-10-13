@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-13",
+  "work_item": "H03",
+  "candidate_id": "R2024-07",
+  "claim": "直销收入与成本",
+  "source_pdf": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+  "source_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+  "source_page": 9,
+  "cross_reference_page": 17,
+  "values": [
+    "74,843,327,030.79",
+    "3,493,952,839.59"
+  ],
+  "unit": "人民币元",
+  "scope": "人民币元；管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+  "candidate_fingerprint": "05f549966085186198f45795423dd21b8848b06d6f1631490e47ae64eda17707",
+  "binding": "b18e3abc5535e5084cbaa4355dd9952590003f520697bd2016636cb1c30e46f1",
+  "authority_snapshot": {
+    "numerical_facts": 17,
+    "change_facts": 2,
+    "candidate_already_human_confirmed": false
+  },
+  "human_confirmation_occurred": false,
+  "agent_original_page_checked": true,
+  "purpose": "第七次新学生核验；检验渠道结构对公司ASP与收益解释的影响",
+  "support_boundary": "仅确认2024酒类主营业务直销收入和成本披露；不单凭一年渠道数字认定品牌因果/终端动销",
+  "user_action": "在核验窗口选择R2024-07，亲看PDF9页分销售模式，核两项金额、元单位及酒类主营业务口径后本人点击确认，告诉Agent完成；有疑问保留Unknown",
+  "contract_effect": "真实用户事件发生后再衔接T7-3和阶段成果；本准备记录不勾完成"
+}

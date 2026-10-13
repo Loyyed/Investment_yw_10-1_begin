@@ -72,7 +72,7 @@
       "id": "D04",
       "type": "新证据准备",
       "description": "同SKU价格层级和需求",
-      "status": "S005977087人民币元/500ml瓶已本人确认，两期原行/变化已复算；实际成交或报价性质、样本、税费仍Unknown",
+      "status": "S005977087元/500ml瓶及可交易现货性质已本人说明；变化复算已保留。样本/税费/终端量及其他报价字段Unknown，先推进可独立完成的新学生核验",
       "human_confirmation_occurred": false,
       "unit_confirmation_occurred": true,
       "evidence": "work/20261012-supplement/price-unit-clarification-20261013.json"
@@ -81,8 +81,10 @@
       "id": "H03",
       "type": "合同必补",
       "description": "第七新增本人核验及阶段记录",
-      "status": "待共同执行",
-      "human_confirmation_occurred": false
+      "status": "R2024-07原页与绑定已核；待本人核验窗口新确认，再衔接T7-3及阶段成果",
+      "human_confirmation_occurred": false,
+      "candidate_id": "R2024-07",
+      "preparation": "work/h03-20261013/preparation.json"
     },
     {
       "id": "H04",
@@ -102,5 +104,5 @@
   ],
   "no_repeated_old_fact_confirmation": true,
   "originals_local_only": true,
-  "next_work_item": "D04"
+  "next_work_item": "H03"
 }

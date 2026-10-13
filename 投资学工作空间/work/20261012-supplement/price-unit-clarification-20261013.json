@@ -43,11 +43,18 @@
     "state": "Agent按附件原数复算，不等于本人新增金额或运算结果核准"
   },
   "unknown": [
-    "实际成交或市场报价/参考性质",
-    "取价地区和样本",
+    "已成交逐笔记录/统计方式",
+    "取价地区、样本和买卖侧",
     "税费与交易条件",
     "终端销出量"
   ],
   "boundary": "字段标签带21年，与公司组ASP和其他年份/出厂报价分开；不判断品牌独立因果或成交量加权净价",
-  "new_numeric_window_fact_added": false
+  "new_numeric_window_fact_added": false,
+  "price_nature_clarification": {
+    "date": "2026-10-13",
+    "actual_user_reply": "它反映的是**当前市场上可交易的现货价格**",
+    "confirmed_definition": "市场上可交易的现货价格",
+    "application_to_history": "Agent按各行time对应的观测日期使用，不把历史行当读取日即时价格",
+    "confirmation_scope": "仅解释该行情字段性质，不扩其他价格字段或自动新数值Fact"
+  }
 }
