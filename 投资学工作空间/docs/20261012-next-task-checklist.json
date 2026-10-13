@@ -72,8 +72,10 @@
       "id": "D04",
       "type": "新证据准备",
       "description": "同SKU价格层级和需求",
-      "status": "待共同执行",
-      "human_confirmation_occurred": false
+      "status": "S005977087人民币元/500ml瓶已本人确认，两期原行/变化已复算；实际成交或报价性质、样本、税费仍Unknown",
+      "human_confirmation_occurred": false,
+      "unit_confirmation_occurred": true,
+      "evidence": "work/20261012-supplement/price-unit-clarification-20261013.json"
     },
     {
       "id": "H03",

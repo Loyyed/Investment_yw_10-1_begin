@@ -123,8 +123,16 @@
       "original": "茅台组ASP2024增长4.59%；21年散瓶报价2810→2400",
       "finding": "同报价字段变化-14.59%；组ASP非该SKU市场报价，公司销量非终端动销",
       "treatment": "保留两组结果；将新报价作为候选挑战，重评品牌独立持续增强，不写品牌失效Fact",
-      "state": "Interpretation待人工裁决；报价元数据/成交量Unknown",
-      "impact": "上调组ASP不能证明市场净溢价连续上升；年份标签固定21年不可冒称2024新酒"
+      "state": "S005977087币种/单位已本人确认；成交性质/样本/税费/销量Unknown；品牌机制Interpretation仍待最终裁决",
+      "impact": "上调组ASP不能证明市场净溢价连续上升；年份标签固定21年不可冒称2024新酒",
+      "history": [
+        {
+          "date": "2026-10-13",
+          "previous_state": "Interpretation待人工裁决；报价元数据/成交量Unknown",
+          "reason": "本人仅确认S005977087人民币元/500ml瓶，其他元数据缺口保留"
+        }
+      ],
+      "unit_confirmation_source": "price-unit-clarification-20261013.json"
     },
     {
       "id": "SC06",

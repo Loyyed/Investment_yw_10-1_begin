@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-13",
+  "id": "S005977087",
+  "actual_user_reply": "对",
+  "question_answered": "CSV的S005977087「21年飞天茅台（散瓶，53度）500ml行情价」，单位是否为人民币元／瓶，每瓶500ml？",
+  "currency": "人民币",
+  "unit": "元/瓶",
+  "bottle_volume_ml": 500,
+  "confirmation_scope": "该字段币种、计价单位和每瓶容量；不扩其他字段或真实成交口径",
+  "source_sha256": "2c91b0a280bf1f31eec38b2dbf1f8b3171b48e77efbde3c7010433481369a5e2",
+  "csv_path": "课件与任务文件/补充材料/白酒行业_iFinD字段全集_上市以来.csv",
+  "source_rows": [
+    {
+      "line": 44088,
+      "batch_no": "1",
+      "batch_name": "01_白酒与乳制品_价格",
+      "time": "2024-12-31",
+      "id": "S005977087",
+      "index_name": "行情价:白酒:21年飞天茅台(散瓶,53度):500ml",
+      "value": "2400.0",
+      "rtime": "2024-12-31 10:50:20",
+      "thscode": ""
+    },
+    {
+      "line": 44447,
+      "batch_no": "1",
+      "batch_name": "01_白酒与乳制品_价格",
+      "time": "2023-12-31",
+      "id": "S005977087",
+      "index_name": "行情价:白酒:21年飞天茅台(散瓶,53度):500ml",
+      "value": "2810.0",
+      "rtime": "2023-12-31 10:51:55",
+      "thscode": ""
+    }
+  ],
+  "agent_calculation": {
+    "from": "2023-12-31",
+    "to": "2024-12-31",
+    "price_change_yuan_per_bottle": "-410.0",
+    "formula": "(2400.0 - 2810.0) / 2810.0 * 100",
+    "change_percent": "-14.59074733096085409252669039",
+    "display_percent": "-14.59%",
+    "state": "Agent按附件原数复算，不等于本人新增金额或运算结果核准"
+  },
+  "unknown": [
+    "实际成交或市场报价/参考性质",
+    "取价地区和样本",
+    "税费与交易条件",
+    "终端销出量"
+  ],
+  "boundary": "字段标签带21年，与公司组ASP和其他年份/出厂报价分开；不判断品牌独立因果或成交量加权净价",
+  "new_numeric_window_fact_added": false
+}
