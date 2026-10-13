@@ -89,7 +89,7 @@
     "number": 7,
     "contract": "第七次任务合同_贵州茅台叙事核验.md",
     "original_sha256": "5237bc4d19110ed6f60eb6f425c5735d472606a341e72384829d1f99e7861035",
-    "executed_copy": "tasks/executed-20261012/第七次任务合同_贵州茅台叙事核验.md",
+    "executed_copy": "tasks/executed-20261013/第七次任务合同_贵州茅台叙事核验.md",
     "clauses": [
       {
         "id": "T7-1",
@@ -116,12 +116,13 @@
       {
         "id": "T7-3",
         "requirement": "可观察变量写明方向、期间、产品／渠道口径；新增事实经学生回原文核验。",
-        "status": "原稿新增学生亲查条款待补；本轮新增CSV仅候选",
-        "checked": false,
+        "status": "2026-10-13本人窗口R2024-07新原文核验真实完成，变量及阶段记录已衔接",
+        "checked": true,
         "evidence": [
           "work/task07-narrative-audit.md",
           "outputs/lec03-evidence-matrix.md",
-          "outputs/lec03-stage-deliverables.md"
+          "outputs/lec03-stage-deliverables.md",
+          "work/h03-20261013/human-confirmation-receipt.json"
         ]
       },
       {
@@ -169,6 +170,9 @@
         ]
       }
     ],
-    "stage_requirement_open": "outputs/lec03-stage-deliverables.md新增学生本次核验记录待补"
+    "stage_requirement_open": "新增学生核验及阶段记录已补齐；新研究最大表述待人工采纳",
+    "previous_executed_copy": "tasks/executed-20261012/第七次任务合同_贵州茅台叙事核验.md",
+    "student_check_completed": true,
+    "new_mechanism_final_judgment": "待人工"
   }
 ]

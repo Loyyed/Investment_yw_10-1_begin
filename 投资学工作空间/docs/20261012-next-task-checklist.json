@@ -9,18 +9,11 @@
     },
     {
       "path": "work/20261012-supplement/contract-map.json",
-      "sha256": "42fd3efaca18fa563a7ce4c625dafb1b04d5be35d307d8b70fe06d687e2e5d94",
+      "sha256": "93bdd70ec9873649d40c21140ca5f6c998643ad4d7f34a202321c08d79aac806",
       "completion_field": "checked"
     }
   ],
-  "mandatory_open_clauses": [
-    {
-      "id": "T7-3",
-      "requirement": "可观察变量写明方向、期间、产品／渠道口径；新增事实经学生回原文核验。",
-      "status": "待真实本人新原文核验",
-      "stage_note": "outputs/lec03-stage-deliverables.md新增学生本次核验记录待补"
-    }
-  ],
+  "mandatory_open_clauses": [],
   "task06_gap_route_completed": true,
   "task06_new_boundary_final_judgment": "本人已采纳研究范围；量化价格带/客户分布与机制结论仍待证",
   "task07_final_judgment": "待人工",
@@ -81,16 +74,17 @@
       "id": "H03",
       "type": "合同必补",
       "description": "第七新增本人核验及阶段记录",
-      "status": "R2024-07原页与绑定已核；待本人核验窗口新确认，再衔接T7-3及阶段成果",
-      "human_confirmation_occurred": false,
+      "status": "2026-10-13本人窗口事件19确认R2024-07，T7-3与阶段新核验记录补齐，补充签署稿保留旧稿",
+      "human_confirmation_occurred": true,
       "candidate_id": "R2024-07",
-      "preparation": "work/h03-20261013/preparation.json"
+      "preparation": "work/h03-20261013/preparation.json",
+      "evidence": "work/h03-20261013/human-confirmation-receipt.json"
     },
     {
       "id": "H04",
       "type": "人工裁决",
       "description": "本版最大可辩护结论",
-      "status": "待共同执行",
+      "status": "当前最大可辩护表述已整理，待本人最终采纳；H03不自动替代机制裁决",
       "human_confirmation_occurred": false
     }
   ],
@@ -104,5 +98,6 @@
   ],
   "no_repeated_old_fact_confirmation": true,
   "originals_local_only": true,
-  "next_work_item": "H03"
+  "next_work_item": "H04",
+  "task07_student_new_check_completed": true
 }

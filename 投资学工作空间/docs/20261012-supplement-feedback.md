@@ -1,3 +1,5 @@
+> 2026-10-13：R2024-07窗口事件19已确认且当前绑定有效；第七T7-3、阶段新增学生记录及13日lxy同人补充签署完成，旧12日稿保留。必补内容清单已补齐；H04最大表述待本人采纳，未知证据缺口继续保留。
+
 # 补充材料学习与第六七次合同反馈
 
 日期2026-10-12。本轮完成四份新材料的学习/数据审查，按真实第六七次合同扩展研究，合并现有Lec03成果，并更新两份主交接和通用工作台。原件、旧Fact、旧人工身份/时间、10日签署和修正历史保留。
@@ -61,7 +63,7 @@
 | --- | --- | --- | --- |
 | T7-1 | 管理层原话与机制解释分开；原话可回到批准 PDF 的版本、页码与上下文。 | 底稿核对完成；依据见对应过程/成果/冲突登记 | [work/task07-narrative-audit.md](../work/task07-narrative-audit.md)；[outputs/lec03-evidence-matrix.md](../outputs/lec03-evidence-matrix.md)；[outputs/lec03-stage-deliverables.md](../outputs/lec03-stage-deliverables.md) |
 | T7-2 | 已引用第五、六次的实际成果及证据编号；未完成的前置任务没有被假定为已完成。 | 底稿核对完成；依据见对应过程/成果/冲突登记 | [work/task07-narrative-audit.md](../work/task07-narrative-audit.md)；[outputs/lec03-evidence-matrix.md](../outputs/lec03-evidence-matrix.md)；[outputs/lec03-stage-deliverables.md](../outputs/lec03-stage-deliverables.md) |
-| T7-3 | 可观察变量写明方向、期间、产品／渠道口径；新增事实经学生回原文核验。 | 原稿新增学生亲查条款待补；本轮新增CSV仅候选 | [work/task07-narrative-audit.md](../work/task07-narrative-audit.md)；[outputs/lec03-evidence-matrix.md](../outputs/lec03-evidence-matrix.md)；[outputs/lec03-stage-deliverables.md](../outputs/lec03-stage-deliverables.md) |
+| T7-3 | 可观察变量写明方向、期间、产品／渠道口径；新增事实经学生回原文核验。 | 2026-10-13 R2024-07本人新核验及阶段记录已补齐；原CSV仍分开 | [work/task07-narrative-audit.md](../work/task07-narrative-audit.md)；[outputs/lec03-evidence-matrix.md](../outputs/lec03-evidence-matrix.md)；[outputs/lec03-stage-deliverables.md](../outputs/lec03-stage-deliverables.md) |
 | T7-4 | 支持、挑战、未决、替代解释和反证条件均分别记录，没有只找支持性数字。 | 底稿核对完成；依据见对应过程/成果/冲突登记 | [work/task07-narrative-audit.md](../work/task07-narrative-audit.md)；[outputs/lec03-evidence-matrix.md](../outputs/lec03-evidence-matrix.md)；[outputs/lec03-stage-deliverables.md](../outputs/lec03-stage-deliverables.md) |
 | T7-5 | 最大可辩护表述没有超过现有材料的时间、业务范围和因果支持力度；至少一项不足保留为 `Unknown`。 | 底稿核对完成；依据见对应过程/成果/冲突登记 | [work/task07-narrative-audit.md](../work/task07-narrative-audit.md)；[outputs/lec03-evidence-matrix.md](../outputs/lec03-evidence-matrix.md)；[outputs/lec03-stage-deliverables.md](../outputs/lec03-stage-deliverables.md) |
 | T7-6 | 已说明哪项问题交给 Lec04—05 继续核验；没有估值或买卖 `Decision`。 | 底稿核对完成；依据见对应过程/成果/冲突登记 | [work/task07-narrative-audit.md](../work/task07-narrative-audit.md)；[outputs/lec03-evidence-matrix.md](../outputs/lec03-evidence-matrix.md)；[outputs/lec03-stage-deliverables.md](../outputs/lec03-stage-deliverables.md) |

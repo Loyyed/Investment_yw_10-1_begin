@@ -962,6 +962,47 @@
         "year": 2024
       },
       "state": "Fact"
+    },
+    {
+      "actor": "Leo",
+      "candidate_fingerprint": "05f549966085186198f45795423dd21b8848b06d6f1631490e47ae64eda17707",
+      "confirmed_at": "2026-10-13T11:06:15+08:00",
+      "id": "R2024-07",
+      "note": "",
+      "operation": "review",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "previous_state": "Unknown",
+      "sequence": 19,
+      "snapshot": {
+        "actor": "",
+        "binding": "b18e3abc5535e5084cbaa4355dd9952590003f520697bd2016636cb1c30e46f1",
+        "candidate_fingerprint": "05f549966085186198f45795423dd21b8848b06d6f1631490e47ae64eda17707",
+        "claim": "直销收入与成本",
+        "confirmed_at": "",
+        "id": "R2024-07",
+        "location": "PDF／报告9,17页",
+        "note": "本人核验待完成",
+        "numbers": [
+          "74,843,327,030.79",
+          "3,493,952,839.59"
+        ],
+        "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+        "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+        "pending_issue": "本人核验待完成",
+        "period": "2024年度",
+        "scope": "人民币元；管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+        "source_version": "2024年报告；SHA见manifest",
+        "stale_reason": "",
+        "state": "Unknown",
+        "support_boundary": "限定范围分解",
+        "table": "来源定位见原PDF与口径",
+        "unit": "人民币元",
+        "unsupported_boundary": "全集团规模或护城河机制",
+        "value": "74,843,327,030.79／3,493,952,839.59",
+        "year": 2024
+      },
+      "state": "Fact"
     }
   ],
   "records": {
@@ -1545,6 +1586,43 @@
       },
       "state": "Fact"
     },
+    "R2024-07": {
+      "actor": "Leo",
+      "candidate_fingerprint": "05f549966085186198f45795423dd21b8848b06d6f1631490e47ae64eda17707",
+      "confirmed_at": "2026-10-13T11:06:15+08:00",
+      "note": "",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "snapshot": {
+        "actor": "",
+        "binding": "b18e3abc5535e5084cbaa4355dd9952590003f520697bd2016636cb1c30e46f1",
+        "candidate_fingerprint": "05f549966085186198f45795423dd21b8848b06d6f1631490e47ae64eda17707",
+        "claim": "直销收入与成本",
+        "confirmed_at": "",
+        "id": "R2024-07",
+        "location": "PDF／报告9,17页",
+        "note": "本人核验待完成",
+        "numbers": [
+          "74,843,327,030.79",
+          "3,493,952,839.59"
+        ],
+        "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+        "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+        "pending_issue": "本人核验待完成",
+        "period": "2024年度",
+        "scope": "人民币元；管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+        "source_version": "2024年报告；SHA见manifest",
+        "stale_reason": "",
+        "state": "Unknown",
+        "support_boundary": "限定范围分解",
+        "table": "来源定位见原PDF与口径",
+        "unit": "人民币元",
+        "unsupported_boundary": "全集团规模或护城河机制",
+        "value": "74,843,327,030.79／3,493,952,839.59",
+        "year": 2024
+      },
+      "state": "Fact"
+    },
     "R2024-08": {
       "actor": "Leo",
       "candidate_fingerprint": "08473577ca81abd824af877a884d22b1ee7228958c98a8ad615e52991dc637de",
@@ -1584,5 +1662,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-12T20:28:01+08:00"
+  "updated_at": "2026-10-13T11:06:15+08:00"
 }

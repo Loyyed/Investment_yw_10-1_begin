@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-13",
+  "work_item": "H03",
+  "candidate_id": "R2024-07",
+  "actual_chat_reply": "R2024-07已确认",
+  "confirmation_method": "本人在原文核验窗口确认，Agent只读API核当前有效绑定并衔接真实聊天反馈",
+  "authority": "evidence/review-state.json",
+  "authority_sha256_at_check": "c65ee90d9531491a806de7ae2eea7d1efab81f02d7f4826a40c75598f15b3bff",
+  "window_sequence": 19,
+  "window_actor": "Leo",
+  "window_confirmed_at": "2026-10-13T11:06:15+08:00",
+  "current_fact": {
+    "id": "R2024-07",
+    "claim": "直销收入与成本",
+    "source_version": "2024年报告；SHA见manifest",
+    "year": 2024,
+    "period": "2024年度",
+    "location": "PDF／报告9,17页",
+    "value": "74,843,327,030.79／3,493,952,839.59",
+    "scope": "人民币元；管理层讨论与分析：酒类主营业务分解；不是全部营业收入",
+    "unit": "人民币元",
+    "table": "来源定位见原PDF与口径",
+    "support_boundary": "限定范围分解",
+    "unsupported_boundary": "全集团规模或护城河机制",
+    "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+    "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+    "state": "Fact",
+    "actor": "Leo",
+    "confirmed_at": "2026-10-13T11:06:15+08:00",
+    "note": "",
+    "pending_issue": "本人核验待完成",
+    "stale_reason": "",
+    "numbers": [
+      "74,843,327,030.79",
+      "3,493,952,839.59"
+    ],
+    "candidate_fingerprint": "05f549966085186198f45795423dd21b8848b06d6f1631490e47ae64eda17707",
+    "binding": "b18e3abc5535e5084cbaa4355dd9952590003f520697bd2016636cb1c30e46f1",
+    "submitted_state": "Fact"
+  },
+  "source_page_for_student": 9,
+  "scope": "2024年度酒类主营业务直销收入与成本，人民币元",
+  "support_boundary": "原披露学生核验；不确认渠道净利润、终端销量、净品牌因果或未来持续性",
+  "authority_snapshot": {
+    "original_disclosure": 18,
+    "changes": 2,
+    "company_disclosures": 3,
+    "metrics": 15,
+    "scale": 3,
+    "annual_agent_groups": 16
+  },
+  "preparation_preserved": "work/h03-20261013/preparation.json",
+  "new_event_created_by_agent": false,
+  "agent_reference_calculation": {
+    "gross_profit_yuan": "71349374191.20",
+    "gross_margin_percent": "95.33164414490471110107630498",
+    "formula": "(直销营业收入－直销营业成本) / 直销营业收入 * 100",
+    "disclosure_display": "95.33%",
+    "state": "Agent算术参考，不新增人工计算确认"
+  }
+}
