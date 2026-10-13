@@ -84,8 +84,9 @@
       "id": "H04",
       "type": "人工裁决",
       "description": "本版最大可辩护结论",
-      "status": "当前最大可辩护表述已整理，待本人最终采纳；H03不自动替代机制裁决",
-      "human_confirmation_occurred": false
+      "status": "本人质疑旧表述含糊；已补逐项数字、来源、量均价分解与更具体判断，新表述尚待人工裁决",
+      "human_confirmation_occurred": false,
+      "evidence": "work/20261012-supplement/brand-conclusion-revision-20261013.json"
     }
   ],
   "optional_research": [

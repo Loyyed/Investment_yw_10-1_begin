@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-13",
+  "actual_user_criticism": "你产生结论的各项依据是什么，我觉得你这个结论太过于含糊，不具备显著参考性和结论性",
+  "previous_agent_proposal": "品牌作为竞争优势具有研究依据，但现有材料尚不能单独证明品牌贡献大小或未来持续增强。公司盈利表现与特定年份酒品的现货价格分别分析，保留替代解释和证据缺口。",
+  "reason_for_revision": "旧表述缺乏经营表现、机制工作判断、年度边际变化的区分及数字支撑，参考性不足；不撤销有效事实",
+  "revised_agent_proposal": "截至2024年，茅台酒产品组维持高毛利，并在销量增长的同时提高平均每销售吨收入，企业端营业毛利和收入获取表现保持较强。将品牌作为重要解释暂定保留，但现有证据不支持2024年“全面持续增强”的说法：公司产品组均价上涨，与直销组合均价和21年飞天散瓶现货价格下降并存，表现出不同经营层级的分化。纯品牌贡献大小、同SKU净溢价及未来持续性仍待证据。",
+  "human_adoption": false,
+  "authority_snapshot": {
+    "original": 18,
+    "disclosures": 3,
+    "metrics": 15,
+    "annual": 16
+  },
+  "annual_rows": [
+    {
+      "year": 2020,
+      "revenue_yuan": "84830936002.19",
+      "sales_tonnes": "34312.53",
+      "asp_wanyuan_per_sales_tonne": "247.2301984207809800093435255",
+      "reported_gross_margin_percent": "93.99",
+      "source_record_id": "L03-A2020-B",
+      "pdf_path": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "pdf_sha256": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c",
+      "amount_page": 8,
+      "volume_pages": [
+        13
+      ]
+    },
+    {
+      "year": 2021,
+      "revenue_yuan": "93464512115.94",
+      "sales_tonnes": "36261.31",
+      "asp_wanyuan_per_sales_tonne": "257.7527180235352776830180708",
+      "reported_gross_margin_percent": "94.03",
+      "source_record_id": "L03-A2021-B",
+      "pdf_path": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+      "pdf_sha256": "f65effdde58bcea99fd6bdb53f61b31d5c432e6dfb2661e5caf05156a433ea5a",
+      "amount_page": 8,
+      "volume_pages": [
+        14
+      ]
+    },
+    {
+      "year": 2022,
+      "revenue_yuan": "107833685277.94",
+      "sales_tonnes": "37901.39",
+      "asp_wanyuan_per_sales_tonne": "284.5111624611656722880084345",
+      "reported_gross_margin_percent": "94.19",
+      "source_record_id": "L03-A2022-B",
+      "pdf_path": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "pdf_sha256": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358",
+      "amount_page": 9,
+      "volume_pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "year": 2023,
+      "revenue_yuan": "126589066691.89",
+      "sales_tonnes": "42109.50",
+      "asp_wanyuan_per_sales_tonne": "300.6187836281361687980146998",
+      "reported_gross_margin_percent": "94.12",
+      "source_record_id": "L03-A2023-B",
+      "pdf_path": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "pdf_sha256": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1",
+      "amount_page": 9,
+      "volume_pages": [
+        15
+      ]
+    },
+    {
+      "year": 2024,
+      "revenue_yuan": "145928075955.31",
+      "sales_tonnes": "46412.95",
+      "asp_wanyuan_per_sales_tonne": "314.4124128186422108484808658",
+      "reported_gross_margin_percent": "94.06",
+      "source_record_id": "L03-A2024-B",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "amount_page": 9,
+      "volume_pages": [
+        15
+      ]
+    }
+  ],
+  "agent_calculations": {
+    "2020_2024": {
+      "revenue_growth_percent": "72.02223956546078066793511380",
+      "sales_growth_percent": "35.26530978625009581048089430",
+      "asp_growth_percent": "27.17395157508971096411548140"
+    },
+    "2023_2024": {
+      "revenue_growth_percent": "15.27699806057497739867026820",
+      "sales_growth_percent": "10.21966539616951044301167200",
+      "asp_growth_percent": "4.588412282170859873576354400"
+    },
+    "growth_bridge": {
+      "formula": "ΔR = ASP2023 × (Q2024−Q2023) + Q2024 × (ASP2024−ASP2023)",
+      "revenue_delta_yuan": "19339009263.42",
+      "volume_effect_yuan": "12936979044.04502595613816360",
+      "asp_and_mix_effect_yuan": "6402030219.374974043861836392",
+      "volume_effect_share_percent": "66.89576941521765754683608705",
+      "asp_mix_effect_share_percent": "33.10423058478234245316391291",
+      "allocation_convention": "先以2023均价计算销量项，再将交互项归入2024销量下的均价项；这是固定顺序算术分解，不是因果贡献份额",
+      "boundary": "均价项包含价格/规格/酒龄/渠道组合，不命名为纯品牌贡献或同SKU提价"
+    },
+    "formulas": {
+      "asp": "同产品组收入 / 同产品组销售吨",
+      "growth": "(本期 / 基期 − 1) × 100",
+      "gross_margin": "(收入 − 对应营业成本) / 收入 × 100"
+    }
+  },
+  "current_confirmed_channel_metrics": [
+    {
+      "id": "M01-G01",
+      "label": "茅台酒毛利率",
+      "value": "94.06",
+      "unit": "%",
+      "source_pages": [
+        9,
+        16,
+        108
+      ]
+    },
+    {
+      "id": "M01-C01",
+      "label": "直销组合均价同比",
+      "value": "-4.48",
+      "unit": "%",
+      "source_pages": [
+        16
+      ]
+    },
+    {
+      "id": "M01-C02",
+      "label": "批发代理组合均价同比",
+      "value": "5.99",
+      "unit": "%",
+      "source_pages": [
+        16
+      ]
+    },
+    {
+      "id": "M01-S01",
+      "label": "2024直销酒类收入占比",
+      "value": "43.87",
+      "unit": "%",
+      "source_pages": [
+        16
+      ]
+    },
+    {
+      "id": "M01-S02",
+      "label": "2023直销酒类收入占比",
+      "value": "45.67",
+      "unit": "%",
+      "source_pages": [
+        16
+      ]
+    }
+  ],
+  "price_source": "work/20261012-supplement/price-unit-clarification-20261013.json",
+  "spot_price_calculation": {
+    "from": "2023-12-31",
+    "to": "2024-12-31",
+    "price_change_yuan_per_bottle": "-410.0",
+    "formula": "(2400.0 - 2810.0) / 2810.0 * 100",
+    "change_percent": "-14.59074733096085409252669039",
+    "display_percent": "-14.59%",
+    "state": "Agent按附件原数复算，不等于本人新增金额或运算结果核准"
+  },
+  "judgment_boundaries": [
+    "高毛利和组均价增长是经营结果，不单独识别品牌因果",
+    "2024直销占比与均价回落，不认定各渠道均增强",
+    "21年标签现货价变化描述该字段，不扩为全部茅台酒或终端需求变化",
+    "行业份额分母及同比基数Unknown，不以行业机械产量下降推份额上升"
+  ],
+  "not_new_window_fact": true
+}
