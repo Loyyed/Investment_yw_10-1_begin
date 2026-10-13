@@ -12,3 +12,5 @@
 - 发布：通用Investment_yw_finaltask；公司Investment_yw_10-1_begin。本人明确仅上传成果，四份补充原件及两份逐行输入留本地，禁止顺带传附件。GitHub插件本轮不安装/不再推荐；README已中文更新，简介字段未写入，文本留docs/20261012-github-current-state.md。实际节点按Git/发布记录核。
 
 - 最新单位核验：本人确认S003840406为吨并指产销量表；Agent核2024PDF9—10酒类库存量310008.02，与CSV及14页成品＋半成品一致。原供应商标签保留，单位/直接出处已补；下一步只确认按酒类期末库存范围分析，不当仅成品或累计流量。证据work/20261012-supplement/inventory-unit-clarification.json；未新增数值窗口Fact。
+
+- 2026-10-13本人回复“认可，继续”，已采纳S003840406吨/酒类总库存范围，原CSV名保留；不当仅成品或累加流量。SC04已读两年报告14页并复算原CSV：绝对量对应万千升/规上，2024原量变化-7.72%与CSV同比-1.8%不衔接；可比基数Unknown，保留两栏、不拼同口径增速/份额的处理待本人采纳。详见work/20261012-supplement/industry-comparability-check-20261013.json。

@@ -23,8 +23,14 @@
   "semi_finished_tonnes": "292248.02",
   "sum_equals_report_and_csv": true,
   "analytical_scope_proposed": "年报酒类库存量，与成品＋半成品之和一致；期末存量",
-  "analytical_scope_adopted_by_user": false,
+  "analytical_scope_adopted_by_user": true,
   "supplier_original_label_preserved": true,
   "numeric_window_fact_added": false,
-  "boundary": "确认单位并补直接原表对应，不把CSV全部数值或定义自动升为Fact；不等同已包装成品，不把各期库存相加。"
+  "boundary": "确认单位并补直接原表对应，不把CSV全部数值或定义自动升为Fact；不等同已包装成品，不把各期库存相加。",
+  "scope_acceptance": {
+    "date": "2026-10-13",
+    "user_reply": "认可，继续",
+    "context": "本人认可按酒类总库存（包含成品和半成品）分析S003840406，保留原CSV名",
+    "boundary": "仅确认分析范围，不确认可售积压、需求变化或投资结论，不生成窗口点击"
+  }
 }

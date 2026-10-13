@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-13",
+  "authority_snapshot": {
+    "numerical_facts": 17,
+    "change_facts": 2
+  },
+  "existing_valid_source_records": [
+    "L03-A2023-I",
+    "L03-A2024-I"
+  ],
+  "csv": {
+    "date": "2026-10-13",
+    "source_sha256": "2c91b0a280bf1f31eec38b2dbf1f8b3171b48e77efbde3c7010433481369a5e2",
+    "rows": [
+      {
+        "line": 100835,
+        "batch_no": "2",
+        "batch_name": "02_白酒与乳制品_全国产销与白酒地区产量",
+        "time": "2024-12-31",
+        "id": "S000009429",
+        "index_name": "白酒:产量:累计值",
+        "value": "414.5",
+        "rtime": "2025-01-20 19:06:37",
+        "thscode": ""
+      },
+      {
+        "line": 100846,
+        "batch_no": "2",
+        "batch_name": "02_白酒与乳制品_全国产销与白酒地区产量",
+        "time": "2023-12-31",
+        "id": "S000009429",
+        "index_name": "白酒:产量:累计值",
+        "value": "449.2",
+        "rtime": "2024-01-19 16:06:36",
+        "thscode": ""
+      },
+      {
+        "line": 101129,
+        "batch_no": "2",
+        "batch_name": "02_白酒与乳制品_全国产销与白酒地区产量",
+        "time": "2024-12-31",
+        "id": "S000009430",
+        "index_name": "白酒:产量:累计同比",
+        "value": "-1.8",
+        "rtime": "2025-01-20 19:06:37",
+        "thscode": ""
+      },
+      {
+        "line": 101140,
+        "batch_no": "2",
+        "batch_name": "02_白酒与乳制品_全国产销与白酒地区产量",
+        "time": "2023-12-31",
+        "id": "S000009430",
+        "index_name": "白酒:产量:累计同比",
+        "value": "-2.8",
+        "rtime": "2024-01-19 16:06:33",
+        "thscode": ""
+      }
+    ],
+    "mechanical_growth_percent": "-7.724844167408726625111308990",
+    "reported_growth_percent": "-1.8",
+    "implied_comparable_base": "422.0977596741344195519348269",
+    "state": "Agent原数复算；原统计基数定义仍Unknown，不升级Fact"
+  },
+  "annual_report_sources": [
+    {
+      "year": 2023,
+      "path": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "sha256": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1",
+      "page": 14,
+      "unit": "万千升",
+      "scope": "全国规模以上白酒企业"
+    },
+    {
+      "year": 2024,
+      "path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "page": 14,
+      "unit": "万千升",
+      "scope": "全国规模以上白酒企业"
+    }
+  ],
+  "2024_report_contains_industry_yoy": false,
+  "formula": "(414.5 / 449.2 - 1) * 100 = -7.724844...%；414.5 / (1 - 1.8/100) = 422.097759...；后式为反推值，不是已取得的真实基数",
+  "result": "原产量与CSV所列同比无法按相邻原值衔接；已读两年行业段落未给可比基数桥接，原因Unknown",
+  "proposed_handling": "保留绝对量与原载同比并列；暂不拼同口径同比/CAGR/公司市占率；不把产量变化直接当需求变化",
+  "human_adoption": false,
+  "new_numeric_window_fact_added": false
+}

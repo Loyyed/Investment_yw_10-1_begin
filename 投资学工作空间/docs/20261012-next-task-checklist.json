@@ -47,14 +47,14 @@
       "id": "D02",
       "type": "口径冲突",
       "description": "库存分类核查",
-      "status": "待共同执行",
+      "status": "单位及酒类总库存分析范围已本人确认；原标签保留，终端/可售状态仍未确认",
       "human_confirmation_occurred": false
     },
     {
       "id": "D03",
       "type": "口径冲突",
       "description": "行业可比基数核查",
-      "status": "待共同执行",
+      "status": "附件原行/2023及2024行业原段落已核对，差异可复算；可比基数Unknown，暂不拼同口径增速/份额的处理建议待本人采纳",
       "human_confirmation_occurred": false
     },
     {
@@ -96,5 +96,5 @@
   ],
   "no_repeated_old_fact_confirmation": true,
   "originals_local_only": true,
-  "next_work_item": "D01"
+  "next_work_item": "D03"
 }
