@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-13",
+  "work_item": "H02",
+  "actual_user_reply": "我认可你的研究范围",
+  "proposal_accepted": "以中国大陆高端酱香白酒为主，飞天53度500ml为重点样本，其他高端白酒作替代品对照；价格带和客户分布暂留未知。",
+  "research_scope_adopted": true,
+  "primary_market": "中国大陆高端酱香白酒",
+  "focal_sample": "飞天茅台53度500ml",
+  "substitute_comparison": "其他高端白酒；非同SKU或同香型比较另标差异",
+  "main_observation_window": "2020—2024；2025以后单独跟踪",
+  "unknown": [
+    "量化价格带",
+    "客户分布和消费场景占比",
+    "细分市场规模及同口径份额分母",
+    "净品牌因果和未来持续性"
+  ],
+  "financial_scope": "公司整体、茅台酒和系列酒组、渠道及金融边界继续分析，不以重点SKU代替整个公司",
+  "not_confirmed": "采纳本版研究边界，不证明统计市场划分、生命周期、竞争优势机制或新增数值Fact",
+  "new_numeric_window_event": false
+}

@@ -22,7 +22,7 @@
     }
   ],
   "task06_gap_route_completed": true,
-  "task06_new_boundary_final_judgment": "待人工",
+  "task06_new_boundary_final_judgment": "本人已采纳研究范围；量化价格带/客户分布与机制结论仍待证",
   "task07_final_judgment": "待人工",
   "work_items": [
     {
@@ -63,8 +63,10 @@
       "id": "H02",
       "type": "人工裁决",
       "description": "第六次竞争边界",
-      "status": "待共同执行",
-      "human_confirmation_occurred": false
+      "status": "2026-10-13本人采纳研究范围；价格带/客户分布与机制判断未确认",
+      "human_confirmation_occurred": true,
+      "confirmation_scope": "本版竞争研究边界",
+      "evidence": "work/20261012-supplement/market-boundary-acceptance-20261013.json"
     },
     {
       "id": "D04",
@@ -98,5 +100,5 @@
   ],
   "no_repeated_old_fact_confirmation": true,
   "originals_local_only": true,
-  "next_work_item": "H02"
+  "next_work_item": "D04"
 }

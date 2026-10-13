@@ -21,3 +21,5 @@
 - 2026-10-12当前H01：[第五次新增核验卡](../docs/20261012-h01-review-card.md)、[合同负债证据链过程](h01-20261012/notes.md)。R2024-08为新增Unknown，待本人在现有窗口确认，不代替第五两稿新亲查事件。
 
 - 2026-10-13：[行业两种计算并列表](20261012-supplement/industry-separate-calculations-20261013.md)，SC04处理已本人采纳，基数缺口仍保留。
+
+- 2026-10-13：[H02研究范围采纳](20261012-supplement/market-boundary-acceptance-20261013.json)，转D04价格单位与层级。
