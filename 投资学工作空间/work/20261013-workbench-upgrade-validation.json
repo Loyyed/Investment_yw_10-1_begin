@@ -77,5 +77,77 @@
       "投资学工作空间/outputs/贵州茅台_证券投资分析汇编_20261013.json"
     ]
   },
-  "publication_status": "待当前成果提交与远程核验"
+  "publication_status": "成果节点已推送，两仓库远程提交校验通过",
+  "verified_publication_nodes": [
+    {
+      "repository": "D:\\投资学\\投资学公司分析通用工作台",
+      "remote": "git@github.com:Loyyed/Investment_yw_finaltask.git",
+      "branch": "main",
+      "commit": "06f1c9076c358358739421985b7a3648c523ef55",
+      "remote_matches": true,
+      "files": [
+        "AGENTS.md",
+        "README.md",
+        "companybench/cli.py",
+        "companybench/legacy_reader.py",
+        "companybench/portal.py",
+        "companybench/ui.css",
+        "companybench/ui.html",
+        "companybench/ui.js",
+        "companybench/workflow.py",
+        "companybench/workspace.py",
+        "docs/2026-10-13-全流程工作台.md",
+        "docs/2026-10-13-验证与修正.md",
+        "docs/images/workbench-v2-desktop.png",
+        "docs/images/workbench-v2-mobile.png",
+        "docs/操作指南.md",
+        "kit.json",
+        "scripts/check_bundle.py",
+        "skills/investment-company-analysis/SKILL.md",
+        "tests/test_workflow.py",
+        "会话交接/CURRENT.md",
+        "会话交接/archive/CURRENT-before-ui-20261013.md"
+      ]
+    },
+    {
+      "repository": "D:\\投资学",
+      "remote": "git@github.com:Loyyed/Investment_yw_10-1_begin.git",
+      "branch": "main",
+      "commit": "308760cc24ef18f8e2aa70866fd7f110d6636564",
+      "remote_matches": true,
+      "files": [
+        ".gitignore",
+        "会话交接/01_课件学习与证券分析方法.md",
+        "会话交接/02_任务合同与操作流程.md",
+        "会话交接/CURRENT.md",
+        "会话交接/archive/CURRENT-before-workbench-v2-20261013.md",
+        "投资学工作空间/README.md",
+        "投资学工作空间/docs/20261013-course-contract-design.md",
+        "投资学工作空间/docs/20261013-e04-confirmation-and-next.md",
+        "投资学工作空间/docs/20261013-workbench-upgrade-feedback.md",
+        "投资学工作空间/docs/task-status.md",
+        "投资学工作空间/evidence/confirmed-facts.json",
+        "投资学工作空间/evidence/evidence-log.md",
+        "投资学工作空间/evidence/human-review-forms.md",
+        "投资学工作空间/evidence/review-state.json",
+        "投资学工作空间/outputs/channel-expense-capital-analysis.md",
+        "投资学工作空间/outputs/first-analysis.md",
+        "投资学工作空间/outputs/metric-scope-decision.md",
+        "投资学工作空间/outputs/revenue-structure-table.md",
+        "投资学工作空间/outputs/贵州茅台_证券投资分析汇编_20261013.html",
+        "投资学工作空间/outputs/贵州茅台_证券投资分析汇编_20261013.json",
+        "投资学工作空间/outputs/贵州茅台_证券投资分析汇编_20261013.md",
+        "投资学工作空间/work/20261013-workbench-upgrade-validation.json",
+        "投资学工作空间/work/additional-evidence-candidates.md",
+        "投资学工作空间/work/e04-20261013/human-confirmation-receipt.json",
+        "投资学工作空间/work/e04-20261013/review-preparation-before-human-confirmation.json",
+        "投资学工作空间/work/e04-20261013/review-preparation.json",
+        "投资学工作空间/work/metric-scope-candidates.md",
+        "投资学工作空间/work/pending-checks.md",
+        "投资学工作空间/work/workbench-ui-navigation.json",
+        "投资学工作空间/工作台.html",
+        "投资学工作空间/工作流程与文件说明.md"
+      ]
+    }
+  ]
 }
