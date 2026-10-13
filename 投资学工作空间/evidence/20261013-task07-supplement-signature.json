@@ -11,6 +11,7 @@
   "real_student_check": "work/h03-20261013/human-confirmation-receipt.json",
   "window_actor_preserved": "Leo",
   "teacher_approval": "未提供",
-  "new_mechanism_final_judgment": "待人工",
-  "scope": "完成本次Agent补充执行和内容记录；不代替本人最终研究解释裁决"
+  "new_mechanism_final_judgment": "本人已采纳修订Interpretation；纯品牌因果和未来持续性Unknown",
+  "scope": "本次补充执行/同人复核签署及实际本人意见采纳已衔接；窗口实际actor及旧签署保持",
+  "research_opinion_adoption": "evidence/20261013-research-opinion-adoption.json"
 }

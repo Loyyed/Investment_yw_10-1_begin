@@ -4,7 +4,7 @@
   "previous_agent_proposal": "品牌作为竞争优势具有研究依据，但现有材料尚不能单独证明品牌贡献大小或未来持续增强。公司盈利表现与特定年份酒品的现货价格分别分析，保留替代解释和证据缺口。",
   "reason_for_revision": "旧表述缺乏经营表现、机制工作判断、年度边际变化的区分及数字支撑，参考性不足；不撤销有效事实",
   "revised_agent_proposal": "截至2024年，茅台酒产品组维持高毛利，并在销量增长的同时提高平均每销售吨收入，企业端营业毛利和收入获取表现保持较强。将品牌作为重要解释暂定保留，但现有证据不支持2024年“全面持续增强”的说法：公司产品组均价上涨，与直销组合均价和21年飞天散瓶现货价格下降并存，表现出不同经营层级的分化。纯品牌贡献大小、同SKU净溢价及未来持续性仍待证据。",
-  "human_adoption": false,
+  "human_adoption": true,
   "authority_snapshot": {
     "original": 18,
     "disclosures": 3,
@@ -176,5 +176,13 @@
     "21年标签现货价变化描述该字段，不扩为全部茅台酒或终端需求变化",
     "行业份额分母及同比基数Unknown，不以行业机械产量下降推份额上升"
   ],
-  "not_new_window_fact": true
+  "not_new_window_fact": true,
+  "adoption_record": {
+    "date": "2026-10-13",
+    "actual_user_reply": "我认可你的判断意见，允许写入意见",
+    "accepted_opinion": "截至2024年，茅台酒的高毛利和增收能力保持，2024年增收更多体现为销量扩张；同时，直销组合均价和“21年飞天散瓶”现货价格走弱。因此，品牌支撑收益的解释可以暂定保留，但“品牌定价权全面持续增强”缺乏充分支持。",
+    "state": "本人采纳的Interpretation",
+    "receipt": "evidence/20261013-research-opinion-adoption.json",
+    "not_new_numerical_confirmation": true
+  }
 }

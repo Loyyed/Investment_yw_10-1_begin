@@ -9,14 +9,14 @@
     },
     {
       "path": "work/20261012-supplement/contract-map.json",
-      "sha256": "93bdd70ec9873649d40c21140ca5f6c998643ad4d7f34a202321c08d79aac806",
+      "sha256": "78ea49c8df0af93ff1dc724bc403e196c45d1bbb136f24a1498d2f26b4b8ad17",
       "completion_field": "checked"
     }
   ],
   "mandatory_open_clauses": [],
   "task06_gap_route_completed": true,
-  "task06_new_boundary_final_judgment": "本人已采纳研究范围；量化价格带/客户分布与机制结论仍待证",
-  "task07_final_judgment": "待人工",
+  "task06_new_boundary_final_judgment": "研究边界与本版品牌工作判断已本人采纳；价格带/客户分布/细分阶段等证据缺口保留",
+  "task07_final_judgment": "本人已采纳修订版Interpretation，核验/内容/授权签署及研究意见审阅衔接完成",
   "work_items": [
     {
       "id": "H01",
@@ -84,9 +84,10 @@
       "id": "H04",
       "type": "人工裁决",
       "description": "本版最大可辩护结论",
-      "status": "本人质疑旧表述含糊；已补逐项数字、来源、量均价分解与更具体判断，新表述尚待人工裁决",
-      "human_confirmation_occurred": false,
-      "evidence": "work/20261012-supplement/brand-conclusion-revision-20261013.json"
+      "status": "2026-10-13本人认可修订判断并授权写入，作为本版Interpretation；证据缺口保留",
+      "human_confirmation_occurred": true,
+      "evidence": "evidence/20261013-research-opinion-adoption.json",
+      "confirmation_scope": "研究意见采纳，非数值或纯品牌因果Fact"
     }
   ],
   "optional_research": [
@@ -99,6 +100,9 @@
   ],
   "no_repeated_old_fact_confirmation": true,
   "originals_local_only": true,
-  "next_work_item": "H04",
-  "task07_student_new_check_completed": true
+  "next_work_item": "E04",
+  "task07_student_new_check_completed": true,
+  "required_human_gates_completed": true,
+  "updated": "2026-10-13",
+  "next_work_description": "延续财务检验：渠道费用、资本占用和净收益；缺归属不虚造品牌利润或分部回报，不编造新合同"
 }

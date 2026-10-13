@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-13",
+  "work_item": "H04",
+  "actual_user_reply": "我认可你的判断意见，允许写入意见",
+  "method": "本人真实聊天采纳上一条修订后的判断意见并授权写入",
+  "accepted_opinion": "截至2024年，茅台酒的高毛利和增收能力保持，2024年增收更多体现为销量扩张；同时，直销组合均价和“21年飞天散瓶”现货价格走弱。因此，品牌支撑收益的解释可以暂定保留，但“品牌定价权全面持续增强”缺乏充分支持。",
+  "accepted_layers": {
+    "observed_performance": "公司产品组高毛利保持、收入和出货增长；该标签现货价走弱",
+    "working_mechanism": "品牌是支撑收益的重要解释之一，品质、稀缺供给及产品渠道组合也可能共同作用",
+    "remaining_unknown": "品牌独立贡献多少、相对竞品同款净溢价及未来持续多久"
+  },
+  "growth_bridge_context": "2024茅台酒收入增加193.39亿元，固定顺序算术分解销量项129.37亿元、均价及组合项64.02亿元；约66.90%/33.10%，不作品牌因果贡献份额",
+  "opinion_state": "Interpretation",
+  "human_adopted": true,
+  "reviewed_revision_path": "work/20261012-supplement/brand-conclusion-revision-20261013.json",
+  "reviewed_revision_sha256_before_adoption": "3fbcbd0dcd060753baa3621d895848c8d042b71f5c4b743f2a494f7b9fa323e5",
+  "core_authority_sha256_at_check": "c65ee90d9531491a806de7ae2eea7d1efab81f02d7f4826a40c75598f15b3bff",
+  "current_source_counts": {
+    "original_facts": 18,
+    "annual_agent_groups": 16,
+    "confirmed_metrics": 15
+  },
+  "numeric_review_events_created": false,
+  "new_arithmetic_fact_confirmation_created": false,
+  "scope": "本版研究判断及支持边界的采纳；不将机制、未来判断或算术分解批量改为新增数值Fact",
+  "preserved_history": "旧含糊提案、真实用户质疑、修订计算、窗口Leo身份与事件18/19均保留",
+  "reviewed_git_commit": "03c2c5c753070bae5f4cccc4a7f9ea4712e2fe5b"
+}
