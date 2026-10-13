@@ -1,0 +1,234 @@
+{
+  "date": "2026-10-13",
+  "scope": "E04渠道费用、资本占用和净收益；不制造新合同",
+  "source_pdf": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+  "source_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+  "pair_data": {
+    "销售费用": {
+      "current_yuan": "5639300059.49",
+      "previous_yuan": "4648613585.82",
+      "delta_yuan": "990686473.67",
+      "growth_percent": "21.31143953741309293603530690",
+      "source_pages": [
+        63,
+        109,
+        110
+      ],
+      "unit": "人民币元",
+      "period": "2024本期／2023比较列",
+      "state": "新费用/分项为Agent原文核对候选；已核原数另列API依据"
+    },
+    "广告宣传费": {
+      "current_yuan": "1335427201.68",
+      "previous_yuan": "1366390834.54",
+      "delta_yuan": "-30963632.86",
+      "growth_percent": "-2.266089033773708644303008650",
+      "source_pages": [
+        109
+      ],
+      "unit": "人民币元",
+      "period": "2024本期／2023比较列",
+      "state": "新费用/分项为Agent原文核对候选；已核原数另列API依据"
+    },
+    "市场推广及服务费": {
+      "current_yuan": "3745440527.81",
+      "previous_yuan": "2814141940.30",
+      "delta_yuan": "931298587.51",
+      "growth_percent": "33.09351863789498279842682890",
+      "source_pages": [
+        109
+      ],
+      "unit": "人民币元",
+      "period": "2024本期／2023比较列",
+      "state": "新费用/分项为Agent原文核对候选；已核原数另列API依据"
+    },
+    "营销办公及差旅费": {
+      "current_yuan": "89973010.37",
+      "previous_yuan": "86810053.15",
+      "delta_yuan": "3162957.22",
+      "growth_percent": "3.643537937403048347286952400",
+      "source_pages": [
+        109
+      ],
+      "unit": "人民币元",
+      "period": "2024本期／2023比较列",
+      "state": "新费用/分项为Agent原文核对候选；已核原数另列API依据"
+    },
+    "销售费用其他": {
+      "current_yuan": "468459319.63",
+      "previous_yuan": "381270757.83",
+      "delta_yuan": "87188561.80",
+      "growth_percent": "22.86788588147518147680966620",
+      "source_pages": [
+        110
+      ],
+      "unit": "人民币元",
+      "period": "2024本期／2023比较列",
+      "state": "新费用/分项为Agent原文核对候选；已核原数另列API依据"
+    },
+    "管理费用": {
+      "current_yuan": "9315650060.38",
+      "previous_yuan": "9729389252.31",
+      "delta_yuan": "-413739191.93",
+      "growth_percent": "-4.252468281416204852727890070",
+      "source_pages": [
+        63,
+        110
+      ],
+      "unit": "人民币元",
+      "period": "2024本期／2023比较列",
+      "state": "新费用/分项为Agent原文核对候选；已核原数另列API依据"
+    },
+    "商标许可使用费": {
+      "current_yuan": "2466052249.25",
+      "previous_yuan": "1805818609.89",
+      "delta_yuan": "660233639.36",
+      "growth_percent": "36.56145948126083413379967980",
+      "source_pages": [
+        110,
+        128
+      ],
+      "unit": "人民币元",
+      "period": "2024本期／2023比较列",
+      "state": "新费用/分项为Agent原文核对候选；已核原数另列API依据"
+    },
+    "管理费用职工薪酬": {
+      "current_yuan": "3697487910.65",
+      "previous_yuan": "4350082411.58",
+      "delta_yuan": "-652594500.93",
+      "growth_percent": "-15.00188822153762751588206085",
+      "source_pages": [
+        110
+      ],
+      "unit": "人民币元",
+      "period": "2024本期／2023比较列",
+      "state": "新费用/分项为Agent原文核对候选；已核原数另列API依据"
+    },
+    "研发费用": {
+      "current_yuan": "218375472.87",
+      "previous_yuan": "157371873.01",
+      "delta_yuan": "61003599.86",
+      "growth_percent": "38.76397903462939790806014000",
+      "source_pages": [
+        63,
+        110
+      ],
+      "unit": "人民币元",
+      "period": "2024本期／2023比较列",
+      "state": "新费用/分项为Agent原文核对候选；已核原数另列API依据"
+    },
+    "营业收入": {
+      "current_yuan": "170899152276.34",
+      "previous_yuan": "147693604994.14",
+      "delta_yuan": "23205547282.20",
+      "growth_percent": "15.71195129479080718889266820",
+      "source_pages": [
+        63,
+        108
+      ],
+      "unit": "人民币元",
+      "period": "2024本期／2023比较列",
+      "state": "新费用/分项为Agent原文核对候选；已核原数另列API依据"
+    },
+    "营业总收入": {
+      "current_yuan": "174144069958.25",
+      "previous_yuan": "150560330316.45",
+      "delta_yuan": "23583739641.80",
+      "growth_percent": "15.66397974302483004865752170",
+      "source_pages": [
+        63
+      ],
+      "unit": "人民币元",
+      "period": "2024本期／2023比较列",
+      "state": "新费用/分项为Agent原文核对候选；已核原数另列API依据"
+    },
+    "税金及附加": {
+      "current_yuan": "26926161474.99",
+      "previous_yuan": "22234175898.60",
+      "delta_yuan": "4691985576.39",
+      "growth_percent": "21.10258368822851748526105370",
+      "source_pages": [
+        63,
+        109
+      ],
+      "unit": "人民币元",
+      "period": "2024本期／2023比较列",
+      "state": "新费用/分项为Agent原文核对候选；已核原数另列API依据"
+    },
+    "合并全部净利润": {
+      "current_yuan": "89334728025.90",
+      "previous_yuan": "77521476277.80",
+      "delta_yuan": "11813251748.10",
+      "growth_percent": "15.23868264036528358291996690",
+      "source_pages": [
+        64
+      ],
+      "unit": "人民币元",
+      "period": "2024本期／2023比较列",
+      "state": "新费用/分项为Agent原文核对候选；已核原数另列API依据"
+    }
+  },
+  "fees": {
+    "sales_fee_ratio_previous_percent": "3.147471135263061531016468456",
+    "sales_fee_ratio_current_percent": "3.299782347879281144631071361",
+    "three_expenses_previous_yuan": "14535374711.14",
+    "three_expenses_current_yuan": "15173325592.74",
+    "three_expenses_growth_percent": "4.388953805993529330979825600",
+    "three_fee_ratio_previous_percent": "9.841573514111674779640556639",
+    "three_fee_ratio_current_percent": "8.878525955591097008087882454",
+    "scope": "合并销售/管理/研发费用与合并营业收入的描述性比率；不含财务费用，分母不含金融利息收入；不是酒类或渠道净利润率",
+    "marketing_service_share_of_sales_fee_increase_percent": "94.00538033592025756359896057"
+  },
+  "net_margin": {
+    "previous_percent": "51.48864652120792912956388198",
+    "current_percent": "51.29932247897816281368259222",
+    "delta_percentage_points": "-0.1893240422297663158812897600",
+    "scope": "合并全部净利润（含少数股东）/合并营业总收入（含金融），不是纯酒类或纯品牌净利润率"
+  },
+  "platform": {
+    "revenue24_wanyuan": "2002366.62",
+    "revenue23_wanyuan": "2237432.35",
+    "growth_percent": "-10.50604859628493348636887278",
+    "gross_margin_reported_percent": "94.50",
+    "payment_service_fee_wanyuan": "9882.05",
+    "payment_fee_to_platform_revenue_percent": "0.4935185146064810049620183940",
+    "pages": [
+      16,
+      44
+    ],
+    "scope": "i茅台年度披露收入与第三方支付渠道手续费的描述性比例，不是收费合同费率/完整平台净利润；手续费是否已计入费用未获明细，不再重复扣除"
+  },
+  "capital": {
+    "inventory_opening_yuan": "43071574695.36",
+    "inventory_closing_yuan": "51248809245.03",
+    "inventory_delta_yuan": "8177234549.67",
+    "inventory_growth_percent": "18.98522310249064181987190220",
+    "source": "M01-K03有效原数，2024PDF93页；仅在产品+自制半成品+库存商品账面余额",
+    "capex_cash_yuan": "4678712053.56",
+    "capex_source": "L03-A2024-C，2024PDF67页",
+    "boundary": "存货余额变化、购建资产现金和损益费用分别列示，不相加冒充投资额；没有渠道费用和经营资本归属、资本成本，不虚造ROIC或品牌经济利润"
+  },
+  "classification_bridge": {
+    "old_2023_report_page": 110,
+    "old_2023_pdf_sha256": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1",
+    "new_2024_report_pages": [
+      109,
+      110
+    ],
+    "same_2023_total_yuan": "4648613585.82",
+    "old_categories": {
+      "广告宣传及市场拓展费用": "3640663233.92",
+      "运输费用及运输保险费用": "17040929.95",
+      "营销差旅费、办公费": "86810053.15",
+      "其他": "904099368.80"
+    },
+    "new_comparative_advertising_plus_marketing_yuan": "4180532774.84",
+    "combined_category_increase_yuan": "539869540.92",
+    "old_other_minus_new_other_yuan": "522828610.97",
+    "old_transport_category_yuan": "17040929.95",
+    "arithmetic_bridge_matches": true,
+    "cause": "原披露列示发生变化；数值桥接不证明每笔费用实际重分类路径，不认定会计差错或政策变更"
+  },
+  "review_state": "新费用/平台为候选及Agent复算；旧Fact动态核有效，不新增本人窗口事件",
+  "human_review_candidate": "R2024-09"
+}

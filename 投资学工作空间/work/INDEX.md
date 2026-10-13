@@ -25,3 +25,5 @@
 - 2026-10-13：[H02研究范围采纳](20261012-supplement/market-boundary-acceptance-20261013.json)，转D04价格单位与层级。
 
 - 2026-10-13：[H03真实核验](h03-20261013/human-confirmation-receipt.json)，T7-3补齐，最大研究表述待本人采纳。
+
+- 2026-10-13：[E04费用、资本和净收益](../outputs/channel-expense-capital-analysis.md)，发现SC14分类变化，新增本人待核候选R2024-09；旧来源/签署不变。

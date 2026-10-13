@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-13",
+  "candidate_id": "R2024-09",
+  "source_pdf": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+  "source_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+  "pages": [
+    109,
+    110,
+    63
+  ],
+  "numbers": [
+    "5,639,300,059.49",
+    "4,648,613,585.82"
+  ],
+  "unit": "人民币元",
+  "scope": "合并销售费用；2024/2023年度流量",
+  "human_confirmation_occurred": false,
+  "source_crosscheck": "两期费用分项分别精确合计，利润表交叉一致，2023总额与旧原报110页相同",
+  "source_cache_local_only": "课件与任务文件/e04-net-return-20261013",
+  "next_action": "刷新现有核验窗口，选择R2024-09，核两期合计、元、合并及年度口径，本人点击确认"
+}

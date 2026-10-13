@@ -104,5 +104,12 @@
   "task07_student_new_check_completed": true,
   "required_human_gates_completed": true,
   "updated": "2026-10-13",
-  "next_work_description": "延续财务检验：渠道费用、资本占用和净收益；缺归属不虚造品牌利润或分部回报，不编造新合同"
+  "next_work_description": "E04第一轮费用/资本/净收益分析已形成；下一项本人窗口核R2024-09，其他分项及平台仍候选",
+  "e04": {
+    "phase": "初步分析完成，新增总销售费用待本人核验",
+    "candidate_id": "R2024-09",
+    "output": "outputs/channel-expense-capital-analysis.md",
+    "source": "work/e04-20261013/calculations.json",
+    "new_contract_invented": false
+  }
 }
