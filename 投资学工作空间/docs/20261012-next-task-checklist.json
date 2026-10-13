@@ -54,8 +54,10 @@
       "id": "D03",
       "type": "口径冲突",
       "description": "行业可比基数核查",
-      "status": "附件原行/2023及2024行业原段落已核对，差异可复算；可比基数Unknown，暂不拼同口径增速/份额的处理建议待本人采纳",
-      "human_confirmation_occurred": false
+      "status": "本人已采纳分别保留和分别计算；2020—2024计算表已完成，可比基数及差异原因仍Unknown",
+      "human_confirmation_occurred": true,
+      "confirmation_scope": "研究处理流程采纳；不是数值窗口核准或跨年可比性确认",
+      "evidence": "work/20261012-supplement/industry-comparability-check-20261013.json"
     },
     {
       "id": "H02",
@@ -96,5 +98,5 @@
   ],
   "no_repeated_old_fact_confirmation": true,
   "originals_local_only": true,
-  "next_work_item": "D03"
+  "next_work_item": "H02"
 }

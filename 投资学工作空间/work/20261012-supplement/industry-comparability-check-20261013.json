@@ -84,6 +84,12 @@
   "formula": "(414.5 / 449.2 - 1) * 100 = -7.724844...%；414.5 / (1 - 1.8/100) = 422.097759...；后式为反推值，不是已取得的真实基数",
   "result": "原产量与CSV所列同比无法按相邻原值衔接；已读两年行业段落未给可比基数桥接，原因Unknown",
   "proposed_handling": "保留绝对量与原载同比并列；暂不拼同口径同比/CAGR/公司市占率；不把产量变化直接当需求变化",
-  "human_adoption": false,
-  "new_numeric_window_fact_added": false
+  "human_adoption": true,
+  "new_numeric_window_fact_added": false,
+  "adoption_record": {
+    "date": "2026-10-13",
+    "actual_user_reply": "的确存在不同，听取你的意见保留两种数字及计算说明，在后续计算中也同样进行分别计算",
+    "confirmed_scope": "采纳两种数字及计算说明并列，后续分别计算",
+    "not_confirmed": "未确认可比基数、差异原因、跨年可比性或新数值窗口Fact"
+  }
 }

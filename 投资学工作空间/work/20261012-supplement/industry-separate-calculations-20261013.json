@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-13",
+  "user_reply": "的确存在不同，听取你的意见保留两种数字及计算说明，在后续计算中也同样进行分别计算",
+  "source_path": "课件与任务文件/补充材料/白酒行业_iFinD字段全集_上市以来.csv",
+  "source_sha256": "2c91b0a280bf1f31eec38b2dbf1f8b3171b48e77efbde3c7010433481369a5e2",
+  "source_ids": [
+    "S000009429",
+    "S000009430"
+  ],
+  "main_window": "2020—2024；2019只供2020机械计算基数",
+  "rounding": "内部Decimal保留精度，展示保留两位；差值单位为百分点",
+  "rows": [
+    {
+      "year": 2020,
+      "current_raw": "740.7",
+      "previous_raw": "785.9",
+      "raw_change_percent": "-5.751367858506171268609237817",
+      "reported_yoy_percent": "-2.5",
+      "difference_percentage_points": "-3.251367858506171268609237817",
+      "raw_formula": "(740.7 - 785.9) / 785.9 * 100",
+      "reported_yoy_method": "保留该字段原值，不假装用上述原值重算可比同比",
+      "source_lines": {
+        "current": 100879,
+        "previous": 100890,
+        "reported_yoy": 101173
+      },
+      "comparable_base": "Unknown",
+      "state": "附件原数＋Agent计算；采纳分别计算的流程，不生成新数值确认"
+    },
+    {
+      "year": 2021,
+      "current_raw": "715.6",
+      "previous_raw": "740.7",
+      "raw_change_percent": "-3.388686377750776292696098285",
+      "reported_yoy_percent": "-0.6",
+      "difference_percentage_points": "-2.788686377750776292696098285",
+      "raw_formula": "(715.6 - 740.7) / 740.7 * 100",
+      "reported_yoy_method": "保留该字段原值，不假装用上述原值重算可比同比",
+      "source_lines": {
+        "current": 100868,
+        "previous": 100879,
+        "reported_yoy": 101162
+      },
+      "comparable_base": "Unknown",
+      "state": "附件原数＋Agent计算；采纳分别计算的流程，不生成新数值确认"
+    },
+    {
+      "year": 2022,
+      "current_raw": "671.2",
+      "previous_raw": "715.6",
+      "raw_change_percent": "-6.204583566238121855785354947",
+      "reported_yoy_percent": "-5.6",
+      "difference_percentage_points": "-0.604583566238121855785354947",
+      "raw_formula": "(671.2 - 715.6) / 715.6 * 100",
+      "reported_yoy_method": "保留该字段原值，不假装用上述原值重算可比同比",
+      "source_lines": {
+        "current": 100857,
+        "previous": 100868,
+        "reported_yoy": 101151
+      },
+      "comparable_base": "Unknown",
+      "state": "附件原数＋Agent计算；采纳分别计算的流程，不生成新数值确认"
+    },
+    {
+      "year": 2023,
+      "current_raw": "449.2",
+      "previous_raw": "671.2",
+      "raw_change_percent": "-33.07508939213349225268176400",
+      "reported_yoy_percent": "-2.8",
+      "difference_percentage_points": "-30.27508939213349225268176400",
+      "raw_formula": "(449.2 - 671.2) / 671.2 * 100",
+      "reported_yoy_method": "保留该字段原值，不假装用上述原值重算可比同比",
+      "source_lines": {
+        "current": 100846,
+        "previous": 100857,
+        "reported_yoy": 101140
+      },
+      "comparable_base": "Unknown",
+      "state": "附件原数＋Agent计算；采纳分别计算的流程，不生成新数值确认"
+    },
+    {
+      "year": 2024,
+      "current_raw": "414.5",
+      "previous_raw": "449.2",
+      "raw_change_percent": "-7.724844167408726625111308994",
+      "reported_yoy_percent": "-1.8",
+      "difference_percentage_points": "-5.924844167408726625111308994",
+      "raw_formula": "(414.5 - 449.2) / 449.2 * 100",
+      "reported_yoy_method": "保留该字段原值，不假装用上述原值重算可比同比",
+      "source_lines": {
+        "current": 100835,
+        "previous": 100846,
+        "reported_yoy": 101129
+      },
+      "comparable_base": "Unknown",
+      "state": "附件原数＋Agent计算；采纳分别计算的流程，不生成新数值确认"
+    }
+  ],
+  "guardrails": [
+    "原值变化率与材料同比分别列示，不相互覆盖",
+    "反推基数是计算候选，不是真实统计基数",
+    "可比范围未确认，不拼同口径CAGR、真实需求或公司份额",
+    "后续使用同比做推演时单列假设及公式，不用同比反推原量冒充观察值",
+    "数值来源变化重算受影响行，保留旧版本和人工历史"
+  ]
+}
