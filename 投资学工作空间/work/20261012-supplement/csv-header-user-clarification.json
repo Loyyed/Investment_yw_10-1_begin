@@ -117,5 +117,14 @@
     ],
     "policy": "用户说明字段结构；具体指标单位、定义及rtime业务含义不由机器日期比较证明"
   },
-  "company_numeric_facts_promoted": false
+  "company_numeric_facts_promoted": false,
+  "rtime_followup": {
+    "date": "2026-10-12",
+    "user_replies": [
+      "不知道",
+      "我觉得也不是很需要知道吧"
+    ],
+    "status": "Unknown；当前事后经营分析不优先追查",
+    "boundary": "不以rtime证明历史时点已公开/可获，不据此进行无前视回测；不妨碍按原报告和已核口径分析历史经营"
+  }
 }

@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-13",
+  "user_statement_date": "2026-10-12",
+  "id": "S003840406",
+  "unit": "吨",
+  "user_quote": "经我的人工核验，单位应当为吨，与年报**收入和成本分析 中的产销量情况分析表 对应**",
+  "method": "本人聊天陈述人工单位核验；Agent原表交叉",
+  "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+  "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+  "primary_pages": [
+    9,
+    10
+  ],
+  "comparison_page": 14,
+  "report_table": "收入和成本分析／产销量情况分析表",
+  "report_row": "酒类",
+  "report_column": "库存量",
+  "year": 2024,
+  "csv_line": 125170,
+  "csv_value": "310008.02",
+  "report_inventory_tonnes": "310008.02",
+  "finished_tonnes": "17760.00",
+  "semi_finished_tonnes": "292248.02",
+  "sum_equals_report_and_csv": true,
+  "analytical_scope_proposed": "年报酒类库存量，与成品＋半成品之和一致；期末存量",
+  "analytical_scope_adopted_by_user": false,
+  "supplier_original_label_preserved": true,
+  "numeric_window_fact_added": false,
+  "boundary": "确认单位并补直接原表对应，不把CSV全部数值或定义自动升为Fact；不等同已包装成品，不把各期库存相加。"
+}

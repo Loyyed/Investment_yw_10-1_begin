@@ -39,7 +39,7 @@
       "id": "D01",
       "type": "新数据口径前置",
       "description": "关键字段定义、单位、样本及可获期",
-      "status": "本人已解释表头结构，全量CSV映射/时间检查完成；逐指标单位和rtime语义待补",
+      "status": "表头说明已记；rtimeUnknown不优先追查，逐个核直接用于计算的单位/定义",
       "human_confirmation_occurred": false,
       "user_clarification": "work/20261012-supplement/csv-header-user-clarification.json"
     },
