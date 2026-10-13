@@ -31,7 +31,7 @@
 <!-- review-store:progress:start -->
 ## 已核验范围与仍待处理的候选
 
-当前有效Fact为18条；Unknown为46条；已撤回0条；需重新核验0条。共64条候选。 日期自动按Asia/Shanghai记录。合同验收、复核人与正式签署另行完成。
+当前有效Fact为19条；Unknown为46条；已撤回0条；需重新核验0条。共65条候选。 日期自动按Asia/Shanghai记录。合同验收、复核人与正式签署另行完成。
 
 | 编号 | 有效状态 | 核验人 | 核验时间 | 备注／失效原因 |
 | --- | --- | --- | --- | --- |
@@ -99,6 +99,7 @@
 | R2024-06 | Unknown |  |  | 本人核验待完成 |
 | R2024-07 | Fact | Leo | 2026-10-13T11:06:15+08:00 |  |
 | R2024-08 | Fact | Leo | 2026-10-12T20:28:01+08:00 |  |
+| R2024-09 | Fact | Leo | 2026-10-13T13:19:33+08:00 |  |
 <!-- review-store:progress:end -->
 
 <!-- scope-acceptance:lec03-three-dimensions:start -->

@@ -1,11 +1,11 @@
 {
   "authority": "evidence/review-state.json",
   "counts": {
-    "Fact": 18,
+    "Fact": 19,
     "Unknown": 46,
     "Withdrawn": 0,
     "stale": 0,
-    "total": 64
+    "total": 65
   },
   "facts": [
     {
@@ -517,6 +517,35 @@
       "unsupported_boundary": "不能单凭余额变化证明需求、品牌或资金占用优势；不证明净预收现金变化",
       "value": "期末9,592,453,014.66／期初14,125,755,802.29",
       "year": 2024
+    },
+    {
+      "actor": "Leo",
+      "binding": "db311b32084badde30ff0ac8b7e29641574cc947092aca81a2596f2d5b7be52a",
+      "candidate_fingerprint": "3a73b31504554a2ec04b61344aafd65f0ce7b7ed99442c101225bdbb3700972d",
+      "claim": "销售费用本期／上期发生额",
+      "confirmed_at": "2026-10-13T13:19:33+08:00",
+      "id": "R2024-09",
+      "location": "PDF／报告109页附注43表头、110页合计；63页合并利润表交叉",
+      "note": "",
+      "numbers": [
+        "5,639,300,059.49",
+        "4,648,613,585.82"
+      ],
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "pending_issue": "本人亲看原页并在窗口确认；分项变化和计算另记",
+      "period": "2024年度本期／2023年度比较列",
+      "scope": "人民币元；合并销售费用年度流量，非现金支付额；不分配到直销或品牌",
+      "source_version": "2024年年度报告；SHA见E04底稿",
+      "stale_reason": "",
+      "state": "Fact",
+      "submitted_state": "Fact",
+      "support_boundary": "限定为本报告两期合并销售费用总额",
+      "table": "来源定位见原PDF与口径",
+      "unit": "人民币元",
+      "unsupported_boundary": "不证明纯品牌维护成本、渠道净利润、费用增长原因或资本回报",
+      "value": "本期5,639,300,059.49／上期4,648,613,585.82",
+      "year": 2024
     }
   ],
   "schema_version": 1,
@@ -598,5 +627,5 @@
       "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
     }
   },
-  "updated_at": "2026-10-13T11:06:15+08:00"
+  "updated_at": "2026-10-13T13:19:33+08:00"
 }

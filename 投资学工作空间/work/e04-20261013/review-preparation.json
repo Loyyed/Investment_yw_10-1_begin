@@ -14,8 +14,12 @@
   ],
   "unit": "人民币元",
   "scope": "合并销售费用；2024/2023年度流量",
-  "human_confirmation_occurred": false,
+  "human_confirmation_occurred": true,
   "source_crosscheck": "两期费用分项分别精确合计，利润表交叉一致，2023总额与旧原报110页相同",
   "source_cache_local_only": "课件与任务文件/e04-net-return-20261013",
-  "next_action": "刷新现有核验窗口，选择R2024-09，核两期合计、元、合并及年度口径，本人点击确认"
+  "next_action": "已核完本项；下一项R2024-10市场推广及服务费，原109页本期与比较列",
+  "actual_window_event": 20,
+  "actual_actor": "Leo",
+  "confirmed_at": "2026-10-13T13:19:33+08:00",
+  "receipt": "work/e04-20261013/human-confirmation-receipt.json"
 }

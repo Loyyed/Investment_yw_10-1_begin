@@ -1,0 +1,81 @@
+{
+  "date": "2026-10-13",
+  "target_directory": "D:\\投资学\\投资学公司分析通用工作台",
+  "runtime_registration_uploaded": false,
+  "originals_uploaded": false,
+  "unit_tests": {
+    "count": 67,
+    "result": "passed",
+    "synthetic_only": true
+  },
+  "browser": {
+    "result": "passed",
+    "viewport": [
+      1440,
+      1050,
+      390,
+      844
+    ],
+    "synthetic_only": true,
+    "facts_after_browser_review": 3,
+    "dcf_test_value_per_share": "120.00",
+    "tested_ui_flows": [
+      "create",
+      "import",
+      "candidate",
+      "derived",
+      "review",
+      "draft",
+      "opinion",
+      "model",
+      "report",
+      "content-review",
+      "signature",
+      "contract-map",
+      "clause-progress"
+    ],
+    "console_errors": [],
+    "screenshots": [
+      "01-overview-desktop.png",
+      "02-calculation-modal.png",
+      "03-evidence.png",
+      "04-report-desktop.png",
+      "05-overview-mobile.png",
+      "06-mobile-menu.png",
+      "07-evidence-mobile.png",
+      "08-sources.png",
+      "09-empty-new-project.png"
+    ]
+  },
+  "canonical_verification": {
+    "result": "passed",
+    "canonical_toolkit": "D:\\投资学\\投资学公司分析通用工作台",
+    "http_state_and_export": true,
+    "production_authority_unchanged": true,
+    "current_domains": {
+      "facts": 19,
+      "change_facts": 2,
+      "lec03_agent_facts": 16,
+      "m01_scale_facts": 3,
+      "m01_metric_facts": 15,
+      "m01_disclosure_facts": 3
+    },
+    "counts": {
+      "Fact": 58,
+      "Unknown": 47,
+      "total": 105
+    },
+    "next_review_id": "R2024-10",
+    "contracts": 8,
+    "clauses": 100,
+    "core_sha256": "893e1c8388ead4a27a6ddd83762de2213c0ddad7c3f33e943304d1416a5005e2",
+    "report_fingerprint": "d4e914628bde0e07a3aee491fc386aae1a9183a71b6c5ce782d9ac583cc48df9",
+    "report_status": "待人工审阅；新汇编不继承旧签署",
+    "outputs": [
+      "投资学工作空间/outputs/贵州茅台_证券投资分析汇编_20261013.md",
+      "投资学工作空间/outputs/贵州茅台_证券投资分析汇编_20261013.html",
+      "投资学工作空间/outputs/贵州茅台_证券投资分析汇编_20261013.json"
+    ]
+  },
+  "publication_status": "待当前成果提交与远程核验"
+}
