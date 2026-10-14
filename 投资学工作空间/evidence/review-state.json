@@ -1085,6 +1085,47 @@
         "year": 2024
       },
       "state": "Fact"
+    },
+    {
+      "actor": "leo",
+      "candidate_fingerprint": "b72e181e72a8c368fcbbea9c6f187cebe3e1b9ff73705cbbc4f978128c701bf2",
+      "confirmed_at": "2026-10-14T19:10:40+08:00",
+      "id": "R2024-11",
+      "note": "{\"channel\": \"actual-user-chat\", \"actual_user_reply\": \"我直接和你核验吧，R2024-11已经核对完毕，核验为正确Fact，核验人为leo\", \"actor_as_specified\": \"leo\", \"client_date\": \"2026-10-14\", \"confirmation_context\": \"上一条已展示R2024-11：2024年报109页，广告宣传费本期1,335,427,201.68／2023比较列1,366,390,834.54元，人民币元、合并年度流量。\", \"timestamp_meaning\": \"confirmed_at为程序保存实际聊天核验的时刻，不是窗口点击时刻；用户聊天发送的精确时间未提供。\", \"boundary\": \"仅该两期原披露，不确认新运算、全部品牌支出、增长原因或合同签署\"}",
+      "operation": "review",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "previous_state": "Unknown",
+      "sequence": 22,
+      "snapshot": {
+        "actor": "",
+        "binding": "59b7fc9ffab957c27769783acedad242288d2c31775a3a5cd42130f1fa86fe11",
+        "candidate_fingerprint": "b72e181e72a8c368fcbbea9c6f187cebe3e1b9ff73705cbbc4f978128c701bf2",
+        "claim": "广告宣传费本期／上期发生额",
+        "confirmed_at": "",
+        "id": "R2024-11",
+        "location": "PDF／报告109页附注43销售费用分项",
+        "note": "使用本报告上期比较列；旧2023广告及市场拓展合并科目另见SC14，不直接作同比基数",
+        "numbers": [
+          "1,335,427,201.68",
+          "1,366,390,834.54"
+        ],
+        "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+        "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+        "pending_issue": "使用本报告上期比较列；旧2023广告及市场拓展合并科目另见SC14，不直接作同比基数",
+        "period": "2024年度本期／2023年度比较列",
+        "scope": "人民币元；合并广告宣传费年度流量；按2024报告本期及比较列分类",
+        "source_version": "2024年年度报告；SHA见E04底稿",
+        "stale_reason": "",
+        "state": "Unknown",
+        "support_boundary": "限定为两期该广告分项披露值",
+        "table": "来源定位见原PDF与口径",
+        "unit": "人民币元",
+        "unsupported_boundary": "不证明全部品牌维护费用、渠道净利润、原因或新计算",
+        "value": "本期1,335,427,201.68／上期1,366,390,834.54",
+        "year": 2024
+      },
+      "state": "Fact"
     }
   ],
   "records": {
@@ -1815,8 +1856,45 @@
         "year": 2024
       },
       "state": "Fact"
+    },
+    "R2024-11": {
+      "actor": "leo",
+      "candidate_fingerprint": "b72e181e72a8c368fcbbea9c6f187cebe3e1b9ff73705cbbc4f978128c701bf2",
+      "confirmed_at": "2026-10-14T19:10:40+08:00",
+      "note": "{\"channel\": \"actual-user-chat\", \"actual_user_reply\": \"我直接和你核验吧，R2024-11已经核对完毕，核验为正确Fact，核验人为leo\", \"actor_as_specified\": \"leo\", \"client_date\": \"2026-10-14\", \"confirmation_context\": \"上一条已展示R2024-11：2024年报109页，广告宣传费本期1,335,427,201.68／2023比较列1,366,390,834.54元，人民币元、合并年度流量。\", \"timestamp_meaning\": \"confirmed_at为程序保存实际聊天核验的时刻，不是窗口点击时刻；用户聊天发送的精确时间未提供。\", \"boundary\": \"仅该两期原披露，不确认新运算、全部品牌支出、增长原因或合同签署\"}",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "snapshot": {
+        "actor": "",
+        "binding": "59b7fc9ffab957c27769783acedad242288d2c31775a3a5cd42130f1fa86fe11",
+        "candidate_fingerprint": "b72e181e72a8c368fcbbea9c6f187cebe3e1b9ff73705cbbc4f978128c701bf2",
+        "claim": "广告宣传费本期／上期发生额",
+        "confirmed_at": "",
+        "id": "R2024-11",
+        "location": "PDF／报告109页附注43销售费用分项",
+        "note": "使用本报告上期比较列；旧2023广告及市场拓展合并科目另见SC14，不直接作同比基数",
+        "numbers": [
+          "1,335,427,201.68",
+          "1,366,390,834.54"
+        ],
+        "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+        "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+        "pending_issue": "使用本报告上期比较列；旧2023广告及市场拓展合并科目另见SC14，不直接作同比基数",
+        "period": "2024年度本期／2023年度比较列",
+        "scope": "人民币元；合并广告宣传费年度流量；按2024报告本期及比较列分类",
+        "source_version": "2024年年度报告；SHA见E04底稿",
+        "stale_reason": "",
+        "state": "Unknown",
+        "support_boundary": "限定为两期该广告分项披露值",
+        "table": "来源定位见原PDF与口径",
+        "unit": "人民币元",
+        "unsupported_boundary": "不证明全部品牌维护费用、渠道净利润、原因或新计算",
+        "value": "本期1,335,427,201.68／上期1,366,390,834.54",
+        "year": 2024
+      },
+      "state": "Fact"
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-14T18:47:01+08:00"
+  "updated_at": "2026-10-14T19:10:40+08:00"
 }

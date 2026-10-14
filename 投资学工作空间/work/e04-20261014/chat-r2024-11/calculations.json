@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-14",
+  "state": "AgentCalculated",
+  "human_arithmetic_confirmation": false,
+  "fact_id": "R2024-11",
+  "input_binding": "59b7fc9ffab957c27769783acedad242288d2c31775a3a5cd42130f1fa86fe11",
+  "current_yuan": "1335427201.68",
+  "previous_yuan": "1366390834.54",
+  "delta_yuan": "-30963632.86",
+  "delta_yiyuan": "-0.3096363286",
+  "growth_percent_exact": "-2.26608903377370864430300864567741628405434341973",
+  "display_percent": "-2.27",
+  "formula": "(1335427201.68-1366390834.54)/1366390834.54*100",
+  "boundary": "按2024报告同表本期/比较列的广告分项变动，不能与旧2023广告及市场拓展合并类别直接同比；不证明全部品牌维护成本下降"
+}

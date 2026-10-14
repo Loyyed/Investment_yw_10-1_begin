@@ -1,9 +1,12 @@
 {
   "schema_version": 1,
   "date": "2026-10-14",
-  "next_review_id": "R2024-11",
-  "next_review_scope": "只核原109页广告宣传费本期/上期，使用2024报告比较列；不扩大到品牌费用或新运算",
-  "completed_review_id": "R2024-10",
-  "completed_event": 21,
+  "next_review_id": "R2024-12",
+  "next_review_scope": "可直接在聊天逐项核验商标许可费：110页本期/比较列、人民币元、合并管理费用年度流量",
+  "preferred_confirmation_channel": "actual-user-chat",
+  "completed_review_id": "R2024-11",
+  "completed_event": 22,
+  "completed_channel": "actual-user-chat",
+  "completed_reviewer": "leo",
   "toolkit_directory": "投资学公司分析通用工作台"
 }

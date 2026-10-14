@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-14",
+  "new_fact": "R2024-11",
+  "reviewer": "leo",
+  "channel": "actual-user-chat",
+  "event": 22,
+  "fact_count": 21,
+  "prior_events_unchanged": true,
+  "old_original_candidates_and_authority_code_unchanged": true,
+  "next_candidate": "R2024-12",
+  "new_window_clicks": 0,
+  "new_arithmetic_facts": 0,
+  "new_signatures": 0,
+  "growth_percent_agent_calculated": "-2.27"
+}
