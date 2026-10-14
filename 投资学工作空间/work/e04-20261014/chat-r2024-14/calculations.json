@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-14",
+  "state": "AgentCalculated",
+  "human_arithmetic_confirmation": false,
+  "input_fact_ids": [
+    "R2024-14",
+    "R2024-13"
+  ],
+  "input_bindings": {
+    "R2024-14": "e0bc3fac62bb1c4fb4f999393ca6d18085c2ef732bc7288041e532a9082be6de",
+    "R2024-13": "07ccb4ca02481ea4196139878ac521ec683569eb53cdc0a2fa439ceff9710402"
+  },
+  "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+  "source_pages": [
+    44,
+    16
+  ],
+  "fee_wanyuan": "9882.05",
+  "fee_yuan": "98820500.00",
+  "fee_yiyuan": "0.988205",
+  "platform_revenue_wanyuan": "2002366.62",
+  "descriptive_ratio_percent_exact": "0.493518514606481004962018394014179081750773492219",
+  "descriptive_ratio_percent_display": "0.49",
+  "formula": "9882.05/2002366.62*100",
+  "boundary": "仅第三方手续费与平台披露收入的描述性比例；不是贵州银行收入、实际合同费率或平台净利润率；费用归属Unknown，不重复扣除"
+}

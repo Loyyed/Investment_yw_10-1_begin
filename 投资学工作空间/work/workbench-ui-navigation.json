@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "date": "2026-10-14",
-  "next_review_id": "R2024-14",
-  "next_review_scope": "44页委托贵州银行代收代付的i茅台第三方支付渠道交易手续费9,882.05，人民币万元、2024年度；非全部平台成本或实际费率",
+  "next_review_id": "R2024-15",
+  "next_review_scope": "110页管理费用合计，本期9,315,650,060.38/上期9,729,389,252.31元；合并、人民币元、年度流量",
   "preferred_confirmation_channel": "actual-user-chat",
-  "completed_review_id": "R2024-13",
-  "completed_event": 24,
+  "completed_review_id": "R2024-14",
+  "completed_event": 25,
   "completed_channel": "actual-user-chat",
   "completed_reviewer": "leo",
   "toolkit_directory": "投资学公司分析通用工作台"

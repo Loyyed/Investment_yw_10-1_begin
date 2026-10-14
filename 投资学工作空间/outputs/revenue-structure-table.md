@@ -123,7 +123,7 @@
 ![合并附注全收入](../docs/images/pdf-2024-p108.png)
 
 <!-- review-store:progress:start -->
-当前有效Fact为23条；Unknown为47条；已撤回0条；需重新核验0条。共70条候选。 日期自动按Asia/Shanghai记录。合同验收、复核人与正式签署另行完成。
+当前有效Fact为24条；Unknown为47条；已撤回0条；需重新核验0条。共71条候选。 日期自动按Asia/Shanghai记录。合同验收、复核人与正式签署另行完成。
 
 | 编号 | 有效状态 | 核验人 | 核验时间 | 备注／失效原因 |
 | --- | --- | --- | --- | --- |
@@ -184,5 +184,6 @@
 | R2024-11 | Fact | leo | 2026-10-14T19:10:40+08:00 | {"channel": "actual-user-chat", "actual_user_reply": "我直接和你核验吧，R2024-11已经核对完毕，核验为正确Fact，核验人为leo", "actor_as_specified": "leo", "client_date": "2026-10-14", "confirmation_context": "上一条已展示R2024-11：2024年报109页，广告宣传费本期1,335,427,201.68／2023比较列1,366,390,834.54元，人民币元、合并年度流量。", "timestamp_meaning": "confirmed_at为程序保存实际聊天核验的时刻，不是窗口点击时刻；用户聊天发送的精确时间未提供。", "boundary": "仅该两期原披露，不确认新运算、全部品牌支出、增长原因或合同签署"} |
 | R2024-12 | Fact | leo | 2026-10-14T19:20:59+08:00 | {"channel": "actual-user-chat", "actual_user_reply": "R2024-12：商标许可使用费，人工核验确认完毕，为正确数值", "client_date": "2026-10-14", "reviewer": "leo", "reviewer_basis": "沿用本会话本人上一项明确指定的聊天核验人leo，不修改历史窗口Leo", "confirmation_context": "已展示R2024-12：2024年报110页，本期2,466,052,249.25／上期1,805,818,609.89元，人民币元、合并管理费用、年度发生额。", "timestamp_meaning": "confirmed_at为程序保存时刻；精确聊天发送时间未提供，不伪造窗口点击时间", "boundary": "仅两期原披露值及已展示口径，不新增算术、原因、母集团净收益或签署确认"} |
 | R2024-13 | Fact | leo | 2026-10-14T19:31:03+08:00 | {"channel": "actual-user-chat", "actual_user_reply": "人工核验完毕，为正确数值，为i茅台数字平台收入", "client_date": "2026-10-14", "reviewer": "leo", "reviewer_basis": "沿用本会话本人上一项明确指定的聊天核验人leo，不修改历史窗口Leo", "confirmation_context": "已展示R2024-13：2024年报16页，本期2,002,366.62／上期2,237,432.35，人民币万元、i茅台平台年度销售收入、非全部直销。", "timestamp_meaning": "confirmed_at为程序保存时刻；精确聊天发送时间未提供，不伪造窗口点击时间", "boundary": "仅平台两期原披露值及已展示口径，不新增同比、毛利率、全部直销、原因或签署确认"} |
-| R2024-14 | Unknown |  |  | 原表万元不作元；是否已计入其他费用Unknown，不重复扣除 |
+| R2024-14 | Fact | leo | 2026-10-14T19:43:06+08:00 | {"channel": "actual-user-chat", "actual_user_reply": "R2024-14数值核对无误，但是需要强调的是这反映的是贵州银行代收的第三方手续费", "client_date": "2026-10-14", "reviewer": "leo", "reviewer_basis": "沿用本会话本人上一项明确指定的聊天核验人leo，不修改历史窗口Leo", "confirmation_context": "已展示R2024-14：2024年报44页，委托贵州银行代收代付的i茅台第三方支付渠道交易手续费9,882.05万元，2024年度；本人强调为贵州银行代收的第三方手续费。", "timestamp_meaning": "confirmed_at为程序保存时刻；精确聊天发送时间未提供，不伪造窗口点击时间", "boundary": "金额与第三方手续费代收性质已核；贵州银行为代收方，不等同银行自身收入、平台全部成本或合同费率；费用是否已计入其他费用仍Unknown"} |
+| R2024-15 | Unknown |  |  | 商标许可费已在管理费用中列示，不另加一次；同比与原因单列 |
 <!-- review-store:progress:end -->
