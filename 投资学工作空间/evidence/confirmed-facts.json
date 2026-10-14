@@ -1,11 +1,11 @@
 {
   "authority": "evidence/review-state.json",
   "counts": {
-    "Fact": 21,
+    "Fact": 22,
     "Unknown": 47,
     "Withdrawn": 0,
     "stale": 0,
-    "total": 68
+    "total": 69
   },
   "facts": [
     {
@@ -604,6 +604,35 @@
       "unsupported_boundary": "不证明全部品牌维护费用、渠道净利润、原因或新计算",
       "value": "本期1,335,427,201.68／上期1,366,390,834.54",
       "year": 2024
+    },
+    {
+      "actor": "leo",
+      "binding": "f3dcc743bf1ee9754ab05db7001e2a8ef407311a2883243e6467389dbd50ee85",
+      "candidate_fingerprint": "d810ef9d6ea2e9e687fc3de97381f36516aca7c5d9d25cbf4d7e4f9c491247a4",
+      "claim": "商标许可使用费本期／上期发生额",
+      "confirmed_at": "2026-10-14T19:20:59+08:00",
+      "id": "R2024-12",
+      "location": "PDF／报告110页附注44管理费用；128页本期关联交易交叉",
+      "note": "{\"channel\": \"actual-user-chat\", \"actual_user_reply\": \"R2024-12：商标许可使用费，人工核验确认完毕，为正确数值\", \"client_date\": \"2026-10-14\", \"reviewer\": \"leo\", \"reviewer_basis\": \"沿用本会话本人上一项明确指定的聊天核验人leo，不修改历史窗口Leo\", \"confirmation_context\": \"已展示R2024-12：2024年报110页，本期2,466,052,249.25／上期1,805,818,609.89元，人民币元、合并管理费用、年度发生额。\", \"timestamp_meaning\": \"confirmed_at为程序保存时刻；精确聊天发送时间未提供，不伪造窗口点击时间\", \"boundary\": \"仅两期原披露值及已展示口径，不新增算术、原因、母集团净收益或签署确认\"}",
+      "numbers": [
+        "2,466,052,249.25",
+        "1,805,818,609.89"
+      ],
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "pending_issue": "按2024报告本期/比较列；关联方身份不表示上市合并主体已抵销该费用",
+      "period": "2024年度本期／2023年度比较列",
+      "scope": "人民币元；合并管理费用年度流量，非现金支付额",
+      "source_version": "2024年年度报告；SHA见E04底稿",
+      "stale_reason": "",
+      "state": "Fact",
+      "submitted_state": "Fact",
+      "support_boundary": "限定为两期商标许可使用费披露值",
+      "table": "来源定位见原PDF与口径",
+      "unit": "人民币元",
+      "unsupported_boundary": "不证明全部品牌成本、母集团净收益、品牌因果或新计算",
+      "value": "本期2,466,052,249.25／上期1,805,818,609.89",
+      "year": 2024
     }
   ],
   "schema_version": 1,
@@ -685,5 +714,5 @@
       "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
     }
   },
-  "updated_at": "2026-10-14T19:10:40+08:00"
+  "updated_at": "2026-10-14T19:20:59+08:00"
 }

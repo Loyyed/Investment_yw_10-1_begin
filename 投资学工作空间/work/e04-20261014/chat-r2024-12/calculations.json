@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-14",
+  "state": "AgentCalculated",
+  "human_arithmetic_confirmation": false,
+  "input_fact_id": "R2024-12",
+  "input_binding": "f3dcc743bf1ee9754ab05db7001e2a8ef407311a2883243e6467389dbd50ee85",
+  "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+  "source_pages": [
+    110,
+    128
+  ],
+  "current_yuan": "2466052249.25",
+  "previous_yuan": "1805818609.89",
+  "delta_yuan": "660233639.36",
+  "delta_yiyuan": "6.6023363936",
+  "growth_percent_exact": "36.5614594812608341337996797777590545351360046062",
+  "growth_percent_display": "36.56",
+  "formula": "(2466052249.25-1805818609.89)/1805818609.89*100",
+  "boundary": "仅商标许可分项变动，不等于全部品牌维护费、现金支付额或品牌经济净贡献"
+}
