@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-14",
+  "new_fact": "R2024-13",
+  "reviewer": "leo",
+  "event": 24,
+  "channel": "actual-user-chat",
+  "fact_count": 23,
+  "prior_events_preserved": true,
+  "authority_code_unchanged": true,
+  "new_window_clicks": 0,
+  "new_arithmetic_facts": 0,
+  "new_signatures": 0,
+  "next_review": "R2024-14",
+  "next_unit": "人民币万元"
+}

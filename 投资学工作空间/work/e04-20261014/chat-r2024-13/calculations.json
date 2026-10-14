@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-14",
+  "state": "AgentCalculated",
+  "human_arithmetic_confirmation": false,
+  "input_fact_id": "R2024-13",
+  "input_binding": "07ccb4ca02481ea4196139878ac521ec683569eb53cdc0a2fa439ceff9710402",
+  "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+  "source_pages": [
+    16
+  ],
+  "original_unit": "人民币万元",
+  "current_wanyuan": "2002366.62",
+  "previous_wanyuan": "2237432.35",
+  "delta_wanyuan": "-235065.73",
+  "current_yuan": "20023666200.00",
+  "previous_yuan": "22374323500.00",
+  "delta_yuan": "-2350657300.00",
+  "delta_yiyuan": "-23.506573",
+  "growth_percent_exact": "-10.5060485962849334863688727840195928158453595256",
+  "growth_percent_display": "-10.51",
+  "formula": "(2002366.62-2237432.35)/2237432.35*100",
+  "conversion": "1万元=10000元；1亿元=10000万元",
+  "boundary": "仅i茅台平台收入同比，不代表全部直销、终端销量或净利润；原表同比与毛利率未随本项确认为Fact"
+}
