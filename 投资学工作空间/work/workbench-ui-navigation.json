@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "date": "2026-10-13",
-  "next_review_id": "R2024-10",
-  "next_review_scope": "只核原109页市场推广及服务费本期/上期，按同一2024报告分类；不批量核原因和新算术",
-  "completed_review_id": "R2024-09",
-  "completed_event": 20,
+  "date": "2026-10-14",
+  "next_review_id": "R2024-11",
+  "next_review_scope": "只核原109页广告宣传费本期/上期，使用2024报告比较列；不扩大到品牌费用或新运算",
+  "completed_review_id": "R2024-10",
+  "completed_event": 21,
   "toolkit_directory": "投资学公司分析通用工作台"
 }

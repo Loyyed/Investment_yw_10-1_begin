@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-14",
+  "fact_count": 20,
+  "actual_event": 21,
+  "authority_and_original_candidates_unchanged": true,
+  "next_candidate": "R2024-11",
+  "next_state": "Unknown",
+  "new_arithmetic_fact_created": false,
+  "report_version": "46451a6211a984d6cef63e9f370e162a9890fe2a015d366295bb23f74e0f033c",
+  "report_status": "待人工审阅；未继承旧签署",
+  "outputs": [
+    "投资学工作空间/outputs/贵州茅台_证券投资分析汇编_20261014.md",
+    "投资学工作空间/outputs/贵州茅台_证券投资分析汇编_20261014.html",
+    "投资学工作空间/outputs/贵州茅台_证券投资分析汇编_20261014.json"
+  ],
+  "no_toolkit_code_change": true
+}

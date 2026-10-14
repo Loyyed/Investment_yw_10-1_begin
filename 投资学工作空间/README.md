@@ -1,3 +1,5 @@
+> **2026-10-14当前核验：**R2024-10市场推广及服务费已确认（原窗口事件21），原披露Fact为20；下一项只核R2024-11广告宣传费。[当前单项核验与费用进展](docs/20261014-e04-progress.md)。原数确认不自动核准新运算或原因。
+
 > 2026-10-13：本人已认可修订研究意见并授权写入；H01/H02/H03/H04真实关口与合同必补内容已衔接。当前意见为Interpretation，行业基数、同SKU净价/终端量、品牌独立贡献、费用资本后收益及持续性缺口保留；原件、修正和旧签署不改。 [真实意见采纳](evidence/20261013-research-opinion-adoption.json)。
 
 <!-- workbench-v2-status:start -->
@@ -57,5 +59,5 @@ Fact的当前有效性须由ReviewStore接口核当前来源与依赖，旧摘�
 <!-- review-store:progress:start -->
 ## 人工核验进度
 
-当前有效Fact为19条；Unknown为46条；已撤回0条；需重新核验0条。共65条候选。 日期自动按Asia/Shanghai记录。合同验收、复核人与正式签署另行完成。
+当前有效Fact为20条；Unknown为47条；已撤回0条；需重新核验0条。共67条候选。 日期自动按Asia/Shanghai记录。合同验收、复核人与正式签署另行完成。
 <!-- review-store:progress:end -->

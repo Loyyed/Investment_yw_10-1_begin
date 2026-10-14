@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-14",
+  "candidate_id": "R2024-11",
+  "source_pdf": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+  "source_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+  "pages": [
+    109
+  ],
+  "current_yuan": "1335427201.68",
+  "previous_yuan": "1366390834.54",
+  "unit": "人民币元",
+  "basis": "合并，年度流量，2024报告本期／2023比较列",
+  "state": "Unknown",
+  "prior_source_check": "沿用已读原109页及E04原数缓存；当前PDF SHA一致，不新增Fact",
+  "next_action": "本人刷新原核验窗口，只核R2024-11广告宣传费两期金额及口径"
+}
