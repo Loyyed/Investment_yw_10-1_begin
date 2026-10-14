@@ -1248,6 +1248,47 @@
         "year": 2024
       },
       "state": "Fact"
+    },
+    {
+      "actor": "leo",
+      "candidate_fingerprint": "8a6064b96859030bbbef784caf77557d22dc61abeca259de3dcdf09dd2c4a177",
+      "confirmed_at": "2026-10-14T19:56:48+08:00",
+      "id": "R2024-15",
+      "note": "{\"channel\": \"actual-user-chat\", \"actual_user_reply\": \"R2024-15核对完毕，为正确指标。插一句，我需要你重新感知你的环境，我给你在”D:\\\\投资学\\\\课件与任务文件\\\\补充材料2“中加入了全新的补充材料给你参考，你可以根据新增的材料，结合之前给你的材料形成新的工作skill和项目完成模式，注入在项目工作台的合理位置，同时根据新增附件优化通用工作台。优化前期各项任务合同的完成情况和内容，重新浏览各个任务合同的完成模式和情况，然后你可以告诉我我跟你需要继续核验什么，形成指标和参数完成优化各个任务合同\", \"client_date\": \"2026-10-14\", \"reviewer\": \"leo\", \"reviewer_basis\": \"沿用本会话本人上一项明确指定的聊天核验人leo，不修改历史窗口Leo\", \"confirmation_context\": \"已展示R2024-15：2024年报110页管理费用合计：本期9,315,650,060.38元、上期9,729,389,252.31元，合并、人民币元、年度发生额。\", \"timestamp_meaning\": \"confirmed_at为程序保存时刻；精确聊天发送时间未提供，不伪造窗口点击时间\", \"boundary\": \"仅管理费用两期合计原数已核；下降原因、新同比、机制与签署未随同核准；商标许可费不再加一次\"}",
+      "operation": "review",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "previous_state": "Unknown",
+      "sequence": 26,
+      "snapshot": {
+        "actor": "",
+        "binding": "446da58aead77c504cb20770c657956f2939bb175d13ec842999733121de8f37",
+        "candidate_fingerprint": "8a6064b96859030bbbef784caf77557d22dc61abeca259de3dcdf09dd2c4a177",
+        "claim": "管理费用本期／上期发生额",
+        "confirmed_at": "",
+        "id": "R2024-15",
+        "location": "PDF／报告110页管理费用合计，63页合并利润表交叉核对",
+        "note": "商标许可费已在管理费用中列示，不另加一次；同比与原因单列",
+        "numbers": [
+          "9,315,650,060.38",
+          "9,729,389,252.31"
+        ],
+        "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+        "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+        "pending_issue": "商标许可费已在管理费用中列示，不另加一次；同比与原因单列",
+        "period": "2024年度本期／2023年度比较列",
+        "scope": "人民币元；合并管理费用；年度发生额",
+        "source_version": "2024年年度报告；SHA见E04底稿",
+        "stale_reason": "",
+        "state": "Unknown",
+        "support_boundary": "限定为管理费用两期合计披露值",
+        "table": "来源定位见原PDF与口径",
+        "unit": "人民币元",
+        "unsupported_boundary": "不证明费用下降原因、渠道归属、效率提升或新同比已核",
+        "value": "本期9,315,650,060.38／上期9,729,389,252.31",
+        "year": 2024
+      },
+      "state": "Fact"
     }
   ],
   "records": {
@@ -2125,8 +2166,45 @@
         "year": 2024
       },
       "state": "Fact"
+    },
+    "R2024-15": {
+      "actor": "leo",
+      "candidate_fingerprint": "8a6064b96859030bbbef784caf77557d22dc61abeca259de3dcdf09dd2c4a177",
+      "confirmed_at": "2026-10-14T19:56:48+08:00",
+      "note": "{\"channel\": \"actual-user-chat\", \"actual_user_reply\": \"R2024-15核对完毕，为正确指标。插一句，我需要你重新感知你的环境，我给你在”D:\\\\投资学\\\\课件与任务文件\\\\补充材料2“中加入了全新的补充材料给你参考，你可以根据新增的材料，结合之前给你的材料形成新的工作skill和项目完成模式，注入在项目工作台的合理位置，同时根据新增附件优化通用工作台。优化前期各项任务合同的完成情况和内容，重新浏览各个任务合同的完成模式和情况，然后你可以告诉我我跟你需要继续核验什么，形成指标和参数完成优化各个任务合同\", \"client_date\": \"2026-10-14\", \"reviewer\": \"leo\", \"reviewer_basis\": \"沿用本会话本人上一项明确指定的聊天核验人leo，不修改历史窗口Leo\", \"confirmation_context\": \"已展示R2024-15：2024年报110页管理费用合计：本期9,315,650,060.38元、上期9,729,389,252.31元，合并、人民币元、年度发生额。\", \"timestamp_meaning\": \"confirmed_at为程序保存时刻；精确聊天发送时间未提供，不伪造窗口点击时间\", \"boundary\": \"仅管理费用两期合计原数已核；下降原因、新同比、机制与签署未随同核准；商标许可费不再加一次\"}",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "snapshot": {
+        "actor": "",
+        "binding": "446da58aead77c504cb20770c657956f2939bb175d13ec842999733121de8f37",
+        "candidate_fingerprint": "8a6064b96859030bbbef784caf77557d22dc61abeca259de3dcdf09dd2c4a177",
+        "claim": "管理费用本期／上期发生额",
+        "confirmed_at": "",
+        "id": "R2024-15",
+        "location": "PDF／报告110页管理费用合计，63页合并利润表交叉核对",
+        "note": "商标许可费已在管理费用中列示，不另加一次；同比与原因单列",
+        "numbers": [
+          "9,315,650,060.38",
+          "9,729,389,252.31"
+        ],
+        "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+        "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+        "pending_issue": "商标许可费已在管理费用中列示，不另加一次；同比与原因单列",
+        "period": "2024年度本期／2023年度比较列",
+        "scope": "人民币元；合并管理费用；年度发生额",
+        "source_version": "2024年年度报告；SHA见E04底稿",
+        "stale_reason": "",
+        "state": "Unknown",
+        "support_boundary": "限定为管理费用两期合计披露值",
+        "table": "来源定位见原PDF与口径",
+        "unit": "人民币元",
+        "unsupported_boundary": "不证明费用下降原因、渠道归属、效率提升或新同比已核",
+        "value": "本期9,315,650,060.38／上期9,729,389,252.31",
+        "year": 2024
+      },
+      "state": "Fact"
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-14T19:43:06+08:00"
+  "updated_at": "2026-10-14T19:56:48+08:00"
 }

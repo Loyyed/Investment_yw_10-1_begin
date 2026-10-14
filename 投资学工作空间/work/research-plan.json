@@ -1,0 +1,573 @@
+{
+  "schema_version": 1,
+  "information_cutoff": "2024-12-31",
+  "analysis_mode": "事后研究",
+  "nodes": [
+    {
+      "id": "revenue",
+      "layer": "financial",
+      "title": "收入",
+      "question": "谁购买什么，量、价与结构如何形成收入？",
+      "interpretation": "截至2024的收入获取保持，茅台酒增收兼有销量与产品组均价变化；同SKU提价与组合贡献尚未分开。",
+      "alternative": "产品规格、渠道组合、投放节奏均可改变组均价。",
+      "unknown": "细分行业需求/份额分母、同SKU净价、终端销量Unknown。",
+      "next_action": "先复用原值和量价运算；新增2025收入单独核原页，不延伸旧判断。",
+      "refutation": "同规格净价与终端量持续走弱，或新增销售仅替代旧渠道时，削弱持续增长解释。",
+      "source_date": "",
+      "source_role": "原始披露",
+      "evidence_ids": [
+        "C01",
+        "C03",
+        "C04",
+        "N2024-01",
+        "N2024-02",
+        "change_facts:CH01",
+        "m01_metric_facts:M01-A01"
+      ],
+      "evidence_bindings": {
+        "C01": "bf6e838d821bfa014ee564b83dbd1438bee886ca176f83e4f985a3eff0a0cc10",
+        "C03": "ed35f268b755b772dcee5dde7211a27e1816419d1850bc7276290259537b1a04",
+        "C04": "22ed6c8b14a9d97377d7231dbee6b4ceced91db58ee6adbebed8e628f2968f63",
+        "N2024-01": "f16c157c84ba73c30b76cad87cf764ebaa745a92d6b80b754c2c9408955f60cf",
+        "N2024-02": "2fcfac23b6630b5fcced6e23db91ec1d54f7734eb131894fe9db158a28677013",
+        "change_facts:CH01": "662088ba6e3672e06f51146d443e331df3831022e68e73ad2620b6f4fb4a90bc",
+        "m01_metric_facts:M01-A01": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90"
+      }
+    },
+    {
+      "id": "cost",
+      "layer": "financial",
+      "title": "成本",
+      "question": "毛利怎样经过税费与组织费用形成经营收益？",
+      "interpretation": "高毛利之后仍需承担税费与组织投入；商标许可费已含管理费用，贵州银行代收的是第三方手续费。",
+      "alternative": "高毛利还可由结构、低营业成本或成本列报位置形成，并不单独识别品牌。",
+      "unknown": "研发合计、税金及附加待本轮核验；渠道净收益与费用直接归属Unknown。",
+      "next_action": "优先核R2024-16研发费用，再核R2024-17税金及附加，形成不重复扣费的分析利润桥。",
+      "refutation": "费用率降低若伴随必要投入减少或终端服务恶化，不能解释为效率提升。",
+      "source_date": "",
+      "source_role": "原始披露",
+      "evidence_ids": [
+        "N2024-01",
+        "N2024-02",
+        "R2024-09",
+        "R2024-10",
+        "R2024-11",
+        "R2024-12",
+        "R2024-14",
+        "R2024-15",
+        "m01_scale_facts:M01-K01"
+      ],
+      "evidence_bindings": {
+        "N2024-01": "f16c157c84ba73c30b76cad87cf764ebaa745a92d6b80b754c2c9408955f60cf",
+        "N2024-02": "2fcfac23b6630b5fcced6e23db91ec1d54f7734eb131894fe9db158a28677013",
+        "R2024-09": "db311b32084badde30ff0ac8b7e29641574cc947092aca81a2596f2d5b7be52a",
+        "R2024-10": "59a6ae1310f90e0da3804077533478a83620533c4176ac7fb1dd1c054dbc9ebd",
+        "R2024-11": "59b7fc9ffab957c27769783acedad242288d2c31775a3a5cd42130f1fa86fe11",
+        "R2024-12": "f3dcc743bf1ee9754ab05db7001e2a8ef407311a2883243e6467389dbd50ee85",
+        "R2024-14": "e0bc3fac62bb1c4fb4f999393ca6d18085c2ef732bc7288041e532a9082be6de",
+        "R2024-15": "446da58aead77c504cb20770c657956f2939bb175d13ec842999733121de8f37",
+        "m01_scale_facts:M01-K01": "f33503d9422369d12e0902a089ae7d0fe55450679fefbd8f52456686b24af28d"
+      }
+    },
+    {
+      "id": "capital",
+      "layer": "financial",
+      "title": "资本投入",
+      "question": "增长需提前投入哪些库存、产能和经营资金？",
+      "interpretation": "长周期投入与销售存在时间差；存货金额、实物吨、项目投入与购建现金分开，不能仅由低Capex贴轻资产标签。",
+      "alternative": "存货上升可能为产能配套、结构转换或积压；缺库龄时不能选择唯一原因。",
+      "unknown": "经营资产/无息负债范围、维护/扩张Capex、成熟滞后和平均投入资本待裁定。",
+      "next_action": "先列资产负债经营属性，逐项补直接归属；2015—2019可取报告不等于已核十年面板。",
+      "refutation": "库存与投入长期快于后续销售且回报未兑现，削弱资本效率解释。",
+      "source_date": "",
+      "source_role": "原始披露",
+      "evidence_ids": [
+        "R2024-08",
+        "m01_scale_facts:M01-K03",
+        "lec03_agent_facts:L03-A2024-P"
+      ],
+      "evidence_bindings": {
+        "R2024-08": "50b379e85fe4a04982f34e70de7b4dfa961702aa7a8675eee71b443cbab01145",
+        "m01_scale_facts:M01-K03": "f33503d9422369d12e0902a089ae7d0fe55450679fefbd8f52456686b24af28d",
+        "lec03_agent_facts:L03-A2024-P": ""
+      }
+    },
+    {
+      "id": "cash",
+      "layer": "financial",
+      "title": "现金流",
+      "question": "利润怎样经过营运资本和长期投入转为现金？",
+      "interpretation": "2024合并现金转换较强但跨年波动且含财务公司影响；已剔除的显式金融项只能形成有边界余额，不是准确酒类CFO。",
+      "alternative": "收款节奏、合同负债与集团资金归集均可能改变合并CFO。",
+      "unknown": "带合并抵销的金融净贡献、实体利润与受限现金、经营Capex归属Unknown。",
+      "next_action": "同范围建立利润—营运资本—现金桥；CFO路径不再扣一次ΔNWC。",
+      "refutation": "剔除时点和金融影响后实体现金持续弱于利润，削弱稳定现金创造解释。",
+      "source_date": "",
+      "source_role": "原始披露",
+      "evidence_ids": [
+        "C09",
+        "lec03_agent_facts:L03-A2024-C",
+        "lec03_agent_facts:L03-A2023-C",
+        "lec03_agent_facts:L03-A2022-C"
+      ],
+      "evidence_bindings": {
+        "C09": "86e23c22a3bacd4c1380022392a70a0e64c81e42960285f30b9cbb8a1d01e618",
+        "lec03_agent_facts:L03-A2024-C": "",
+        "lec03_agent_facts:L03-A2023-C": "",
+        "lec03_agent_facts:L03-A2022-C": ""
+      }
+    },
+    {
+      "id": "proposition",
+      "layer": "value",
+      "title": "候选价值主张",
+      "question": "客户为何持续付费？",
+      "interpretation": "品质、品牌等为管理层自述与客户价值候选；此前已采纳的品牌解释仍限截至2024的证据范围。",
+      "alternative": "稀缺、场景、产品组合和渠道安排也可产生支付意愿。",
+      "unknown": "客户动机、复购、同SKU净溢价与品牌纯因果Unknown。",
+      "next_action": "管理层摘录回原PDF；只对具体新增命题补证，不按25年重复原话认定护城河。",
+      "refutation": "同规格溢价、真实需求与费用后净贡献同步下滑，应下调当前解释。",
+      "source_date": "",
+      "source_role": "原始披露",
+      "evidence_ids": [
+        "m01_disclosure_facts:M01-D01",
+        "m01_metric_facts:M01-G01"
+      ],
+      "evidence_bindings": {
+        "m01_disclosure_facts:M01-D01": "",
+        "m01_metric_facts:M01-G01": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90"
+      }
+    },
+    {
+      "id": "creation",
+      "layer": "value",
+      "title": "价值创造",
+      "question": "资源、活动与时间如何形成产品？",
+      "interpretation": "生产、贮存及质量活动连接产品供给与库存资本，但真实生产成本和跨批次成熟资源仍需桥接。",
+      "alternative": "等待时间也可能抬高库存风险与资本需求，不必然产生稀缺收益。",
+      "unknown": "不同基酒年份、勾兑、损耗和可售库存映射Unknown。",
+      "next_action": "利用生产—库存—销售滞后表，不预设固定五年一比一对应。",
+      "refutation": "成熟库存长期不能在预期需求下兑现，削弱资源经济价值解释。",
+      "source_date": "",
+      "source_role": "原始披露",
+      "evidence_ids": [
+        "lec03_agent_facts:L03-A2024-B",
+        "lec03_agent_facts:L03-A2024-P",
+        "m01_scale_facts:M01-K03"
+      ],
+      "evidence_bindings": {
+        "lec03_agent_facts:L03-A2024-B": "",
+        "lec03_agent_facts:L03-A2024-P": "",
+        "m01_scale_facts:M01-K03": "f33503d9422369d12e0902a089ae7d0fe55450679fefbd8f52456686b24af28d"
+      }
+    },
+    {
+      "id": "delivery",
+      "layer": "value",
+      "title": "价值交付",
+      "question": "渠道、交易及收款安排如何交付？",
+      "interpretation": "i茅台收入与全部直销必须分开；平台收入下降可与直销整体增长并存，不能只凭渠道份额变化认定净价值回收。",
+      "alternative": "收入可能在不同直销渠道迁移，新增用户和真实动销并未同步增加。",
+      "unknown": "渠道费用、履约成本、终端复购与直接经营资本Unknown。",
+      "next_action": "补同规格渠道净价/量和费用归属；第三方手续费只描述金额规模，不当真实费率。",
+      "refutation": "净新增需求不改善且费用或渠道冲突增加，削弱渠道创造价值叙事。",
+      "source_date": "",
+      "source_role": "原始披露",
+      "evidence_ids": [
+        "R2024-07",
+        "R2024-13",
+        "R2024-14",
+        "R2024-09",
+        "m01_metric_facts:M01-C01"
+      ],
+      "evidence_bindings": {
+        "R2024-07": "b18e3abc5535e5084cbaa4355dd9952590003f520697bd2016636cb1c30e46f1",
+        "R2024-13": "07ccb4ca02481ea4196139878ac521ec683569eb53cdc0a2fa439ceff9710402",
+        "R2024-14": "e0bc3fac62bb1c4fb4f999393ca6d18085c2ef732bc7288041e532a9082be6de",
+        "R2024-09": "db311b32084badde30ff0ac8b7e29641574cc947092aca81a2596f2d5b7be52a",
+        "m01_metric_facts:M01-C01": "a7f09db3ff126c25ff2c281d35ac4d63529532ed33c45834f9503f05dd8d9a90"
+      }
+    },
+    {
+      "id": "capture",
+      "layer": "value",
+      "title": "价值获取",
+      "question": "公司保留多少收入、利润、现金与资本回报？",
+      "interpretation": "上市公司价值获取应同时看营业毛利、税费、组织成本、资本需求与现金；高毛利不等于可分配FCFF。",
+      "alternative": "金融收益、投资/减值、会计分类与收款时点可能解释净利润/现金差异。",
+      "unknown": "NOPAT、经营税率、投入资本、完整实体FCFF及证券权利未定。",
+      "next_action": "补齐经营利润桥与经营范围后再构建资本回报；预测输入保持Forecast。",
+      "refutation": "新增资本未形成后续NOPAT且调整现金走弱，削弱可持续回报解释。",
+      "source_date": "",
+      "source_role": "原始披露",
+      "evidence_ids": [
+        "C01",
+        "C09",
+        "R2024-12",
+        "R2024-15",
+        "lec03_agent_facts:L03-A2024-C"
+      ],
+      "evidence_bindings": {
+        "C01": "bf6e838d821bfa014ee564b83dbd1438bee886ca176f83e4f985a3eff0a0cc10",
+        "C09": "86e23c22a3bacd4c1380022392a70a0e64c81e42960285f30b9cbb8a1d01e618",
+        "R2024-12": "f3dcc743bf1ee9754ab05db7001e2a8ef407311a2883243e6467389dbd50ee85",
+        "R2024-15": "446da58aead77c504cb20770c657956f2939bb175d13ec842999733121de8f37",
+        "lec03_agent_facts:L03-A2024-C": ""
+      }
+    }
+  ],
+  "parameters": [
+    {
+      "id": "P01",
+      "label": "研发费用两期合计",
+      "type": "原值",
+      "purpose": "补齐销售/管理/研发费用率和成本桥",
+      "location": "2024年报PDF/报告110页附注45合计；63页合并利润表",
+      "unit": "人民币元",
+      "value": "本期218,375,472.87／上期157,371,873.01",
+      "record_id": "R2024-16",
+      "contracts": [
+        "第五次第一部分",
+        "第五次综合",
+        "第七次"
+      ],
+      "priority": "1"
+    },
+    {
+      "id": "P02",
+      "label": "税金及附加两期金额",
+      "type": "原值",
+      "purpose": "从毛利连接经营利润，避免高毛利代净收益",
+      "location": "2024年报PDF/报告109页附注42合计；63页合并利润表",
+      "unit": "人民币元",
+      "value": "本期26,926,161,474.99／上期22,234,175,898.60",
+      "record_id": "R2024-17",
+      "contracts": [
+        "第五次第一部分",
+        "第五次综合"
+      ],
+      "priority": "2"
+    },
+    {
+      "id": "P03",
+      "label": "2025年营业收入与2024比较列",
+      "type": "原值",
+      "purpose": "独立跟踪2025经营转折，不把2024判断延伸成持续增收",
+      "location": "补充材料2/贵州茅台定期报告.zip，pdf/600519_贵州茅台_2025Q4.pdf，PDF/报告61页合并利润表；SHA474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288",
+      "unit": "人民币元",
+      "value": "2025年168,838,102,514.79／2024比较170,899,152,276.34（候选）",
+      "record_id": "",
+      "contracts": [
+        "第七次扩展",
+        "第五次扩展"
+      ],
+      "priority": "3"
+    },
+    {
+      "id": "P04",
+      "label": "2026Q1收入与同比口径",
+      "type": "原值",
+      "purpose": "区分阶段恢复和全年修复；季度未经审计",
+      "location": "同报告包2026Q1 PDF1页；同季比较，不与全年比较",
+      "unit": "人民币元",
+      "value": "53,909,252,220.51／50,600,957,885.78（候选）",
+      "record_id": "",
+      "contracts": [
+        "第七次扩展"
+      ],
+      "priority": "4"
+    },
+    {
+      "id": "P05",
+      "label": "新同比/费用率/利润桥结果",
+      "type": "计算确认",
+      "purpose": "原值核准与新增算术核准分开",
+      "location": "R2024-09—17、C01及精确运算底稿",
+      "value": "",
+      "record_id": "",
+      "contracts": [
+        "第四次扩展",
+        "第五次"
+      ],
+      "priority": "5",
+      "missing": "输入和可比性确认后展示精确结果供本人审阅",
+      "formula": "经营利润小计=营业收入−营业成本−税金附加−销售−管理−研发；非报表营业利润"
+    },
+    {
+      "id": "P06",
+      "label": "实体经营范围、经营税率与金融调整",
+      "type": "口径裁决",
+      "purpose": "为NOPAT、投入资本和实体CFO建立一致范围",
+      "location": "集团/财务公司分部、合并抵销、所得税及经营资产附注",
+      "value": "",
+      "record_id": "",
+      "contracts": [
+        "第五次后续财务检验"
+      ],
+      "priority": "6",
+      "missing": "具体经营属性、带符号金融净贡献、税负归属"
+    },
+    {
+      "id": "P07",
+      "label": "经营资本、维护/扩张Capex与滞后",
+      "type": "口径裁决",
+      "purpose": "区分当年投入、资本存量及后续成熟销售",
+      "location": "固定资产/在建工程/存货/合同负债及现金流补充资料",
+      "value": "",
+      "record_id": "",
+      "contracts": [
+        "第五次后续财务检验"
+      ],
+      "priority": "7",
+      "missing": "项目用途、经营范围、折旧摊销匹配、库龄/成熟窗口；未披露不填比例"
+    },
+    {
+      "id": "P08",
+      "label": "同SKU价格、终端量、渠道库存与费用",
+      "type": "原值",
+      "purpose": "区分品牌、渠道迁移、主动出清和结构性需求",
+      "location": "当前材料不足；CSV现货只是取价序列，研报反馈只是待核观点",
+      "value": "",
+      "record_id": "",
+      "contracts": [
+        "第六次",
+        "第七次"
+      ],
+      "priority": "8",
+      "missing": "一致SKU/渠道/客户/税费、终端动销及净费用归属"
+    },
+    {
+      "id": "P09",
+      "label": "细分需求/份额分母与可比同行",
+      "type": "口径裁决",
+      "purpose": "优势大小和相对表现；不拿规上全白酒产量当分母",
+      "location": "大陆高端酱香/53度500ml范围；尚无直接同口径分母和同行原报告",
+      "value": "",
+      "record_id": "",
+      "contracts": [
+        "第六次"
+      ],
+      "priority": "9",
+      "missing": "同销售口径分母、同行产品结构/利润/资本匹配"
+    },
+    {
+      "id": "P10",
+      "label": "预测期、增长、WACC、永续增长与证券权利",
+      "type": "预测参数",
+      "purpose": "全流程估值情景扩展，不是第五至七次原验收要求",
+      "location": "待历史经营/现金口径完成后人工设定",
+      "value": "",
+      "record_id": "",
+      "contracts": [
+        "用户授权全流程扩展"
+      ],
+      "priority": "10",
+      "missing": "真实基期FCFF、显式增长/再投资/折现假设、非经营资产、净债务、少数权益与有效股数；不采用示范参数"
+    }
+  ],
+  "contract_updates": [
+    {
+      "name": "第一次",
+      "baseline_status": "原映射条款已完成；已签副本和真实核验保持；不是本輪新内容验收",
+      "enhancement": "原值定位/表头/支持边界继续复用；新年份另建身份卡",
+      "gap": "新报告年度与累计季度身份，不把文件名当期间",
+      "parameter_ids": [],
+      "outputs": [
+        "outputs/first-analysis.md"
+      ],
+      "source_sha256": "4867e16f12245ff4d5842c23841f4c7ebf4830b201169766b54c9a74eaa6f0fb"
+    },
+    {
+      "name": "第二次",
+      "baseline_status": "原映射条款已完成；已签副本和真实核验保持；不是本輪新内容验收",
+      "enhancement": "产品/地区/渠道分维度数据接力；新材料登记包—成员—转换稿对应",
+      "gap": "未披露空白不填零，平台不替代全部直销",
+      "parameter_ids": [],
+      "outputs": [
+        "outputs/revenue-structure-table.md"
+      ],
+      "source_sha256": "fa9d200800e8a581eb8631e8d2d9daa475686c401f0995a51cf752e814a3da8d"
+    },
+    {
+      "name": "第三次",
+      "baseline_status": "原映射条款已完成；已签副本和真实核验保持；不是本輪新内容验收",
+      "enhancement": "增加金融/实体、存流量、资本现金/资产余额身份卡",
+      "gap": "经济属性与研究用途裁决，不由金额相近判断等价",
+      "parameter_ids": [],
+      "outputs": [
+        "outputs/metric-scope-decision.md"
+      ],
+      "source_sha256": "9453a5d0801b6251e56538e9ab2eaee325029e4fc907eaeb85378812f99bebf9"
+    },
+    {
+      "name": "第四次",
+      "baseline_status": "原映射条款已完成；已签副本和真实核验保持；不是本輪新内容验收",
+      "enhancement": "独立保留可比同比、原量机械变化和来源报告率",
+      "gap": "新费用结果是AgentCalculated；分类桥接不证明逐笔重列",
+      "parameter_ids": [
+        "P05"
+      ],
+      "outputs": [
+        "outputs/change-verification-record.md"
+      ],
+      "source_sha256": "3d1af9c2753f9fc5fc5338038d48e7c3f033faf1960260b4d69fe3792be3e13b"
+    },
+    {
+      "name": "第五次综合",
+      "baseline_status": "原映射条款已完成；已签副本和真实核验保持；不是本輪新内容验收",
+      "enhancement": "两层叙事嵌入原证据矩阵和五项成果；新增费用和后续年份反方",
+      "gap": "完整实体FCFF/ROIC、行业分母与同SKU因果仍Unknown",
+      "parameter_ids": [
+        "P01",
+        "P02"
+      ],
+      "outputs": [
+        "outputs/lec03-evidence-matrix.md",
+        "outputs/lec03-stage-deliverables.md",
+        "outputs/lec03-final-results.md"
+      ],
+      "source_sha256": "742749871e570ecaa486f20c17e210f918edd39289c2a83dc4cd5dd4c2fe1d28"
+    },
+    {
+      "name": "第五次第一部分",
+      "baseline_status": "原映射条款已完成；已签副本和真实核验保持；不是本輪新内容验收",
+      "enhancement": "把四环指标表升级为相互连接的经济逻辑，再附价值创造/交付/获取综合说明",
+      "gap": "费用税负、经营资本和金融抵销；新说明待内容审阅",
+      "parameter_ids": [
+        "P01",
+        "P02"
+      ],
+      "outputs": [
+        "outputs/task05-business-model-map.md"
+      ],
+      "source_sha256": "33c24262c521635601f76fb51f22f01a670db4b7c569fd12a372766c554ffee3"
+    },
+    {
+      "name": "第六次",
+      "baseline_status": "原映射条款已完成；已签副本和真实核验保持；不是本輪新内容验收",
+      "enhancement": "管理层25年自述与公司/行业44篇研报分层；保留一项品牌优势深入检查",
+      "gap": "相对价格/份额/利润与复制成本缺口，不因叙事重复认定壁垒",
+      "parameter_ids": [
+        "P08",
+        "P09"
+      ],
+      "outputs": [
+        "outputs/task06-industry-advantage.md"
+      ],
+      "source_sha256": "93acb50f2cd9c6977db83c0c69be0b52bda65ff8787556109c801175479c1629"
+    },
+    {
+      "name": "第七次",
+      "baseline_status": "原映射条款已完成；已签副本和真实核验保持；不是本輪新内容验收",
+      "enhancement": "管理层原话、市场叙事、研究者解释并列；A/B/C修复与D结构需求竞争假说",
+      "gap": "新2025—26观点不继承2024已采纳判断；仍需人工审阅新最大表述",
+      "parameter_ids": [
+        "P01",
+        "P03",
+        "P04",
+        "P08"
+      ],
+      "outputs": [
+        "outputs/lec03-evidence-matrix.md",
+        "outputs/lec03-stage-deliverables.md"
+      ],
+      "source_sha256": "5237bc4d19110ed6f60eb6f425c5735d472606a341e72384829d1f99e7861035"
+    }
+  ],
+  "material_catalog": [
+    {
+      "name": ".claude.zip",
+      "role": "方法skill包",
+      "sha256": "2f6dc83040f7d54669fae301cc8ff8f9f4337f38a8a563d3c03d86c4ddfc4c57",
+      "location": "D:/投资学/课件与任务文件/补充材料2/.claude.zip",
+      "boundary": "不以重复研报、教学数字、示范编号或网页内Fact标签替代当前原件核验"
+    },
+    {
+      "name": "Append1_lec03.md",
+      "role": "教学/整理材料",
+      "sha256": "8c486896f1aff4e1aea0762d4f4a24541aec477b8c2a5c5cbf97b362349084c3",
+      "location": "D:/投资学/课件与任务文件/补充材料2/Append1_lec03.md",
+      "boundary": "不以重复研报、教学数字、示范编号或网页内Fact标签替代当前原件核验"
+    },
+    {
+      "name": "Append2_lec03.md",
+      "role": "教学/整理材料",
+      "sha256": "2dc97926f25606911a17b98d8cd94736e67d205c3a83cd6b110302a4341760b7",
+      "location": "D:/投资学/课件与任务文件/补充材料2/Append2_lec03.md",
+      "boundary": "不以重复研报、教学数字、示范编号或网页内Fact标签替代当前原件核验"
+    },
+    {
+      "name": "Append3_lec03_CC.md",
+      "role": "教学/整理材料",
+      "sha256": "9260e37768a10ebac64359cf353bcc297b2073d073e2b0bb7a6ad4fecd5d50b1",
+      "location": "D:/投资学/课件与任务文件/补充材料2/Append3_lec03_CC.md",
+      "boundary": "不以重复研报、教学数字、示范编号或网页内Fact标签替代当前原件核验"
+    },
+    {
+      "name": "Append4_lec03_CC.md",
+      "role": "教学/整理材料",
+      "sha256": "af0ae1be102b785223fe80783f8f41401366414db3f7cc4a14786006cf8f5205",
+      "location": "D:/投资学/课件与任务文件/补充材料2/Append4_lec03_CC.md",
+      "boundary": "不以重复研报、教学数字、示范编号或网页内Fact标签替代当前原件核验"
+    },
+    {
+      "name": "append5.1_lec03_财务证据与商业模式叙事的建构.md",
+      "role": "教学/整理材料",
+      "sha256": "d3a63cdc34e9d313a6480962b5cf0e52e325613eafe8fd04231b4c2000970273",
+      "location": "D:/投资学/课件与任务文件/补充材料2/append5.1_lec03_财务证据与商业模式叙事的建构.md",
+      "boundary": "不以重复研报、教学数字、示范编号或网页内Fact标签替代当前原件核验"
+    },
+    {
+      "name": "Append5_lec03_贵州茅台商业模式的两阶段建构.md",
+      "role": "教学/整理材料",
+      "sha256": "6a0d9c3cc1260e62420cb1e264b2dc6a1a85225a9845ea07775bbaa4799a4352",
+      "location": "D:/投资学/课件与任务文件/补充材料2/Append5_lec03_贵州茅台商业模式的两阶段建构.md",
+      "boundary": "不以重复研报、教学数字、示范编号或网页内Fact标签替代当前原件核验"
+    },
+    {
+      "name": "市场叙事_贵州茅台及白酒行业研报.zip",
+      "role": "研报叙事样本包",
+      "sha256": "db84477a1d3c109c4442d14f9dfe2998ac5ada3b9aa02b960dff2670c113eb0a",
+      "location": "D:/投资学/课件与任务文件/补充材料2/市场叙事_贵州茅台及白酒行业研报.zip",
+      "boundary": "不以重复研报、教学数字、示范编号或网页内Fact标签替代当前原件核验"
+    },
+    {
+      "name": "示范.txt",
+      "role": "教学/整理材料",
+      "sha256": "6e29c1c9181bbf7b4d45a616766bf083382ba68c7c9ef1b808034fbe6011c574",
+      "location": "D:/投资学/课件与任务文件/补充材料2/示范.txt",
+      "boundary": "不以重复研报、教学数字、示范编号或网页内Fact标签替代当前原件核验"
+    },
+    {
+      "name": "羊年生肖叙事_形成传播与二级市场映射.html",
+      "role": "教学/整理材料",
+      "sha256": "039b725405bac05b3b4a6127147b95c86cbfd4c6cf132590f5c847546dd8dcd7",
+      "location": "D:/投资学/课件与任务文件/补充材料2/羊年生肖叙事_形成传播与二级市场映射.html",
+      "boundary": "不以重复研报、教学数字、示范编号或网页内Fact标签替代当前原件核验"
+    },
+    {
+      "name": "贵州茅台定期报告.zip",
+      "role": "原始报告包",
+      "sha256": "50c476c266df02ee0283238f98fbcfb946e8155c48f1653b635c55fb706be13b",
+      "location": "D:/投资学/课件与任务文件/补充材料2/贵州茅台定期报告.zip",
+      "boundary": "原件/PDF只读，源披露与人工Fact分开；2025—26独立跟踪"
+    },
+    {
+      "name": "贵州茅台的市场主流叙事_基于2023—2026年研报样本.md",
+      "role": "教学/整理材料",
+      "sha256": "9ebaeb447f2ce0f51ef306a1f6ff4763cc7f9bbca1fa078c14af5b7f98d7389d",
+      "location": "D:/投资学/课件与任务文件/补充材料2/贵州茅台的市场主流叙事_基于2023—2026年研报样本.md",
+      "boundary": "不以重复研报、教学数字、示范编号或网页内Fact标签替代当前原件核验"
+    },
+    {
+      "name": "贵州茅台管理层自述的竞争优势_2001—2025年年报逐年摘录.md",
+      "role": "教学/整理材料",
+      "sha256": "5839254775154a39567164cd357422919274030c3d84d94fdc04b8288d402d5f",
+      "location": "D:/投资学/课件与任务文件/补充材料2/贵州茅台管理层自述的竞争优势_2001—2025年年报逐年摘录.md",
+      "boundary": "不以重复研报、教学数字、示范编号或网页内Fact标签替代当前原件核验"
+    }
+  ],
+  "updated_at": "2026-10-14T20:23:27+08:00",
+  "author": "Agent（本轮用户明确授权的研究优化）",
+  "status": "研究计划与解释草稿；不新增原值/算术/内容验收或签署"
+}

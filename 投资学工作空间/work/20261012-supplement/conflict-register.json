@@ -276,6 +276,42 @@
       "state": "R2024-14原数及代收性质已本人确认；实际收款方明细、收费合同、会计列支位置Unknown",
       "impact": "0.49%仅描述手续费与平台收入规模；不当合同费率，不重复扣费或直接计算平台净利润",
       "evidence": "evidence/20261014-r2024-14-chat-confirmation.json"
+    },
+    {
+      "id": "SC17",
+      "date": "2026-10-14",
+      "kind": "原文缺口补齐与版本差异",
+      "original": "旧管理层读本2007/2010仅MD；新包提供PDF修订版",
+      "treatment": "保留旧读本与原件，登记新包/成员SHA和双页码；不冒称MD与修订版已同版核验",
+      "state": "原文已可取得；新引文与版本对应未核",
+      "evidence": "docs/20261014-supplement2-feedback.md；work/supp2-20261014/source-catalog.json"
+    },
+    {
+      "id": "SC18",
+      "date": "2026-10-14",
+      "kind": "时期身份与历史信息集",
+      "original": "文件名Q4/Q2，研报2023—26及新2025/26原报告",
+      "treatment": "按正文识别年报/半年累计/单季；2024主研究、后续跟踪与实际可获日分别记录",
+      "state": "2025收入转折/2026Q1候选Unknown；不回填2024历史决策",
+      "evidence": "docs/20261014-supplement2-feedback.md；work/supp2-20261014/source-catalog.json"
+    },
+    {
+      "id": "SC19",
+      "date": "2026-10-14",
+      "kind": "示范证据编号与计划非权威",
+      "original": "Append5.1和示范.txt的D/T/B/R/I/F编号及财务数字",
+      "treatment": "只参考方法；引用当前真实C/N/R及独立域，禁止替代账本；CFO和FCFF、时间与资本分开",
+      "state": "方法已适配；机制/完整实体参数仍待补",
+      "evidence": "docs/20261014-supplement2-feedback.md；work/supp2-20261014/source-catalog.json"
+    },
+    {
+      "id": "SC20",
+      "date": "2026-10-14",
+      "kind": "附件Fact标签与叙事证据边界",
+      "original": "羊年HTML股票涨幅Fact标签、研报样本共识及管理层重复",
+      "treatment": "文件标签/样本复述不成为本公司Fact；公司/行业机构分组去重，主题案例不作因果",
+      "state": "未新增其他股票行情Fact或全市场共识核准",
+      "evidence": "docs/20261014-supplement2-feedback.md；work/supp2-20261014/source-catalog.json"
     }
   ]
 }

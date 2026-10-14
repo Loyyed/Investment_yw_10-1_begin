@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-14",
+  "original_files_intact": true,
+  "original_candidate_and_authority_code_unchanged": true,
+  "core_sha256": "893e1c8388ead4a27a6ddd83762de2213c0ddad7c3f33e943304d1416a5005e2",
+  "domains": {
+    "facts": 25,
+    "change_facts": 2,
+    "lec03_agent_facts": 16,
+    "m01_scale_facts": 3,
+    "m01_metric_facts": 15,
+    "m01_disclosure_facts": 3
+  },
+  "new_human_fact": "R2024-15",
+  "new_human_event": 26,
+  "new_signatures": 0,
+  "new_arithmetic_facts": 0,
+  "skills_validated": [
+    "annual-report-evidence-chain",
+    "business-model-evidence"
+  ],
+  "unit_tests": 76,
+  "browser": {
+    "result": "passed",
+    "synthetic_only": true,
+    "viewports": [
+      1440,
+      1050,
+      390,
+      844
+    ],
+    "tested": [
+      "node edit",
+      "parameter create",
+      "historical cutoff exclusion",
+      "report integration",
+      "stale report block",
+      "advanced/mobile layout"
+    ],
+    "facts_after": 1,
+    "runtime_errors": []
+  },
+  "next_review": "R2024-16"
+}

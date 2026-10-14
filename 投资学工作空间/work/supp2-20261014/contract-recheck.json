@@ -1,0 +1,336 @@
+{
+  "date": "2026-10-14",
+  "author": "Agent",
+  "new_human_content_approval": false,
+  "new_signatures": 0,
+  "contracts": [
+    {
+      "name": "第一次",
+      "original_sha256": "4867e16f12245ff4d5842c23841f4c7ebf4830b201169766b54c9a74eaa6f0fb",
+      "original_unchanged": true,
+      "prior_output_checks": [
+        {
+          "path": "work/notes.md",
+          "exists": true,
+          "sha256": "14b3e2434adf74c167a8d667d9273690be3d5987f054f40daeb54546bc948da0"
+        },
+        {
+          "path": "work/pending-checks.md",
+          "exists": true,
+          "sha256": "93c3e1f5c862b4b20497309c468f157ec52c076ed860199ba8f229dab24a8b3b"
+        },
+        {
+          "path": "outputs/first-analysis.md",
+          "exists": true,
+          "sha256": "022632b831752460393d727474343703167b9e361394c5695329556ce6bee57a"
+        },
+        {
+          "path": "evidence/evidence-log.md",
+          "exists": true,
+          "sha256": "c85b2b6187614e09c145a1d1662cb501249b3aca0c63d9ab6bb77a7726632e6c"
+        }
+      ],
+      "enhancement": {
+        "name": "第一次",
+        "source_sha256": "4867e16f12245ff4d5842c23841f4c7ebf4830b201169766b54c9a74eaa6f0fb",
+        "baseline_status": "原映射条款已完成；已签副本和真实核验保持；不是本輪新内容验收",
+        "enhancement": "原值定位/表头/支持边界继续复用；新年份另建身份卡",
+        "gap": "新报告年度与累计季度身份，不把文件名当期间",
+        "outputs": [
+          "outputs/first-analysis.md"
+        ],
+        "parameter_ids": []
+      }
+    },
+    {
+      "name": "第二次",
+      "original_sha256": "fa9d200800e8a581eb8631e8d2d9daa475686c401f0995a51cf752e814a3da8d",
+      "original_unchanged": true,
+      "prior_output_checks": [
+        {
+          "path": "work/revenue-structure-extraction.md",
+          "exists": true,
+          "sha256": "2efa1f2d30ff4aeb032496660a2bf4dd43ff81662753f3f28f2630237b40de2f"
+        },
+        {
+          "path": "work/notes.md",
+          "exists": true,
+          "sha256": "14b3e2434adf74c167a8d667d9273690be3d5987f054f40daeb54546bc948da0"
+        },
+        {
+          "path": "work/pending-checks.md",
+          "exists": true,
+          "sha256": "93c3e1f5c862b4b20497309c468f157ec52c076ed860199ba8f229dab24a8b3b"
+        },
+        {
+          "path": "outputs/revenue-structure-table.md",
+          "exists": true,
+          "sha256": "ba8e5b8bbc737ae63158c26911674b32c0f8c617dd8b93c489f8ebe28a0067b3"
+        },
+        {
+          "path": "evidence/evidence-log.md",
+          "exists": true,
+          "sha256": "c85b2b6187614e09c145a1d1662cb501249b3aca0c63d9ab6bb77a7726632e6c"
+        }
+      ],
+      "enhancement": {
+        "name": "第二次",
+        "source_sha256": "fa9d200800e8a581eb8631e8d2d9daa475686c401f0995a51cf752e814a3da8d",
+        "baseline_status": "原映射条款已完成；已签副本和真实核验保持；不是本輪新内容验收",
+        "enhancement": "产品/地区/渠道分维度数据接力；新材料登记包—成员—转换稿对应",
+        "gap": "未披露空白不填零，平台不替代全部直销",
+        "outputs": [
+          "outputs/revenue-structure-table.md"
+        ],
+        "parameter_ids": []
+      }
+    },
+    {
+      "name": "第三次",
+      "original_sha256": "9453a5d0801b6251e56538e9ab2eaee325029e4fc907eaeb85378812f99bebf9",
+      "original_unchanged": true,
+      "prior_output_checks": [
+        {
+          "path": "work/metric-scope-candidates.md",
+          "exists": true,
+          "sha256": "163cc5ad0fcb6d305c203495201ffbeea6ae5fe43e3b64f1a16c693b6c1a3334"
+        },
+        {
+          "path": "work/scope-adjudication.md",
+          "exists": true,
+          "sha256": "1c965ecc95cc3061cd8bbf57b5e162a42a43df9616719453e1e6a41f1d12ab5d"
+        },
+        {
+          "path": "outputs/metric-scope-decision.md",
+          "exists": true,
+          "sha256": "f7587b7f1a96100c20841389ff94f678638259859098da6cb600aa781c8150d0"
+        },
+        {
+          "path": "docs/third-task-acceptance.md",
+          "exists": true,
+          "sha256": "62d522565b2df56a74bb6b7fc74afe2c37d271a5cfca776578f64a70d5100dea"
+        },
+        {
+          "path": "evidence/evidence-log.md",
+          "exists": true,
+          "sha256": "c85b2b6187614e09c145a1d1662cb501249b3aca0c63d9ab6bb77a7726632e6c"
+        }
+      ],
+      "enhancement": {
+        "name": "第三次",
+        "source_sha256": "9453a5d0801b6251e56538e9ab2eaee325029e4fc907eaeb85378812f99bebf9",
+        "baseline_status": "原映射条款已完成；已签副本和真实核验保持；不是本輪新内容验收",
+        "enhancement": "增加金融/实体、存流量、资本现金/资产余额身份卡",
+        "gap": "经济属性与研究用途裁决，不由金额相近判断等价",
+        "outputs": [
+          "outputs/metric-scope-decision.md"
+        ],
+        "parameter_ids": []
+      }
+    },
+    {
+      "name": "第四次",
+      "original_sha256": "3d1af9c2753f9fc5fc5338038d48e7c3f033faf1960260b4d69fe3792be3e13b",
+      "original_unchanged": true,
+      "prior_output_checks": [
+        {
+          "path": "work/change-verification.md",
+          "exists": true,
+          "sha256": "e08fd7eed8d0463993c5e158a5f0b3157df1db2651648462b7114108c6aaf056"
+        },
+        {
+          "path": "outputs/change-verification-record.md",
+          "exists": true,
+          "sha256": "8820cb4d2f2dd24aba859e4811c6ad06d7d0ecfc9c5d243a02a0816ab9d27713"
+        },
+        {
+          "path": "docs/fourth-task-acceptance.md",
+          "exists": true,
+          "sha256": "8f63e3798934524cf955f89fb2bbb413c71c263be0e5b587ab1f19d67177b321"
+        },
+        {
+          "path": "evidence/change-review-state.json",
+          "exists": true,
+          "sha256": "c3f8f262123cfc758a65d22716ff165bba2f4c452fa780511856028904f96587"
+        },
+        {
+          "path": "evidence/evidence-log.md",
+          "exists": true,
+          "sha256": "c85b2b6187614e09c145a1d1662cb501249b3aca0c63d9ab6bb77a7726632e6c"
+        }
+      ],
+      "enhancement": {
+        "name": "第四次",
+        "source_sha256": "3d1af9c2753f9fc5fc5338038d48e7c3f033faf1960260b4d69fe3792be3e13b",
+        "baseline_status": "原映射条款已完成；已签副本和真实核验保持；不是本輪新内容验收",
+        "enhancement": "独立保留可比同比、原量机械变化和来源报告率",
+        "gap": "新费用结果是AgentCalculated；分类桥接不证明逐笔重列",
+        "outputs": [
+          "outputs/change-verification-record.md"
+        ],
+        "parameter_ids": [
+          "P05"
+        ]
+      }
+    },
+    {
+      "name": "第五次综合",
+      "original_sha256": "742749871e570ecaa486f20c17e210f918edd39289c2a83dc4cd5dd4c2fe1d28",
+      "original_unchanged": true,
+      "prior_output_checks": [
+        {
+          "path": "work/lec03-evidence-expansion.md",
+          "exists": true,
+          "sha256": "e9e3b1d6a9481d643e58feefbc2973a1c5878f5e2dea57475bd1ba0245d003b0"
+        },
+        {
+          "path": "outputs/lec03-evidence-matrix.md",
+          "exists": true,
+          "sha256": "5d3ba608d80a4ac068c2fad82fce2828519282f13f25a2fcd8cf18cc284c6243"
+        },
+        {
+          "path": "outputs/lec03-stage-deliverables.md",
+          "exists": true,
+          "sha256": "ad1721f33ff0b5e9ecc6ec3d1b3463dea0e39649c9fd20d5c731d1201f2b13a7"
+        },
+        {
+          "path": "outputs/lec03-final-results.md",
+          "exists": true,
+          "sha256": "f6ec6fa8cc9198e61676e021bbc060c2deeef4f40bebb060b2afe82b95fc2a73"
+        }
+      ],
+      "enhancement": {
+        "name": "第五次综合",
+        "source_sha256": "742749871e570ecaa486f20c17e210f918edd39289c2a83dc4cd5dd4c2fe1d28",
+        "baseline_status": "原映射条款已完成；已签副本和真实核验保持；不是本輪新内容验收",
+        "enhancement": "两层叙事嵌入原证据矩阵和五项成果；新增费用和后续年份反方",
+        "gap": "完整实体FCFF/ROIC、行业分母与同SKU因果仍Unknown",
+        "outputs": [
+          "outputs/lec03-evidence-matrix.md",
+          "outputs/lec03-stage-deliverables.md",
+          "outputs/lec03-final-results.md"
+        ],
+        "parameter_ids": [
+          "P01",
+          "P02"
+        ]
+      }
+    },
+    {
+      "name": "第五次第一部分",
+      "original_sha256": "33c24262c521635601f76fb51f22f01a670db4b7c569fd12a372766c554ffee3",
+      "original_unchanged": true,
+      "prior_output_checks": [
+        {
+          "path": "work/task05-business-model-checks.md",
+          "exists": true,
+          "sha256": "8f8d91c3b047c67fea1f0398ff18b0d55c524ea8c749311a0f9ec340b440d49c"
+        },
+        {
+          "path": "outputs/task05-business-model-map.md",
+          "exists": true,
+          "sha256": "77d9cc5228d85da0b19c4bcb4233e122b925567cf8c0c8e4a04ca0b873cc6b2c"
+        },
+        {
+          "path": "work/lec03-evidence-expansion.md",
+          "exists": true,
+          "sha256": "e9e3b1d6a9481d643e58feefbc2973a1c5878f5e2dea57475bd1ba0245d003b0"
+        }
+      ],
+      "enhancement": {
+        "name": "第五次第一部分",
+        "source_sha256": "33c24262c521635601f76fb51f22f01a670db4b7c569fd12a372766c554ffee3",
+        "baseline_status": "原映射条款已完成；已签副本和真实核验保持；不是本輪新内容验收",
+        "enhancement": "把四环指标表升级为相互连接的经济逻辑，再附价值创造/交付/获取综合说明",
+        "gap": "费用税负、经营资本和金融抵销；新说明待内容审阅",
+        "outputs": [
+          "outputs/task05-business-model-map.md"
+        ],
+        "parameter_ids": [
+          "P01",
+          "P02"
+        ]
+      }
+    },
+    {
+      "name": "第六次",
+      "original_sha256": "93acb50f2cd9c6977db83c0c69be0b52bda65ff8787556109c801175479c1629",
+      "original_unchanged": true,
+      "prior_output_checks": [
+        {
+          "path": "work/task06-industry-advantage-checks.md",
+          "exists": true,
+          "sha256": "54dd2f553f4a54c4ca4047ae3a9cca0d5baa8ca4eb3ab5dad145dd5b0321e4be"
+        },
+        {
+          "path": "outputs/task06-industry-advantage.md",
+          "exists": true,
+          "sha256": "38d898633b6985415b78df4b0bed785f4cfc57ca295de66ee2200d2640367939"
+        },
+        {
+          "path": "work/20261012-supplement/conflict-register.md",
+          "exists": true,
+          "sha256": "c953c2fcb24ff13463968b2b0754d6f8f8950d28fe2f4c74a6fef527c63987b8"
+        }
+      ],
+      "enhancement": {
+        "name": "第六次",
+        "source_sha256": "93acb50f2cd9c6977db83c0c69be0b52bda65ff8787556109c801175479c1629",
+        "baseline_status": "原映射条款已完成；已签副本和真实核验保持；不是本輪新内容验收",
+        "enhancement": "管理层25年自述与公司/行业44篇研报分层；保留一项品牌优势深入检查",
+        "gap": "相对价格/份额/利润与复制成本缺口，不因叙事重复认定壁垒",
+        "outputs": [
+          "outputs/task06-industry-advantage.md"
+        ],
+        "parameter_ids": [
+          "P08",
+          "P09"
+        ]
+      }
+    },
+    {
+      "name": "第七次",
+      "original_sha256": "5237bc4d19110ed6f60eb6f425c5735d472606a341e72384829d1f99e7861035",
+      "original_unchanged": true,
+      "prior_output_checks": [
+        {
+          "path": "work/task07-narrative-audit.md",
+          "exists": true,
+          "sha256": "0e84e413582330bf0cfb3858604a0fcbf79dcace43bac259f46057af0f8c8f78"
+        },
+        {
+          "path": "outputs/lec03-evidence-matrix.md",
+          "exists": true,
+          "sha256": "5d3ba608d80a4ac068c2fad82fce2828519282f13f25a2fcd8cf18cc284c6243"
+        },
+        {
+          "path": "outputs/lec03-stage-deliverables.md",
+          "exists": true,
+          "sha256": "ad1721f33ff0b5e9ecc6ec3d1b3463dea0e39649c9fd20d5c731d1201f2b13a7"
+        },
+        {
+          "path": "work/h03-20261013/human-confirmation-receipt.json",
+          "exists": true,
+          "sha256": "8cd980dfd3025272fae415aa2946a339a7a6a4fe0e04a6ecb445875a6656c59e"
+        }
+      ],
+      "enhancement": {
+        "name": "第七次",
+        "source_sha256": "5237bc4d19110ed6f60eb6f425c5735d472606a341e72384829d1f99e7861035",
+        "baseline_status": "原映射条款已完成；已签副本和真实核验保持；不是本輪新内容验收",
+        "enhancement": "管理层原话、市场叙事、研究者解释并列；A/B/C修复与D结构需求竞争假说",
+        "gap": "新2025—26观点不继承2024已采纳判断；仍需人工审阅新最大表述",
+        "outputs": [
+          "outputs/lec03-evidence-matrix.md",
+          "outputs/lec03-stage-deliverables.md"
+        ],
+        "parameter_ids": [
+          "P01",
+          "P03",
+          "P04",
+          "P08"
+        ]
+      }
+    }
+  ]
+}

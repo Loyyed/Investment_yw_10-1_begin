@@ -1,0 +1,18 @@
+{
+  "state": "AgentCalculated",
+  "human_arithmetic_confirmation": false,
+  "input_fact_id": "R2024-15",
+  "input_binding": "446da58aead77c504cb20770c657956f2939bb175d13ec842999733121de8f37",
+  "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+  "source_pages": [
+    110,
+    63
+  ],
+  "current_yuan": "9315650060.38",
+  "previous_yuan": "9729389252.31",
+  "delta_yuan": "-413739191.93",
+  "growth_percent_exact": "-4.25246828141620485272789006670676414204595368942",
+  "growth_percent_display": "-4.25",
+  "formula": "(9315650060.38-9729389252.31)/9729389252.31*100",
+  "boundary": "管理费用整体变化，不证明裁员或效率改善；商标许可费包含于合计，不再次相加"
+}
