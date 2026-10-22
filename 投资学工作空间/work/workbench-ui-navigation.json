@@ -1,16 +1,24 @@
 {
   "schema_version": 1,
-  "date": "2026-10-22",
-  "next_review_id": "R2017-01",
-  "next_review_scope": "B03九项：2017—2019/2025产品数量、期末库存及2025茅台酒收入；2025后验与2024主研究分开",
+  "date": "2026-10-23",
+  "next_review_id": "R2020-08",
+  "next_review_scope": "B04：2020—2024产销量表独立库存总量5项，吨；2024表头9页、数值10页",
   "preferred_confirmation_channel": "actual-user-chat",
   "completed_review_id": "",
-  "completed_event": 40,
+  "completed_event": 49,
   "completed_channel": "actual-user-chat",
   "completed_reviewer": "leo",
   "toolkit_directory": "投资学公司分析通用工作台",
-  "next_review_batch": "B03",
+  "next_review_batch": "B04",
   "next_review_ids": [
+    "R2020-08",
+    "R2021-08",
+    "R2022-08",
+    "R2023-08",
+    "R2024-24"
+  ],
+  "completed_batch": "B03",
+  "completed_review_ids": [
     "R2017-01",
     "R2017-02",
     "R2018-01",
@@ -21,21 +29,15 @@
     "R2025-02",
     "R2025-03"
   ],
-  "completed_batch": "B02",
-  "completed_review_ids": [
-    "R2015-01",
-    "R2016-01",
-    "R2016-02",
-    "R2016-03",
-    "R2016-04",
-    "R2016-05"
-  ],
   "completed_event_sequences": [
-    35,
-    36,
-    37,
-    38,
-    39,
-    40
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49
   ]
 }

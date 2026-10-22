@@ -366,6 +366,15 @@
       "treatment": "按真实年份t+k连接，列年对和n；不按行号shift；n<3停相关。2021—2025至FY2025右删失，2020→2025仅输入未核，不混为未兑现",
       "state": "Agent方法处理；B02原数真实核验另见回执，未新确认机制或运算",
       "evidence": "outputs/student-lag-check.md；work/lag-20261022/calculations.json"
+    },
+    {
+      "id": "SC27",
+      "date": "2026-10-23",
+      "kind": "电子表格计数、浮点与候选编号制作检查",
+      "original": "初次范围ISNUMBER数组在本引擎计算有效年对为0；2017差额出现浮点负零；B04拟用03号与原63条候选重复",
+      "treatment": "在发布前改为104行真实配对和标量有效性检查，16项相关与Python一致；独立差额按源0.01吨ROUND，Decimal精确残差仍保存。候选编号按原账本与新增账本联合检查后分配空闲08/24号，修复前行仅本地留存。来源字段与人工核验未变。",
+      "state": "制作阶段已修正；错误结果未作为有效研究成果发布或登记Fact，未新增人工运算确认或签署",
+      "evidence": "work/lag-20261022/spreadsheet-validation.json；work/review-batches/20261023-B04.json"
     }
   ]
 }

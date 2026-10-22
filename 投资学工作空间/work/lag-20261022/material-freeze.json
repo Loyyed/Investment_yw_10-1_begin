@@ -1,0 +1,455 @@
+{
+  "date": "2026-10-23",
+  "archive_path": "D:\\投资学\\投资学工作空间\\sources\\library\\补充材料2\\贵州茅台定期报告.zip",
+  "archive_sha256": "50c476c266df02ee0283238f98fbcfb946e8155c48f1653b635c55fb706be13b",
+  "pdf_count": 25,
+  "md_count": 25,
+  "entries": [
+    {
+      "year": 2001,
+      "pdf": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2001Q4.pdf",
+        "display_name": "贵州茅台定期报告/pdf/600519_贵州茅台_2001Q4.pdf",
+        "bytes": 245760,
+        "sha256": "433fceec0b5b93e27ab51bd9b93bda967946a1c572e58e2c91dea49671131830",
+        "pages": 55,
+        "expected_year_in_first_three_pages": true
+      },
+      "md": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/md/600519_Φ┤╡σ╖₧ΦîàσÅ░_2001Q4.md",
+        "display_name": "贵州茅台定期报告/md/600519_贵州茅台_2001Q4.md",
+        "bytes": 155072,
+        "sha256": "9e06a82abfd636e26115ae38d4cb1df14c8ca683560691b40aac3678921015e6"
+      }
+    },
+    {
+      "year": 2002,
+      "pdf": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2002Q4.pdf",
+        "display_name": "贵州茅台定期报告/pdf/600519_贵州茅台_2002Q4.pdf",
+        "bytes": 286720,
+        "sha256": "cea3b759427aaeef76a3639ce56134bf562d0b2df04dcdc82fc53adc7d823201",
+        "pages": 62,
+        "expected_year_in_first_three_pages": true
+      },
+      "md": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/md/600519_Φ┤╡σ╖₧ΦîàσÅ░_2002Q4.md",
+        "display_name": "贵州茅台定期报告/md/600519_贵州茅台_2002Q4.md",
+        "bytes": 175608,
+        "sha256": "261e9a9e7a9bb8095c66fd8f8c13d320d0ea16df5be00bd2880920ca22af50f5"
+      }
+    },
+    {
+      "year": 2003,
+      "pdf": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2003Q4.pdf",
+        "display_name": "贵州茅台定期报告/pdf/600519_贵州茅台_2003Q4.pdf",
+        "bytes": 233472,
+        "sha256": "daa6109966712137e907838586fdf385ffdbe63b926d9b9f8e0669bd3211e435",
+        "pages": 57,
+        "expected_year_in_first_three_pages": true
+      },
+      "md": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/md/600519_Φ┤╡σ╖₧ΦîàσÅ░_2003Q4.md",
+        "display_name": "贵州茅台定期报告/md/600519_贵州茅台_2003Q4.md",
+        "bytes": 161630,
+        "sha256": "6cbfee3fbed948410ca46f8347b4843c8963abf6cfb00485758df938ab895e53"
+      }
+    },
+    {
+      "year": 2004,
+      "pdf": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2004Q4.pdf",
+        "display_name": "贵州茅台定期报告/pdf/600519_贵州茅台_2004Q4.pdf",
+        "bytes": 232448,
+        "sha256": "e2f70eb99c10d98e29ee60c202b8f5d9d06b79c0eaa4e6c108fd452d56490b1d",
+        "pages": 61,
+        "expected_year_in_first_three_pages": true
+      },
+      "md": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/md/600519_Φ┤╡σ╖₧ΦîàσÅ░_2004Q4.md",
+        "display_name": "贵州茅台定期报告/md/600519_贵州茅台_2004Q4.md",
+        "bytes": 177710,
+        "sha256": "92b360999e16575685e381209cdf47956587daa01e7a142b18c72fe62d7f1499"
+      }
+    },
+    {
+      "year": 2005,
+      "pdf": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2005Q4.pdf",
+        "display_name": "贵州茅台定期报告/pdf/600519_贵州茅台_2005Q4.pdf",
+        "bytes": 450560,
+        "sha256": "962abe425b4c8015f509bac33d2374e0ad1d6124e12ac559a9c9faba825279eb",
+        "pages": 62,
+        "expected_year_in_first_three_pages": true
+      },
+      "md": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/md/600519_Φ┤╡σ╖₧ΦîàσÅ░_2005Q4.md",
+        "display_name": "贵州茅台定期报告/md/600519_贵州茅台_2005Q4.md",
+        "bytes": 201269,
+        "sha256": "6a37dafd1e913dc4323527d077652b02d4c6161d9c233bc8706051796fc547aa"
+      }
+    },
+    {
+      "year": 2006,
+      "pdf": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2006Q4.pdf",
+        "display_name": "贵州茅台定期报告/pdf/600519_贵州茅台_2006Q4.pdf",
+        "bytes": 544369,
+        "sha256": "51d7e17b688a7f8d121df552979c8890f8155ec1b7365c9052d5f4a5300f82c6",
+        "pages": 69,
+        "expected_year_in_first_three_pages": true
+      },
+      "md": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/md/600519_Φ┤╡σ╖₧ΦîàσÅ░_2006Q4.md",
+        "display_name": "贵州茅台定期报告/md/600519_贵州茅台_2006Q4.md",
+        "bytes": 234275,
+        "sha256": "f81f2178d5bf6eb2483441e26019812e1323359bd263fb84c85edcc1090cafce"
+      }
+    },
+    {
+      "year": 2007,
+      "pdf": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2007Q4_Σ┐«Φ«óτëê_2008-03-17.pdf",
+        "display_name": "贵州茅台定期报告/pdf/600519_贵州茅台_2007Q4_修订版_2008-03-17.pdf",
+        "bytes": 637278,
+        "sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679",
+        "pages": 82,
+        "expected_year_in_first_three_pages": true,
+        "revision_mark_in_first_three_pages": false
+      },
+      "md": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/md/600519_Φ┤╡σ╖₧ΦîàσÅ░_2007Q4.md",
+        "display_name": "贵州茅台定期报告/md/600519_贵州茅台_2007Q4.md",
+        "bytes": 256040,
+        "sha256": "798cc67c7537f4cdd123b0a605712d30e47f9f08dd289b3ce8cd30f31fd2ccdb"
+      }
+    },
+    {
+      "year": 2008,
+      "pdf": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2008Q4.pdf",
+        "display_name": "贵州茅台定期报告/pdf/600519_贵州茅台_2008Q4.pdf",
+        "bytes": 654413,
+        "sha256": "9d296c6db7e4abe204f2d5927572acd4914c49fbbcd4f9dd22250583d55ad200",
+        "pages": 71,
+        "expected_year_in_first_three_pages": true
+      },
+      "md": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/md/600519_Φ┤╡σ╖₧ΦîàσÅ░_2008Q4.md",
+        "display_name": "贵州茅台定期报告/md/600519_贵州茅台_2008Q4.md",
+        "bytes": 236069,
+        "sha256": "49cb58f6dafdc3e0e91c2a17127fb76539c26cade52922b6114e94acd65d0607"
+      }
+    },
+    {
+      "year": 2009,
+      "pdf": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2009Q4.pdf",
+        "display_name": "贵州茅台定期报告/pdf/600519_贵州茅台_2009Q4.pdf",
+        "bytes": 701338,
+        "sha256": "37a18565407aa0a29634b6140d7e48ef4e33fe5ab02f7b1cdcff2a184ed0aba9",
+        "pages": 78,
+        "expected_year_in_first_three_pages": true
+      },
+      "md": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/md/600519_Φ┤╡σ╖₧ΦîàσÅ░_2009Q4.md",
+        "display_name": "贵州茅台定期报告/md/600519_贵州茅台_2009Q4.md",
+        "bytes": 245849,
+        "sha256": "dfe059a84ed39f233b064fb6bed7803bdb2e2674fe732534e48d9e77b148b86a"
+      }
+    },
+    {
+      "year": 2010,
+      "pdf": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2010Q4_Σ┐«Φ«óτëê_2011-04-08.pdf",
+        "display_name": "贵州茅台定期报告/pdf/600519_贵州茅台_2010Q4_修订版_2011-04-08.pdf",
+        "bytes": 612640,
+        "sha256": "613779ed98205e7bf7ee8dfdfe91794ce84336297cbb42cbf5c4ad9f06a55312",
+        "pages": 99,
+        "expected_year_in_first_three_pages": true,
+        "revision_mark_in_first_three_pages": false
+      },
+      "md": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/md/600519_Φ┤╡σ╖₧ΦîàσÅ░_2010Q4.md",
+        "display_name": "贵州茅台定期报告/md/600519_贵州茅台_2010Q4.md",
+        "bytes": 258952,
+        "sha256": "1c6695ab49f9dba075b00a6c4fc94e622acb0d2f7f163265175dbb8b6ca4db84"
+      }
+    },
+    {
+      "year": 2011,
+      "pdf": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2011Q4.pdf",
+        "display_name": "贵州茅台定期报告/pdf/600519_贵州茅台_2011Q4.pdf",
+        "bytes": 616082,
+        "sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b",
+        "pages": 101,
+        "expected_year_in_first_three_pages": true
+      },
+      "md": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/md/600519_Φ┤╡σ╖₧ΦîàσÅ░_2011Q4.md",
+        "display_name": "贵州茅台定期报告/md/600519_贵州茅台_2011Q4.md",
+        "bytes": 269312,
+        "sha256": "3b09add24053dc63570421084d067b1d1acb056ead72a13303fd90b56b86083b"
+      }
+    },
+    {
+      "year": 2012,
+      "pdf": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2012Q4.pdf",
+        "display_name": "贵州茅台定期报告/pdf/600519_贵州茅台_2012Q4.pdf",
+        "bytes": 1758264,
+        "sha256": "9a8faef737d4dd64e8260325247b8ffe77e5de506f4b23b046f28c0758377eae",
+        "pages": 97,
+        "expected_year_in_first_three_pages": true
+      },
+      "md": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/md/600519_Φ┤╡σ╖₧ΦîàσÅ░_2012Q4.md",
+        "display_name": "贵州茅台定期报告/md/600519_贵州茅台_2012Q4.md",
+        "bytes": 264959,
+        "sha256": "255dce5de7948fe627ab2c7be3293dbdd1225813d136fdd7ab6ed708071dce58"
+      }
+    },
+    {
+      "year": 2013,
+      "pdf": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2013Q4.pdf",
+        "display_name": "贵州茅台定期报告/pdf/600519_贵州茅台_2013Q4.pdf",
+        "bytes": 1898954,
+        "sha256": "26524de9281264e149c23bdc618a32820678c8d07c5dc7c88cbc7e19b3df0bff",
+        "pages": 102,
+        "expected_year_in_first_three_pages": true
+      },
+      "md": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/md/600519_Φ┤╡σ╖₧ΦîàσÅ░_2013Q4.md",
+        "display_name": "贵州茅台定期报告/md/600519_贵州茅台_2013Q4.md",
+        "bytes": 290820,
+        "sha256": "f82f4ff26339cc0179a8fd6e703245207a21b47f79afb49c931f595ec2b62bd3"
+      }
+    },
+    {
+      "year": 2014,
+      "pdf": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2014Q4.pdf",
+        "display_name": "贵州茅台定期报告/pdf/600519_贵州茅台_2014Q4.pdf",
+        "bytes": 2278854,
+        "sha256": "89145ef5bd12256c4c75c122b1c8d59846a912434f1abd0570f678bdb1a20f24",
+        "pages": 97,
+        "expected_year_in_first_three_pages": true
+      },
+      "md": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/md/600519_Φ┤╡σ╖₧ΦîàσÅ░_2014Q4.md",
+        "display_name": "贵州茅台定期报告/md/600519_贵州茅台_2014Q4.md",
+        "bytes": 312682,
+        "sha256": "998d97cc8e7558a0c9693235f215249e36ea98e85c30d3d28afd13f885a14ca9"
+      }
+    },
+    {
+      "year": 2015,
+      "pdf": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2015Q4.pdf",
+        "display_name": "贵州茅台定期报告/pdf/600519_贵州茅台_2015Q4.pdf",
+        "bytes": 2261535,
+        "sha256": "11a32c1e7f02a54fc2eea3c0d852af59ad37af9a2cbe91857cd93a6208a96d6c",
+        "pages": 92,
+        "expected_year_in_first_three_pages": true
+      },
+      "md": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/md/600519_Φ┤╡σ╖₧ΦîàσÅ░_2015Q4.md",
+        "display_name": "贵州茅台定期报告/md/600519_贵州茅台_2015Q4.md",
+        "bytes": 303517,
+        "sha256": "4188244c244f3a9b05acc32e637cb6f1567d4e7e95cbaa4e7c1e2840b29cddcb"
+      }
+    },
+    {
+      "year": 2016,
+      "pdf": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2016Q4.pdf",
+        "display_name": "贵州茅台定期报告/pdf/600519_贵州茅台_2016Q4.pdf",
+        "bytes": 2241732,
+        "sha256": "dd26d9e0017a938cb5e1aa0a830bab7502d0de1f85eb7c00abffb4888c8c20ad",
+        "pages": 96,
+        "expected_year_in_first_three_pages": true
+      },
+      "md": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/md/600519_Φ┤╡σ╖₧ΦîàσÅ░_2016Q4.md",
+        "display_name": "贵州茅台定期报告/md/600519_贵州茅台_2016Q4.md",
+        "bytes": 318146,
+        "sha256": "331cf46dbca756116ec2547ddb2b58313e11d750b9c2d7ed3b2a5fd29b969827"
+      }
+    },
+    {
+      "year": 2017,
+      "pdf": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2017Q4.pdf",
+        "display_name": "贵州茅台定期报告/pdf/600519_贵州茅台_2017Q4.pdf",
+        "bytes": 2273045,
+        "sha256": "b66a4641e5f2313ed7964e5bef0026021ff2164459d0e0615f1b4385ba1a78e3",
+        "pages": 98,
+        "expected_year_in_first_three_pages": true
+      },
+      "md": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/md/600519_Φ┤╡σ╖₧ΦîàσÅ░_2017Q4.md",
+        "display_name": "贵州茅台定期报告/md/600519_贵州茅台_2017Q4.md",
+        "bytes": 337271,
+        "sha256": "5e91bb43875c5b75b5b1672cbc987596294f267855bbb8c2f940952a69526301"
+      }
+    },
+    {
+      "year": 2018,
+      "pdf": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2018Q4.pdf",
+        "display_name": "贵州茅台定期报告/pdf/600519_贵州茅台_2018Q4.pdf",
+        "bytes": 2355987,
+        "sha256": "08728fc937836cfeed8e98aeda932da54c737efa6de4280ae001476c0e393dec",
+        "pages": 112,
+        "expected_year_in_first_three_pages": true
+      },
+      "md": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/md/600519_Φ┤╡σ╖₧ΦîàσÅ░_2018Q4.md",
+        "display_name": "贵州茅台定期报告/md/600519_贵州茅台_2018Q4.md",
+        "bytes": 351723,
+        "sha256": "1b0de5504ab6e824467d15731fa215b8a11ea1af229c24283b65fdd17370a253"
+      }
+    },
+    {
+      "year": 2019,
+      "pdf": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2019Q4.pdf",
+        "display_name": "贵州茅台定期报告/pdf/600519_贵州茅台_2019Q4.pdf",
+        "bytes": 2272239,
+        "sha256": "2a2b384ab09a7bc295fd2e33b999acdf4212340b0141031c991060dea2fad03d",
+        "pages": 123,
+        "expected_year_in_first_three_pages": true
+      },
+      "md": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/md/600519_Φ┤╡σ╖₧ΦîàσÅ░_2019Q4.md",
+        "display_name": "贵州茅台定期报告/md/600519_贵州茅台_2019Q4.md",
+        "bytes": 391023,
+        "sha256": "8ae214a3dc232401299027638d6878483c2bc91133c3c054cb90be00837f9009"
+      }
+    },
+    {
+      "year": 2020,
+      "pdf": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2020Q4.pdf",
+        "display_name": "贵州茅台定期报告/pdf/600519_贵州茅台_2020Q4.pdf",
+        "bytes": 3143669,
+        "sha256": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c",
+        "pages": 120,
+        "expected_year_in_first_three_pages": true
+      },
+      "md": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/md/600519_Φ┤╡σ╖₧ΦîàσÅ░_2020Q4.md",
+        "display_name": "贵州茅台定期报告/md/600519_贵州茅台_2020Q4.md",
+        "bytes": 378350,
+        "sha256": "ff7adeea1e6f914326ed13c11b921833f353af5eb7adaf1d322b7640a4eda37c"
+      }
+    },
+    {
+      "year": 2021,
+      "pdf": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2021Q4.pdf",
+        "display_name": "贵州茅台定期报告/pdf/600519_贵州茅台_2021Q4.pdf",
+        "bytes": 3350320,
+        "sha256": "f65effdde58bcea99fd6bdb53f61b31d5c432e6dfb2661e5caf05156a433ea5a",
+        "pages": 124,
+        "expected_year_in_first_three_pages": true
+      },
+      "md": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/md/600519_Φ┤╡σ╖₧ΦîàσÅ░_2021Q4.md",
+        "display_name": "贵州茅台定期报告/md/600519_贵州茅台_2021Q4.md",
+        "bytes": 413135,
+        "sha256": "ff2310b66317ec713e243307853144225221c6a9c8615999d14db824d9a2505c"
+      }
+    },
+    {
+      "year": 2022,
+      "pdf": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2022Q4.pdf",
+        "display_name": "贵州茅台定期报告/pdf/600519_贵州茅台_2022Q4.pdf",
+        "bytes": 3320339,
+        "sha256": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358",
+        "pages": 127,
+        "expected_year_in_first_three_pages": true
+      },
+      "md": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/md/600519_Φ┤╡σ╖₧ΦîàσÅ░_2022Q4.md",
+        "display_name": "贵州茅台定期报告/md/600519_贵州茅台_2022Q4.md",
+        "bytes": 405761,
+        "sha256": "e52727aa68a8042505cf394663f818aa43c2eef00ea23990f1ba6b1e1d85ae8e"
+      }
+    },
+    {
+      "year": 2023,
+      "pdf": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2023Q4.pdf",
+        "display_name": "贵州茅台定期报告/pdf/600519_贵州茅台_2023Q4.pdf",
+        "bytes": 3563819,
+        "sha256": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1",
+        "pages": 143,
+        "expected_year_in_first_three_pages": true
+      },
+      "md": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/md/600519_Φ┤╡σ╖₧ΦîàσÅ░_2023Q4.md",
+        "display_name": "贵州茅台定期报告/md/600519_贵州茅台_2023Q4.md",
+        "bytes": 437860,
+        "sha256": "9ab3c5df28835322d459eb710097b99101f1770bc8124ce7c42f0826bf805048"
+      }
+    },
+    {
+      "year": 2024,
+      "pdf": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2024Q4.pdf",
+        "display_name": "贵州茅台定期报告/pdf/600519_贵州茅台_2024Q4.pdf",
+        "bytes": 3626217,
+        "sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+        "pages": 143,
+        "expected_year_in_first_three_pages": true
+      },
+      "md": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/md/600519_Φ┤╡σ╖₧ΦîàσÅ░_2024Q4.md",
+        "display_name": "贵州茅台定期报告/md/600519_贵州茅台_2024Q4.md",
+        "bytes": 451723,
+        "sha256": "393a2cf30d747f7a2ca41f50b0666784da0f687812b0f3ec5a84018ca939dc13"
+      }
+    },
+    {
+      "year": 2025,
+      "pdf": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2025Q4.pdf",
+        "display_name": "贵州茅台定期报告/pdf/600519_贵州茅台_2025Q4.pdf",
+        "bytes": 1082847,
+        "sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288",
+        "pages": 143,
+        "expected_year_in_first_three_pages": true
+      },
+      "md": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/md/600519_Φ┤╡σ╖₧ΦîàσÅ░_2025Q4.md",
+        "display_name": "贵州茅台定期报告/md/600519_贵州茅台_2025Q4.md",
+        "bytes": 495522,
+        "sha256": "be8a5a554623a8712f66d6eadb68acd077c1245f232e443556c5565ad772200a"
+      }
+    }
+  ],
+  "revision_checks": [
+    {
+      "year": 2007,
+      "revision_mark_detected": false,
+      "revision_label_in_member_name": true,
+      "header_excerpt": " \n \n \n \n贵州茅台酒股份有限公司 \n600519 \n \n2007 年年度报告 \n \n \n \n\n贵州茅台酒股份有限公司 2007 年年度报告 \n \n2\n \n目录 \n一、重要提示.................................................................................................................................................... 3 \n二、公司基本情况简介.................................................................................................................................... 3 \n三、主要财务数据和指标：............................................................................................................................ 4 \n四、股本变动及股东情况................................................................................................................................ 5 \n五、董事、监事和高级管理人员...................................................................................................................",
+      "decision": "PDF修订版成员名明确；PDF/MD全文内容对应与教师批准仍单列，不仅凭名称冒充已核"
+    },
+    {
+      "year": 2010,
+      "revision_mark_detected": false,
+      "revision_label_in_member_name": true,
+      "header_excerpt": " \n \n \n \n贵州茅台酒股份有限公司 \n600519 \n \n2010 年年度报告\n\n贵州茅台酒股份有限公司 2010 年年度报告 \n \n1\n \n目录 \n \n一、 重要提示................................................................................................................................2 \n二、 公司基本情况........................................................................................................................2 \n三、 会计数据和业务数据摘要.....................................................................................................3 \n四、 股本变动及股东情况.............................................................................................................5 \n五、 董事、监事和高级管理人员.................................................................................................7 \n六、 公司治理结构.....................................................................................",
+      "decision": "PDF修订版成员名明确；PDF/MD全文内容对应与教师批准仍单列，不仅凭名称冒充已核"
+    }
+  ],
+  "source_selection": "仅已提供ZIP中的年度Q4 PDF和对应MD，按正文前页检查年度；Q4文件名不单独证明季度或年报",
+  "teacher_material_approval": "Unknown；本次为程序登记，不伪造教师批准",
+  "originals_uploaded": false
+}

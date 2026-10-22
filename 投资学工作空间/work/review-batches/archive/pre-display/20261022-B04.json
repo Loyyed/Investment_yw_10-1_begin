@@ -1,0 +1,82 @@
+{
+  "batch_id": "B04",
+  "version": 1,
+  "date": "2026-10-22",
+  "status": "pending-human-confirmation",
+  "purpose": "补库存独立勾稽最后五条报告总量；不重复核已有成品/半成品",
+  "items": [
+    {
+      "id": "R2020-08",
+      "year": 2020,
+      "name": "2020产销量表期末库存总量",
+      "value": "249,235.52",
+      "page": 9,
+      "source_path": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "source_sha256": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c",
+      "scope": "吨；酒类期末数量存量；产销量情况分析表库存量列；非财务报表存货金额",
+      "boundary": "只确认独立报告库存总量原行；成品/半成品复用已有有效年度组，不重复核验；不确认库存价值、增长原因或计算",
+      "binding": "d8bfef342e4cd707a55bfdae666918fb17bfc149755d34b649d31749971e2d54",
+      "candidate_fingerprint": "f255d53f6232a8e250d31e284deef2348a14d491f0ef97b6896121662a34836a",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2021-08",
+      "year": 2021,
+      "name": "2021产销量表期末库存总量",
+      "value": "260,746.17",
+      "page": 9,
+      "source_path": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+      "source_sha256": "f65effdde58bcea99fd6bdb53f61b31d5c432e6dfb2661e5caf05156a433ea5a",
+      "scope": "吨；酒类期末数量存量；产销量情况分析表库存量列；非财务报表存货金额",
+      "boundary": "只确认独立报告库存总量原行；成品/半成品复用已有有效年度组，不重复核验；不确认库存价值、增长原因或计算",
+      "binding": "b779880b3cd5c8ed739d09ad628914cb73870c1e12a996d10c3e4c1e79557e62",
+      "candidate_fingerprint": "e189fd3b1863c523861a4b4b471e8efe7e0bd6d20992551f58653d23ec620757",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2022-08",
+      "year": 2022,
+      "name": "2022产销量表期末库存总量",
+      "value": "276,623.17",
+      "page": 9,
+      "source_path": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "source_sha256": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358",
+      "scope": "吨；酒类期末数量存量；产销量情况分析表库存量列；非财务报表存货金额",
+      "boundary": "只确认独立报告库存总量原行；成品/半成品复用已有有效年度组，不重复核验；不确认库存价值、增长原因或计算",
+      "binding": "0130c49e2cc34b62932017430e9e33f96eb42645ede7a226e5ea285e6ddbfa2e",
+      "candidate_fingerprint": "de0464cf408b87fdd021fd7c5a144d68026152cc443175f166db79e7e7df85f1",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2023-08",
+      "year": 2023,
+      "name": "2023产销量表期末库存总量",
+      "value": "293,790.03",
+      "page": 10,
+      "source_path": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "source_sha256": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1",
+      "scope": "吨；酒类期末数量存量；产销量情况分析表库存量列；非财务报表存货金额",
+      "boundary": "只确认独立报告库存总量原行；成品/半成品复用已有有效年度组，不重复核验；不确认库存价值、增长原因或计算",
+      "binding": "1e6f6689a11479b9eb7c435b4aa0216a6d95f84316ab226d7f14b3d6b03b90eb",
+      "candidate_fingerprint": "36921e19bcf6bef4185463d77fb404971642c8fb704686f24d6903ef712bcb53",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2024-24",
+      "year": 2024,
+      "name": "2024产销量表期末库存总量",
+      "value": "310,008.02",
+      "page": "9—10",
+      "source_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "source_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "scope": "吨；酒类期末数量存量；产销量情况分析表库存量列；非财务报表存货金额",
+      "boundary": "只确认独立报告库存总量原行；成品/半成品复用已有有效年度组，不重复核验；不确认库存价值、增长原因或计算",
+      "binding": "e2cd6aa240b5d975436c35ef1a079d15b09eb6e262ac68c2a31dee1d89f2f757",
+      "candidate_fingerprint": "5f739f6f1045afe618a9ee50ba7749f8f590ab800d1a97bf72be90cb31e9a8d7",
+      "state_at_display": "Unknown"
+    }
+  ],
+  "scope_note": "吨；各年度期末酒类库存数量；非财务存货金额。2024表头9页、续表数值10页。只核原数，不顺带核勾稽运算或库存价值。",
+  "actual_human_reply": null,
+  "display_payload_sha256": "b9bec76890017f877e30573a9e53ef2d0024cb22a85b6b0faa5da4f054cb8782"
+}
