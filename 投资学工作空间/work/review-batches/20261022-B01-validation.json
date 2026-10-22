@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-22",
+  "batch": "B01",
+  "pending_items": 8,
+  "pending_amounts": 16,
+  "authority_counts": {
+    "facts": 25,
+    "change_facts": 2,
+    "lec03_agent_facts": 16,
+    "m01_scale_facts": 3,
+    "m01_metric_facts": 15,
+    "m01_disclosure_facts": 3
+  },
+  "authority_and_original_candidates_unchanged": true,
+  "new_confirmation_events": 0,
+  "source_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+  "source_pages_visually_checked": [
+    109,
+    110
+  ],
+  "pre_display_correction": "制作时校验发现6条新候选的12列映射错位；在展示和确认前修正，重新通过ReviewStore逐项金额／范围／PDF指纹校验，无Fact或人工事件变化。"
+}
