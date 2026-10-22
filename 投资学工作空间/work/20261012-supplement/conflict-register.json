@@ -348,6 +348,24 @@
       "treatment": "来源序列不同；保留本人对S005977087现货性质的确认，不用新包挂牌价结论撤销旧确认，也不把两序列拼接",
       "state": "Agent方法处理；原事实/人工签署未新增",
       "evidence": "docs/20261022-supplement3-feedback.md"
+    },
+    {
+      "id": "SC25",
+      "date": "2026-10-22",
+      "kind": "库存分项求和与独立总量勾稽",
+      "original": "旧有效年度组2020—2024保存成品/半成品，但没有独立总库存字段",
+      "treatment": "占比可复算；分项合计标为Agent计算，独立总量残差Unknown。2016有本次核准独立总量，残差0；禁止用两项和减两项自证",
+      "state": "Agent方法处理；B02原数真实核验另见回执，未新确认机制或运算",
+      "evidence": "outputs/student-lag-check.md；work/lag-20261022/calculations.json"
+    },
+    {
+      "id": "SC26",
+      "date": "2026-10-22",
+      "kind": "缺年样本滞后与右删失",
+      "original": "当前只有2016、2020—2024六年有效产品数量，完整附件样本另有年份",
+      "treatment": "按真实年份t+k连接，列年对和n；不按行号shift；n<3停相关。2021—2025至FY2025右删失，2020→2025仅输入未核，不混为未兑现",
+      "state": "Agent方法处理；B02原数真实核验另见回执，未新确认机制或运算",
+      "evidence": "outputs/student-lag-check.md；work/lag-20261022/calculations.json"
     }
   ]
 }

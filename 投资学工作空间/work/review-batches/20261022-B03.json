@@ -1,0 +1,294 @@
+{
+  "batch_id": "B03",
+  "version": 1,
+  "date": "2026-10-22",
+  "status": "pending-human-confirmation",
+  "purpose": "补齐FY2016—2025库存结构和t+5数量／收入对照的剩余年度；既有2020—2024有效数据不重复人工核验",
+  "items": [
+    {
+      "id": "R2017-01",
+      "name": "2017产品产量与销量",
+      "year": 2017,
+      "page": "11",
+      "value": "茅台酒基酒产量42,828.59／销量30,205.52；其他系列酒基酒产量20,959.02／销量29,902.84",
+      "values_order": [
+        "maotai_production",
+        "maotai_sales",
+        "series_production",
+        "series_sales"
+      ],
+      "values": [
+        "42,828.59",
+        "30,205.52",
+        "20,959.02",
+        "29,902.84"
+      ],
+      "scope": "吨；年度基酒生产量与成品销售量分别列示；两产品分组，不是同批次转化",
+      "unit": "吨",
+      "boundary": "仅四项原数量；不确认产销率、固定滞后、机制或表内同比",
+      "binding": "049378a8029478e79daeea20c99616d7a2c06d31a6c193f54dbeac3fde720cc5",
+      "candidate_fingerprint": "d2af405bbd9c4d77218c7748d71499a2e5ce27fb6802ee8e1034992b22dd15b5",
+      "source_path": "sources/annual_reports/pdf/600519_2017_贵州茅台_2017年年度报告.pdf",
+      "source_sha256": "b66a4641e5f2313ed7964e5bef0026021ff2164459d0e0615f1b4385ba1a78e3",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2017-02",
+      "name": "2017期末库存组成与总量",
+      "year": 2017,
+      "page": "7、11",
+      "value": "成品酒13,309.48；半成品酒（含基础酒）222,689.39；产销量表库存总量235,998.87",
+      "values_order": [
+        "finished",
+        "semi_finished",
+        "reported_total"
+      ],
+      "values": [
+        "13,309.48",
+        "222,689.39",
+        "235,998.87"
+      ],
+      "scope": "吨；期末数量存量；成品指已包装库存商品（含酱香系列酒）；非财报存货金额",
+      "unit": "吨",
+      "boundary": "仅两分项、报告库存总量及定义；组成勾稽与占比为另列Agent运算，不证明库存未来价值",
+      "binding": "94646f767de3187570422f5f7d7e282180eb365728b425267c13074230027f5b",
+      "candidate_fingerprint": "c06d84902f72e75837e21e06a3ca97f249e7391ae53e4544ebb1ea4ffee4e014",
+      "source_path": "sources/annual_reports/pdf/600519_2017_贵州茅台_2017年年度报告.pdf",
+      "source_sha256": "b66a4641e5f2313ed7964e5bef0026021ff2164459d0e0615f1b4385ba1a78e3",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2018-01",
+      "name": "2018产品产量与销量",
+      "year": 2018,
+      "page": "14（产能单位与定义13页）",
+      "value": "茅台酒基酒产量49,671.69／销量32,463.95；其他系列酒基酒产量20,545.06／销量29,774.46",
+      "values_order": [
+        "maotai_production",
+        "maotai_sales",
+        "series_production",
+        "series_sales"
+      ],
+      "values": [
+        "49,671.69",
+        "32,463.95",
+        "20,545.06",
+        "29,774.46"
+      ],
+      "scope": "吨；年度基酒生产量与成品销售量分别列示；两产品分组，不是同批次转化",
+      "unit": "吨",
+      "boundary": "仅四项原数量；不确认产销率、固定滞后、机制或表内同比",
+      "binding": "3eb4191af7c57e2db99a1993b1aa921849ef45ecae74b1ece8a95d0e960f756f",
+      "candidate_fingerprint": "5580a13e4c6ad81f7dc4bc12e08b2f6f290c8f2d661de8f33b47a77b3e3288ec",
+      "source_path": "sources/annual_reports/pdf/600519_2018_贵州茅台_2018年年度报告.pdf",
+      "source_sha256": "08728fc937836cfeed8e98aeda932da54c737efa6de4280ae001476c0e393dec",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2018-02",
+      "name": "2018期末库存组成与总量",
+      "year": 2018,
+      "page": "9、13—14",
+      "value": "成品酒14,409.19；半成品酒（含基础酒）222,118.11；产销量表库存总量236,527.30",
+      "values_order": [
+        "finished",
+        "semi_finished",
+        "reported_total"
+      ],
+      "values": [
+        "14,409.19",
+        "222,118.11",
+        "236,527.30"
+      ],
+      "scope": "吨；期末数量存量；成品指已包装库存商品（含酱香系列酒）；非财报存货金额",
+      "unit": "吨",
+      "boundary": "仅两分项、报告库存总量及定义；组成勾稽与占比为另列Agent运算，不证明库存未来价值",
+      "binding": "4a8c28014349cc9c054fdabfcf63d2587832e835e6ea49f29e10dfad6ef1e9e0",
+      "candidate_fingerprint": "e81a8e97bbed09977b9e96065d9be6ecc8f8713455a07e20a6b936b91e84c9fc",
+      "source_path": "sources/annual_reports/pdf/600519_2018_贵州茅台_2018年年度报告.pdf",
+      "source_sha256": "08728fc937836cfeed8e98aeda932da54c737efa6de4280ae001476c0e393dec",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2019-01",
+      "name": "2019产品产量与销量",
+      "year": 2019,
+      "page": "13—14",
+      "value": "茅台酒基酒产量49,922.71／销量34,562.46；其他系列酒基酒产量25,122.02／销量30,082.84",
+      "values_order": [
+        "maotai_production",
+        "maotai_sales",
+        "series_production",
+        "series_sales"
+      ],
+      "values": [
+        "49,922.71",
+        "34,562.46",
+        "25,122.02",
+        "30,082.84"
+      ],
+      "scope": "吨；年度基酒生产量与成品销售量分别列示；两产品分组，不是同批次转化",
+      "unit": "吨",
+      "boundary": "仅四项原数量；不确认产销率、固定滞后、机制或表内同比",
+      "binding": "a3e21b2dd67dea7aefe4e3d1ba47bc5c6d3136a7d48d1961b8cddc62fa9a1a96",
+      "candidate_fingerprint": "aaa82b9083ebfab0ec115aee5623f453ab4cc07fa8d90b865cf9e834aa20e59e",
+      "source_path": "sources/annual_reports/pdf/600519_2019_贵州茅台_2019年年度报告.pdf",
+      "source_sha256": "2a2b384ab09a7bc295fd2e33b999acdf4212340b0141031c991060dea2fad03d",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2019-02",
+      "name": "2019期末库存组成与总量",
+      "year": 2019,
+      "page": "9、13",
+      "value": "成品酒11,311.61；半成品酒（含基础酒）230,356.74；产销量表库存总量241,668.35",
+      "values_order": [
+        "finished",
+        "semi_finished",
+        "reported_total"
+      ],
+      "values": [
+        "11,311.61",
+        "230,356.74",
+        "241,668.35"
+      ],
+      "scope": "吨；期末数量存量；成品指已包装库存商品（含酱香系列酒）；非财报存货金额",
+      "unit": "吨",
+      "boundary": "仅两分项、报告库存总量及定义；组成勾稽与占比为另列Agent运算，不证明库存未来价值",
+      "binding": "184f55d7904e336cbd0c784132a73ec0627ee52c2587a17b975e5f6ccae569c0",
+      "candidate_fingerprint": "fb62902898ea5c0d2fbaeef5ea3a279db60102587f502b76b3391f0d0c1db9ef",
+      "source_path": "sources/annual_reports/pdf/600519_2019_贵州茅台_2019年年度报告.pdf",
+      "source_sha256": "2a2b384ab09a7bc295fd2e33b999acdf4212340b0141031c991060dea2fad03d",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2025-01",
+      "name": "2025产品产量与销量",
+      "year": 2025,
+      "page": "16（单位与产能定义15页）",
+      "value": "茅台酒基酒产量58,473.16／销量46,750.66；其他系列酒基酒产量57,650.57／销量38,353.48",
+      "values_order": [
+        "maotai_production",
+        "maotai_sales",
+        "series_production",
+        "series_sales"
+      ],
+      "values": [
+        "58,473.16",
+        "46,750.66",
+        "57,650.57",
+        "38,353.48"
+      ],
+      "scope": "吨；年度基酒生产量与成品销售量分别列示；两产品分组，不是同批次转化",
+      "unit": "吨",
+      "boundary": "仅四项原数量；不确认产销率、固定滞后、机制或表内同比",
+      "binding": "26ee8f64346b12acad8294ae0ca660d66a76fa3dc140c300d89219df28e9758e",
+      "candidate_fingerprint": "ba334e15401d17a7afcbbfdfda5bdd1451552662c096712a44585c4919ebe070",
+      "source_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "source_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2025-02",
+      "name": "2025期末库存组成与总量",
+      "year": 2025,
+      "page": "10、15—16",
+      "value": "成品酒24,770.35；半成品酒（含基础酒）315,207.51；产销量表库存总量339,977.86",
+      "values_order": [
+        "finished",
+        "semi_finished",
+        "reported_total"
+      ],
+      "values": [
+        "24,770.35",
+        "315,207.51",
+        "339,977.86"
+      ],
+      "scope": "吨；期末数量存量；成品指已包装库存商品（含酱香系列酒）；非财报存货金额",
+      "unit": "吨",
+      "boundary": "仅两分项、报告库存总量及定义；组成勾稽与占比为另列Agent运算，不证明库存未来价值",
+      "binding": "bceee2b4d5d9f15193fe8b2d99261e6484317bf5e54982306c8ebcbc2bd07279",
+      "candidate_fingerprint": "465e6417808abacf7100f54f61da5c1847e1f80b4bc9911d8fcc3779942ebafd",
+      "source_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "source_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2025-03",
+      "name": "2025茅台酒产品营业收入",
+      "year": 2025,
+      "page": "10",
+      "value": "146,499,906,480.49",
+      "values_order": [
+        "maotai_revenue_yuan"
+      ],
+      "values": [
+        "146,499,906,480.49"
+      ],
+      "scope": "人民币元；2025年度茅台酒产品营业收入；不是公司营业收入总额；使用10页精确元数而非16页万元舍入数",
+      "unit": "人民币元",
+      "boundary": "仅该产品收入原披露；2025为新合同至FY2025诊断及事后跟踪，不回填FY2024历史信息集",
+      "binding": "f7a9146add2e7722ab9f2734fc3c24c032a71a1091039e0ceecfde05e10ec5d7",
+      "candidate_fingerprint": "9df7cd0327ee58974c083c1f7f1e0f9b3ebc3622071334cfae8823312f73d214",
+      "source_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "source_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288",
+      "state_at_display": "Unknown"
+    }
+  ],
+  "sources": [
+    {
+      "year": 2017,
+      "archive_path": "D:\\投资学\\投资学工作空间\\sources\\library\\补充材料2\\贵州茅台定期报告.zip",
+      "archive_sha256": "50c476c266df02ee0283238f98fbcfb946e8155c48f1653b635c55fb706be13b",
+      "member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2017Q4.pdf",
+      "pdf_path": "sources/annual_reports/pdf/600519_2017_贵州茅台_2017年年度报告.pdf",
+      "pdf_sha256": "b66a4641e5f2313ed7964e5bef0026021ff2164459d0e0615f1b4385ba1a78e3",
+      "matched_pdf_pages": [
+        7,
+        11
+      ],
+      "originals_uploaded": false
+    },
+    {
+      "year": 2018,
+      "archive_path": "D:\\投资学\\投资学工作空间\\sources\\library\\补充材料2\\贵州茅台定期报告.zip",
+      "archive_sha256": "50c476c266df02ee0283238f98fbcfb946e8155c48f1653b635c55fb706be13b",
+      "member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2018Q4.pdf",
+      "pdf_path": "sources/annual_reports/pdf/600519_2018_贵州茅台_2018年年度报告.pdf",
+      "pdf_sha256": "08728fc937836cfeed8e98aeda932da54c737efa6de4280ae001476c0e393dec",
+      "matched_pdf_pages": [
+        9,
+        14
+      ],
+      "originals_uploaded": false
+    },
+    {
+      "year": 2019,
+      "archive_path": "D:\\投资学\\投资学工作空间\\sources\\library\\补充材料2\\贵州茅台定期报告.zip",
+      "archive_sha256": "50c476c266df02ee0283238f98fbcfb946e8155c48f1653b635c55fb706be13b",
+      "member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2019Q4.pdf",
+      "pdf_path": "sources/annual_reports/pdf/600519_2019_贵州茅台_2019年年度报告.pdf",
+      "pdf_sha256": "2a2b384ab09a7bc295fd2e33b999acdf4212340b0141031c991060dea2fad03d",
+      "matched_pdf_pages": [
+        13
+      ],
+      "originals_uploaded": false
+    },
+    {
+      "year": 2025,
+      "archive_path": "D:\\投资学\\投资学工作空间\\sources\\library\\补充材料2\\贵州茅台定期报告.zip",
+      "archive_sha256": "50c476c266df02ee0283238f98fbcfb946e8155c48f1653b635c55fb706be13b",
+      "member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2025Q4.pdf",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288",
+      "matched_pdf_pages": [
+        10,
+        16
+      ],
+      "originals_uploaded": false
+    }
+  ],
+  "actual_human_reply": null,
+  "scope_note": "前8项数量吨；最后1项茅台酒产品收入人民币元。2025为新合同后验窗口，非2024当时已知。原披露确认与运算／比较／观点／签署分开。",
+  "display_payload_sha256": "286b7e47c005ebe1e7801390f5b46155ad0dab5a8c9d5bbd91c22bccfe9de5d5"
+}

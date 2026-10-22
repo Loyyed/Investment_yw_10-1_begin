@@ -93,19 +93,31 @@
       "interpretation": "长周期投入与销售存在时间差；存货金额、实物吨、项目投入与购建现金分开，不能仅由低Capex贴轻资产标签。",
       "alternative": "存货上升可能为产能配套、结构转换或积压；缺库龄时不能选择唯一原因。",
       "unknown": "经营资产/无息负债范围、维护/扩张Capex、成熟滞后和平均投入资本待裁定。",
-      "next_action": "B02分批核2015成品脚注、2016库存与生产阶段、最少五年及混合勾兑；不预设固定成熟/转化年限。",
+      "next_action": "B03集中补2017—2019及2025九项原数；复用2020—2024有效组。库存独立总量、产能资本桥及跨工具验证分别补，不预设固定五年转化。",
       "refutation": "库存与投入长期快于后续销售且回报未兑现，削弱资本效率解释。",
       "source_date": "",
       "source_role": "原始披露",
       "evidence_ids": [
         "R2024-08",
         "m01_scale_facts:M01-K03",
-        "lec03_agent_facts:L03-A2024-P"
+        "lec03_agent_facts:L03-A2024-P",
+        "R2015-01",
+        "R2016-01",
+        "R2016-02",
+        "R2016-03",
+        "R2016-04",
+        "R2016-05"
       ],
       "evidence_bindings": {
         "R2024-08": "50b379e85fe4a04982f34e70de7b4dfa961702aa7a8675eee71b443cbab01145",
         "m01_scale_facts:M01-K03": "f33503d9422369d12e0902a089ae7d0fe55450679fefbd8f52456686b24af28d",
-        "lec03_agent_facts:L03-A2024-P": ""
+        "lec03_agent_facts:L03-A2024-P": "",
+        "R2015-01": "4cda371745dbfced2abc5217f6d7dc321bc47be283056d4dbcffaeb5da08eb8e",
+        "R2016-01": "a9687da186618bbebcbbf30f85c0aec743245879ed8d7f88a1d6cce8066a0ff7",
+        "R2016-02": "0bc48be672bbdc83e6c297a015bd995b99787f556f708b7cec3e4edfbcb17355",
+        "R2016-03": "e934a6bc8b2d453fb0a214546a2cb7becbd51f450e78fa093357c8adb7ebe955",
+        "R2016-04": "3a072f38643c01c90b783c187fc5aa5328bb2d620baa0c6f0721407e9b972840",
+        "R2016-05": "09e6aa4e74eef01b8b65b35e7ae78c8d7cd593d117e606771eb2f00ef5cd882a"
       }
     },
     {
@@ -159,22 +171,34 @@
       "layer": "value",
       "title": "价值创造",
       "question": "资源、活动与时间如何形成产品？",
-      "interpretation": "生产、贮存及质量活动连接产品供给与库存资本，但真实生产成本和跨批次成熟资源仍需桥接。",
+      "interpretation": "B02数量/工艺已核：2015产销存均成品，2016生产为基酒、库存含半成品。2016半成品占93.60%，与2021销量/收入只能并列观察；至少五年及混合勾兑支持研究时间资本，未证明库存未来价值或固定成熟期。运算为AgentCalculated。",
       "alternative": "等待时间也可能抬高库存风险与资本需求，不必然产生稀缺收益。",
-      "unknown": "不同基酒年份、勾兑、损耗和可售库存映射Unknown。",
-      "next_action": "利用生产—库存—销售滞后表，不预设固定五年一比一对应。",
+      "unknown": "缺年样本仅6年；剩余4年待B03。库龄、跨批次可售映射、终端需求与成熟后增量回报Unknown。",
+      "next_action": "B03集中补2017—2019及2025九项原数；复用2020—2024有效组。库存独立总量、产能资本桥及跨工具验证分别补，不预设固定五年转化。",
       "refutation": "成熟库存长期不能在预期需求下兑现，削弱资源经济价值解释。",
       "source_date": "",
       "source_role": "原始披露",
       "evidence_ids": [
         "lec03_agent_facts:L03-A2024-B",
         "lec03_agent_facts:L03-A2024-P",
-        "m01_scale_facts:M01-K03"
+        "m01_scale_facts:M01-K03",
+        "R2015-01",
+        "R2016-01",
+        "R2016-02",
+        "R2016-03",
+        "R2016-04",
+        "R2016-05"
       ],
       "evidence_bindings": {
         "lec03_agent_facts:L03-A2024-B": "",
         "lec03_agent_facts:L03-A2024-P": "",
-        "m01_scale_facts:M01-K03": "f33503d9422369d12e0902a089ae7d0fe55450679fefbd8f52456686b24af28d"
+        "m01_scale_facts:M01-K03": "f33503d9422369d12e0902a089ae7d0fe55450679fefbd8f52456686b24af28d",
+        "R2015-01": "4cda371745dbfced2abc5217f6d7dc321bc47be283056d4dbcffaeb5da08eb8e",
+        "R2016-01": "a9687da186618bbebcbbf30f85c0aec743245879ed8d7f88a1d6cce8066a0ff7",
+        "R2016-02": "0bc48be672bbdc83e6c297a015bd995b99787f556f708b7cec3e4edfbcb17355",
+        "R2016-03": "e934a6bc8b2d453fb0a214546a2cb7becbd51f450e78fa093357c8adb7ebe955",
+        "R2016-04": "3a072f38643c01c90b783c187fc5aa5328bb2d620baa0c6f0721407e9b972840",
+        "R2016-05": "09e6aa4e74eef01b8b65b35e7ae78c8d7cd593d117e606771eb2f00ef5cd882a"
       }
     },
     {
@@ -337,7 +361,8 @@
         "第五次后续财务检验"
       ],
       "priority": "7",
-      "missing": "项目用途、经营范围、折旧摊销匹配、库龄/成熟窗口；未披露不填比例"
+      "missing": "项目用途、经营范围、折旧摊销匹配、库龄/成熟窗口；未披露不填比例",
+      "current_progress": "数量/阶段定义B02已核，合同工作稿outputs/student-lag-check.md；完整经营资本、维护/扩张Capex及回报口径未定。"
     },
     {
       "id": "P08",

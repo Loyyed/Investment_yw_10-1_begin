@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-22",
+  "authority_counts": {
+    "facts": 39,
+    "change_facts": 2,
+    "lec03_agent_facts": 16,
+    "m01_scale_facts": 3,
+    "m01_metric_facts": 15,
+    "m01_disclosure_facts": 3
+  },
+  "B02_events": [
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+  ],
+  "old_events_preserved": true,
+  "B02_display_immutable": true,
+  "source_bound_calculation": true,
+  "sample_years": [
+    2016,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "repeat_calculation_byte_identical": true,
+  "correlation_independent_check": "Decimal48 vs statistics.correlation abs_tol1e-12",
+  "n_less_than_3_stops": true,
+  "B03_pending_items": 9,
+  "B03_pending_numbers": 29,
+  "B03_bindings_current": true,
+  "report_fingerprint": "83a799dd084c49bfd5ab9252a0a7c153ecc318ae5db1f87e3d025ac975fb46c3",
+  "report_status": "待人工内容审阅",
+  "new_originals_local_only": true,
+  "new_signature_events": 0,
+  "new_human_arithmetic_or_mechanism_confirmations": 0
+}
