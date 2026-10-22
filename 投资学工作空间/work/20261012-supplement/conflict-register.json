@@ -312,6 +312,42 @@
       "treatment": "文件标签/样本复述不成为本公司Fact；公司/行业机构分组去重，主题案例不作因果",
       "state": "未新增其他股票行情Fact或全市场共识核准",
       "evidence": "docs/20261014-supplement2-feedback.md；work/supp2-20261014/source-catalog.json"
+    },
+    {
+      "id": "SC21",
+      "date": "2026-10-22",
+      "kind": "复现字节与文本差异",
+      "original": "三个HTML与提供版哈希不同",
+      "treatment": "CSV一致；三个HTML规范文本一致，仅换行编码差异，原件保留，不宣称全部字节一致",
+      "state": "Agent方法处理；原事实/人工签署未新增",
+      "evidence": "docs/20261022-supplement3-feedback.md"
+    },
+    {
+      "id": "SC22",
+      "date": "2026-10-22",
+      "kind": "跨项目状态与新版合同",
+      "original": "附件59条HV、教师工作台撤回21文件和旧版合同完成",
+      "treatment": "均为来源项目的记录；不复制删除指令/核验事件/署名，不覆盖本项目六域；新合同新增要求单独执行",
+      "state": "Agent方法处理；原事实/人工签署未新增",
+      "evidence": "docs/20261022-supplement3-feedback.md"
+    },
+    {
+      "id": "SC23",
+      "date": "2026-10-22",
+      "kind": "相邻代理名称与精度",
+      "original": "iFinD广告费标签、百吨约数、挂牌价/出货/公司库存",
+      "treatment": "广告合计不作R2024-11单列广告；约数不覆盖精确年报；S0—S4不自动关闭原目标",
+      "state": "Agent方法处理；原事实/人工签署未新增",
+      "evidence": "docs/20261022-supplement3-feedback.md"
+    },
+    {
+      "id": "SC24",
+      "date": "2026-10-22",
+      "kind": "价格字段支持边界分开",
+      "original": "新包飞天京东挂牌停更与旧S005977087可交易现货",
+      "treatment": "来源序列不同；保留本人对S005977087现货性质的确认，不用新包挂牌价结论撤销旧确认，也不把两序列拼接",
+      "state": "Agent方法处理；原事实/人工签署未新增",
+      "evidence": "docs/20261022-supplement3-feedback.md"
     }
   ]
 }

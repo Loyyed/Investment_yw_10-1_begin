@@ -1,0 +1,44 @@
+[
+  {
+    "name": "第七次任务合同_贵州茅台叙事核验.md",
+    "sha256": "6ca0d75c9efbcbd643d7129cb4ea5a3cb4be0a4c55ca63539f0041b01fa72c6e",
+    "previous_sha256": "5237bc4d19110ed6f60eb6f425c5735d472606a341e72384829d1f99e7861035",
+    "changed": true,
+    "status": "新版增量待执行/人工内容审阅"
+  },
+  {
+    "name": "第五次任务合同_贵州茅台商业模式验证.md",
+    "sha256": "fb25c4182f568fb3922535f7a22363a06e9cae250a1c8cb53c206f17f629320d",
+    "previous_sha256": null,
+    "changed": true,
+    "status": "新版增量待执行/人工内容审阅"
+  },
+  {
+    "name": "第五次任务延伸合同_贵州茅台渠道净贡献验证.md",
+    "sha256": "fa36428379f160d124a83a2e9906328ca904b9cce3fb6cea9fcf3d8ab99ab8af",
+    "previous_sha256": null,
+    "changed": true,
+    "status": "新版增量待执行/人工内容审阅"
+  },
+  {
+    "name": "第五次任务延伸合同_贵州茅台现金与资本回报验证.md",
+    "sha256": "da205d95d3157ca474c8e5638749d884d5ede85302f449999b3879741a60d121",
+    "previous_sha256": null,
+    "changed": true,
+    "status": "新版增量待执行/人工内容审阅"
+  },
+  {
+    "name": "第五次任务延伸合同_贵州茅台生产库存销售滞后验证.md",
+    "sha256": "d9da305bedb3f89c3f0a6b4478ced5e55b163f8bb4efd37e734ba5dc6c876261",
+    "previous_sha256": null,
+    "changed": true,
+    "status": "新版增量待执行/人工内容审阅"
+  },
+  {
+    "name": "第六次任务合同_贵州茅台行业竞争与竞争优势.md",
+    "sha256": "0ed8d279fad8598890838f9da3e561c6b7e1cc4a1a9afd5da7103d89f1ef8aa2",
+    "previous_sha256": "93acb50f2cd9c6977db83c0c69be0b52bda65ff8787556109c801175479c1629",
+    "changed": true,
+    "status": "新版增量待执行/人工内容审阅"
+  }
+]

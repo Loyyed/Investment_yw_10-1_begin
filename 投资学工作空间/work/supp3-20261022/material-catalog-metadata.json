@@ -1,0 +1,831 @@
+{
+  "date": "2026-10-22",
+  "files": [
+    {
+      "name": "lec02_年报分析与证据核验_工作台版.md",
+      "group": "课件",
+      "original": "D:\\投资学\\课件与任务文件\\课件\\lec02_年报分析与证据核验_工作台版.md",
+      "path": "sources/library/课件/lec02_年报分析与证据核验_工作台版.md",
+      "sha256": "c8cec72cde88a9936ceb48e5381a40918ed1f40e2043d8fd7eb50b07b875b40b",
+      "bytes": 60577
+    },
+    {
+      "name": "lec03_商业模式、行业竞争与竞争优势.md",
+      "group": "课件",
+      "original": "D:\\投资学\\课件与任务文件\\课件\\lec03_商业模式、行业竞争与竞争优势.md",
+      "path": "sources/library/课件/lec03_商业模式、行业竞争与竞争优势.md",
+      "sha256": "7fa951a515787679d41749b972689d8fd219b67f8b4c9736fd593d83ab1b6135",
+      "bytes": 146430
+    },
+    {
+      "name": "Lec_01_从公司信息到投资判断_AI时代的证券分析与人机协作_第二版_修订稿.md",
+      "group": "课件",
+      "original": "D:\\投资学\\课件与任务文件\\课件\\Lec_01_从公司信息到投资判断_AI时代的证券分析与人机协作_第二版_修订稿.md",
+      "path": "sources/library/课件/Lec_01_从公司信息到投资判断_AI时代的证券分析与人机协作_第二版_修订稿.md",
+      "sha256": "ed2ce733da0277db5e6a1524184c9d77968452f4604e691da94304b41f14a30a",
+      "bytes": 17990
+    },
+    {
+      "name": "第一次任务合同.md",
+      "group": "任务合同",
+      "original": "D:\\投资学\\课件与任务文件\\任务合同\\第一次任务合同.md",
+      "path": "sources/library/任务合同/第一次任务合同.md",
+      "sha256": "4867e16f12245ff4d5842c23841f4c7ebf4830b201169766b54c9a74eaa6f0fb",
+      "bytes": 5774
+    },
+    {
+      "name": "第三次任务合同_年报指标口径识别.md",
+      "group": "任务合同",
+      "original": "D:\\投资学\\课件与任务文件\\任务合同\\第三次任务合同_年报指标口径识别.md",
+      "path": "sources/library/任务合同/第三次任务合同_年报指标口径识别.md",
+      "sha256": "9453a5d0801b6251e56538e9ab2eaee325029e4fc907eaeb85378812f99bebf9",
+      "bytes": 4467
+    },
+    {
+      "name": "第二次任务合同_年报收入信息结构化提取.md",
+      "group": "任务合同",
+      "original": "D:\\投资学\\课件与任务文件\\任务合同\\第二次任务合同_年报收入信息结构化提取.md",
+      "path": "sources/library/任务合同/第二次任务合同_年报收入信息结构化提取.md",
+      "sha256": "fa9d200800e8a581eb8631e8d2d9daa475686c401f0995a51cf752e814a3da8d",
+      "bytes": 4757
+    },
+    {
+      "name": "第五次任务合同_贵州茅台商业模式、竞争优势与叙事核验.md",
+      "group": "任务合同",
+      "original": "D:\\投资学\\课件与任务文件\\任务合同\\第五次任务合同_贵州茅台商业模式、竞争优势与叙事核验.md",
+      "path": "sources/library/任务合同/第五次任务合同_贵州茅台商业模式、竞争优势与叙事核验.md",
+      "sha256": "742749871e570ecaa486f20c17e210f918edd39289c2a83dc4cd5dd4c2fe1d28",
+      "bytes": 14891
+    },
+    {
+      "name": "第五次任务合同第一部分_贵州茅台商业模式验证.md",
+      "group": "任务合同",
+      "original": "D:\\投资学\\课件与任务文件\\任务合同\\第五次任务合同第一部分_贵州茅台商业模式验证.md",
+      "path": "sources/library/任务合同/第五次任务合同第一部分_贵州茅台商业模式验证.md",
+      "sha256": "33c24262c521635601f76fb51f22f01a670db4b7c569fd12a372766c554ffee3",
+      "bytes": 6378
+    },
+    {
+      "name": "第四次任务合同_年报指标变化核验.md",
+      "group": "任务合同",
+      "original": "D:\\投资学\\课件与任务文件\\任务合同\\第四次任务合同_年报指标变化核验.md",
+      "path": "sources/library/任务合同/第四次任务合同_年报指标变化核验.md",
+      "sha256": "3d1af9c2753f9fc5fc5338038d48e7c3f033faf1960260b4d69fe3792be3e13b",
+      "bytes": 3987
+    },
+    {
+      "name": "《证券投资分析》slides_2026_脱敏.key.pdf",
+      "group": "补充材料",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料\\《证券投资分析》slides_2026_脱敏.key.pdf",
+      "path": "sources/library/补充材料/《证券投资分析》slides_2026_脱敏.key.pdf",
+      "sha256": "17f7194158f23f9f0a4057c6ccacaf25ca3152cfe481b01deee6d0d07939fc52",
+      "bytes": 14089562
+    },
+    {
+      "name": "白酒行业_iFinD字段全集_上市以来.csv",
+      "group": "补充材料",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料\\白酒行业_iFinD字段全集_上市以来.csv",
+      "path": "sources/library/补充材料/白酒行业_iFinD字段全集_上市以来.csv",
+      "sha256": "2c91b0a280bf1f31eec38b2dbf1f8b3171b48e77efbde3c7010433481369a5e2",
+      "bytes": 19098818
+    },
+    {
+      "name": "第七次任务合同_贵州茅台叙事核验.md",
+      "group": "补充材料",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料\\第七次任务合同_贵州茅台叙事核验.md",
+      "path": "sources/library/补充材料/第七次任务合同_贵州茅台叙事核验.md",
+      "sha256": "5237bc4d19110ed6f60eb6f425c5735d472606a341e72384829d1f99e7861035",
+      "bytes": 6203
+    },
+    {
+      "name": "第六次任务合同_贵州茅台行业竞争与竞争优势.md",
+      "group": "补充材料",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料\\第六次任务合同_贵州茅台行业竞争与竞争优势.md",
+      "path": "sources/library/补充材料/第六次任务合同_贵州茅台行业竞争与竞争优势.md",
+      "sha256": "93acb50f2cd9c6977db83c0c69be0b52bda65ff8787556109c801175479c1629",
+      "bytes": 6297
+    },
+    {
+      "name": ".claude.zip",
+      "group": "补充材料2",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料2\\.claude.zip",
+      "path": "sources/library/补充材料2/.claude.zip",
+      "sha256": "2f6dc83040f7d54669fae301cc8ff8f9f4337f38a8a563d3c03d86c4ddfc4c57",
+      "bytes": 8128
+    },
+    {
+      "name": "Append1_lec03.md",
+      "group": "补充材料2",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料2\\Append1_lec03.md",
+      "path": "sources/library/补充材料2/Append1_lec03.md",
+      "sha256": "8c486896f1aff4e1aea0762d4f4a24541aec477b8c2a5c5cbf97b362349084c3",
+      "bytes": 22669
+    },
+    {
+      "name": "Append2_lec03.md",
+      "group": "补充材料2",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料2\\Append2_lec03.md",
+      "path": "sources/library/补充材料2/Append2_lec03.md",
+      "sha256": "2dc97926f25606911a17b98d8cd94736e67d205c3a83cd6b110302a4341760b7",
+      "bytes": 25719
+    },
+    {
+      "name": "Append3_lec03_CC.md",
+      "group": "补充材料2",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料2\\Append3_lec03_CC.md",
+      "path": "sources/library/补充材料2/Append3_lec03_CC.md",
+      "sha256": "9260e37768a10ebac64359cf353bcc297b2073d073e2b0bb7a6ad4fecd5d50b1",
+      "bytes": 12427
+    },
+    {
+      "name": "Append4_lec03_CC.md",
+      "group": "补充材料2",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料2\\Append4_lec03_CC.md",
+      "path": "sources/library/补充材料2/Append4_lec03_CC.md",
+      "sha256": "af0ae1be102b785223fe80783f8f41401366414db3f7cc4a14786006cf8f5205",
+      "bytes": 16112
+    },
+    {
+      "name": "append5.1_lec03_财务证据与商业模式叙事的建构.md",
+      "group": "补充材料2",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料2\\append5.1_lec03_财务证据与商业模式叙事的建构.md",
+      "path": "sources/library/补充材料2/append5.1_lec03_财务证据与商业模式叙事的建构.md",
+      "sha256": "d3a63cdc34e9d313a6480962b5cf0e52e325613eafe8fd04231b4c2000970273",
+      "bytes": 106020
+    },
+    {
+      "name": "Append5_lec03_贵州茅台商业模式的两阶段建构.md",
+      "group": "补充材料2",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料2\\Append5_lec03_贵州茅台商业模式的两阶段建构.md",
+      "path": "sources/library/补充材料2/Append5_lec03_贵州茅台商业模式的两阶段建构.md",
+      "sha256": "6a0d9c3cc1260e62420cb1e264b2dc6a1a85225a9845ea07775bbaa4799a4352",
+      "bytes": 19894
+    },
+    {
+      "name": "市场叙事_贵州茅台及白酒行业研报.zip",
+      "group": "补充材料2",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料2\\市场叙事_贵州茅台及白酒行业研报.zip",
+      "path": "sources/library/补充材料2/市场叙事_贵州茅台及白酒行业研报.zip",
+      "sha256": "db84477a1d3c109c4442d14f9dfe2998ac5ada3b9aa02b960dff2670c113eb0a",
+      "bytes": 87149071
+    },
+    {
+      "name": "示范.txt",
+      "group": "补充材料2",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料2\\示范.txt",
+      "path": "sources/library/补充材料2/示范.txt",
+      "sha256": "6e29c1c9181bbf7b4d45a616766bf083382ba68c7c9ef1b808034fbe6011c574",
+      "bytes": 5017
+    },
+    {
+      "name": "羊年生肖叙事_形成传播与二级市场映射.html",
+      "group": "补充材料2",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料2\\羊年生肖叙事_形成传播与二级市场映射.html",
+      "path": "sources/library/补充材料2/羊年生肖叙事_形成传播与二级市场映射.html",
+      "sha256": "039b725405bac05b3b4a6127147b95c86cbfd4c6cf132590f5c847546dd8dcd7",
+      "bytes": 29982
+    },
+    {
+      "name": "贵州茅台定期报告.zip",
+      "group": "补充材料2",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料2\\贵州茅台定期报告.zip",
+      "path": "sources/library/补充材料2/贵州茅台定期报告.zip",
+      "sha256": "50c476c266df02ee0283238f98fbcfb946e8155c48f1653b635c55fb706be13b",
+      "bytes": 76399823
+    },
+    {
+      "name": "贵州茅台的市场主流叙事_基于2023—2026年研报样本.md",
+      "group": "补充材料2",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料2\\贵州茅台的市场主流叙事_基于2023—2026年研报样本.md",
+      "path": "sources/library/补充材料2/贵州茅台的市场主流叙事_基于2023—2026年研报样本.md",
+      "sha256": "9ebaeb447f2ce0f51ef306a1f6ff4763cc7f9bbca1fa078c14af5b7f98d7389d",
+      "bytes": 25729
+    },
+    {
+      "name": "贵州茅台管理层自述的竞争优势_2001—2025年年报逐年摘录.md",
+      "group": "补充材料2",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料2\\贵州茅台管理层自述的竞争优势_2001—2025年年报逐年摘录.md",
+      "path": "sources/library/补充材料2/贵州茅台管理层自述的竞争优势_2001—2025年年报逐年摘录.md",
+      "sha256": "5839254775154a39567164cd357422919274030c3d84d94fdc04b8288d402d5f",
+      "bytes": 28943
+    },
+    {
+      "name": "append5.1_lec03_财务证据与商业模式叙事的建构.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\append5.1_lec03_财务证据与商业模式叙事的建构.md",
+      "path": "sources/library/补充材料3/append5.1_lec03_财务证据与商业模式叙事的建构.md",
+      "sha256": "d3a63cdc34e9d313a6480962b5cf0e52e325613eafe8fd04231b4c2000970273",
+      "bytes": 106020
+    },
+    {
+      "name": "append5.2_lec03_贵州茅台生产库存销售滞后验证.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\append5.2_lec03_贵州茅台生产库存销售滞后验证.md",
+      "path": "sources/library/补充材料3/append5.2_lec03_贵州茅台生产库存销售滞后验证.md",
+      "sha256": "794f4004cecfcf23fa9f592e82a8ff87012854bd69d4a50b10771e51d33d11b5",
+      "bytes": 10459
+    },
+    {
+      "name": "append5.3_lec03_贵州茅台渠道结构与价值归属验证.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\append5.3_lec03_贵州茅台渠道结构与价值归属验证.md",
+      "path": "sources/library/补充材料3/append5.3_lec03_贵州茅台渠道结构与价值归属验证.md",
+      "sha256": "b22d2b60139a8e6f82eba54947f13bb66a2874fee15cd610b9eef43637a030b6",
+      "bytes": 3286
+    },
+    {
+      "name": "append5.4_lec03_贵州茅台实体现金流与资本回报验证.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\append5.4_lec03_贵州茅台实体现金流与资本回报验证.md",
+      "path": "sources/library/补充材料3/append5.4_lec03_贵州茅台实体现金流与资本回报验证.md",
+      "sha256": "b9f08db5ab1dcca53ad42a1371d4be194b2a8e967093726982e782d349c5207f",
+      "bytes": 6402
+    },
+    {
+      "name": "append5.5_lec03_贵州茅台五大核心竞争力叙事核验.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\append5.5_lec03_贵州茅台五大核心竞争力叙事核验.md",
+      "path": "sources/library/补充材料3/append5.5_lec03_贵州茅台五大核心竞争力叙事核验.md",
+      "sha256": "1cdef789981c369515c7c67358877db25ac98b0badaded4686e5e438a803a3ba",
+      "bytes": 25737
+    },
+    {
+      "name": "提示词.txt",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\提示词.txt",
+      "path": "sources/library/补充材料3/提示词.txt",
+      "sha256": "f05f76244b2aa6f54cd7a22d47af656cdddf047c6044d5b4a7c9c3d09567ef2a",
+      "bytes": 1278
+    },
+    {
+      "name": "第七次任务合同_贵州茅台叙事核验.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\第七次任务合同_贵州茅台叙事核验.md",
+      "path": "sources/library/补充材料3/第七次任务合同_贵州茅台叙事核验.md",
+      "sha256": "6ca0d75c9efbcbd643d7129cb4ea5a3cb4be0a4c55ca63539f0041b01fa72c6e",
+      "bytes": 7461
+    },
+    {
+      "name": "第五次任务合同_贵州茅台商业模式验证.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\第五次任务合同_贵州茅台商业模式验证.md",
+      "path": "sources/library/补充材料3/第五次任务合同_贵州茅台商业模式验证.md",
+      "sha256": "fb25c4182f568fb3922535f7a22363a06e9cae250a1c8cb53c206f17f629320d",
+      "bytes": 6390
+    },
+    {
+      "name": "第五次任务延伸合同_贵州茅台渠道净贡献验证.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\第五次任务延伸合同_贵州茅台渠道净贡献验证.md",
+      "path": "sources/library/补充材料3/第五次任务延伸合同_贵州茅台渠道净贡献验证.md",
+      "sha256": "fa36428379f160d124a83a2e9906328ca904b9cce3fb6cea9fcf3d8ab99ab8af",
+      "bytes": 2177
+    },
+    {
+      "name": "第五次任务延伸合同_贵州茅台现金与资本回报验证.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\第五次任务延伸合同_贵州茅台现金与资本回报验证.md",
+      "path": "sources/library/补充材料3/第五次任务延伸合同_贵州茅台现金与资本回报验证.md",
+      "sha256": "da205d95d3157ca474c8e5638749d884d5ede85302f449999b3879741a60d121",
+      "bytes": 3054
+    },
+    {
+      "name": "第五次任务延伸合同_贵州茅台生产库存销售滞后验证.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\第五次任务延伸合同_贵州茅台生产库存销售滞后验证.md",
+      "path": "sources/library/补充材料3/第五次任务延伸合同_贵州茅台生产库存销售滞后验证.md",
+      "sha256": "d9da305bedb3f89c3f0a6b4478ced5e55b163f8bb4efd37e734ba5dc6c876261",
+      "bytes": 7144
+    },
+    {
+      "name": "第六次任务合同_贵州茅台行业竞争与竞争优势.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\第六次任务合同_贵州茅台行业竞争与竞争优势.md",
+      "path": "sources/library/补充材料3/第六次任务合同_贵州茅台行业竞争与竞争优势.md",
+      "sha256": "0ed8d279fad8598890838f9da3e561c6b7e1cc4a1a9afd5da7103d89f1ef8aa2",
+      "bytes": 6730
+    },
+    {
+      "name": "贵州茅台商业机器_运转拆解(1).html",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台商业机器_运转拆解(1).html",
+      "path": "sources/library/补充材料3/贵州茅台商业机器_运转拆解(1).html",
+      "sha256": "3ecbdefbafc8d74ce66d9892c85cd8eb2b547d1d5f6bf73ba67c626d7d2f2517",
+      "bytes": 28081
+    },
+    {
+      "name": "贵州茅台商业模式_从经济逻辑到价值创造.html",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台商业模式_从经济逻辑到价值创造.html",
+      "path": "sources/library/补充材料3/贵州茅台商业模式_从经济逻辑到价值创造.html",
+      "sha256": "db4b070a6e3d49473ddabdccbefb5abfd352f092ad0ba38f56a80e91b6289e88",
+      "bytes": 31411
+    },
+    {
+      "name": "贵州茅台商业模式_基酒产量预测销量.html",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台商业模式_基酒产量预测销量.html",
+      "path": "sources/library/补充材料3/贵州茅台商业模式_基酒产量预测销量.html",
+      "sha256": "6f8620e14493d35c7eb80c29900b6d3551e5d24d12cc3475e6d5342cd3416ec4",
+      "bytes": 16119
+    },
+    {
+      "name": "01_原始证据.csv",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台渠道净贡献复现包\\01_原始证据.csv",
+      "path": "sources/library/补充材料3/贵州茅台渠道净贡献复现包/01_原始证据.csv",
+      "sha256": "8258ac19b1fb2f6b00217ef055e23892829fd18f872f7d788c79459ce6d6e9ed",
+      "bytes": 103867
+    },
+    {
+      "name": "02_渠道分析面板.csv",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台渠道净贡献复现包\\02_渠道分析面板.csv",
+      "path": "sources/library/补充材料3/贵州茅台渠道净贡献复现包/02_渠道分析面板.csv",
+      "sha256": "68c8bdbeac35fdb05dbaf4c6e5568b36adedcb4e80b67883fe15a5e7c0afc4cb",
+      "bytes": 7840
+    },
+    {
+      "name": "03_渠道诊断结果.csv",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台渠道净贡献复现包\\03_渠道诊断结果.csv",
+      "path": "sources/library/补充材料3/贵州茅台渠道净贡献复现包/03_渠道诊断结果.csv",
+      "sha256": "78848be8dd3446577ce2415cae1d4b2fef8978f2ca87b766afb558fa2653f301",
+      "bytes": 8145
+    },
+    {
+      "name": "04_复现脚本.py",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台渠道净贡献复现包\\04_复现脚本.py",
+      "path": "sources/library/补充材料3/贵州茅台渠道净贡献复现包/04_复现脚本.py",
+      "sha256": "3ec50255a5338072d89a296e6f36571aef1aca6df33cda60db23a306de4e885d",
+      "bytes": 11391
+    },
+    {
+      "name": "05_学生复现指南.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台渠道净贡献复现包\\05_学生复现指南.md",
+      "path": "sources/library/补充材料3/贵州茅台渠道净贡献复现包/05_学生复现指南.md",
+      "sha256": "3908e221f402212f298ce486ab052f1baef5c7a2f549ddabf789622abf984e27",
+      "bytes": 1466
+    },
+    {
+      "name": "06_运行结果_渠道结构与价值归属.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台渠道净贡献复现包\\06_运行结果_渠道结构与价值归属.md",
+      "path": "sources/library/补充材料3/贵州茅台渠道净贡献复现包/06_运行结果_渠道结构与价值归属.md",
+      "sha256": "b723be77c0dafae30b80e134eb6832d97d2dc69b60cfce815a766e701a36e43b",
+      "bytes": 2822
+    },
+    {
+      "name": "07_证据矩阵_N03.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台渠道净贡献复现包\\07_证据矩阵_N03.md",
+      "path": "sources/library/补充材料3/贵州茅台渠道净贡献复现包/07_证据矩阵_N03.md",
+      "sha256": "f91c0653765b2f6761e34307e24b5476c5ee95ebbe4d5b98625deb9e103dd86b",
+      "bytes": 1372
+    },
+    {
+      "name": "08_运行记录与校验.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台渠道净贡献复现包\\08_运行记录与校验.md",
+      "path": "sources/library/补充材料3/贵州茅台渠道净贡献复现包/08_运行记录与校验.md",
+      "sha256": "6e5cc318999cac1633ceb92766b79c0f0565309601dee5c3a63a92f5c967348c",
+      "bytes": 3306
+    },
+    {
+      "name": "09_课堂展示_渠道结构与价值归属.html",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台渠道净贡献复现包\\09_课堂展示_渠道结构与价值归属.html",
+      "path": "sources/library/补充材料3/贵州茅台渠道净贡献复现包/09_课堂展示_渠道结构与价值归属.html",
+      "sha256": "16997cb36a6e7ac70d3023324fc973b548938f9a218674178703ed5fe1dedd87",
+      "bytes": 38632
+    },
+    {
+      "name": "README.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台渠道净贡献复现包\\README.md",
+      "path": "sources/library/补充材料3/贵州茅台渠道净贡献复现包/README.md",
+      "sha256": "ba4ba381d3e731e0a0b55c6bd0a9532a6d5bc285631470bf69b16e7fbe2d4c63",
+      "bytes": 1410
+    },
+    {
+      "name": "01_原始证据.csv",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台现金与资本回报复现包\\01_原始证据.csv",
+      "path": "sources/library/补充材料3/贵州茅台现金与资本回报复现包/01_原始证据.csv",
+      "sha256": "d52e9db3c3f29eb8ac1bede7223185131a50f0aaa3ccfeb5b948327432feddfd",
+      "bytes": 772548
+    },
+    {
+      "name": "02_现金资本分析面板.csv",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台现金与资本回报复现包\\02_现金资本分析面板.csv",
+      "path": "sources/library/补充材料3/贵州茅台现金与资本回报复现包/02_现金资本分析面板.csv",
+      "sha256": "92dd574edf425b6f7040b1aaa8f2c07dbb25de27957911547acfd6cb6d722daa",
+      "bytes": 34622
+    },
+    {
+      "name": "03_现金资本诊断结果.csv",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台现金与资本回报复现包\\03_现金资本诊断结果.csv",
+      "path": "sources/library/补充材料3/贵州茅台现金与资本回报复现包/03_现金资本诊断结果.csv",
+      "sha256": "7d16e544aaab3543109053adb76a989bb450717d14bd5f4511abcd22dd4b0d77",
+      "bytes": 58046
+    },
+    {
+      "name": "04_复现脚本.py",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台现金与资本回报复现包\\04_复现脚本.py",
+      "path": "sources/library/补充材料3/贵州茅台现金与资本回报复现包/04_复现脚本.py",
+      "sha256": "55556a0120b3ec3f1d285a89c3e7956004acd722753fb0a8092887cf2209e8a5",
+      "bytes": 32083
+    },
+    {
+      "name": "05_学生复现指南.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台现金与资本回报复现包\\05_学生复现指南.md",
+      "path": "sources/library/补充材料3/贵州茅台现金与资本回报复现包/05_学生复现指南.md",
+      "sha256": "bbd55f8161c5e52060bdc74cad729e6af3a6eeea1018b5a91cf9210f3b8962ce",
+      "bytes": 3664
+    },
+    {
+      "name": "06_运行结果_实体现金流与资本回报.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台现金与资本回报复现包\\06_运行结果_实体现金流与资本回报.md",
+      "path": "sources/library/补充材料3/贵州茅台现金与资本回报复现包/06_运行结果_实体现金流与资本回报.md",
+      "sha256": "ed01466275d45b16df608cae8a9958c5425d3d5437820c41435b1fc4d5bcb77b",
+      "bytes": 4354
+    },
+    {
+      "name": "07_证据矩阵_N06_N07.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台现金与资本回报复现包\\07_证据矩阵_N06_N07.md",
+      "path": "sources/library/补充材料3/贵州茅台现金与资本回报复现包/07_证据矩阵_N06_N07.md",
+      "sha256": "dcf66bbb8bd5bb101a1a0ad6261eb6d526e790258d598b39ac8de1818120e571",
+      "bytes": 2913
+    },
+    {
+      "name": "08_运行记录与校验.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台现金与资本回报复现包\\08_运行记录与校验.md",
+      "path": "sources/library/补充材料3/贵州茅台现金与资本回报复现包/08_运行记录与校验.md",
+      "sha256": "3b33fe7c1b7c2ed270499b9869910147f16428acdc2a12a1d84ccd2e9ca9fd6f",
+      "bytes": 4770
+    },
+    {
+      "name": "09_课堂展示_现金与资本回报.html",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台现金与资本回报复现包\\09_课堂展示_现金与资本回报.html",
+      "path": "sources/library/补充材料3/贵州茅台现金与资本回报复现包/09_课堂展示_现金与资本回报.html",
+      "sha256": "f385e99057b0f9549dd633a46cc1de33de2be9b36803ba39d508d62c437e69e2",
+      "bytes": 114505
+    },
+    {
+      "name": "README.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台现金与资本回报复现包\\README.md",
+      "path": "sources/library/补充材料3/贵州茅台现金与资本回报复现包/README.md",
+      "sha256": "bbc97b21b6a119b81ae358a5cfeb0db9b9d9f34787a536207bc02aaef176a4fa",
+      "bytes": 2546
+    },
+    {
+      "name": "01_原始证据.csv",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台生产库存销售滞后复现包\\01_原始证据.csv",
+      "path": "sources/library/补充材料3/贵州茅台生产库存销售滞后复现包/01_原始证据.csv",
+      "sha256": "b592c8c6d5d7864a87ea5a4c80f02fbeba97015a582589e7a860f94075af0a98",
+      "bytes": 163664
+    },
+    {
+      "name": "02_分析面板.csv",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台生产库存销售滞后复现包\\02_分析面板.csv",
+      "path": "sources/library/补充材料3/贵州茅台生产库存销售滞后复现包/02_分析面板.csv",
+      "sha256": "6aab8633082492a4a7650361906c3da0e895331a90c719f1452d8cbd94d09737",
+      "bytes": 11271
+    },
+    {
+      "name": "03_滞后诊断结果.csv",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台生产库存销售滞后复现包\\03_滞后诊断结果.csv",
+      "path": "sources/library/补充材料3/贵州茅台生产库存销售滞后复现包/03_滞后诊断结果.csv",
+      "sha256": "5dd9601b13c3b96d6c72b787345618b4050313150367896c3cb8b4497a785a1f",
+      "bytes": 16035
+    },
+    {
+      "name": "04_复现脚本.py",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台生产库存销售滞后复现包\\04_复现脚本.py",
+      "path": "sources/library/补充材料3/贵州茅台生产库存销售滞后复现包/04_复现脚本.py",
+      "sha256": "853a25182aaeda8b619b2da9782923117d3b29dc341978dfa550fa5700d8cde2",
+      "bytes": 18382
+    },
+    {
+      "name": "05_学生复现指南.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台生产库存销售滞后复现包\\05_学生复现指南.md",
+      "path": "sources/library/补充材料3/贵州茅台生产库存销售滞后复现包/05_学生复现指南.md",
+      "sha256": "9717198ac8119c5fb2494f2dd4dd8b464f037a3dc01c8c9a7486e0e2e6662b56",
+      "bytes": 4059
+    },
+    {
+      "name": "06_运行结果_生产库存销售滞后分析.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台生产库存销售滞后复现包\\06_运行结果_生产库存销售滞后分析.md",
+      "path": "sources/library/补充材料3/贵州茅台生产库存销售滞后复现包/06_运行结果_生产库存销售滞后分析.md",
+      "sha256": "f22a219c04dc95915c3f8620c7c46bd7b7579911985e52dac8851cce0b755e81",
+      "bytes": 8588
+    },
+    {
+      "name": "07_证据矩阵_N02_N05.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台生产库存销售滞后复现包\\07_证据矩阵_N02_N05.md",
+      "path": "sources/library/补充材料3/贵州茅台生产库存销售滞后复现包/07_证据矩阵_N02_N05.md",
+      "sha256": "274f0870b19f8493dfac7b21e56a69c4aa6d79788f7547e96a895d287ff02ea9",
+      "bytes": 4106
+    },
+    {
+      "name": "08_运行记录与校验.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台生产库存销售滞后复现包\\08_运行记录与校验.md",
+      "path": "sources/library/补充材料3/贵州茅台生产库存销售滞后复现包/08_运行记录与校验.md",
+      "sha256": "7741e10065c3f8f9eb4b944bd78cec6abf4988948707bdb6bb29304ed56d6e42",
+      "bytes": 5447
+    },
+    {
+      "name": "09_课堂展示_生产库存销售滞后.html",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台生产库存销售滞后复现包\\09_课堂展示_生产库存销售滞后.html",
+      "path": "sources/library/补充材料3/贵州茅台生产库存销售滞后复现包/09_课堂展示_生产库存销售滞后.html",
+      "sha256": "d2fd13a65a835cce4901b320e1d306420d74a7bdf12a6c79fe024abf1d27d992",
+      "bytes": 17813
+    },
+    {
+      "name": "README.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台生产库存销售滞后复现包\\README.md",
+      "path": "sources/library/补充材料3/贵州茅台生产库存销售滞后复现包/README.md",
+      "sha256": "fcdf38bb20fa315868b88138cd7a908bfe5974d3197fc68f252114d1597cec41",
+      "bytes": 3012
+    },
+    {
+      "name": "01_原始证据.csv",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台管理层叙事核验复现包\\01_原始证据.csv",
+      "path": "sources/library/补充材料3/贵州茅台管理层叙事核验复现包/01_原始证据.csv",
+      "sha256": "4cc5e8abb6e24970524740043baff1760d861f2db870fcd73542837365aeb9e9",
+      "bytes": 10076888
+    },
+    {
+      "name": "02_叙事核验分析面板.csv",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台管理层叙事核验复现包\\02_叙事核验分析面板.csv",
+      "path": "sources/library/补充材料3/贵州茅台管理层叙事核验复现包/02_叙事核验分析面板.csv",
+      "sha256": "58a70ec4052ca5e481782cfc47be13643cfd44bd79a4f335a1df63533b4445c9",
+      "bytes": 706164
+    },
+    {
+      "name": "03_叙事核验诊断结果.csv",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台管理层叙事核验复现包\\03_叙事核验诊断结果.csv",
+      "path": "sources/library/补充材料3/贵州茅台管理层叙事核验复现包/03_叙事核验诊断结果.csv",
+      "sha256": "3cb46b6a961ebf4ee5df9851870d891d092598605e9fe8105d9fb3f41556e265",
+      "bytes": 19560
+    },
+    {
+      "name": "04_复现脚本.py",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台管理层叙事核验复现包\\04_复现脚本.py",
+      "path": "sources/library/补充材料3/贵州茅台管理层叙事核验复现包/04_复现脚本.py",
+      "sha256": "35ade8d738f2612f92ffd211804969df703d1d0046895d26c36c0e41eb4fa966",
+      "bytes": 62671
+    },
+    {
+      "name": "05_学生复现指南.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台管理层叙事核验复现包\\05_学生复现指南.md",
+      "path": "sources/library/补充材料3/贵州茅台管理层叙事核验复现包/05_学生复现指南.md",
+      "sha256": "dab82d62aa1c3d4fa396064fce181f55cd486d46dd8eff78c9df8ceb879b912a",
+      "bytes": 9262
+    },
+    {
+      "name": "06_运行结果_贵州茅台叙事核验.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台管理层叙事核验复现包\\06_运行结果_贵州茅台叙事核验.md",
+      "path": "sources/library/补充材料3/贵州茅台管理层叙事核验复现包/06_运行结果_贵州茅台叙事核验.md",
+      "sha256": "7597998f4b76ff8b15033cecd293337de6ad2ef9ed09dfbbc5cd7357bfce75f2",
+      "bytes": 11618
+    },
+    {
+      "name": "07_证据矩阵_Task07.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台管理层叙事核验复现包\\07_证据矩阵_Task07.md",
+      "path": "sources/library/补充材料3/贵州茅台管理层叙事核验复现包/07_证据矩阵_Task07.md",
+      "sha256": "b908b0428d7781693a21d58f1abed2fbe3f84a7e1bc06554d588b5bd37b8706c",
+      "bytes": 10022
+    },
+    {
+      "name": "08_运行记录与校验.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台管理层叙事核验复现包\\08_运行记录与校验.md",
+      "path": "sources/library/补充材料3/贵州茅台管理层叙事核验复现包/08_运行记录与校验.md",
+      "sha256": "9fe0f28a878c4e20631e0810bc21b55bc552a0a181a34af3b9a505fe65d79026",
+      "bytes": 17464
+    },
+    {
+      "name": "09_课堂展示_贵州茅台叙事核验.html",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台管理层叙事核验复现包\\09_课堂展示_贵州茅台叙事核验.html",
+      "path": "sources/library/补充材料3/贵州茅台管理层叙事核验复现包/09_课堂展示_贵州茅台叙事核验.html",
+      "sha256": "0863b22bd9d28aa40db800737db91abf50df55c3385d969153fc6dcdac4db4df",
+      "bytes": 86158
+    },
+    {
+      "name": "README.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台管理层叙事核验复现包\\README.md",
+      "path": "sources/library/补充材料3/贵州茅台管理层叙事核验复现包/README.md",
+      "sha256": "a95f96bdc56804671e0f8ef6ccea1e3e32b5382315e15dc5e740e9ee51ac1cfe",
+      "bytes": 5871
+    },
+    {
+      "name": "01_原始证据.csv",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台行业竞争与品牌优势复现包\\01_原始证据.csv",
+      "path": "sources/library/补充材料3/贵州茅台行业竞争与品牌优势复现包/01_原始证据.csv",
+      "sha256": "7005aaa041827d20b42b0fde4efd53cfd2da0ee42589fd7312bf82b595d94f17",
+      "bytes": 12040364
+    },
+    {
+      "name": "02_行业竞争与品牌优势分析面板.csv",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台行业竞争与品牌优势复现包\\02_行业竞争与品牌优势分析面板.csv",
+      "path": "sources/library/补充材料3/贵州茅台行业竞争与品牌优势复现包/02_行业竞争与品牌优势分析面板.csv",
+      "sha256": "542839ebe6c83fb5bf56822a61b186fdee3e42ecf41c2ec20ddedd4eeb3bd01c",
+      "bytes": 53927
+    },
+    {
+      "name": "03_行业竞争与品牌优势诊断结果.csv",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台行业竞争与品牌优势复现包\\03_行业竞争与品牌优势诊断结果.csv",
+      "path": "sources/library/补充材料3/贵州茅台行业竞争与品牌优势复现包/03_行业竞争与品牌优势诊断结果.csv",
+      "sha256": "68eee59ec9f91deae6c61cd1be7ecb68b2f4c6cc938a33b794a1be5ea48855b6",
+      "bytes": 4074
+    },
+    {
+      "name": "04_复现脚本.py",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台行业竞争与品牌优势复现包\\04_复现脚本.py",
+      "path": "sources/library/补充材料3/贵州茅台行业竞争与品牌优势复现包/04_复现脚本.py",
+      "sha256": "fe2bb92c969c4f3a8d7521f732d4d39299645319bacf10b46511ceef4389dc0e",
+      "bytes": 41640
+    },
+    {
+      "name": "05_学生复现指南.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台行业竞争与品牌优势复现包\\05_学生复现指南.md",
+      "path": "sources/library/补充材料3/贵州茅台行业竞争与品牌优势复现包/05_学生复现指南.md",
+      "sha256": "fd7493ff851335ddd920351d5e93e49d25e17f6c1e839964ea152a1369026108",
+      "bytes": 4696
+    },
+    {
+      "name": "06_运行结果_行业竞争与品牌优势.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台行业竞争与品牌优势复现包\\06_运行结果_行业竞争与品牌优势.md",
+      "path": "sources/library/补充材料3/贵州茅台行业竞争与品牌优势复现包/06_运行结果_行业竞争与品牌优势.md",
+      "sha256": "c1c2f09a01b16ff513a29d489d4849bafcad77ba69c672f6d84522f5074c8b33",
+      "bytes": 15046
+    },
+    {
+      "name": "07_证据矩阵_Task06.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台行业竞争与品牌优势复现包\\07_证据矩阵_Task06.md",
+      "path": "sources/library/补充材料3/贵州茅台行业竞争与品牌优势复现包/07_证据矩阵_Task06.md",
+      "sha256": "a46db956280a6a8fbaafeb32b8aee376d07b163c55c1b404134b228b8ffce149",
+      "bytes": 6368
+    },
+    {
+      "name": "08_运行记录与校验.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台行业竞争与品牌优势复现包\\08_运行记录与校验.md",
+      "path": "sources/library/补充材料3/贵州茅台行业竞争与品牌优势复现包/08_运行记录与校验.md",
+      "sha256": "068a467cd2448ab105e121d8929fc1b33b69175fb537d939248754ffd32a1c6f",
+      "bytes": 13625
+    },
+    {
+      "name": "09_课堂展示_行业竞争与品牌优势.html",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台行业竞争与品牌优势复现包\\09_课堂展示_行业竞争与品牌优势.html",
+      "path": "sources/library/补充材料3/贵州茅台行业竞争与品牌优势复现包/09_课堂展示_行业竞争与品牌优势.html",
+      "sha256": "e9c0f71391af4c6d65c5f5a2b1137b5c27e41127e315729668033bea8ce09499",
+      "bytes": 35489
+    },
+    {
+      "name": "README.md",
+      "group": "补充材料3",
+      "original": "D:\\投资学\\课件与任务文件\\补充材料3\\贵州茅台行业竞争与品牌优势复现包\\README.md",
+      "path": "sources/library/补充材料3/贵州茅台行业竞争与品牌优势复现包/README.md",
+      "sha256": "8a5e451d6ccab97886be7fe86054bf3f99bb15a4882cfd3dad3f6a2d3e6a20b2",
+      "bytes": 3305
+    }
+  ],
+  "originals_uploaded": false,
+  "reproductions": [
+    {
+      "package": "贵州茅台渠道净贡献复现包",
+      "csv_match": true,
+      "html_status": "仅换行编码差异；规范文本一致",
+      "csv_proof": [
+        {
+          "name": "02_渠道分析面板.csv",
+          "matches_supplied": true
+        },
+        {
+          "name": "03_渠道诊断结果.csv",
+          "matches_supplied": true
+        },
+        {
+          "name": "09_课堂展示_渠道结构与价值归属.html",
+          "matches_supplied": false
+        }
+      ]
+    },
+    {
+      "package": "贵州茅台现金与资本回报复现包",
+      "csv_match": true,
+      "html_status": "仅换行编码差异；规范文本一致",
+      "csv_proof": [
+        {
+          "name": "02_现金资本分析面板.csv",
+          "matches_supplied": true
+        },
+        {
+          "name": "03_现金资本诊断结果.csv",
+          "matches_supplied": true
+        },
+        {
+          "name": "09_课堂展示_现金与资本回报.html",
+          "matches_supplied": false
+        }
+      ]
+    },
+    {
+      "package": "贵州茅台生产库存销售滞后复现包",
+      "csv_match": true,
+      "html_status": "仅换行编码差异；规范文本一致",
+      "csv_proof": [
+        {
+          "name": "02_分析面板.csv",
+          "matches_supplied": true
+        },
+        {
+          "name": "03_滞后诊断结果.csv",
+          "matches_supplied": true
+        },
+        {
+          "name": "09_课堂展示_生产库存销售滞后.html",
+          "matches_supplied": false
+        }
+      ]
+    },
+    {
+      "package": "贵州茅台管理层叙事核验复现包",
+      "csv_match": true,
+      "html_status": "字节一致",
+      "csv_proof": [
+        {
+          "name": "02_叙事核验分析面板.csv",
+          "matches_supplied": true
+        },
+        {
+          "name": "03_叙事核验诊断结果.csv",
+          "matches_supplied": true
+        },
+        {
+          "name": "09_课堂展示_贵州茅台叙事核验.html",
+          "matches_supplied": true
+        }
+      ]
+    },
+    {
+      "package": "贵州茅台行业竞争与品牌优势复现包",
+      "csv_match": true,
+      "html_status": "字节一致",
+      "csv_proof": [
+        {
+          "name": "02_行业竞争与品牌优势分析面板.csv",
+          "matches_supplied": true
+        },
+        {
+          "name": "03_行业竞争与品牌优势诊断结果.csv",
+          "matches_supplied": true
+        },
+        {
+          "name": "09_课堂展示_行业竞争与品牌优势.html",
+          "matches_supplied": true
+        }
+      ]
+    }
+  ]
+}

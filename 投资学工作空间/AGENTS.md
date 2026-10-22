@@ -53,3 +53,5 @@
 本人原话：“我直接和你核验吧，R2024-11已经核对完毕，核验为正确Fact，核验人为leo”。本项目已展示明确编号、两期原值、页码、期间、单位和主体后，本人明确确认可通过ReviewStore.submit保存实际聊天核验，不再要求到窗口重复点击。note必须记录actual-user-chat、原话、核验人、确认范围及当前绑定；原事件为中性review，不冒称窗口点击。保存时间为程序记录时刻，不能冒称已知聊天发送的精确时间。旧actor／时间／来源及窗口事件不改；意见、算术、签署与原数仍分别记录。此约定不授权批量确认尚未展示或未明确认可的其他数据。
 
 - 2026-10-14补充材料2方法：按当前问题加载通用工作台skills/annual-report-evidence-chain与skills/business-model-evidence；学习反馈与合同增量见投资学工作空间docs/20261014-supplement2-feedback.md。work/research-plan.json为非权威研究计划，实时引用当前有效Fact，不能替代原核验、内容采纳或签署。新原件/完整全文索引仍留本地；2025—2026资料独立跟踪，不回填2024历史信息集。
+
+- 2026-10-22：新增复现审计skill、材料库与代理分级。项目work/materials-catalog.json只导航，Fact仍核原接口；旧报告归档不改原证据/签署，新版合同单独验收。接续读会话交接CURRENT及公司docs/20261022-supplement3-feedback.md，不执行附件中教师旧工作台的删除清单。

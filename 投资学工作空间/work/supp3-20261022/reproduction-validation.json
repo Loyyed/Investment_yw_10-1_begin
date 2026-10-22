@@ -1,0 +1,97 @@
+[
+  {
+    "package": "贵州茅台渠道净贡献复现包",
+    "csv_match": true,
+    "html_status": "仅换行编码差异；规范文本一致",
+    "csv_proof": [
+      {
+        "name": "02_渠道分析面板.csv",
+        "matches_supplied": true
+      },
+      {
+        "name": "03_渠道诊断结果.csv",
+        "matches_supplied": true
+      },
+      {
+        "name": "09_课堂展示_渠道结构与价值归属.html",
+        "matches_supplied": false
+      }
+    ]
+  },
+  {
+    "package": "贵州茅台现金与资本回报复现包",
+    "csv_match": true,
+    "html_status": "仅换行编码差异；规范文本一致",
+    "csv_proof": [
+      {
+        "name": "02_现金资本分析面板.csv",
+        "matches_supplied": true
+      },
+      {
+        "name": "03_现金资本诊断结果.csv",
+        "matches_supplied": true
+      },
+      {
+        "name": "09_课堂展示_现金与资本回报.html",
+        "matches_supplied": false
+      }
+    ]
+  },
+  {
+    "package": "贵州茅台生产库存销售滞后复现包",
+    "csv_match": true,
+    "html_status": "仅换行编码差异；规范文本一致",
+    "csv_proof": [
+      {
+        "name": "02_分析面板.csv",
+        "matches_supplied": true
+      },
+      {
+        "name": "03_滞后诊断结果.csv",
+        "matches_supplied": true
+      },
+      {
+        "name": "09_课堂展示_生产库存销售滞后.html",
+        "matches_supplied": false
+      }
+    ]
+  },
+  {
+    "package": "贵州茅台管理层叙事核验复现包",
+    "csv_match": true,
+    "html_status": "字节一致",
+    "csv_proof": [
+      {
+        "name": "02_叙事核验分析面板.csv",
+        "matches_supplied": true
+      },
+      {
+        "name": "03_叙事核验诊断结果.csv",
+        "matches_supplied": true
+      },
+      {
+        "name": "09_课堂展示_贵州茅台叙事核验.html",
+        "matches_supplied": true
+      }
+    ]
+  },
+  {
+    "package": "贵州茅台行业竞争与品牌优势复现包",
+    "csv_match": true,
+    "html_status": "字节一致",
+    "csv_proof": [
+      {
+        "name": "02_行业竞争与品牌优势分析面板.csv",
+        "matches_supplied": true
+      },
+      {
+        "name": "03_行业竞争与品牌优势诊断结果.csv",
+        "matches_supplied": true
+      },
+      {
+        "name": "09_课堂展示_行业竞争与品牌优势.html",
+        "matches_supplied": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-22",
+  "policy": "各合同成果保留；旧综合导出归档，无永久删除；原有缺失13日JSON未重建或计入本轮清理",
+  "moves": [
+    {
+      "old": "outputs/贵州茅台_证券投资分析汇编_20261013.html",
+      "new": "archive/reports/20261022-cleanup/贵州茅台_证券投资分析汇编_20261013.html",
+      "sha256": "74add7b563d5a7aa297ce6f9475435b0a8ee26b71579a85870798ad098fefece"
+    },
+    {
+      "old": "outputs/贵州茅台_证券投资分析汇编_20261013.md",
+      "new": "archive/reports/20261022-cleanup/贵州茅台_证券投资分析汇编_20261013.md",
+      "sha256": "ec339708278af49e5297a8959e8f89533edaf0d8fd81ce1f09c87114a8c0a9b4"
+    },
+    {
+      "old": "outputs/贵州茅台_证券投资分析汇编_20261014.html",
+      "new": "archive/reports/20261022-cleanup/贵州茅台_证券投资分析汇编_20261014.html",
+      "sha256": "9262b065c89711e86ae7566365f52eb2b9127dae131ac1e27dcfb025315dfe99"
+    },
+    {
+      "old": "outputs/贵州茅台_证券投资分析汇编_20261014.json",
+      "new": "archive/reports/20261022-cleanup/贵州茅台_证券投资分析汇编_20261014.json",
+      "sha256": "5f809af5e73d56f23f13945a16bbe8817e5fc5aa8322c698a412861eb5613842"
+    },
+    {
+      "old": "outputs/贵州茅台_证券投资分析汇编_20261014.md",
+      "new": "archive/reports/20261022-cleanup/贵州茅台_证券投资分析汇编_20261014.md",
+      "sha256": "b813479fdbd8d20ddc0781403580d5ec2984fc9dca30b42df5277a3e75c43e5e"
+    },
+    {
+      "old": "outputs/贵州茅台_证券投资分析汇编_20261014_商标许可费核验更新.html",
+      "new": "archive/reports/20261022-cleanup/贵州茅台_证券投资分析汇编_20261014_商标许可费核验更新.html",
+      "sha256": "4e868f1b28c71fd329bb97b1eb4af6c3bb429eda28787bd36bc3eec51c5fec99"
+    },
+    {
+      "old": "outputs/贵州茅台_证券投资分析汇编_20261014_商标许可费核验更新.json",
+      "new": "archive/reports/20261022-cleanup/贵州茅台_证券投资分析汇编_20261014_商标许可费核验更新.json",
+      "sha256": "7ccbe0e4705afd30e96e8f28a1d2cc2758aa8657dfb9865cdc970a87440179cd"
+    },
+    {
+      "old": "outputs/贵州茅台_证券投资分析汇编_20261014_商标许可费核验更新.md",
+      "new": "archive/reports/20261022-cleanup/贵州茅台_证券投资分析汇编_20261014_商标许可费核验更新.md",
+      "sha256": "62ae9ce052f8ff93617ff306c7c210f5187fd227e3a754b83155d2a534edcfee"
+    },
+    {
+      "old": "outputs/贵州茅台_证券投资分析汇编_20261014_平台收入核验更新.html",
+      "new": "archive/reports/20261022-cleanup/贵州茅台_证券投资分析汇编_20261014_平台收入核验更新.html",
+      "sha256": "e7f9945c1be538c89006cbd74a3ed50536708a3692532bfedaeb37581a9be5aa"
+    },
+    {
+      "old": "outputs/贵州茅台_证券投资分析汇编_20261014_平台收入核验更新.json",
+      "new": "archive/reports/20261022-cleanup/贵州茅台_证券投资分析汇编_20261014_平台收入核验更新.json",
+      "sha256": "d6fc731ef7486c41c4f40b4a4326a1793d6afe76ead5437b30a8a9e5a8804e9c"
+    },
+    {
+      "old": "outputs/贵州茅台_证券投资分析汇编_20261014_平台收入核验更新.md",
+      "new": "archive/reports/20261022-cleanup/贵州茅台_证券投资分析汇编_20261014_平台收入核验更新.md",
+      "sha256": "86dc901dc419551961f5cd690734b55c3d080f34b0be5f5ed03ddf0e80ce8701"
+    },
+    {
+      "old": "outputs/贵州茅台_证券投资分析汇编_20261014_手续费口径核验更新.html",
+      "new": "archive/reports/20261022-cleanup/贵州茅台_证券投资分析汇编_20261014_手续费口径核验更新.html",
+      "sha256": "f724afbc237c6f2a0c0ca50fa31e6232a0f331b66179e745a15b90b7430cffa5"
+    },
+    {
+      "old": "outputs/贵州茅台_证券投资分析汇编_20261014_手续费口径核验更新.json",
+      "new": "archive/reports/20261022-cleanup/贵州茅台_证券投资分析汇编_20261014_手续费口径核验更新.json",
+      "sha256": "a39cdcd6fc8de48dc059bbadb3dfa21a143b6c33d2275b862f0a5e44414cdef1"
+    },
+    {
+      "old": "outputs/贵州茅台_证券投资分析汇编_20261014_手续费口径核验更新.md",
+      "new": "archive/reports/20261022-cleanup/贵州茅台_证券投资分析汇编_20261014_手续费口径核验更新.md",
+      "sha256": "04daacff0b3b0e7372d317a6e06b80210307b8b5fdf18c3634dd4cfd3878fc94"
+    },
+    {
+      "old": "outputs/贵州茅台_证券投资分析汇编_20261014_聊天核验更新.html",
+      "new": "archive/reports/20261022-cleanup/贵州茅台_证券投资分析汇编_20261014_聊天核验更新.html",
+      "sha256": "ff89de570c65f6e2d532e78edf304d92b30673dec4ef39192cef58781ff01004"
+    },
+    {
+      "old": "outputs/贵州茅台_证券投资分析汇编_20261014_聊天核验更新.json",
+      "new": "archive/reports/20261022-cleanup/贵州茅台_证券投资分析汇编_20261014_聊天核验更新.json",
+      "sha256": "9a72dcba68d271275b4db1f624d290258558a0023272b4be86f56deeca098528"
+    },
+    {
+      "old": "outputs/贵州茅台_证券投资分析汇编_20261014_聊天核验更新.md",
+      "new": "archive/reports/20261022-cleanup/贵州茅台_证券投资分析汇编_20261014_聊天核验更新.md",
+      "sha256": "ab64e207302490768d4d0bb937c299dd2baf5d1c9799be827cec7741d27bb083"
+    },
+    {
+      "old": "outputs/贵州茅台_证券投资分析汇编_20261014_补充材料2方法优化.html",
+      "new": "archive/reports/20261022-cleanup/贵州茅台_证券投资分析汇编_20261014_补充材料2方法优化.html",
+      "sha256": "60b726ad67f5761e7b9ae24788a46c945f781fc49150b21351ccbfa632e94904"
+    },
+    {
+      "old": "outputs/贵州茅台_证券投资分析汇编_20261014_补充材料2方法优化.json",
+      "new": "archive/reports/20261022-cleanup/贵州茅台_证券投资分析汇编_20261014_补充材料2方法优化.json",
+      "sha256": "614a534d7cc2ed5e1931d6b5c594f715d8fc0e656f769cefa73ed77be7c244c6"
+    },
+    {
+      "old": "outputs/贵州茅台_证券投资分析汇编_20261014_补充材料2方法优化.md",
+      "new": "archive/reports/20261022-cleanup/贵州茅台_证券投资分析汇编_20261014_补充材料2方法优化.md",
+      "sha256": "4db20f9a71d6cca5a5df965ff7f57d6eeac53c1ec7eaa87091435d349612a0d4"
+    }
+  ]
+}
