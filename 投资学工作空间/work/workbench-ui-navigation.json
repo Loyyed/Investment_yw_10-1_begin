@@ -1,12 +1,42 @@
 {
   "schema_version": 1,
-  "date": "2026-10-14",
-  "next_review_id": "R2024-16",
-  "next_review_scope": "2024PDF110页研发费用合计：218,375,472.87/157,371,873.01元，合并年度发生额",
+  "date": "2026-10-22",
+  "next_review_id": "R2015-01",
+  "next_review_scope": "B02：2015—2016数量及阶段定义6项；work/review-batches/20261022-B02.md",
   "preferred_confirmation_channel": "actual-user-chat",
-  "completed_review_id": "R2024-15",
-  "completed_event": 26,
+  "completed_review_id": "",
+  "completed_event": 34,
   "completed_channel": "actual-user-chat",
   "completed_reviewer": "leo",
-  "toolkit_directory": "投资学公司分析通用工作台"
+  "toolkit_directory": "投资学公司分析通用工作台",
+  "next_review_batch": "B02",
+  "next_review_ids": [
+    "R2015-01",
+    "R2016-01",
+    "R2016-02",
+    "R2016-03",
+    "R2016-04",
+    "R2016-05"
+  ],
+  "completed_batch": "B01",
+  "completed_review_ids": [
+    "R2024-16",
+    "R2024-17",
+    "R2024-18",
+    "R2024-19",
+    "R2024-20",
+    "R2024-21",
+    "R2024-22",
+    "R2024-23"
+  ],
+  "completed_event_sequences": [
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34
+  ]
 }

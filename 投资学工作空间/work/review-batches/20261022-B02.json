@@ -1,0 +1,131 @@
+{
+  "batch_id": "B02",
+  "version": 1,
+  "date": "2026-10-22",
+  "purpose": "生产库存销售滞后合同：两份相邻年度原报告的数量与阶段定义",
+  "status": "pending-human-confirmation",
+  "items": [
+    {
+      "id": "R2015-01",
+      "name": "2015产销存及成品定义",
+      "year": 2015,
+      "page": "8",
+      "location": "产销量情况分析表及表下注",
+      "value": "生产量29,650.57；销售量27,517.33；库存量9,867.79；注：本表销售量、生产量及库存量均指成品酒。",
+      "scope": "吨；公司酒类销售；生产／销售为年度流量，库存为期末存量；本表三项均为成品酒",
+      "boundary": "只支持2015本表成品酒数量和脚注，不证明2016同口径变化",
+      "binding": "4cda371745dbfced2abc5217f6d7dc321bc47be283056d4dbcffaeb5da08eb8e",
+      "candidate_fingerprint": "4908997e92268b4dfc78310331df7e0e4ed304aa2ab233f41c6539f2d0b497b7",
+      "source_path": "sources/annual_reports/pdf/600519_2015_贵州茅台_2015年年度报告.pdf",
+      "source_sha256": "11a32c1e7f02a54fc2eea3c0d852af59ad37af9a2cbe91857cd93a6208a96d6c",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2016-01",
+      "name": "2016产销存总量",
+      "year": 2016,
+      "page": "8（生产量可交叉7页）",
+      "location": "产销量情况分析表；7页主要经营情况交叉基酒生产总量",
+      "value": "生产量59,887.97；销售量36,944.36；库存量252,506.16",
+      "scope": "吨；2016酒类总量；生产为基酒、销售为产品销售流量，库存需结合12页成品／半成品拆分；不同阶段不得直接相减",
+      "boundary": "只支持该表三项年度原披露，不采纳表内同比，不跨2015成品库存直接求同口径增长",
+      "binding": "a9687da186618bbebcbbf30f85c0aec743245879ed8d7f88a1d6cce8066a0ff7",
+      "candidate_fingerprint": "fcf313968c298a753521f5fd2c85c55b41cc173caaca52a62977653f7aa46005",
+      "source_path": "sources/annual_reports/pdf/600519_2016_贵州茅台_2016年年度报告.pdf",
+      "source_sha256": "dd26d9e0017a938cb5e1aa0a830bab7502d0de1f85eb7c00abffb4888c8c20ad",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2016-02",
+      "name": "2016期末库存组成及成品含义",
+      "year": 2016,
+      "page": "12",
+      "location": "酒制造行业经营性信息分析第3项产品期末库存量及注",
+      "value": "成品酒16,168.33；半成品酒（含基础酒）236,337.83；注：成品酒为公司已包装的库存商品（含酱香系列酒）。",
+      "scope": "吨；期末数量存量；公司成品与半成品（含基础酒）；非财务报表存货金额",
+      "boundary": "只支持两个库存分项及成品酒定义；未证明库龄、可售时间、价值或组成勾稽运算已核",
+      "binding": "0bc48be672bbdc83e6c297a015bd995b99787f556f708b7cec3e4edfbcb17355",
+      "candidate_fingerprint": "d7123ea5b737e09648484b0d424f315d444070898af0a420a21f2eb1913c209c",
+      "source_path": "sources/annual_reports/pdf/600519_2016_贵州茅台_2016年年度报告.pdf",
+      "source_sha256": "dd26d9e0017a938cb5e1aa0a830bab7502d0de1f85eb7c00abffb4888c8c20ad",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2016-03",
+      "name": "2016茅台酒产量与销量",
+      "year": 2016,
+      "page": "12",
+      "location": "第4项产品情况茅台酒行；产量单位吨、销量单位吨；实际产能按基酒产量计算的说明",
+      "value": "产量39,312.53；销量22,917.66",
+      "scope": "吨；茅台酒基酒生产流量与成品销售流量；非同一批次转化",
+      "boundary": "只支持两项年度数量，不确认产销转化率或当年生产当年销售",
+      "binding": "e934a6bc8b2d453fb0a214546a2cb7becbd51f450e78fa093357c8adb7ebe955",
+      "candidate_fingerprint": "f6d1febbb88746110550e6550d81cb1659d144b3446c4b5fcf24ed655529aff6",
+      "source_path": "sources/annual_reports/pdf/600519_2016_贵州茅台_2016年年度报告.pdf",
+      "source_sha256": "dd26d9e0017a938cb5e1aa0a830bab7502d0de1f85eb7c00abffb4888c8c20ad",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2016-04",
+      "name": "2016其他系列酒产量与销量",
+      "year": 2016,
+      "page": "12",
+      "location": "第4项产品情况其他系列酒行；产量和销量各自单位为吨",
+      "value": "产量20,575.44；销量14,026.70",
+      "scope": "吨；其他系列酒基酒生产流量与成品销售流量；非同一批次转化",
+      "boundary": "只支持两项年度数量；系列酒不能直接套用茅台酒固定五年或同批转化率",
+      "binding": "3a072f38643c01c90b783c187fc5aa5328bb2d620baa0c6f0721407e9b972840",
+      "candidate_fingerprint": "77735b87fbb65f08414f4f1bf906b71303a9fc81e9aac2c2e39ba3fe582b9495",
+      "source_path": "sources/annual_reports/pdf/600519_2016_贵州茅台_2016年年度报告.pdf",
+      "source_sha256": "dd26d9e0017a938cb5e1aa0a830bab7502d0de1f85eb7c00abffb4888c8c20ad",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2016-05",
+      "name": "最少五年、跨年勾兑及产销率限制",
+      "year": 2016,
+      "page": "12—13",
+      "location": "第4项产品情况注1—3及续页产销率说明",
+      "value": "当年生产的茅台酒最少五年后才能销售；茅台酒由不同年份、不同轮次、不同浓度的基酒相互勾兑；某一年份基酒可能在未来数年作为产品出现；成品率具有一定波动性；茅台酒产销率不能精准计算；系列酒产品形成过程近似于茅台酒。",
+      "scope": "公司工艺文字披露；茅台酒最少年限，不是每批固定五年全部转化；系列酒只披露过程近似",
+      "boundary": "只确认公司作出以上披露，不确认独有壁垒、因果、系列酒相同最低年限、固定cohort或未来现金",
+      "binding": "09e6aa4e74eef01b8b65b35e7ae78c8d7cd593d117e606771eb2f00ef5cd882a",
+      "candidate_fingerprint": "f0dfe3dd4cdb91dd32f8e3b41ba61b89ca48d2e667127f969fd64323e6593ea4",
+      "source_path": "sources/annual_reports/pdf/600519_2016_贵州茅台_2016年年度报告.pdf",
+      "source_sha256": "dd26d9e0017a938cb5e1aa0a830bab7502d0de1f85eb7c00abffb4888c8c20ad",
+      "state_at_display": "Unknown"
+    }
+  ],
+  "sources": [
+    {
+      "year": 2015,
+      "archive_path": "D:\\投资学\\投资学工作空间\\sources\\library\\补充材料2\\贵州茅台定期报告.zip",
+      "archive_sha256": "50c476c266df02ee0283238f98fbcfb946e8155c48f1653b635c55fb706be13b",
+      "member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2015Q4.pdf",
+      "pdf_path": "sources/annual_reports/pdf/600519_2015_贵州茅台_2015年年度报告.pdf",
+      "pdf_sha256": "11a32c1e7f02a54fc2eea3c0d852af59ad37af9a2cbe91857cd93a6208a96d6c",
+      "matched_pdf_pages": [
+        8
+      ],
+      "originals_uploaded": false
+    },
+    {
+      "year": 2016,
+      "archive_path": "D:\\投资学\\投资学工作空间\\sources\\library\\补充材料2\\贵州茅台定期报告.zip",
+      "archive_sha256": "50c476c266df02ee0283238f98fbcfb946e8155c48f1653b635c55fb706be13b",
+      "member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2016Q4.pdf",
+      "pdf_path": "sources/annual_reports/pdf/600519_2016_贵州茅台_2016年年度报告.pdf",
+      "pdf_sha256": "dd26d9e0017a938cb5e1aa0a830bab7502d0de1f85eb7c00abffb4888c8c20ad",
+      "matched_pdf_pages": [
+        7,
+        8,
+        12,
+        13
+      ],
+      "originals_uploaded": false
+    }
+  ],
+  "actual_human_reply": null,
+  "scope_note": "数量单位吨；最后一项为工艺文字披露。不同年度按定义分别核验，不默认可比；仅确认原披露，最终判断另审。",
+  "display_payload_sha256": "7a2f41e85f5718b24fae0a9ce4154709d27d8a6a26ca84a61b9bec4b2a418360"
+}

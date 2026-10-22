@@ -1,0 +1,309 @@
+{
+  "date": "2026-10-22",
+  "state": "AgentCalculated",
+  "human_arithmetic_confirmation": false,
+  "decimal_precision": 48,
+  "rounding": "ROUND_HALF_UP, only final display",
+  "formulas": {
+    "delta": "current−previous",
+    "positive_base_percent": "(current−previous)/previous×100",
+    "negative_finance_benefit_decline": "(current−previous)/abs(previous)×100"
+  },
+  "input_facts": [
+    {
+      "id": "R2024-09",
+      "claim": "销售费用本期／上期发生额",
+      "value": "本期5,639,300,059.49／上期4,648,613,585.82",
+      "scope": "人民币元；合并销售费用年度流量，非现金支付额；不分配到直销或品牌",
+      "binding": "db311b32084badde30ff0ac8b7e29641574cc947092aca81a2596f2d5b7be52a",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+    },
+    {
+      "id": "R2024-10",
+      "claim": "市场推广及服务费本期／上期发生额",
+      "value": "本期3,745,440,527.81／上期2,814,141,940.30",
+      "scope": "人民币元；合并销售费用年度流量；按2024报告本期及比较列分类",
+      "binding": "59a6ae1310f90e0da3804077533478a83620533c4176ac7fb1dd1c054dbc9ebd",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+    },
+    {
+      "id": "R2024-11",
+      "claim": "广告宣传费本期／上期发生额",
+      "value": "本期1,335,427,201.68／上期1,366,390,834.54",
+      "scope": "人民币元；合并广告宣传费年度流量；按2024报告本期及比较列分类",
+      "binding": "59b7fc9ffab957c27769783acedad242288d2c31775a3a5cd42130f1fa86fe11",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+    },
+    {
+      "id": "R2024-12",
+      "claim": "商标许可使用费本期／上期发生额",
+      "value": "本期2,466,052,249.25／上期1,805,818,609.89",
+      "scope": "人民币元；合并管理费用年度流量，非现金支付额",
+      "binding": "f3dcc743bf1ee9754ab05db7001e2a8ef407311a2883243e6467389dbd50ee85",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+    },
+    {
+      "id": "R2024-15",
+      "claim": "管理费用本期／上期发生额",
+      "value": "本期9,315,650,060.38／上期9,729,389,252.31",
+      "scope": "人民币元；合并管理费用；年度发生额",
+      "binding": "446da58aead77c504cb20770c657956f2939bb175d13ec842999733121de8f37",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+    },
+    {
+      "id": "R2024-16",
+      "claim": "研发费用本期／上期发生额",
+      "value": "本期218,375,472.87／上期157,371,873.01",
+      "scope": "人民币元；合并研发费用；年度发生额",
+      "binding": "3b79cb3bb18a3d27a2e6fe5ae620c0573ded644c414d3d80619c2c7c96e498a5",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+    },
+    {
+      "id": "R2024-17",
+      "claim": "税金及附加本期／上期发生额",
+      "value": "本期26,926,161,474.99／上期22,234,175,898.60",
+      "scope": "人民币元；合并税金及附加；年度发生额",
+      "binding": "166e543ed1a957ffa807583e7a68e0b866cd3b76c69376463d3d0fab63789023",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+    },
+    {
+      "id": "R2024-18",
+      "claim": "税金及附加—消费税本期／上期发生额",
+      "value": "本期21,489,513,090.84／上期17,625,306,476.94",
+      "scope": "人民币元；合并税金及附加中的消费税分项；年度发生额",
+      "binding": "0fc183baca573097c94f3ccb0cc672ee3ae588db1be36531317fcb5aefbf1dac",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+    },
+    {
+      "id": "R2024-19",
+      "claim": "管理费用—职工薪酬费用本期／上期发生额",
+      "value": "本期3,697,487,910.65／上期4,350,082,411.58",
+      "scope": "人民币元；合并管理费用中的职工薪酬费用分项；年度发生额",
+      "binding": "353acf4ca595334e6814a3fd03b8e6ca143a45a89d3c3ccfdaff1c3b4d307204",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+    },
+    {
+      "id": "R2024-20",
+      "claim": "管理费用—其他本期／上期发生额",
+      "value": "本期1,434,036,365.41／上期1,940,651,668.78",
+      "scope": "人民币元；合并管理费用中的其他分项；年度发生额",
+      "binding": "1b61f8efdb805dc9e27d12ab8585507985f8d5a9258d3980c54b3234c8a3b4a6",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+    },
+    {
+      "id": "R2024-21",
+      "claim": "销售费用—其他本期／上期发生额",
+      "value": "本期468,459,319.63／上期381,270,757.83",
+      "scope": "人民币元；合并销售费用中的其他分项；109页表头、110页续表；年度发生额",
+      "binding": "793ad9575927e4d18cedbe5d393ef172bbc9b32c5c3a03279fcf904cdd5ee67e",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+    },
+    {
+      "id": "R2024-22",
+      "claim": "销售费用—营销办公及差旅费本期／上期发生额",
+      "value": "本期89,973,010.37／上期86,810,053.15",
+      "scope": "人民币元；合并销售费用中的营销办公及差旅费分项；年度发生额",
+      "binding": "0b9cd7a63b86dc0d83bd208b80d45a4627f57262c08612a244cc67dc7717e409",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+    },
+    {
+      "id": "R2024-23",
+      "claim": "财务费用合计本期／上期发生额",
+      "value": "本期-1,470,219,863.34／上期-1,789,503,701.48",
+      "scope": "人民币元；合并财务费用合计；负号保留；非附注41金融业务利息收支；年度发生额",
+      "binding": "d006b626126d6df3cf946a462f40d73fb7f0d52540c8ca92821997cf0aa251e7",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+    },
+    {
+      "id": "N2024-08",
+      "claim": "合计收入与成本",
+      "value": "170,899,152,276.34／13,789,482,367.98",
+      "scope": "人民币元；合并附注：全部营业收入（主营业务+其他业务），不含利息收入",
+      "binding": "7acd6da9b5f820ed8899a1022f239f35393893442a3f66252ed1258c7c25f4b0",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+    }
+  ],
+  "code_path": "scripts/calculate_b01_expenses.py",
+  "code_sha256": "1a38730ad2fb35d60c7b4106ea7d98fde2cdb412792ad2b8586d98a59a858e7d",
+  "rows": {
+    "R2024-09": {
+      "label": "销售费用本期／上期发生额",
+      "current_yuan": "5639300059.49",
+      "previous_yuan": "4648613585.82",
+      "delta_yuan": "990686473.67",
+      "delta_yi_display": "9.91",
+      "raw_signed_percent": "21.3114395374130929360353069209668560405429306180",
+      "growth_percent_display": "21.31",
+      "source_binding": "db311b32084badde30ff0ac8b7e29641574cc947092aca81a2596f2d5b7be52a",
+      "scope": "人民币元；合并销售费用年度流量，非现金支付额；不分配到直销或品牌"
+    },
+    "R2024-10": {
+      "label": "市场推广及服务费本期／上期发生额",
+      "current_yuan": "3745440527.81",
+      "previous_yuan": "2814141940.30",
+      "delta_yuan": "931298587.51",
+      "delta_yi_display": "9.31",
+      "raw_signed_percent": "33.0935186378949827984268288757574009707814452702",
+      "growth_percent_display": "33.09",
+      "source_binding": "59a6ae1310f90e0da3804077533478a83620533c4176ac7fb1dd1c054dbc9ebd",
+      "scope": "人民币元；合并销售费用年度流量；按2024报告本期及比较列分类"
+    },
+    "R2024-11": {
+      "label": "广告宣传费本期／上期发生额",
+      "current_yuan": "1335427201.68",
+      "previous_yuan": "1366390834.54",
+      "delta_yuan": "-30963632.86",
+      "delta_yi_display": "-0.31",
+      "raw_signed_percent": "-2.26608903377370864430300864567741628405434341973",
+      "growth_percent_display": "-2.27",
+      "source_binding": "59b7fc9ffab957c27769783acedad242288d2c31775a3a5cd42130f1fa86fe11",
+      "scope": "人民币元；合并广告宣传费年度流量；按2024报告本期及比较列分类"
+    },
+    "R2024-12": {
+      "label": "商标许可使用费本期／上期发生额",
+      "current_yuan": "2466052249.25",
+      "previous_yuan": "1805818609.89",
+      "delta_yuan": "660233639.36",
+      "delta_yi_display": "6.60",
+      "raw_signed_percent": "36.5614594812608341337996797777590545351360046062",
+      "growth_percent_display": "36.56",
+      "source_binding": "f3dcc743bf1ee9754ab05db7001e2a8ef407311a2883243e6467389dbd50ee85",
+      "scope": "人民币元；合并管理费用年度流量，非现金支付额"
+    },
+    "R2024-15": {
+      "label": "管理费用本期／上期发生额",
+      "current_yuan": "9315650060.38",
+      "previous_yuan": "9729389252.31",
+      "delta_yuan": "-413739191.93",
+      "delta_yi_display": "-4.14",
+      "raw_signed_percent": "-4.25246828141620485272789006670676414204595368942",
+      "growth_percent_display": "-4.25",
+      "source_binding": "446da58aead77c504cb20770c657956f2939bb175d13ec842999733121de8f37",
+      "scope": "人民币元；合并管理费用；年度发生额"
+    },
+    "R2024-16": {
+      "label": "研发费用本期／上期发生额",
+      "current_yuan": "218375472.87",
+      "previous_yuan": "157371873.01",
+      "delta_yuan": "61003599.86",
+      "delta_yi_display": "0.61",
+      "raw_signed_percent": "38.7639790346293979080601399521971667737476082035",
+      "growth_percent_display": "38.76",
+      "source_binding": "3b79cb3bb18a3d27a2e6fe5ae620c0573ded644c414d3d80619c2c7c96e498a5",
+      "scope": "人民币元；合并研发费用；年度发生额"
+    },
+    "R2024-17": {
+      "label": "税金及附加本期／上期发生额",
+      "current_yuan": "26926161474.99",
+      "previous_yuan": "22234175898.60",
+      "delta_yuan": "4691985576.39",
+      "delta_yi_display": "46.92",
+      "raw_signed_percent": "21.1025836882285174852610536592617977409707601008",
+      "growth_percent_display": "21.10",
+      "source_binding": "166e543ed1a957ffa807583e7a68e0b866cd3b76c69376463d3d0fab63789023",
+      "scope": "人民币元；合并税金及附加；年度发生额"
+    },
+    "R2024-18": {
+      "label": "税金及附加—消费税本期／上期发生额",
+      "current_yuan": "21489513090.84",
+      "previous_yuan": "17625306476.94",
+      "delta_yuan": "3864206613.90",
+      "delta_yi_display": "38.64",
+      "raw_signed_percent": "21.9241952981397482974325919233685706261550253687",
+      "growth_percent_display": "21.92",
+      "source_binding": "0fc183baca573097c94f3ccb0cc672ee3ae588db1be36531317fcb5aefbf1dac",
+      "scope": "人民币元；合并税金及附加中的消费税分项；年度发生额"
+    },
+    "R2024-19": {
+      "label": "管理费用—职工薪酬费用本期／上期发生额",
+      "current_yuan": "3697487910.65",
+      "previous_yuan": "4350082411.58",
+      "delta_yuan": "-652594500.93",
+      "delta_yi_display": "-6.53",
+      "raw_signed_percent": "-15.0018882215376275158820608469590680379327968870",
+      "growth_percent_display": "-15.00",
+      "source_binding": "353acf4ca595334e6814a3fd03b8e6ca143a45a89d3c3ccfdaff1c3b4d307204",
+      "scope": "人民币元；合并管理费用中的职工薪酬费用分项；年度发生额"
+    },
+    "R2024-20": {
+      "label": "管理费用—其他本期／上期发生额",
+      "current_yuan": "1434036365.41",
+      "previous_yuan": "1940651668.78",
+      "delta_yuan": "-506615303.37",
+      "delta_yi_display": "-5.07",
+      "raw_signed_percent": "-26.1054217776488526499614432264152591259340302599",
+      "growth_percent_display": "-26.11",
+      "source_binding": "1b61f8efdb805dc9e27d12ab8585507985f8d5a9258d3980c54b3234c8a3b4a6",
+      "scope": "人民币元；合并管理费用中的其他分项；年度发生额"
+    },
+    "R2024-21": {
+      "label": "销售费用—其他本期／上期发生额",
+      "current_yuan": "468459319.63",
+      "previous_yuan": "381270757.83",
+      "delta_yuan": "87188561.80",
+      "delta_yi_display": "0.87",
+      "raw_signed_percent": "22.8678858814751814768096661928047554404285272380",
+      "growth_percent_display": "22.87",
+      "source_binding": "793ad9575927e4d18cedbe5d393ef172bbc9b32c5c3a03279fcf904cdd5ee67e",
+      "scope": "人民币元；合并销售费用中的其他分项；109页表头、110页续表；年度发生额"
+    },
+    "R2024-22": {
+      "label": "销售费用—营销办公及差旅费本期／上期发生额",
+      "current_yuan": "89973010.37",
+      "previous_yuan": "86810053.15",
+      "delta_yuan": "3162957.22",
+      "delta_yi_display": "0.03",
+      "raw_signed_percent": "3.64353793740304834728695244440130837542287577784",
+      "growth_percent_display": "3.64",
+      "source_binding": "0b9cd7a63b86dc0d83bd208b80d45a4627f57262c08612a244cc67dc7717e409",
+      "scope": "人民币元；合并销售费用中的营销办公及差旅费分项；年度发生额"
+    },
+    "R2024-23": {
+      "label": "财务费用合计本期／上期发生额",
+      "current_yuan": "-1470219863.34",
+      "previous_yuan": "-1789503701.48",
+      "delta_yuan": "319283838.14",
+      "delta_yi_display": "3.19",
+      "raw_signed_percent": "-17.8420328427338772156513907855211149535084782830",
+      "growth_percent_display": null,
+      "source_binding": "d006b626126d6df3cf946a462f40d73fb7f0d52540c8ca92821997cf0aa251e7",
+      "scope": "人民币元；合并财务费用合计；负号保留；非附注41金融业务利息收支；年度发生额",
+      "negative_base_note": "费用为负数；净收益绝对额减少，避免将负基数普通同比读成经营改善。",
+      "net_benefit_decline_percent": "17.8420328427338772156513907855211149535084782830"
+    }
+  },
+  "bridge": {
+    "revenue_yuan": "170899152276.34",
+    "operating_cost_yuan": "13789482367.98",
+    "gross_yuan": "157109669908.36",
+    "tax_sales_management_rd_yuan": "42099487067.73",
+    "analytical_subtotal_yuan": "115010182840.63",
+    "analytical_subtotal_percent_revenue": "67.2971055202551143175520362411609292544505358916",
+    "four_expense_increase_yuan": "5329936457.99",
+    "including_finance_expense_increase_yuan": "5649220296.13",
+    "other_items_held_constant_pretax_impact_yuan": "-5649220296.13",
+    "formula": "分析小计=营业收入−营业成本−税金及附加−销售费用−管理费用−研发费用",
+    "boundary": "不是报表营业利润、正式实体EBIT/NOPAT、渠道净利润或FCFF。加财务费用的变化仅为其他项目不变的税前算术影响；不把它称为净利润实际归因。"
+  },
+  "diagnostics": {
+    "sales_children_delta_sum_residual_yuan": "0.00",
+    "market_service_share_of_sales_expense_increase_percent": "94.0053803359202575635989605688183212115905460518",
+    "consumption_tax_share_of_tax_expense_increase_percent": "82.3575978865883318359609873156982644029504315942",
+    "remaining_management_items_delta_yuan": "85236973.01",
+    "scope_and_duplicate_policy": "消费税不再叠加到税金及附加；商标许可费、职工薪酬与其他不再叠加到管理费用；销售明细不再叠加到销售总额；第三方代收手续费不额外扣一次。"
+  }
+}

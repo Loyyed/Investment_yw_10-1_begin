@@ -1,0 +1,21 @@
+{
+  "batch_id": "B01",
+  "display_version": 1,
+  "status": "confirmed-original-disclosure",
+  "reviewer": "leo",
+  "actual_user_reply": "B01全部核验正确，核验人leo",
+  "event_sequences": [
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "receipt": "evidence/20261022-b01-chat-confirmation.json",
+  "calculations": "work/e04-20261022-b01/calculations.json",
+  "arithmetic_status": "AgentCalculated",
+  "display_manifest_unchanged": true
+}
