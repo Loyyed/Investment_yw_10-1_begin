@@ -356,7 +356,16 @@
       "original": "旧有效年度组2020—2024保存成品/半成品，但没有独立总库存字段",
       "treatment": "占比可复算；分项合计标为Agent计算，独立总量残差Unknown。2016有本次核准独立总量，残差0；禁止用两项和减两项自证",
       "state": "Agent方法处理；B02原数真实核验另见回执，未新确认机制或运算",
-      "evidence": "outputs/student-lag-check.md；work/lag-20261022/calculations.json"
+      "evidence": "outputs/student-lag-check.md；work/lag-20261022/calculations.json",
+      "resolution_history": [
+        {
+          "date": "2026-10-23",
+          "event": "B04本人原披露确认",
+          "receipt": "evidence/20261023-b04-chat-confirmation.json",
+          "result": "五个独立报告总量有效，已接入计算与工作簿；十年独立差额均0吨。原缺口及当时Unknown历史保留，不能用分项自证总量。",
+          "new_human_arithmetic_confirmation": false
+        }
+      ]
     },
     {
       "id": "SC26",

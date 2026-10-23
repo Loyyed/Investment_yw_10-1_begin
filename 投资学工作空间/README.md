@@ -65,5 +65,5 @@ Fact的当前有效性须由ReviewStore接口核当前来源与依赖，旧摘�
 <!-- review-store:progress:start -->
 ## 人工核验进度
 
-当前有效Fact为48条；Unknown为51条；已撤回0条；需重新核验0条。共99条候选。 日期自动按Asia/Shanghai记录。合同验收、复核人与正式签署另行完成。
+当前有效Fact为53条；Unknown为53条；已撤回0条；需重新核验0条。共106条候选。 日期自动按Asia/Shanghai记录。合同验收、复核人与正式签署另行完成。
 <!-- review-store:progress:end -->

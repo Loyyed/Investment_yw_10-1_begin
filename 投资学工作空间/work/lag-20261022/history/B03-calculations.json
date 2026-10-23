@@ -1,0 +1,1117 @@
+{
+  "date": "2026-10-23",
+  "state": "AgentCalculated",
+  "human_arithmetic_confirmation": false,
+  "code_path": "scripts/calculate_lag_known.py",
+  "code_sha256": "369241526d96e5998aec883f1c8b47f3621be8f4f0fd21bb68de2216012bebe9",
+  "sample_years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "freeze_year": 2025,
+  "inventory": [
+    {
+      "year": 2016,
+      "finished_tonnes": "16168.33",
+      "semi_finished_tonnes": "236337.83",
+      "component_sum_tonnes": "252506.16",
+      "reported_total_tonnes": "252506.16",
+      "independent_total_residual_tonnes": "0.00",
+      "semi_share_percent": "93.5968572014243137672364111829984662552390801080",
+      "semi_share_percent_display": "93.60",
+      "input_ids": [
+        "R2016-01",
+        "R2016-02",
+        "R2016-03",
+        "R2016-04"
+      ]
+    },
+    {
+      "year": 2017,
+      "finished_tonnes": "13309.48",
+      "semi_finished_tonnes": "222689.39",
+      "component_sum_tonnes": "235998.87",
+      "reported_total_tonnes": "235998.87",
+      "independent_total_residual_tonnes": "0.00",
+      "semi_share_percent": "94.3603628271609944573039692944292487502164734941",
+      "semi_share_percent_display": "94.36",
+      "input_ids": [
+        "R2017-01",
+        "R2017-02"
+      ]
+    },
+    {
+      "year": 2018,
+      "finished_tonnes": "14409.19",
+      "semi_finished_tonnes": "222118.11",
+      "component_sum_tonnes": "236527.30",
+      "reported_total_tonnes": "236527.30",
+      "independent_total_residual_tonnes": "0.00",
+      "semi_share_percent": "93.9080224566043750552261831932297032942920330972",
+      "semi_share_percent_display": "93.91",
+      "input_ids": [
+        "R2018-01",
+        "R2018-02"
+      ]
+    },
+    {
+      "year": 2019,
+      "finished_tonnes": "11311.61",
+      "semi_finished_tonnes": "230356.74",
+      "component_sum_tonnes": "241668.35",
+      "reported_total_tonnes": "241668.35",
+      "independent_total_residual_tonnes": "0.00",
+      "semi_share_percent": "95.3193663961375165593674140614606753428820944075",
+      "semi_share_percent_display": "95.32",
+      "input_ids": [
+        "R2019-01",
+        "R2019-02"
+      ]
+    },
+    {
+      "year": 2020,
+      "finished_tonnes": "8314.11",
+      "semi_finished_tonnes": "240921.41",
+      "component_sum_tonnes": "249235.52",
+      "reported_total_tonnes": null,
+      "independent_total_residual_tonnes": null,
+      "semi_share_percent": "96.6641552536331900043781881491049108891060150656",
+      "semi_share_percent_display": "96.66",
+      "input_ids": [
+        "L03-A2020-B"
+      ]
+    },
+    {
+      "year": 2021,
+      "finished_tonnes": "10282.35",
+      "semi_finished_tonnes": "250463.82",
+      "component_sum_tonnes": "260746.17",
+      "reported_total_tonnes": null,
+      "independent_total_residual_tonnes": null,
+      "semi_share_percent": "96.0565671971327517485683490576294946153955013030",
+      "semi_share_percent_display": "96.06",
+      "input_ids": [
+        "L03-A2021-B"
+      ]
+    },
+    {
+      "year": 2022,
+      "finished_tonnes": "12495.28",
+      "semi_finished_tonnes": "264127.89",
+      "component_sum_tonnes": "276623.17",
+      "reported_total_tonnes": null,
+      "independent_total_residual_tonnes": null,
+      "semi_share_percent": "95.4829235743339937865653119368128128963311352408",
+      "semi_share_percent_display": "95.48",
+      "input_ids": [
+        "L03-A2022-B"
+      ]
+    },
+    {
+      "year": 2023,
+      "finished_tonnes": "13985.07",
+      "semi_finished_tonnes": "279804.96",
+      "component_sum_tonnes": "293790.03",
+      "reported_total_tonnes": null,
+      "independent_total_residual_tonnes": null,
+      "semi_share_percent": "95.2397737935490867406222055935662622724127159795",
+      "semi_share_percent_display": "95.24",
+      "input_ids": [
+        "L03-A2023-B"
+      ]
+    },
+    {
+      "year": 2024,
+      "finished_tonnes": "17760.00",
+      "semi_finished_tonnes": "292248.02",
+      "component_sum_tonnes": "310008.02",
+      "reported_total_tonnes": null,
+      "independent_total_residual_tonnes": null,
+      "semi_share_percent": "94.2711159537098427324557603380712537694992536000",
+      "semi_share_percent_display": "94.27",
+      "input_ids": [
+        "L03-A2024-B"
+      ]
+    },
+    {
+      "year": 2025,
+      "finished_tonnes": "24770.35",
+      "semi_finished_tonnes": "315207.51",
+      "component_sum_tonnes": "339977.86",
+      "reported_total_tonnes": "339977.86",
+      "independent_total_residual_tonnes": "0.00",
+      "semi_share_percent": "92.7141285023677718307892166860512622792554785773",
+      "semi_share_percent_display": "92.71",
+      "input_ids": [
+        "R2025-01",
+        "R2025-02",
+        "R2025-03"
+      ]
+    }
+  ],
+  "annual_changes": [
+    {
+      "year": 2024,
+      "metrics": {
+        "finished": {
+          "current_tonnes": "17760.00",
+          "previous_tonnes": "13985.07",
+          "delta_tonnes": "3774.93",
+          "growth_percent": "26.9925713636041864645654258434173014507614191420",
+          "growth_percent_display": "26.99"
+        },
+        "semi_finished": {
+          "current_tonnes": "292248.02",
+          "previous_tonnes": "279804.96",
+          "delta_tonnes": "12443.06",
+          "growth_percent": "4.44704768635981292111476508493630706189053975312",
+          "growth_percent_display": "4.45"
+        },
+        "company_shipments": {
+          "current_tonnes": "83332.76",
+          "previous_tonnes": "73274.04",
+          "delta_tonnes": "10058.72",
+          "growth_percent": "13.7275357002288941622435449171357277420488893474",
+          "growth_percent_display": "13.73"
+        }
+      },
+      "state": "AgentCalculated",
+      "boundary": "各自同阶段年度变化的描述对照；公司出货非终端动销，不直接证明积压或需求下降。2025为后验观察。"
+    },
+    {
+      "year": 2025,
+      "metrics": {
+        "finished": {
+          "current_tonnes": "24770.35",
+          "previous_tonnes": "17760.00",
+          "delta_tonnes": "7010.35",
+          "growth_percent": "39.4726914414414414414414414414414414414414414414",
+          "growth_percent_display": "39.47"
+        },
+        "semi_finished": {
+          "current_tonnes": "315207.51",
+          "previous_tonnes": "292248.02",
+          "delta_tonnes": "22959.49",
+          "growth_percent": "7.85616614271672396617092564048851383150517153204",
+          "growth_percent_display": "7.86"
+        },
+        "company_shipments": {
+          "current_tonnes": "85104.14",
+          "previous_tonnes": "83332.76",
+          "delta_tonnes": "1771.38",
+          "growth_percent": "2.12567062461389734361372406242154946026028659077",
+          "growth_percent_display": "2.13"
+        }
+      },
+      "state": "AgentCalculated",
+      "boundary": "各自同阶段年度变化的描述对照；公司出货非终端动销，不直接证明积压或需求下降。2025为后验观察。"
+    }
+  ],
+  "cohorts": [
+    {
+      "production_year": 2016,
+      "outcome_year": 2021,
+      "production_tonnes": "39312.53",
+      "later_sales_tonnes": "36261.31",
+      "later_revenue_yuan": "93464512115.94",
+      "state": "AgentCalculated并列观察",
+      "not_a_conversion_rate": true
+    },
+    {
+      "production_year": 2017,
+      "outcome_year": 2022,
+      "production_tonnes": "42828.59",
+      "later_sales_tonnes": "37901.39",
+      "later_revenue_yuan": "107833685277.94",
+      "state": "AgentCalculated并列观察",
+      "not_a_conversion_rate": true
+    },
+    {
+      "production_year": 2018,
+      "outcome_year": 2023,
+      "production_tonnes": "49671.69",
+      "later_sales_tonnes": "42109.50",
+      "later_revenue_yuan": "126589066691.89",
+      "state": "AgentCalculated并列观察",
+      "not_a_conversion_rate": true
+    },
+    {
+      "production_year": 2019,
+      "outcome_year": 2024,
+      "production_tonnes": "49922.71",
+      "later_sales_tonnes": "46412.95",
+      "later_revenue_yuan": "145928075955.31",
+      "state": "AgentCalculated并列观察",
+      "not_a_conversion_rate": true
+    },
+    {
+      "production_year": 2020,
+      "outcome_year": 2025,
+      "production_tonnes": "50235.17",
+      "later_sales_tonnes": "46750.66",
+      "later_revenue_yuan": "146499906480.49",
+      "state": "AgentCalculated并列观察",
+      "not_a_conversion_rate": true
+    }
+  ],
+  "diagnostics": [
+    {
+      "product": "茅台酒",
+      "lag": 0,
+      "n": 10,
+      "calendar_pairs": [
+        [
+          2016,
+          2016
+        ],
+        [
+          2017,
+          2017
+        ],
+        [
+          2018,
+          2018
+        ],
+        [
+          2019,
+          2019
+        ],
+        [
+          2020,
+          2020
+        ],
+        [
+          2021,
+          2021
+        ],
+        [
+          2022,
+          2022
+        ],
+        [
+          2023,
+          2023
+        ],
+        [
+          2024,
+          2024
+        ],
+        [
+          2025,
+          2025
+        ]
+      ],
+      "source_year_range": [
+        2016,
+        2025
+      ],
+      "outcome_year_range": [
+        2016,
+        2025
+      ],
+      "r": "0.900368209513244834282274576253011372347666345732",
+      "reason": "描述性共变；非成熟期或因果"
+    },
+    {
+      "product": "茅台酒",
+      "lag": 1,
+      "n": 9,
+      "calendar_pairs": [
+        [
+          2016,
+          2017
+        ],
+        [
+          2017,
+          2018
+        ],
+        [
+          2018,
+          2019
+        ],
+        [
+          2019,
+          2020
+        ],
+        [
+          2020,
+          2021
+        ],
+        [
+          2021,
+          2022
+        ],
+        [
+          2022,
+          2023
+        ],
+        [
+          2023,
+          2024
+        ],
+        [
+          2024,
+          2025
+        ]
+      ],
+      "source_year_range": [
+        2016,
+        2024
+      ],
+      "outcome_year_range": [
+        2017,
+        2025
+      ],
+      "r": "0.865984174790168098436321221274265312191363205444",
+      "reason": "描述性共变；非成熟期或因果"
+    },
+    {
+      "product": "茅台酒",
+      "lag": 2,
+      "n": 8,
+      "calendar_pairs": [
+        [
+          2016,
+          2018
+        ],
+        [
+          2017,
+          2019
+        ],
+        [
+          2018,
+          2020
+        ],
+        [
+          2019,
+          2021
+        ],
+        [
+          2020,
+          2022
+        ],
+        [
+          2021,
+          2023
+        ],
+        [
+          2022,
+          2024
+        ],
+        [
+          2023,
+          2025
+        ]
+      ],
+      "source_year_range": [
+        2016,
+        2023
+      ],
+      "outcome_year_range": [
+        2018,
+        2025
+      ],
+      "r": "0.892422046936651950229913234978394682189315368634",
+      "reason": "描述性共变；非成熟期或因果"
+    },
+    {
+      "product": "茅台酒",
+      "lag": 3,
+      "n": 7,
+      "calendar_pairs": [
+        [
+          2016,
+          2019
+        ],
+        [
+          2017,
+          2020
+        ],
+        [
+          2018,
+          2021
+        ],
+        [
+          2019,
+          2022
+        ],
+        [
+          2020,
+          2023
+        ],
+        [
+          2021,
+          2024
+        ],
+        [
+          2022,
+          2025
+        ]
+      ],
+      "source_year_range": [
+        2016,
+        2022
+      ],
+      "outcome_year_range": [
+        2019,
+        2025
+      ],
+      "r": "0.903346287716628097805451298892887508716242468220",
+      "reason": "描述性共变；非成熟期或因果"
+    },
+    {
+      "product": "茅台酒",
+      "lag": 4,
+      "n": 6,
+      "calendar_pairs": [
+        [
+          2016,
+          2020
+        ],
+        [
+          2017,
+          2021
+        ],
+        [
+          2018,
+          2022
+        ],
+        [
+          2019,
+          2023
+        ],
+        [
+          2020,
+          2024
+        ],
+        [
+          2021,
+          2025
+        ]
+      ],
+      "source_year_range": [
+        2016,
+        2021
+      ],
+      "outcome_year_range": [
+        2020,
+        2025
+      ],
+      "r": "0.873681548173698514969696305348352402519639141997",
+      "reason": "描述性共变；非成熟期或因果"
+    },
+    {
+      "product": "茅台酒",
+      "lag": 5,
+      "n": 5,
+      "calendar_pairs": [
+        [
+          2016,
+          2021
+        ],
+        [
+          2017,
+          2022
+        ],
+        [
+          2018,
+          2023
+        ],
+        [
+          2019,
+          2024
+        ],
+        [
+          2020,
+          2025
+        ]
+      ],
+      "source_year_range": [
+        2016,
+        2020
+      ],
+      "outcome_year_range": [
+        2021,
+        2025
+      ],
+      "r": "0.930034835166873073414785669162316706040946698562",
+      "reason": "描述性共变；非成熟期或因果"
+    },
+    {
+      "product": "茅台酒",
+      "lag": 6,
+      "n": 4,
+      "calendar_pairs": [
+        [
+          2016,
+          2022
+        ],
+        [
+          2017,
+          2023
+        ],
+        [
+          2018,
+          2024
+        ],
+        [
+          2019,
+          2025
+        ]
+      ],
+      "source_year_range": [
+        2016,
+        2019
+      ],
+      "outcome_year_range": [
+        2022,
+        2025
+      ],
+      "r": "0.989079525832703247831134975385308972396849199321",
+      "reason": "描述性共变；非成熟期或因果"
+    },
+    {
+      "product": "茅台酒",
+      "lag": 7,
+      "n": 3,
+      "calendar_pairs": [
+        [
+          2016,
+          2023
+        ],
+        [
+          2017,
+          2024
+        ],
+        [
+          2018,
+          2025
+        ]
+      ],
+      "source_year_range": [
+        2016,
+        2018
+      ],
+      "outcome_year_range": [
+        2023,
+        2025
+      ],
+      "r": "0.801114366969789653732611708489310939519294410981",
+      "reason": "描述性共变；非成熟期或因果"
+    },
+    {
+      "product": "其他系列酒",
+      "lag": 0,
+      "n": 10,
+      "calendar_pairs": [
+        [
+          2016,
+          2016
+        ],
+        [
+          2017,
+          2017
+        ],
+        [
+          2018,
+          2018
+        ],
+        [
+          2019,
+          2019
+        ],
+        [
+          2020,
+          2020
+        ],
+        [
+          2021,
+          2021
+        ],
+        [
+          2022,
+          2022
+        ],
+        [
+          2023,
+          2023
+        ],
+        [
+          2024,
+          2024
+        ],
+        [
+          2025,
+          2025
+        ]
+      ],
+      "source_year_range": [
+        2016,
+        2025
+      ],
+      "outcome_year_range": [
+        2016,
+        2025
+      ],
+      "r": "0.692600383245330475048591575830891834954837011958",
+      "reason": "描述性共变；非成熟期或因果"
+    },
+    {
+      "product": "其他系列酒",
+      "lag": 1,
+      "n": 9,
+      "calendar_pairs": [
+        [
+          2016,
+          2017
+        ],
+        [
+          2017,
+          2018
+        ],
+        [
+          2018,
+          2019
+        ],
+        [
+          2019,
+          2020
+        ],
+        [
+          2020,
+          2021
+        ],
+        [
+          2021,
+          2022
+        ],
+        [
+          2022,
+          2023
+        ],
+        [
+          2023,
+          2024
+        ],
+        [
+          2024,
+          2025
+        ]
+      ],
+      "source_year_range": [
+        2016,
+        2024
+      ],
+      "outcome_year_range": [
+        2017,
+        2025
+      ],
+      "r": "0.935327002367962975517226286697380854830130247336",
+      "reason": "描述性共变；非成熟期或因果"
+    },
+    {
+      "product": "其他系列酒",
+      "lag": 2,
+      "n": 8,
+      "calendar_pairs": [
+        [
+          2016,
+          2018
+        ],
+        [
+          2017,
+          2019
+        ],
+        [
+          2018,
+          2020
+        ],
+        [
+          2019,
+          2021
+        ],
+        [
+          2020,
+          2022
+        ],
+        [
+          2021,
+          2023
+        ],
+        [
+          2022,
+          2024
+        ],
+        [
+          2023,
+          2025
+        ]
+      ],
+      "source_year_range": [
+        2016,
+        2023
+      ],
+      "outcome_year_range": [
+        2018,
+        2025
+      ],
+      "r": "0.958809218252045586908407502533728622132985684757",
+      "reason": "描述性共变；非成熟期或因果"
+    },
+    {
+      "product": "其他系列酒",
+      "lag": 3,
+      "n": 7,
+      "calendar_pairs": [
+        [
+          2016,
+          2019
+        ],
+        [
+          2017,
+          2020
+        ],
+        [
+          2018,
+          2021
+        ],
+        [
+          2019,
+          2022
+        ],
+        [
+          2020,
+          2023
+        ],
+        [
+          2021,
+          2024
+        ],
+        [
+          2022,
+          2025
+        ]
+      ],
+      "source_year_range": [
+        2016,
+        2022
+      ],
+      "outcome_year_range": [
+        2019,
+        2025
+      ],
+      "r": "0.913748337658563581974214367952116052303428542506",
+      "reason": "描述性共变；非成熟期或因果"
+    },
+    {
+      "product": "其他系列酒",
+      "lag": 4,
+      "n": 6,
+      "calendar_pairs": [
+        [
+          2016,
+          2020
+        ],
+        [
+          2017,
+          2021
+        ],
+        [
+          2018,
+          2022
+        ],
+        [
+          2019,
+          2023
+        ],
+        [
+          2020,
+          2024
+        ],
+        [
+          2021,
+          2025
+        ]
+      ],
+      "source_year_range": [
+        2016,
+        2021
+      ],
+      "outcome_year_range": [
+        2020,
+        2025
+      ],
+      "r": "0.863160261251063407743804640668842199183077810029",
+      "reason": "描述性共变；非成熟期或因果"
+    },
+    {
+      "product": "其他系列酒",
+      "lag": 5,
+      "n": 5,
+      "calendar_pairs": [
+        [
+          2016,
+          2021
+        ],
+        [
+          2017,
+          2022
+        ],
+        [
+          2018,
+          2023
+        ],
+        [
+          2019,
+          2024
+        ],
+        [
+          2020,
+          2025
+        ]
+      ],
+      "source_year_range": [
+        2016,
+        2020
+      ],
+      "outcome_year_range": [
+        2021,
+        2025
+      ],
+      "r": "0.977151045480366327662468139208277246495342928020",
+      "reason": "描述性共变；非成熟期或因果"
+    },
+    {
+      "product": "其他系列酒",
+      "lag": 6,
+      "n": 4,
+      "calendar_pairs": [
+        [
+          2016,
+          2022
+        ],
+        [
+          2017,
+          2023
+        ],
+        [
+          2018,
+          2024
+        ],
+        [
+          2019,
+          2025
+        ]
+      ],
+      "source_year_range": [
+        2016,
+        2019
+      ],
+      "outcome_year_range": [
+        2022,
+        2025
+      ],
+      "r": "0.656729569172815173334156786812184343300786620046",
+      "reason": "描述性共变；非成熟期或因果"
+    },
+    {
+      "product": "其他系列酒",
+      "lag": 7,
+      "n": 3,
+      "calendar_pairs": [
+        [
+          2016,
+          2023
+        ],
+        [
+          2017,
+          2024
+        ],
+        [
+          2018,
+          2025
+        ]
+      ],
+      "source_year_range": [
+        2016,
+        2018
+      ],
+      "outcome_year_range": [
+        2023,
+        2025
+      ],
+      "r": "0.264978473645734455702319656083051303946493185129",
+      "reason": "描述性共变；非成熟期或因果"
+    }
+  ],
+  "formulas": {
+    "semi_share": "semi/(finished+semi)*100",
+    "inventory_residual": "independently_reported_total−finished−semi, Unknown when total not source-confirmed",
+    "pearson": "sum((x−mean(x))*(y−mean(y)))/sqrt(sum((x−mean(x))²)*sum((y−mean(y))²))",
+    "pairing": "actual calendar year t with t+k; no interpolation or positional shift"
+  },
+  "input_evidence": [
+    {
+      "domain": "facts",
+      "id": "R2015-01",
+      "binding": "4cda371745dbfced2abc5217f6d7dc321bc47be283056d4dbcffaeb5da08eb8e",
+      "pdf_path": "sources/annual_reports/pdf/600519_2015_贵州茅台_2015年年度报告.pdf",
+      "pdf_sha256": "11a32c1e7f02a54fc2eea3c0d852af59ad37af9a2cbe91857cd93a6208a96d6c"
+    },
+    {
+      "domain": "facts",
+      "id": "R2016-01",
+      "binding": "a9687da186618bbebcbbf30f85c0aec743245879ed8d7f88a1d6cce8066a0ff7",
+      "pdf_path": "sources/annual_reports/pdf/600519_2016_贵州茅台_2016年年度报告.pdf",
+      "pdf_sha256": "dd26d9e0017a938cb5e1aa0a830bab7502d0de1f85eb7c00abffb4888c8c20ad"
+    },
+    {
+      "domain": "facts",
+      "id": "R2016-02",
+      "binding": "0bc48be672bbdc83e6c297a015bd995b99787f556f708b7cec3e4edfbcb17355",
+      "pdf_path": "sources/annual_reports/pdf/600519_2016_贵州茅台_2016年年度报告.pdf",
+      "pdf_sha256": "dd26d9e0017a938cb5e1aa0a830bab7502d0de1f85eb7c00abffb4888c8c20ad"
+    },
+    {
+      "domain": "facts",
+      "id": "R2016-03",
+      "binding": "e934a6bc8b2d453fb0a214546a2cb7becbd51f450e78fa093357c8adb7ebe955",
+      "pdf_path": "sources/annual_reports/pdf/600519_2016_贵州茅台_2016年年度报告.pdf",
+      "pdf_sha256": "dd26d9e0017a938cb5e1aa0a830bab7502d0de1f85eb7c00abffb4888c8c20ad"
+    },
+    {
+      "domain": "facts",
+      "id": "R2016-04",
+      "binding": "3a072f38643c01c90b783c187fc5aa5328bb2d620baa0c6f0721407e9b972840",
+      "pdf_path": "sources/annual_reports/pdf/600519_2016_贵州茅台_2016年年度报告.pdf",
+      "pdf_sha256": "dd26d9e0017a938cb5e1aa0a830bab7502d0de1f85eb7c00abffb4888c8c20ad"
+    },
+    {
+      "domain": "facts",
+      "id": "R2016-05",
+      "binding": "09e6aa4e74eef01b8b65b35e7ae78c8d7cd593d117e606771eb2f00ef5cd882a",
+      "pdf_path": "sources/annual_reports/pdf/600519_2016_贵州茅台_2016年年度报告.pdf",
+      "pdf_sha256": "dd26d9e0017a938cb5e1aa0a830bab7502d0de1f85eb7c00abffb4888c8c20ad"
+    },
+    {
+      "domain": "facts",
+      "id": "R2017-01",
+      "binding": "049378a8029478e79daeea20c99616d7a2c06d31a6c193f54dbeac3fde720cc5",
+      "pdf_path": "sources/annual_reports/pdf/600519_2017_贵州茅台_2017年年度报告.pdf",
+      "pdf_sha256": "b66a4641e5f2313ed7964e5bef0026021ff2164459d0e0615f1b4385ba1a78e3"
+    },
+    {
+      "domain": "facts",
+      "id": "R2017-02",
+      "binding": "94646f767de3187570422f5f7d7e282180eb365728b425267c13074230027f5b",
+      "pdf_path": "sources/annual_reports/pdf/600519_2017_贵州茅台_2017年年度报告.pdf",
+      "pdf_sha256": "b66a4641e5f2313ed7964e5bef0026021ff2164459d0e0615f1b4385ba1a78e3"
+    },
+    {
+      "domain": "facts",
+      "id": "R2018-01",
+      "binding": "3eb4191af7c57e2db99a1993b1aa921849ef45ecae74b1ece8a95d0e960f756f",
+      "pdf_path": "sources/annual_reports/pdf/600519_2018_贵州茅台_2018年年度报告.pdf",
+      "pdf_sha256": "08728fc937836cfeed8e98aeda932da54c737efa6de4280ae001476c0e393dec"
+    },
+    {
+      "domain": "facts",
+      "id": "R2018-02",
+      "binding": "4a8c28014349cc9c054fdabfcf63d2587832e835e6ea49f29e10dfad6ef1e9e0",
+      "pdf_path": "sources/annual_reports/pdf/600519_2018_贵州茅台_2018年年度报告.pdf",
+      "pdf_sha256": "08728fc937836cfeed8e98aeda932da54c737efa6de4280ae001476c0e393dec"
+    },
+    {
+      "domain": "facts",
+      "id": "R2019-01",
+      "binding": "a3e21b2dd67dea7aefe4e3d1ba47bc5c6d3136a7d48d1961b8cddc62fa9a1a96",
+      "pdf_path": "sources/annual_reports/pdf/600519_2019_贵州茅台_2019年年度报告.pdf",
+      "pdf_sha256": "2a2b384ab09a7bc295fd2e33b999acdf4212340b0141031c991060dea2fad03d"
+    },
+    {
+      "domain": "facts",
+      "id": "R2019-02",
+      "binding": "184f55d7904e336cbd0c784132a73ec0627ee52c2587a17b975e5f6ccae569c0",
+      "pdf_path": "sources/annual_reports/pdf/600519_2019_贵州茅台_2019年年度报告.pdf",
+      "pdf_sha256": "2a2b384ab09a7bc295fd2e33b999acdf4212340b0141031c991060dea2fad03d"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-01",
+      "binding": "26ee8f64346b12acad8294ae0ca660d66a76fa3dc140c300d89219df28e9758e",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-02",
+      "binding": "bceee2b4d5d9f15193fe8b2d99261e6484317bf5e54982306c8ebcbc2bd07279",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-03",
+      "binding": "f7a9146add2e7722ab9f2734fc3c24c032a71a1091039e0ceecfde05e10ec5d7",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "lec03_agent_facts",
+      "id": "L03-A2020-B",
+      "validated_group_snapshot_sha256": "4ae6e4b348326ca7be20b9bf23c65ad74df7b56f250173eb9f60ccefc9df42c7",
+      "pdf_path": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "pdf_sha256": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c",
+      "human_confirmation": false
+    },
+    {
+      "domain": "lec03_agent_facts",
+      "id": "L03-A2021-B",
+      "validated_group_snapshot_sha256": "c67b49c149f5ac33e7777db84ea62952cee50a6980ff3a84ce63212cccb110c1",
+      "pdf_path": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+      "pdf_sha256": "f65effdde58bcea99fd6bdb53f61b31d5c432e6dfb2661e5caf05156a433ea5a",
+      "human_confirmation": false
+    },
+    {
+      "domain": "lec03_agent_facts",
+      "id": "L03-A2022-B",
+      "validated_group_snapshot_sha256": "8935ec174c5c934c6ab21d96776717dc20f92d184ccb0fc92fcf826d9f4adc5f",
+      "pdf_path": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "pdf_sha256": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358",
+      "human_confirmation": false
+    },
+    {
+      "domain": "lec03_agent_facts",
+      "id": "L03-A2023-B",
+      "validated_group_snapshot_sha256": "394ee644f6b4a9fc2b27500510b1c5e091ebde161eabbf6b2b96b69f24eac9a2",
+      "pdf_path": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "pdf_sha256": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1",
+      "human_confirmation": false
+    },
+    {
+      "domain": "lec03_agent_facts",
+      "id": "L03-A2024-B",
+      "validated_group_snapshot_sha256": "dab33bf43b3e52e24fcfd32b3706f88821594fa28e8ddd1ade859a707ee160ca",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "human_confirmation": false
+    }
+  ],
+  "correlation_crosscheck": "Decimal precision48 vs statistics.correlation float; abs_tol1e-12",
+  "right_censored_production_years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "generated_output_sha256": "1d703776db3049a07608683d799764b2886835d6f2f47f90a49914cfe3dcf67f"
+}

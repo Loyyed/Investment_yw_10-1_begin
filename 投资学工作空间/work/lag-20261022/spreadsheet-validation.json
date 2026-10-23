@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "engine": "@oai/artifact-tool electronic spreadsheet formulas",
   "native_Excel_opened": false,
   "output": "outputs/生产库存销售滞后复算.xlsx",
@@ -56,8 +56,8 @@
       240921.41,
       249235.52000000002,
       0.9666415525363319,
-      "待核",
-      "待核"
+      249235.52,
+      0
     ],
     [
       2021,
@@ -65,8 +65,8 @@
       250463.82,
       260746.17,
       0.9605656719713275,
-      "待核",
-      "待核"
+      260746.17,
+      0
     ],
     [
       2022,
@@ -74,8 +74,8 @@
       264127.89,
       276623.17000000004,
       0.9548292357433399,
-      "待核",
-      "待核"
+      276623.17,
+      0
     ],
     [
       2023,
@@ -83,8 +83,8 @@
       279804.96,
       293790.03,
       0.9523977379354909,
-      "待核",
-      "待核"
+      293790.03,
+      0
     ],
     [
       2024,
@@ -92,8 +92,8 @@
       292248.02,
       310008.02,
       0.9427111595370984,
-      "待核",
-      "待核"
+      310008.02,
+      0
     ],
     [
       2025,
@@ -273,14 +273,17 @@
     ]
   ],
   "unexpected_formula_errors": 0,
-  "status": "公式、保存文件与视觉检查通过；非本人原生Excel操作",
-  "visual_verified": true,
-  "exported_formulas_and_cached_values_verified": true,
-  "exported_unexpected_error_cells": 0,
-  "source_notes_exported": true,
-  "paired_rows": 104,
-  "output_sha256": "d0ea4a23988229f9e6de175033670107ff230cb9c58de0bb921905d122854bfb",
-  "inspection_note": "范围ISNUMBER数组计数不受引擎正确支持；导出前改用104行配对与标量检查。差额按源0.01吨精度ROUND，消除浮点负零。",
+  "status": "计算、导出及受影响图像检查通过",
   "completion_date": "2026-10-23",
-  "input_evidence_snapshot_sha256": "bd0d5c4d1f10308f4cace92c1bc189f2f07100536ab03253be5463e032a2653c"
+  "independent_inventory_reconciliation_checks": 10,
+  "independent_inventory_all_zero": true,
+  "saved_xlsx_cached_residuals_checked": 10,
+  "source_notes_present": true,
+  "output_sha256": "be67dd8d61f71d6dad8b4af3f29dcd2f802deac5eae88bf0b6de865fd3e090ad",
+  "input_evidence_snapshot_sha256": "6622d0417c0c7af8f58d1d7d3d4b48489377bfc66263dc7bbc0bac1a7cad651d",
+  "visual_checks": [
+    "库存与滞后B2:H18",
+    "原数B18:E35"
+  ],
+  "new_original_total_confirmation_batch": "B04"
 }

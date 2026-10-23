@@ -3,7 +3,7 @@
   "state": "AgentCalculated",
   "human_arithmetic_confirmation": false,
   "code_path": "scripts/calculate_lag_known.py",
-  "code_sha256": "369241526d96e5998aec883f1c8b47f3621be8f4f0fd21bb68de2216012bebe9",
+  "code_sha256": "77e9d55965a21840c5ea6a74a9330de9483c3d8e8ec16069a3d285937c634819",
   "sample_years": [
     2016,
     2017,
@@ -81,12 +81,13 @@
       "finished_tonnes": "8314.11",
       "semi_finished_tonnes": "240921.41",
       "component_sum_tonnes": "249235.52",
-      "reported_total_tonnes": null,
-      "independent_total_residual_tonnes": null,
+      "reported_total_tonnes": "249235.52",
+      "independent_total_residual_tonnes": "0.00",
       "semi_share_percent": "96.6641552536331900043781881491049108891060150656",
       "semi_share_percent_display": "96.66",
       "input_ids": [
-        "L03-A2020-B"
+        "L03-A2020-B",
+        "R2020-08"
       ]
     },
     {
@@ -94,12 +95,13 @@
       "finished_tonnes": "10282.35",
       "semi_finished_tonnes": "250463.82",
       "component_sum_tonnes": "260746.17",
-      "reported_total_tonnes": null,
-      "independent_total_residual_tonnes": null,
+      "reported_total_tonnes": "260746.17",
+      "independent_total_residual_tonnes": "0.00",
       "semi_share_percent": "96.0565671971327517485683490576294946153955013030",
       "semi_share_percent_display": "96.06",
       "input_ids": [
-        "L03-A2021-B"
+        "L03-A2021-B",
+        "R2021-08"
       ]
     },
     {
@@ -107,12 +109,13 @@
       "finished_tonnes": "12495.28",
       "semi_finished_tonnes": "264127.89",
       "component_sum_tonnes": "276623.17",
-      "reported_total_tonnes": null,
-      "independent_total_residual_tonnes": null,
+      "reported_total_tonnes": "276623.17",
+      "independent_total_residual_tonnes": "0.00",
       "semi_share_percent": "95.4829235743339937865653119368128128963311352408",
       "semi_share_percent_display": "95.48",
       "input_ids": [
-        "L03-A2022-B"
+        "L03-A2022-B",
+        "R2022-08"
       ]
     },
     {
@@ -120,12 +123,13 @@
       "finished_tonnes": "13985.07",
       "semi_finished_tonnes": "279804.96",
       "component_sum_tonnes": "293790.03",
-      "reported_total_tonnes": null,
-      "independent_total_residual_tonnes": null,
+      "reported_total_tonnes": "293790.03",
+      "independent_total_residual_tonnes": "0.00",
       "semi_share_percent": "95.2397737935490867406222055935662622724127159795",
       "semi_share_percent_display": "95.24",
       "input_ids": [
-        "L03-A2023-B"
+        "L03-A2023-B",
+        "R2023-08"
       ]
     },
     {
@@ -133,12 +137,13 @@
       "finished_tonnes": "17760.00",
       "semi_finished_tonnes": "292248.02",
       "component_sum_tonnes": "310008.02",
-      "reported_total_tonnes": null,
-      "independent_total_residual_tonnes": null,
+      "reported_total_tonnes": "310008.02",
+      "independent_total_residual_tonnes": "0.00",
       "semi_share_percent": "94.2711159537098427324557603380712537694992536000",
       "semi_share_percent_display": "94.27",
       "input_ids": [
-        "L03-A2024-B"
+        "L03-A2024-B",
+        "R2024-24"
       ]
     },
     {
@@ -1045,6 +1050,41 @@
     },
     {
       "domain": "facts",
+      "id": "R2020-08",
+      "binding": "d8bfef342e4cd707a55bfdae666918fb17bfc149755d34b649d31749971e2d54",
+      "pdf_path": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "pdf_sha256": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c"
+    },
+    {
+      "domain": "facts",
+      "id": "R2021-08",
+      "binding": "b779880b3cd5c8ed739d09ad628914cb73870c1e12a996d10c3e4c1e79557e62",
+      "pdf_path": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+      "pdf_sha256": "f65effdde58bcea99fd6bdb53f61b31d5c432e6dfb2661e5caf05156a433ea5a"
+    },
+    {
+      "domain": "facts",
+      "id": "R2022-08",
+      "binding": "0130c49e2cc34b62932017430e9e33f96eb42645ede7a226e5ea285e6ddbfa2e",
+      "pdf_path": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "pdf_sha256": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358"
+    },
+    {
+      "domain": "facts",
+      "id": "R2023-08",
+      "binding": "1e6f6689a11479b9eb7c435b4aa0216a6d95f84316ab226d7f14b3d6b03b90eb",
+      "pdf_path": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "pdf_sha256": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1"
+    },
+    {
+      "domain": "facts",
+      "id": "R2024-24",
+      "binding": "e2cd6aa240b5d975436c35ef1a079d15b09eb6e262ac68c2a31dee1d89f2f757",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+    },
+    {
+      "domain": "facts",
       "id": "R2025-01",
       "binding": "26ee8f64346b12acad8294ae0ca660d66a76fa3dc140c300d89219df28e9758e",
       "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
@@ -1113,5 +1153,5 @@
     2024,
     2025
   ],
-  "generated_output_sha256": "1d703776db3049a07608683d799764b2886835d6f2f47f90a49914cfe3dcf67f"
+  "generated_output_sha256": "e2ce8a1d95c6f721cf5f5094ebe23373f6610200c89ffaaa5e492f259f21e288"
 }

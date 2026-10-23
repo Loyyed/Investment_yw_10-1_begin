@@ -38,7 +38,7 @@
 | 任务 | 已完成的自动化工作 | 成果位置 | 本人仍需完成 |
 | --- | --- | --- | --- |
 | 第一次 | PDF63—64页收入和利润归属定位；交叉位置保留 | outputs/first-analysis.md | 有效Fact 2/2条；逐项验收与正式签署另行完成 <!-- review-store:task:第一次 --> |
-| 第二次 | 51条收入成本候选，21组合计检查 | outputs/revenue-structure-table.md | 有效Fact 36/51条；逐行确认范围与正式验收仍须完成 <!-- review-store:task:第二次 --> |
+| 第二次 | 51条收入成本候选，21组合计检查 | outputs/revenue-structure-table.md | 有效Fact 41/51条；逐行确认范围与正式验收仍须完成 <!-- review-store:task:第二次 --> |
 | 第三次 | 12条候选；收入/利润两组冲突；真实Agent修正保留 | outputs/metric-scope-decision.md | 有效Fact 12/12条；本人采用/排除裁决及实际修正按真实过程记录 <!-- review-store:task:第三次 --> |
 | 第四次 | 可比性材料、公式代入、披露变动率及阻断程序 | outputs/change-verification-record.md | 七项可比性独立确认7/7项；有效变化Fact 2/2条；姓名与正式签署待补 <!-- review-store:task:第四次 --> |
 | Lec03 | 三维选题、五步品牌链、三路径商业模式、行业五步及五项底稿已展开 | outputs/lec03-integrated-analysis.md；lec03-stage-deliverables.md | 本人维持暂定Interpretation；M01/B01本人选，I01本人授权Agent定义；新增逻辑及Unknown表待审阅，未验收 |
@@ -49,12 +49,12 @@
 <!-- review-store:progress:start -->
 ## 统一核验进度
 
-当前有效Fact为48条；Unknown为51条；已撤回0条；需重新核验0条。共99条候选。 日期自动按Asia/Shanghai记录。合同验收、复核人与正式签署另行完成。
+当前有效Fact为53条；Unknown为53条；已撤回0条；需重新核验0条。共106条候选。 日期自动按Asia/Shanghai记录。合同验收、复核人与正式签署另行完成。
 
 | 任务 | 有效Fact | 候选 | 后续验收 |
 | --- | --- | --- | --- |
 | 第一次 | 2 | 2 | 逐项验收、口径裁决与合同正式签署另行完成 |
-| 第二次 | 36 | 87 | 逐项验收、口径裁决与合同正式签署另行完成 |
+| 第二次 | 41 | 94 | 逐项验收、口径裁决与合同正式签署另行完成 |
 | 第三次 | 12 | 12 | 逐项验收、口径裁决与合同正式签署另行完成 |
 <!-- review-store:progress:end -->
 
