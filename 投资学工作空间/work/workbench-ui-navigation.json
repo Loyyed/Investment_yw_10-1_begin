@@ -1,16 +1,18 @@
 {
   "schema_version": 1,
   "date": "2026-10-24",
-  "next_review_id": "R2025-09",
-  "next_review_scope": "B06八项：2025项目当期/累积投入、固定资产原值/折旧/减值变动及重要在建工程流转；15页万元，97/98页元",
+  "next_review_id": "",
+  "next_review_scope": "B06已确认；下一步G6两项研究判断内容审阅，非原数核验；G0版本与教师批准仍独立待办",
   "preferred_confirmation_channel": "actual-user-chat",
   "completed_review_id": "",
-  "completed_event": 61,
+  "completed_event": 69,
   "completed_channel": "actual-user-chat",
   "completed_reviewer": "leo",
   "toolkit_directory": "投资学公司分析通用工作台",
-  "next_review_batch": "B06",
-  "next_review_ids": [
+  "next_review_batch": "",
+  "next_review_ids": [],
+  "completed_batch": "B06",
+  "completed_review_ids": [
     "R2025-09",
     "R2025-10",
     "R2025-11",
@@ -20,24 +22,17 @@
     "R2025-15",
     "R2025-16"
   ],
-  "completed_batch": "B05",
-  "completed_review_ids": [
-    "R2024-25",
-    "R2025-04",
-    "R2024-26",
-    "R2025-05",
-    "R2025-06",
-    "R2025-07",
-    "R2025-08"
-  ],
   "completed_event_sequences": [
-    55,
-    56,
-    57,
-    58,
-    59,
-    60,
-    61
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69
   ],
-  "next_action_kind": "human-batch-review"
+  "next_action_kind": "human-content-review",
+  "next_content_review_id": "G6-20261024",
+  "next_content_review_path": "outputs/student-lag-g6-review.md"
 }

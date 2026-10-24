@@ -1,30 +1,39 @@
 {
   "date": "2026-10-24",
   "authority_counts": {
-    "facts": 60,
+    "facts": 68,
     "change_facts": 2,
     "lec03_agent_facts": 16,
     "m01_scale_facts": 3,
     "m01_metric_facts": 15,
     "m01_disclosure_facts": 3
   },
-  "B05_events": [
-    55,
-    56,
-    57,
-    58,
-    59,
-    60,
-    61
+  "B06_events": [
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69
   ],
-  "B05_original_display_unchanged": true,
-  "prior_authority_records_and_events_preserved": true,
-  "capacity_bridge_repeat_byte_identical": true,
-  "code_sha256": "2a223e5a91cdc869033012706228e338a82c306fc4dcf1533003ad8419ccb21e",
-  "input_evidence_current": true,
-  "no_new_signature_or_human_arithmetic_confirmation": true,
-  "complete_project_bridge": "Unknown",
-  "report_fingerprint": "e09d9f43fa078209aa7f8c903134e5204686d563a2c7332bda3a68fdad8d4244",
+  "original_display_unchanged": true,
+  "old_records_events_preserved": true,
+  "code_sha256": "df0f8c0ad5a34f6891f8c6f77172490b92279f23f655af3ba0f7634c93e59228",
+  "fixed_asset_independent_residual_yuan": "0.00",
+  "important_cip_listed_amount_residual_yuan": "0.00",
+  "blank_other_decrease_imputed": false,
+  "G6_review_id": "G6-20261024",
+  "G6_status": "pending-human-content-review",
+  "new_human_arithmetic_mechanism_or_signature_confirmation": false,
+  "conflict_ids": [
+    "SC28",
+    "SC29"
+  ],
+  "report_fingerprint": "9a4fe8ed6665c0fda65755cd69279ac19360b6aab7bb22a63ec9a3655a2f0443",
   "report_status": "待人工内容审阅",
-  "next_displayed_batch": null
+  "repeat_calculation_byte_identical": true,
+  "G6_current_authority_and_artifact_bindings_checked": true,
+  "G6_display_payload_sha256": "736094d61b07b91e230a55c1a1162b116c536983e377f433fa8f7199606acda3"
 }

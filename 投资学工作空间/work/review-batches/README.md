@@ -5,7 +5,8 @@
 - B03：9项由leo确认，review41—49。
 - B04：五个独立库存总量由leo确认，review50—54；[实际回执](../../evidence/20261023-b04-chat-confirmation.json)。FY2016—FY2025十年独立库存差额全部0吨。
 - B05：七项由leo确认，review55—61；[实际回执](../../evidence/20261024-b05-chat-confirmation.json)。原展示保持不变。
-- 当前待核：[B06八项](20261024-B06.md)，2025年报15/97/98页；项目投资、固定资产原值/折旧/减值变动与重要在建工程流转。仍在第五次生产库存延伸合同G5，原披露核验与最终内容验收分开。
+- B06：八项由leo确认，review62—69；[实际回执](../../evidence/20261024-b06-chat-confirmation.json)。原展示与指纹不改。
+- 当前无新原数待核批次，下一步[G6两项研究判断内容审阅](../../outputs/student-lag-g6-review.md)，载荷20261024-G6-content-review.json；不是B07或原披露Fact确认。
 - [G5连接分析](../../outputs/student-capacity-capital-bridge.md)已形成；运算、预计释放实现、机制与签署分别处理。
 
 [当前合同工作稿](../../outputs/student-lag-check.md)、[诊断CSV](../../outputs/student-lag-diagnostics.csv)、[电子表格复算](../../outputs/生产库存销售滞后复算.xlsx)。产能资本桥、修订版映射及最终验收仍待补。2025仅后验，原件与完整载荷留本地。原展示/指纹保持不变，回执和状态另存。

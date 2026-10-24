@@ -1,0 +1,20 @@
+{
+  "batch_id": "B06",
+  "display_version": 1,
+  "status": "confirmed-original-disclosure",
+  "reviewer": "leo",
+  "actual_user_reply": "B06全部核验正确，核验人leo",
+  "event_sequences": [
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69
+  ],
+  "receipt": "evidence/20261024-b06-chat-confirmation.json",
+  "arithmetic_status": "AgentCalculated另列",
+  "display_manifest_unchanged": true
+}

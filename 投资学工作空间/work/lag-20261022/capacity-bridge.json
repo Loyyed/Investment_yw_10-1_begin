@@ -2,7 +2,7 @@
   "date": "2026-10-24",
   "state": "AgentCalculated",
   "human_arithmetic_confirmation": false,
-  "code_sha256": "2a223e5a91cdc869033012706228e338a82c306fc4dcf1533003ad8419ccb21e",
+  "code_sha256": "df0f8c0ad5a34f6891f8c6f77172490b92279f23f655af3ba0f7634c93e59228",
   "capacity": [
     {
       "product": "茅台酒",
@@ -118,6 +118,66 @@
       "page": 14
     }
   ],
+  "projects_2025": [
+    {
+      "name": "3万吨酱香系列酒技改工程及其配套设施项目",
+      "source_id": "R2025-09",
+      "current_investment_wanyuan": "35642.58",
+      "accumulated_investment_wanyuan": "707713.26",
+      "previous_accumulated_wanyuan": "672070.68",
+      "accumulated_rollforward_residual_wanyuan": "0.00",
+      "residual_reason": "Unknown，不修改源披露；舍入仅为可能解释，未确认"
+    },
+    {
+      "name": "“十四五”酱香酒习水同民坝一期建设项目",
+      "source_id": "R2025-10",
+      "current_investment_wanyuan": "48520.12",
+      "accumulated_investment_wanyuan": "220005.39",
+      "previous_accumulated_wanyuan": "171485.28",
+      "accumulated_rollforward_residual_wanyuan": "-0.01",
+      "residual_reason": "Unknown，不修改源披露；舍入仅为可能解释，未确认"
+    },
+    {
+      "name": "茅台酒“十四五”技改建设项目",
+      "source_id": "R2025-11",
+      "current_investment_wanyuan": "66063.42",
+      "accumulated_investment_wanyuan": "242494.96",
+      "previous_accumulated_wanyuan": "176431.54",
+      "accumulated_rollforward_residual_wanyuan": "0.00",
+      "residual_reason": "Unknown，不修改源披露；舍入仅为可能解释，未确认"
+    }
+  ],
+  "fixed_asset_bridge": {
+    "gross_increase_yuan": "2521749733.63",
+    "gross_decrease_yuan": "89929631.81",
+    "depreciation_increase_yuan": "1898931275.86",
+    "depreciation_decrease_yuan": "83786731.25",
+    "impairment_opening_yuan": "1067216.80",
+    "impairment_closing_yuan": "1067216.80",
+    "calculated_net_delta_yuan": "616675557.21",
+    "reported_net_delta_yuan": "616675557.21",
+    "independent_residual_yuan": "0.00",
+    "gross_purchase_yuan": "56287269.83",
+    "gross_cip_transfer_yuan": "2450719871.89",
+    "depreciation_charge_yuan": "1892648387.59",
+    "gross_increase_other_components_residual_yuan": "14742591.91",
+    "depreciation_increase_other_components_residual_yuan": "6282888.27",
+    "state": "AgentCalculated"
+  },
+  "important_cip_bridge": {
+    "opening_yuan": "1843910238.77",
+    "additions_yuan": "2207257316.57",
+    "transfers_yuan": "1905844524.60",
+    "closing_yuan": "2145323030.74",
+    "other_decrease_raw": null,
+    "other_decrease_arithmetic_assumption_yuan": null,
+    "assumption_is_disclosed_zero": false,
+    "human_arithmetic_confirmation": false,
+    "listed_amounts_residual_yuan": "0.00",
+    "all_fixed_asset_transfer_minus_important_project_transfer_yuan": "544875347.29",
+    "scope": "仅重要在建项目；不同表范围差额尚未逐项归因",
+    "state": "AgentCalculated（仅已列金额勾稽，空白不代填）"
+  },
   "input_evidence": [
     {
       "domain": "facts",
@@ -183,6 +243,62 @@
       "pdf_sha256": "dd26d9e0017a938cb5e1aa0a830bab7502d0de1f85eb7c00abffb4888c8c20ad"
     },
     {
+      "domain": "facts",
+      "id": "R2025-09",
+      "binding": "68a69cede94fc1f94e2c944479758d55b37245307ed61e33210a35067d09044b",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-10",
+      "binding": "dd633919d9f9c1bb42f7ae967d7e538429c677a1b3ec57662339d2224a7f8334",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-11",
+      "binding": "9798266ad3b0b7e2d3fc2e955c171a1a74a0622ef9870192286c7af3085e30b8",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-12",
+      "binding": "85d7f7fb674a00dc4c9112bf442f4e78ab03f74f3fde8b35087315995d490eb0",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-13",
+      "binding": "9914bdb64b0e1516868a0b91831ef28cc1de054d1eeec6b39ccc662502436530",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-14",
+      "binding": "2732a7d17829667cd9af41478885d22dec4fd6cea9d539f7ce5f0c394e47de47",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-15",
+      "binding": "e757f80d9c7d3c3ae11cdee8387e1ce2859b52cf04cc4dd92a232154657d89f5",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-16",
+      "binding": "d408383d1b538690fa3ee7c47819e8a34b9ca9c6911a70183e7b4c4f10745c4f",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
       "domain": "lec03_agent_facts",
       "id": "L03-A2024-B",
       "validated_snapshot_sha256": "dab33bf43b3e52e24fcfd32b3706f88821594fa28e8ddd1ade859a707ee160ca",
@@ -210,9 +326,12 @@
   "formulas": {
     "delta": "2025−2024",
     "growth_percent": "(2025/2024−1)*100",
-    "actual_to_design_percent": "actual_base_production/design*100, not identified utilization"
+    "actual_to_design_percent": "actual_base_production/design*100, not identified utilization",
+    "fixed_asset_net_delta": "gross increase−gross decrease−depreciation increase+depreciation decrease−(impairment closing−opening)",
+    "important_cip_listed_amounts": "opening+additions−transfers−closing; other decrease raw blank remains None, no imputed zero",
+    "project_accumulation_residual": "2025 accumulated−2024 accumulated−2025 current, in 万元"
   },
   "precision": 48,
-  "generated_output_sha256": "07ab6dad24a4d1f6a95a09c64b35aaaad0516787dfc5ce42aaacff5982497251",
+  "generated_output_sha256": "d5014d55c05ac5ea199e8e42496b4d0b6a801b391404dd1ffe0d3b99e0a70089",
   "complete_project_cash_production_sales_bridge": "Unknown"
 }

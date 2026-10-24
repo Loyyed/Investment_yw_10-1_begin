@@ -31,17 +31,18 @@
     },
     {
       "id": "G5",
-      "state": "B05原披露已确认；连接分析部分完成，项目归因仍Unknown",
-      "result": "leo确认七项review55—61；2024/25设计能力与实际生产、投产及预计释放已分开，固定资产/在建工程与购建现金机械变化已复算。outputs/student-capacity-capital-bridge.md保留解释和精确来源；具体项目转固/折旧、付款调节、维护扩张拆分、实际释放贡献及销售现金映射仍缺，不能宣称G5全部完成；B06已定位8项原披露（15/97/98页），待本人确认，当前不纳入正式运算"
+      "state": "可核数字连接稿已完成，完整项目归因保留Unknown；最终验收另列",
+      "result": "B05/B06原披露共15项已确认。固定资产净增616,675,557.21元独立差额0元；重要在建已列金额差额0元，原表其他减少空白保留，不代填0。项目投资、转固、折旧与现金分别列示，未知归因不强配"
     },
     {
       "id": "G6",
-      "state": "待人工内容审阅Interpretation",
-      "result": "N02/N05有十年库存结构、五行并列、全部k诊断、年度变化、替代解释及反证；尚未核完整资本回报，不认定独有壁垒"
+      "state": "两项Interpretation已形成，待本人内容采纳",
+      "result": "outputs/student-lag-g6-review.md与G6审阅JSON固定主张、机制、变量、当前有效证据、诊断、替代解释、反证及Unknown，未新增人工确认/签署"
     }
   ],
-  "next_batch": "B06",
+  "next_batch": null,
   "new_signature_events": 0,
-  "current_gate": "G5",
-  "next_agent_action": "B06答复后将有效新输入接入capacity_bridge，复算固定资产净变动与重要在建工程流转；无资料的现金/产能归因保留Unknown，转入G6集中审阅"
+  "current_gate": "G6",
+  "next_agent_action": "等本人采纳/修改G6两项判断；G0版本映射可独立继续，教师批准及正式验收不得代填",
+  "next_content_review": "G6-20261024"
 }
