@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-24",
+  "state": "AgentClassificationCandidate，全部新增原文仍Unknown",
+  "method_approval": "P01四项认可不使本批原数升级Fact",
+  "entries": [
+    {
+      "year": 2007,
+      "source_id": "R2007-08",
+      "scope": "土地性质其他应收，账面余额非已核净值",
+      "candidate": "资本预付候选；原选择性资本未纳入其他应收，须核净值及长期资产重叠，不直接加总"
+    },
+    {
+      "year": 2007,
+      "source_ids": [
+        "R2007-09",
+        "R2007-10"
+      ],
+      "candidate": "已列材料款作周转候选、服务器款作设备预付候选；主要单位以外余额用途Unknown，原预付总额不变"
+    },
+    {
+      "year": 2011,
+      "source_ids": [
+        "R2011-07",
+        "R2011-08"
+      ],
+      "candidate": "已列征地/工程款作建设预付候选，从NCWC转至长期预付时总资本可不变，重叠核查仍需做；未列余额用途Unknown",
+      "candidate_listed_land_yuan": "580000000.00",
+      "candidate_listed_construction_yuan": "194532871.71",
+      "candidate_listed_total_yuan": "774532871.71",
+      "candidate_unlisted_prepayments_yuan": "1086494552.32"
+    },
+    {
+      "year": 2011,
+      "source_id": "R2011-09",
+      "candidate": "可拆利息、汇兑和手续费，经济归属及税率另判；尚未把净额全当利息",
+      "candidate_components_sum_yuan": "-350751496.92",
+      "matches_old_confirmed_net": true
+    }
+  ],
+  "checks_boundary": "上述为待核候选内部算术/分类草案，未进入当前有效代理运算，无新增原数或研究结论Fact。",
+  "not_yet_located": "2007匹配营业利润的完整应计利息明细本轮尚未定位，不用存款利息现金收入替代利润明细。"
+}

@@ -45,8 +45,8 @@
   "teacher_HV_imported": false,
   "N03_and_G6_adoption": "accepted-current",
   "research_content_or_signature_created": false,
-  "code_sha256": "622c91c32ea5eca7657cc4beb5d5ef6f68bea73b7fdef8185bbfedc4e73e2aac",
-  "report_fingerprint": "a8b3123fbd8770c0eee38f23489be363c27f968aa243d388a241f5831eaa5e4e",
+  "code_sha256": "9ffe14855dea6c630b438330b2c2959dfc2e5916198d622ff0f65e4406a98171",
+  "report_fingerprint": "28d4f65e5f900bfc9b2c6efaf22fb75e0150c83502d85d65affab34b0257813e",
   "scope_correction": "SC34原文B10已核；2012合并/2013营业分开，代理范围与敏感性仍待判",
   "B10_events": [
     96,
@@ -86,7 +86,7 @@
     2011
   ],
   "cash_reconciliation_unchanged": true,
-  "proxy_code_sha256": "939b751931b81c3e552085c18c958fe12c3019ae714b823f7810a00f90fc6779",
+  "proxy_code_sha256": "105d70aa87d8869e31ac008187f622faa098345265e7df886e65aab8d72b0bd3",
   "B12_events": [
     111,
     112,
@@ -96,11 +96,19 @@
     116
   ],
   "B12_confirmed_inputs_used": 6,
-  "current_content_review": "P01-20261024",
-  "P01_scope_approval": false,
+  "current_content_review": "P01-20261024已认可方法",
   "average_capital_and_sensitivity_fraction_checked": true,
   "spreadsheet_validation": "work/cash-20261024/spreadsheet-validation.json",
   "three_spreadsheet_calculation_types_completed": true,
   "native_Excel_opened": false,
-  "book_tax_decomposition_residual_yuan": "-1E-38"
+  "book_tax_decomposition_residual_yuan": "-1E-38",
+  "P01_method_approval": "accepted-method-with-followups",
+  "economic_classification_complete": false,
+  "B13_pending": 8,
+  "B13_pending_not_used_as_calculation_inputs": true,
+  "P01_validator_isolated_checks": {
+    "changed_reference_marks_example_stale_not_user_retraction": true,
+    "fabricated_reply_rejected": true
+  },
+  "ten_year_and_proxy_numeric_results_unchanged": true
 }

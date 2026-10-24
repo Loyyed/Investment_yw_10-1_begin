@@ -1,0 +1,83 @@
+{
+  "authority": "evidence/cash-scope-review.json",
+  "authority_sha256": "ac6d975ec851a9d0d3548cba3da119216fabc6181aa7be728998416cde86ac8d",
+  "schema_version": 1,
+  "review_id": "P01-20261024",
+  "record_kind": "research-method-scope-approval",
+  "channel": "actual-user-chat",
+  "actual_user_reply": "我认可P01四项口径",
+  "actor": "user",
+  "reviewer_name": null,
+  "identity_note": "本条未另署姓名，不移植此前原数核验人leo或lxy签署。",
+  "client_date": "2026-10-24",
+  "recorded_at": "2026-10-24T23:42:38+08:00",
+  "timestamp_meaning": "程序保存时刻，非已知精确聊天发送时间",
+  "display_manifest": "work/review-batches/20261024-P01-scope-review.json",
+  "display_manifest_sha256": "d715a5cb8a77450df1b9bb58d71cdf3f21ddb1401a19abf24c125ff54d59eb7e",
+  "display_payload_sha256": "aed414df91cbb714f72b935cb3d5fb364653771e6aac71eccdf83a8d25311331",
+  "approved_ids": [
+    "P01-1",
+    "P01-2",
+    "P01-3",
+    "P01-4"
+  ],
+  "approved_rules": [
+    {
+      "id": "P01-1",
+      "title": "选定科目与完整经营资本分开",
+      "proposed_rule": "同意以已核六个营运科目和三个长期资产科目构造“选择性会计代理”。其他项目、工程物资等未分类部分不整体纳入，不把未纳入等同为0或非经营。完整经营NCWC、投入资本与实体ROIC继续Unknown。"
+    },
+    {
+      "id": "P01-2",
+      "title": "平均资本只采用同份报表的年初与年末",
+      "proposed_rule": "同意以（同年报年初选定资本＋年末选定资本）÷2作平均代理。2007基期来自2007新准则年初列，2011基期来自2011年报年初列；不冒作2006旧准则原披露、不自动裁定与前一年原年报相同，也不宣称全年加权经济资本。"
+    },
+    {
+      "id": "P01-3",
+      "title": "利润与税率只作附条件公式和敏感性",
+      "proposed_rule": "同意并列基准公式“营业利润×（1−报表有效税率）”和整行移除公式“（营业利润＋原财务费用−投资收益）×（1−同一税率）”。整行移除不当精准去利息经营利润；税率因子分解仅解释算式，不能认定税法因果。两种公式都不称真实经营NOPAT。"
+    },
+    {
+      "id": "P01-4",
+      "title": "增量、成熟期和实体现金保持停止规则",
+      "proposed_rule": "同意将2007→2011的四年两端差只作为诊断，不命名成熟增量回报、不年化；资本余额差不当累计现金再投资。2012因已合并财务公司单列敏感性。缺逐项范围、内部抵销、再投资或成熟映射时，实体CFO、正式FCFF/ROIC和可分配现金保持Unknown，不把P01认可当合同全部完成或N06/N07结论采纳。"
+    }
+  ],
+  "reviewed_context": [
+    {
+      "path": "docs/20261024-p01-method-explanation.md",
+      "sha256": "8ce14f132d506cef2decec8d3c01e7441969cba19ba8b273606e317e2d40941e"
+    },
+    {
+      "path": "work/cash-20261024/p01-source-observations.json",
+      "sha256": "61023b0c474867ad16a92fa94ecafe4939525d85583707aa2474921fa016d8c7"
+    }
+  ],
+  "interpretation_of_latest_reply": "本人在上一轮方法解释及SC36分类问题说明之后明确认可四项口径，按这些说明保留的限制记录方法认可；并不表示预付款/利润明细分类已完成。",
+  "required_followups": [
+    "预付款按日常周转/土地与建设预付分类，核其他应收/工程物资及长期资本重叠；不能机械剔除建设预付",
+    "财务费用继续拆利息/汇兑/手续费及投资来源，整行移除只保留临时敏感性",
+    "其他相关年度与2012财务公司敏感性、经营税率和利润资本范围、累计再投资及成熟映射继续补证；不足的真实指标Unknown"
+  ],
+  "reviewed_workbook_snapshot": "work/cash-20261024/p01-displayed/现金与资本代理复算.xlsx",
+  "validator_sha256": "4fb010807a3cf93bcd51fe2fb6f43141e175c5733e60629869615694b95c1ebd",
+  "economic_classification_complete": false,
+  "boundary": "方法认可与实例计算、原披露、逐项经济归属、真实经营回报、N06/N07观点、教师验收和正式签署分开；不确认新增附注明细，也不要求为同一方法重复签认可。未来新数据只核其自身，不自动升级Fact。",
+  "new_signature_created": false,
+  "new_raw_fact_confirmations": 0,
+  "new_human_arithmetic_confirmations": 0,
+  "events": [
+    {
+      "sequence": 1,
+      "operation": "approve-method-scope-with-explicit-followups",
+      "actual_user_reply": "我认可P01四项口径",
+      "actor": "user",
+      "approved_ids": [
+        "P01-1",
+        "P01-2",
+        "P01-3",
+        "P01-4"
+      ]
+    }
+  ]
+}

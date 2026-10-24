@@ -2,7 +2,7 @@
   "date": "2026-10-24",
   "state": "AgentCalculated",
   "human_arithmetic_confirmation": false,
-  "code_sha256": "622c91c32ea5eca7657cc4beb5d5ef6f68bea73b7fdef8185bbfedc4e73e2aac",
+  "code_sha256": "9ffe14855dea6c630b438330b2c2959dfc2e5916198d622ff0f65e4406a98171",
   "panel": [
     {
       "year": 2001,
@@ -825,6 +825,32 @@
     }
   },
   "selected_capital_proxy_diagnostics": {
+    "method_approval": {
+      "status": "accepted-method-with-followups",
+      "method_approved": true,
+      "reference_examples_status": "current",
+      "stale_reference_ids": [],
+      "economic_classification_complete": false,
+      "new_raw_facts": 0,
+      "new_signature_created": false,
+      "approved_ids": [
+        "P01-1",
+        "P01-2",
+        "P01-3",
+        "P01-4"
+      ],
+      "actual_user_reply": "我认可P01四项口径",
+      "actor": "user",
+      "reviewer_name": null,
+      "recorded_at": "2026-10-24T23:42:38+08:00",
+      "required_followups": [
+        "预付款按日常周转/土地与建设预付分类，核其他应收/工程物资及长期资本重叠；不能机械剔除建设预付",
+        "财务费用继续拆利息/汇兑/手续费及投资来源，整行移除只保留临时敏感性",
+        "其他相关年度与2012财务公司敏感性、经营税率和利润资本范围、累计再投资及成熟映射继续补证；不足的真实指标Unknown"
+      ],
+      "boundary": "方法认可与实例计算、原披露、逐项经济归属、真实经营回报、N06/N07观点、教师验收和正式签署分开；不确认新增附注明细，也不要求为同一方法重复签认可。未来新数据只核其自身，不自动升级Fact。"
+    },
+    "economic_classification_complete": false,
     "state": "AgentCalculated",
     "human_scope_approval": false,
     "source_confirmation": "B11/B12实际原数确认，当前来源绑定重检；与范围/算术认可分开",
@@ -1023,7 +1049,7 @@
       "average_capital": "本年报年初与年末选定资本均值；只为附条件代理，不是完整经济资本",
       "maturity": "Unknown：项目投入到成熟映射未齐"
     },
-    "code_sha256": "939b751931b81c3e552085c18c958fe12c3019ae714b823f7810a00f90fc6779"
+    "code_sha256": "105d70aa87d8869e31ac008187f622faa098345265e7df886e65aab8d72b0bd3"
   },
   "listed_financial_rows": [
     {
@@ -1823,5 +1849,5 @@
     "inventory_intensity": "book inventory/consolidated operating revenue"
   },
   "precision": 48,
-  "generated_output_sha256": "56b493a06ee592b224bbfa8008237e9c559d701ee914267520decfdce4ba7420"
+  "generated_output_sha256": "37a8ee50de470bf3a98a691968987d722b40c19006421ffe27bff15aace9505e"
 }

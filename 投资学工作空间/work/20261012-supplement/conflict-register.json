@@ -501,7 +501,15 @@
       "treatment": "P01-1先分周转/建设预付并核长期资本重叠，不能将全部建设预付简单排除；P01-3补明细，整行仅临时敏感性。原展示/算式结果/115项事实保留；用户只是提疑，未认可/拒绝/撤回原数。",
       "impact": "待修订NCWC与资本分项解释及利润归属；仅作科目重分类未必改变总资本，未提前重算或宣称新经济结论。",
       "state": "P01讨论中未认可；新附注定位非人工Fact",
-      "evidence": "work/cash-20261024/p01-source-observations.json；docs/20261024-p01-method-explanation.md"
+      "evidence": "work/cash-20261024/p01-source-observations.json；docs/20261024-p01-method-explanation.md",
+      "resolution_history": [
+        {
+          "date": "2026-10-24",
+          "event": "本人真实答复我认可P01四项口径",
+          "result": "方法认可已记，解释中的预付款分类/财务明细后续义务保留；B13八项仍Unknown。新增定位2007土地性质款在其他应收、服务器款在预付账款，不能只按科目名归属。",
+          "authority": "evidence/cash-scope-review.json"
+        }
+      ]
     }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "review_id": "P01-20261024",
-  "status": "under-discussion-not-approved",
-  "actual_user_reply": "对是否认可P01四项口径，我存在疑惑和疑虑说说你这么处理的道理吧",
-  "date": "2026-10-24",
-  "human_scope_approval": false,
+  "status": "accepted-method-with-followups",
+  "method_approved": true,
+  "reference_examples_status": "current",
+  "stale_reference_ids": [],
+  "economic_classification_complete": false,
+  "new_raw_facts": 0,
   "new_signature_created": false,
-  "current_action": "先说明方法与代价；P01-1预付款分类和P01-3财务/投资明细完善后再形成新版本，原展示保留，不催促整体认可",
-  "source_observations": "work/cash-20261024/p01-source-observations.json"
+  "approved_ids": [
+    "P01-1",
+    "P01-2",
+    "P01-3",
+    "P01-4"
+  ],
+  "actual_user_reply": "我认可P01四项口径",
+  "actor": "user",
+  "reviewer_name": null,
+  "recorded_at": "2026-10-24T23:42:38+08:00",
+  "required_followups": [
+    "预付款按日常周转/土地与建设预付分类，核其他应收/工程物资及长期资本重叠；不能机械剔除建设预付",
+    "财务费用继续拆利息/汇兑/手续费及投资来源，整行移除只保留临时敏感性",
+    "其他相关年度与2012财务公司敏感性、经营税率和利润资本范围、累计再投资及成熟映射继续补证；不足的真实指标Unknown"
+  ],
+  "boundary": "方法认可与实例计算、原披露、逐项经济归属、真实经营回报、N06/N07观点、教师验收和正式签署分开；不确认新增附注明细，也不要求为同一方法重复签认可。未来新数据只核其自身，不自动升级Fact。",
+  "authority": "evidence/cash-scope-review.json",
+  "prior_discussion_preserved": "work/review-batches/history/20261024-P01-before-adoption-status.json"
 }

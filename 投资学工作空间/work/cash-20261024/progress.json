@@ -2,7 +2,7 @@
   "date": "2026-10-24",
   "contract": "第五次任务延伸合同_贵州茅台现金与资本回报验证.md",
   "contract_sha256": "da205d95d3157ca474c8e5638749d884d5ede85302f449999b3879741a60d121",
-  "status": "P01讨论中，用户未认可；先解释并完善预付款用途分类和财务/投资附注明细",
+  "status": "阶段六：P01四项方法已认可并保留解释限制；B13八项附注明细待核，经济分类继续补证",
   "layers": [
     "合并事实",
     "金融活动与抵销",
@@ -50,10 +50,19 @@
     2025
   ],
   "current_complete_cash_n": 10,
-  "next_batch": null,
-  "next_review_ids": [],
+  "next_batch": "B13",
+  "next_review_ids": [
+    "R2007-08",
+    "R2007-09",
+    "R2007-10",
+    "R2011-07",
+    "R2011-08",
+    "R2011-09",
+    "R2007-11",
+    "R2011-10"
+  ],
   "remaining_steps": [
-    "先补P01-1预付款经济用途和P01-3财务/投资明细，再形成修订版口径；当前不催整体认可",
+    "B13核2007/2011土地、材料、设备预付与财务/投资明细；随后按已认可方法做分类并核重叠",
     "必要的其他年度与2012敏感性原数/逐项范围缺口继续标明",
     "成熟期、逐年累计再投资和内部抵销不足的真实指标保持Unknown",
     "N06/N07支持、替代解释、反证及内容采纳，正式验收另列"
@@ -76,7 +85,8 @@
     "两端选定NCWC/资本与利润公式值由Decimal48和Fraction独立核对，四年余额差诊断不命名成熟回报",
     "B12由leo确认review111—116，Fact115",
     "平均选定资本、整行利润移除敏感性及两路径税率因子分解通过Decimal/Fraction核对",
-    "三类电子表格复算、40项现金公式/18项资本检查及保存公式缓存和视觉检查完成；未打开原生Excel"
+    "三类电子表格复算、40项现金公式/18项资本检查及保存公式缓存和视觉检查完成；未打开原生Excel",
+    "本人真实答复我认可P01四项口径，独立记录方法认可；原数115不变，未代确认经济归属"
   ],
   "source_confirmation_receipts": [
     "evidence/20261024-b09-chat-confirmation.json",
@@ -89,5 +99,7 @@
     2011
   ],
   "FY2012_sensitivity": "已核2012合并与银行利息事实，完整利润资本重配仍Unknown",
-  "next_content_review": "P01-20261024（讨论与修订，未认可）"
+  "next_content_review": null,
+  "P01_method_approval": "accepted-method-with-followups",
+  "economic_classification_complete": false
 }

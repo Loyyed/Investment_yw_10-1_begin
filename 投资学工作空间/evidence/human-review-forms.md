@@ -10,7 +10,7 @@
 <!-- review-store:progress:start -->
 ## 统一核验记录
 
-当前有效Fact为115条；Unknown为46条；已撤回0条；需重新核验0条。共161条候选。 日期自动按Asia/Shanghai记录。合同验收、复核人与正式签署另行完成。
+当前有效Fact为115条；Unknown为54条；已撤回0条；需重新核验0条。共169条候选。 日期自动按Asia/Shanghai记录。合同验收、复核人与正式签署另行完成。
 
 | 编号 | 有效状态 | 核验人 | 核验时间 | 备注／失效原因 |
 | --- | --- | --- | --- | --- |
@@ -175,4 +175,12 @@
 | R2011-04 | Fact | leo | 2026-10-24T22:09:17+08:00 | {"channel": "actual-user-chat", "actual_user_reply": "B12全部核验正确，核验人leo", "client_date": "2026-10-24", "reviewer": "leo", "batch_id": "B12", "batch_version": 1, "display_payload_sha256": "53cdf06da0fa7084217d29e2d42748f729bb468132ed2f4f442918160381fe95", "display_manifest": "work/review-batches/20261024-B12.json", "confirmation_scope": ["R2007-05", "R2007-06", "R2007-07", "R2011-04", "R2011-05", "R2011-06"], "exceptions": [], "confirmation_context": "此前展示B12六项22金额：2007/2011合并资产负债表年初余额的NCWC六科目及长期资本三科目，分别对应2006/2010年末本报告口径；另核两年本期财务费用和投资收益，负号照录。均人民币元。2006为2007新准则年初值，不冒作2006旧准则原披露；B11年末和利润税三项复用。", "timestamp_meaning": "confirmed_at为程序保存实际聊天答复的时刻；非窗口点击，精确聊天发送时间未提供。", "boundary": "仅确认原数及列位。原数正确不自动认可与上年原年报完全一致、平均资本或算术结果；财务费用不自动全属存款利息，投资收益及其他/工程物资归属、经营税率、利润资本匹配、成熟期、真实NOPAT/ROIC/增量回报、内容采纳和新签署均分别处理。"} |
 | R2011-05 | Fact | leo | 2026-10-24T22:09:17+08:00 | {"channel": "actual-user-chat", "actual_user_reply": "B12全部核验正确，核验人leo", "client_date": "2026-10-24", "reviewer": "leo", "batch_id": "B12", "batch_version": 1, "display_payload_sha256": "53cdf06da0fa7084217d29e2d42748f729bb468132ed2f4f442918160381fe95", "display_manifest": "work/review-batches/20261024-B12.json", "confirmation_scope": ["R2007-05", "R2007-06", "R2007-07", "R2011-04", "R2011-05", "R2011-06"], "exceptions": [], "confirmation_context": "此前展示B12六项22金额：2007/2011合并资产负债表年初余额的NCWC六科目及长期资本三科目，分别对应2006/2010年末本报告口径；另核两年本期财务费用和投资收益，负号照录。均人民币元。2006为2007新准则年初值，不冒作2006旧准则原披露；B11年末和利润税三项复用。", "timestamp_meaning": "confirmed_at为程序保存实际聊天答复的时刻；非窗口点击，精确聊天发送时间未提供。", "boundary": "仅确认原数及列位。原数正确不自动认可与上年原年报完全一致、平均资本或算术结果；财务费用不自动全属存款利息，投资收益及其他/工程物资归属、经营税率、利润资本匹配、成熟期、真实NOPAT/ROIC/增量回报、内容采纳和新签署均分别处理。"} |
 | R2011-06 | Fact | leo | 2026-10-24T22:09:17+08:00 | {"channel": "actual-user-chat", "actual_user_reply": "B12全部核验正确，核验人leo", "client_date": "2026-10-24", "reviewer": "leo", "batch_id": "B12", "batch_version": 1, "display_payload_sha256": "53cdf06da0fa7084217d29e2d42748f729bb468132ed2f4f442918160381fe95", "display_manifest": "work/review-batches/20261024-B12.json", "confirmation_scope": ["R2007-05", "R2007-06", "R2007-07", "R2011-04", "R2011-05", "R2011-06"], "exceptions": [], "confirmation_context": "此前展示B12六项22金额：2007/2011合并资产负债表年初余额的NCWC六科目及长期资本三科目，分别对应2006/2010年末本报告口径；另核两年本期财务费用和投资收益，负号照录。均人民币元。2006为2007新准则年初值，不冒作2006旧准则原披露；B11年末和利润税三项复用。", "timestamp_meaning": "confirmed_at为程序保存实际聊天答复的时刻；非窗口点击，精确聊天发送时间未提供。", "boundary": "仅确认原数及列位。原数正确不自动认可与上年原年报完全一致、平均资本或算术结果；财务费用不自动全属存款利息，投资收益及其他/工程物资归属、经营税率、利润资本匹配、成熟期、真实NOPAT/ROIC/增量回报、内容采纳和新签署均分别处理。"} |
+| R2007-08 | Unknown |  |  | B13待本人核原文；P01方法认可不替代本批原披露核验 |
+| R2007-09 | Unknown |  |  | B13待本人核原文；P01方法认可不替代本批原披露核验 |
+| R2007-10 | Unknown |  |  | B13待本人核原文；P01方法认可不替代本批原披露核验 |
+| R2011-07 | Unknown |  |  | B13待本人核原文；P01方法认可不替代本批原披露核验 |
+| R2011-08 | Unknown |  |  | B13待本人核原文；P01方法认可不替代本批原披露核验 |
+| R2011-09 | Unknown |  |  | B13待本人核原文；P01方法认可不替代本批原披露核验 |
+| R2007-11 | Unknown |  |  | B13待本人核原文；P01方法认可不替代本批原披露核验 |
+| R2011-10 | Unknown |  |  | B13待本人核原文；P01方法认可不替代本批原披露核验 |
 <!-- review-store:progress:end -->

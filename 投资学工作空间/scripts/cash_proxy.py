@@ -6,7 +6,7 @@ import json, hashlib
 def digest(value):
     return hashlib.sha256(json.dumps(value,ensure_ascii=False,sort_keys=True,separators=(',',':')).encode()).hexdigest()
 
-def calculate_proxy(p:Path,raw:dict):
+def calculate_proxy(p:Path,raw:dict,groups=None):
     manifest=json.loads((p/'work/review-batches/20261024-B11.json').read_text(encoding='utf-8'))
     payload=dict(manifest);fp=payload.pop('display_payload_sha256');assert fp==digest(payload)
     verified=[]
@@ -69,7 +69,9 @@ def calculate_proxy(p:Path,raw:dict):
             window['formula_change_decomposition']={'method':'两路径平均，NOPAT公式=OP*(1-t)，只分解算式不认定税法因果','operating_profit_factor_yuan':str(op_effect),'book_tax_factor_yuan':str(tax_effect),'sum_yuan':str(op_effect+tax_effect),'residual_yuan':str(delta_nopat-op_effect-tax_effect)}
             if all('whole_line_neutralized_formula_yuan' in x for x in panel):
                 d=Decimal(panel[1]['whole_line_neutralized_formula_yuan'])-Decimal(panel[0]['whole_line_neutralized_formula_yuan']);window['whole_line_sensitivity_delta_formula_yuan']=str(d);window['whole_line_sensitivity_delta_profit_over_delta_capital']=str(d/delta_cap) if valid else None
-    return {'state':'AgentCalculated','human_scope_approval':False,'source_confirmation':'B11/B12实际原数确认，当前来源绑定重检；与范围/算术认可分开',
+    from cash_scope_review import current_p01_adoption
+    method_approval=current_p01_adoption(p,raw,groups)
+    return {'method_approval':method_approval,'economic_classification_complete':False,'state':'AgentCalculated','human_scope_approval':False,'source_confirmation':'B11/B12实际原数确认，当前来源绑定重检；与范围/算术认可分开',
       'used_ids':[x['id'] for x in verified+b12verified],'panel':panel,'window_diagnostic':window,
       'formulas':{'selected_ncwc':'存货+应收票据+应收账款+预付款项−应付账款−预收款项','selected_end_capital':'selected_ncwc+固定资产+在建工程+无形资产','nopat_formula':'营业利润×(1−所得税费用/利润总额)'},
       'parameters':{'ncwc_signs':rules,'other_accounts':'逐项待判，未整体纳入/排除','profit_capital_scope':'Unknown','operating_tax_rate':'Unknown；书面有效税率只供附条件公式','average_capital':'本年报年初与年末选定资本均值；只为附条件代理，不是完整经济资本','maturity':'Unknown：项目投入到成熟映射未齐'},
