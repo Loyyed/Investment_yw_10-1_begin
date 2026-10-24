@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "authority_counts": {
-    "facts": 115,
+    "facts": 123,
     "change_facts": 2,
     "lec03_agent_facts": 16,
     "m01_scale_facts": 3,
@@ -45,8 +45,8 @@
   "teacher_HV_imported": false,
   "N03_and_G6_adoption": "accepted-current",
   "research_content_or_signature_created": false,
-  "code_sha256": "9ffe14855dea6c630b438330b2c2959dfc2e5916198d622ff0f65e4406a98171",
-  "report_fingerprint": "28d4f65e5f900bfc9b2c6efaf22fb75e0150c83502d85d65affab34b0257813e",
+  "code_sha256": "f83dca56ec752350af3e37fa221020942f03572a99e084ed8a27c347d7ffb515",
+  "report_fingerprint": "665b12637744eff5d340005b80fe1e74174ef38b81676c903745f0fe2661e3f8",
   "scope_correction": "SC34原文B10已核；2012合并/2013营业分开，代理范围与敏感性仍待判",
   "B10_events": [
     96,
@@ -86,7 +86,7 @@
     2011
   ],
   "cash_reconciliation_unchanged": true,
-  "proxy_code_sha256": "105d70aa87d8869e31ac008187f622faa098345265e7df886e65aab8d72b0bd3",
+  "proxy_code_sha256": "ba7d1a046e35a30f024419e89b44b020a4a36ed470471569fdc9e71f8fa2aa2a",
   "B12_events": [
     111,
     112,
@@ -104,11 +104,32 @@
   "book_tax_decomposition_residual_yuan": "-1E-38",
   "P01_method_approval": "accepted-method-with-followups",
   "economic_classification_complete": false,
-  "B13_pending": 8,
-  "B13_pending_not_used_as_calculation_inputs": true,
+  "B13_pending": 0,
   "P01_validator_isolated_checks": {
     "changed_reference_marks_example_stale_not_user_retraction": true,
     "fabricated_reply_rejected": true
   },
-  "ten_year_and_proxy_numeric_results_unchanged": true
+  "ten_year_and_proxy_numeric_results_unchanged": true,
+  "B13_events": [
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124
+  ],
+  "B13_confirmed_inputs_used": 8,
+  "B14_pending": 7,
+  "B14_pending_not_used_as_calculation_inputs": true,
+  "classification_residual_yuan": [
+    "0.00",
+    "0.00"
+  ],
+  "classification_and_detail_sensitivity_fraction_checked": true,
+  "unknown_prepayment_bucket_retained": true,
+  "classified_opening_average_capital": null,
+  "base_workbook_unchanged_and_excludes_B13_detail": true,
+  "classification_code_sha256": "ccb6834dd93853c6c584476b9eb4f684f81453e8b4560024b8d4bd80a4d25726"
 }

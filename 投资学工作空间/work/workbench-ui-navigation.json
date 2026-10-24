@@ -1,16 +1,26 @@
 {
   "schema_version": 1,
   "date": "2026-10-24",
-  "next_review_id": "R2007-08",
-  "next_review_scope": "预付用途与利润明细八项18金额；合计含分项，期末/年度流量和坏账空白分开",
+  "next_review_id": "R2012-02",
+  "next_review_scope": "2012合并敏感性年度七项21金额、一处汇兑本期空白及投资来源；已核2011基期与财务公司数据不重核",
   "preferred_confirmation_channel": "actual-user-chat",
   "completed_review_id": "",
-  "completed_event": 116,
+  "completed_event": 124,
   "completed_channel": "actual-user-chat",
   "completed_reviewer": "leo",
   "toolkit_directory": "投资学公司分析通用工作台",
-  "next_review_batch": "B13",
+  "next_review_batch": "B14",
   "next_review_ids": [
+    "R2012-02",
+    "R2012-03",
+    "R2012-04",
+    "R2012-05",
+    "R2012-06",
+    "R2012-07",
+    "R2012-08"
+  ],
+  "completed_batch": "B13",
+  "completed_review_ids": [
     "R2007-08",
     "R2007-09",
     "R2007-10",
@@ -20,22 +30,15 @@
     "R2007-11",
     "R2011-10"
   ],
-  "completed_batch": "B12",
-  "completed_review_ids": [
-    "R2007-05",
-    "R2007-06",
-    "R2007-07",
-    "R2011-04",
-    "R2011-05",
-    "R2011-06"
-  ],
   "completed_event_sequences": [
-    111,
-    112,
-    113,
-    114,
-    115,
-    116
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124
   ],
   "next_action_kind": "human-batch-review",
   "next_content_review_id": "",

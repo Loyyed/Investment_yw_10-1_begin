@@ -24,7 +24,7 @@
 [本轮修正过程](scope-adjudication.md)；[用途采用清单](../evidence/task03-adopted-evidence.json)。
 
 <!-- review-store:progress:start -->
-当前有效Fact为115条；Unknown为54条；已撤回0条；需重新核验0条。共169条候选。 日期自动按Asia/Shanghai记录。合同验收、复核人与正式签署另行完成。
+当前有效Fact为123条；Unknown为53条；已撤回0条；需重新核验0条。共176条候选。 日期自动按Asia/Shanghai记录。合同验收、复核人与正式签署另行完成。
 
 | 编号 | 有效状态 | 核验人 | 核验时间 | 备注／失效原因 |
 | --- | --- | --- | --- | --- |

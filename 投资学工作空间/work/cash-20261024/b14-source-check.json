@@ -1,0 +1,8 @@
+{
+  "date": "2026-10-25",
+  "state": "AgentSourceComparison，非新增人工Fact",
+  "comparison_2011_columns_match_confirmed_B11": true,
+  "candidate_finance_components_match_net": true,
+  "blank_FX_not_reported_zero": true,
+  "B14_pending": 7
+}

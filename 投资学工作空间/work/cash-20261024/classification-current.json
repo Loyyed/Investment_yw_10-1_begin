@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-25",
+  "state": "AgentCalculated / AgentInterpretation：原文Fact与分类判断分开",
+  "used_ids": [
+    "R2007-08",
+    "R2007-09",
+    "R2007-10",
+    "R2011-07",
+    "R2011-08",
+    "R2011-09",
+    "R2007-11",
+    "R2011-10"
+  ],
+  "decomposition": [
+    {
+      "year": 2007,
+      "reported_total_prepayments_yuan": "6825624.62",
+      "listed_materials_prepayments_yuan": "3670891.19",
+      "listed_land_prepayments_yuan": null,
+      "listed_construction_prepayments_yuan": null,
+      "listed_equipment_prepayment_yuan": "165000.00",
+      "listed_capital_prepayment_yuan": "165000.00",
+      "listed_total_yuan": "3835891.19",
+      "unclassified_remainder_yuan": "2989733.43",
+      "unclassified_share": "0.438016093243639290553309097739394874604164798034",
+      "selected_working_balance_excluding_unclassified_yuan": "1270973055.69",
+      "selected_long_assets_plus_listed_capital_prepayments_yuan": "3070875623.48",
+      "sum_with_unclassified_bucket_yuan": "4344838412.60",
+      "baseline_selected_end_capital_yuan": "4344838412.60",
+      "classification_residual_yuan": "0.00",
+      "average_classified_capital_yuan": null,
+      "actual_operating_ncwc_yuan": null,
+      "actual_operating_capital_yuan": null,
+      "boundary": "按公司已披露用途形成Agent分类，不将未列余额当日常周转或0；资本预付从周转桶转至长期桶，加未分类桶与原选择性资本守恒；未证明资产无重叠，年末用途不外推年初。"
+    },
+    {
+      "year": 2011,
+      "reported_total_prepayments_yuan": "1861027424.03",
+      "listed_materials_prepayments_yuan": null,
+      "listed_land_prepayments_yuan": "580000000.00",
+      "listed_construction_prepayments_yuan": "194532871.71",
+      "listed_equipment_prepayment_yuan": null,
+      "listed_capital_prepayment_yuan": "774532871.71",
+      "listed_total_yuan": "774532871.71",
+      "unclassified_remainder_yuan": "1086494552.32",
+      "unclassified_share": "0.583814369574000199640679767871480655281227913996",
+      "selected_working_balance_excluding_unclassified_yuan": "242451983.56",
+      "selected_long_assets_plus_listed_capital_prepayments_yuan": "7260417060.08",
+      "sum_with_unclassified_bucket_yuan": "8589363595.96",
+      "baseline_selected_end_capital_yuan": "8589363595.96",
+      "classification_residual_yuan": "0.00",
+      "average_classified_capital_yuan": null,
+      "actual_operating_ncwc_yuan": null,
+      "actual_operating_capital_yuan": null,
+      "boundary": "按公司已披露用途形成Agent分类，不将未列余额当日常周转或0；资本预付从周转桶转至长期桶，加未分类桶与原选择性资本守恒；未证明资产无重叠，年末用途不外推年初。"
+    }
+  ],
+  "outside_baseline_proxy": [
+    {
+      "year": 2007,
+      "source_id": "R2007-08",
+      "gross_land_other_receivables_yuan": "61806080.00",
+      "net_carrying_value_yuan": null,
+      "added_to_selected_capital": false,
+      "boundary": "原代理未含其他应收；原文坏账列空白不认成0。净值、长期资本重叠与期初对应未裁定，先列补查项，不直接加回。"
+    }
+  ],
+  "disclosed_component_sensitivity_2011": {
+    "year": 2011,
+    "interest_income_as_expense_signed_yuan": "-352218795.40",
+    "fx_expense_yuan": "1114988.48",
+    "fees_yuan": "352310.00",
+    "components_sum_yuan": "-350751496.92",
+    "matches_confirmed_net": true,
+    "conditional_profit_before_tax_yuan": "11980562629.68",
+    "conditional_after_tax_formula_yuan": "8984769703.01795852761671984596236434429743289818",
+    "conditional_formula_over_baseline_average": "1.13469369327231958840147545847631457200891583439",
+    "difference_from_whole_line_after_tax_yuan": "-1100393.97446398792642541589793621774396862442",
+    "difference_from_whole_line_ratio_pp": "-0.01389696279604967967254029992856628009031947100",
+    "formula": "(营业利润+按费用表负号的利息收入−投资收益)×(1−报表有效税率)，保留已列汇兑与手续费",
+    "assumptions": "保留汇兑和手续费仅为明确的比较约定，未确认全部为酒类经营；税率和分母仍为原会计代理",
+    "actual_operating_nopat_yuan": null,
+    "actual_operating_roic": null,
+    "cross_year_same_scope_incremental_return": null,
+    "cross_year_stop": "2007未获同口径应计利息明细，不以现金存款利息或整行净额与2011明细拼接比较。"
+  },
+  "investment_origins": [
+    {
+      "year": 2007,
+      "id": "R2007-11",
+      "text": "投资收益按投资单位分项为国债投资；本期数在右列。"
+    },
+    {
+      "year": 2011,
+      "id": "R2011-10",
+      "text": "本期投资收益列于持有至到期投资取得的投资收益项目。"
+    }
+  ],
+  "economic_classification_complete": false,
+  "formal_incremental_return": null,
+  "code_sha256": "ccb6834dd93853c6c584476b9eb4f684f81453e8b4560024b8d4bd80a4d25726"
+}

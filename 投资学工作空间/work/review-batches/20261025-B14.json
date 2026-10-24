@@ -1,0 +1,196 @@
+{
+  "batch_id": "B14",
+  "version": 1,
+  "date": "2026-10-25",
+  "status": "pending-human-confirmation",
+  "contract": "第五次任务延伸合同_贵州茅台现金与资本回报验证.md",
+  "purpose": "补2012已合并财务公司的敏感性年度基础与利润明细；2011已核期末和2012财务公司净资产/净利润不重核",
+  "items": [
+    {
+      "id": "R2012-02",
+      "year": 2012,
+      "period_year": 2012,
+      "kind": "cash-revenue-basic-year",
+      "name": "2012合并现金与收入四项",
+      "fields": {
+        "合并净利润": "14008450702.17",
+        "合并CFO": "11921310609.25",
+        "购建长期资产支付现金": "4211900807.91",
+        "合并营业收入": "26455335152.99"
+      },
+      "value": "合并净利润14,008,450,702.17；合并CFO11,921,310,609.25；购建长期资产支付现金4,211,900,807.91；合并营业收入26,455,335,152.99",
+      "page": "47、48、50",
+      "source_path": "sources/annual_reports/pdf/600519_2012_贵州茅台_2012年年度报告.pdf",
+      "source_sha256": "9a8faef737d4dd64e8260325247b8ffe77e5de506f4b23b046f28c0758377eae",
+      "scope": "人民币元；2012合并年度流量，净利润含少数股东，非归母；收入用其中营业收入",
+      "boundary": "2012已含财务公司，不能直接称酒类实体现金；购建现金不是全部再投资/FCFF",
+      "field_pages": {
+        "合并净利润": 48,
+        "合并CFO": 50,
+        "购建长期资产支付现金": 50,
+        "合并营业收入": 47
+      },
+      "header_pages": {
+        "income": 47,
+        "cash": 50
+      },
+      "binding": "0bc80cb5d630e918aa4d759f31398c613b221100447bbc8dfc6e2232202742f7",
+      "candidate_fingerprint": "3a5fe7aefe2e08bd576f3e51d620fbf360f34c2dbea5567c56e94b9334df68c9",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2012-03",
+      "year": 2012,
+      "period_year": 2012,
+      "kind": "proxy-ncwc-input",
+      "name": "2012年末选择性营运资本六项",
+      "fields": {
+        "存货": "9665727593.42",
+        "应收票据": "204079117.80",
+        "应收账款": "17818147.27",
+        "预付款项": "3872870407.89",
+        "应付账款": "345280977.68",
+        "预收款项": "5091386269.55"
+      },
+      "value": "存货9,665,727,593.42；应收票据204,079,117.80；应收账款17,818,147.27；预付款项3,872,870,407.89；应付账款345,280,977.68；预收款项5,091,386,269.55",
+      "page": "43、44",
+      "source_path": "sources/annual_reports/pdf/600519_2012_贵州茅台_2012年年度报告.pdf",
+      "source_sha256": "9a8faef737d4dd64e8260325247b8ffe77e5de506f4b23b046f28c0758377eae",
+      "scope": "人民币元；合并资产负债表2012年末余额列，非年初列、非吨数",
+      "boundary": "原数不自动确认全部科目为经营、与前财务公司窗口可比、经营税率或完整资本/真实回报",
+      "field_pages": {
+        "存货": 43,
+        "应收票据": 43,
+        "应收账款": 43,
+        "预付款项": 43,
+        "应付账款": 44,
+        "预收款项": 44
+      },
+      "header_page": 43,
+      "binding": "3c6107f019c636acaffee2072711cb8f0498bf5ceb5a99c8bf4c75b3914181d3",
+      "candidate_fingerprint": "0bbc0825e26554b299e59d386ebe3f5db19ed37d57d86e1994bc69febb6e300f",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2012-04",
+      "year": 2012,
+      "period_year": 2012,
+      "kind": "proxy-long-assets-input",
+      "name": "2012年末长期资本三项",
+      "fields": {
+        "固定资产": "6807333231.09",
+        "在建工程": "392672323.95",
+        "无形资产": "862615899.20"
+      },
+      "value": "固定资产6,807,333,231.09；在建工程392,672,323.95；无形资产862,615,899.20",
+      "page": "43、44",
+      "source_path": "sources/annual_reports/pdf/600519_2012_贵州茅台_2012年年度报告.pdf",
+      "source_sha256": "9a8faef737d4dd64e8260325247b8ffe77e5de506f4b23b046f28c0758377eae",
+      "scope": "人民币元；合并资产负债表2012年末余额列，非年初列、非吨数",
+      "boundary": "原数不自动确认全部科目为经营、与前财务公司窗口可比、经营税率或完整资本/真实回报",
+      "field_pages": {
+        "固定资产": 43,
+        "在建工程": 43,
+        "无形资产": 44
+      },
+      "header_page": 43,
+      "binding": "7fb2f3952dd9f53d38e3f4b3953282f47027a3ef70475b75dc8416675ab6bdbd",
+      "candidate_fingerprint": "eea05f124895effed428a18341b5d5b5adc5b13fcf67bbcdd56692ab624529b4",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2012-05",
+      "year": 2012,
+      "period_year": 2012,
+      "kind": "proxy-profit-input",
+      "name": "2012营业利润/利润总额/所得税",
+      "fields": {
+        "三、营业利润": "18830739817.65",
+        "四、利润总额": "18700490469.16",
+        "减：所得税费用": "4692039766.99"
+      },
+      "value": "三、营业利润18,830,739,817.65；四、利润总额18,700,490,469.16；减：所得税费用4,692,039,766.99",
+      "page": "48",
+      "source_path": "sources/annual_reports/pdf/600519_2012_贵州茅台_2012年年度报告.pdf",
+      "source_sha256": "9a8faef737d4dd64e8260325247b8ffe77e5de506f4b23b046f28c0758377eae",
+      "scope": "人民币元；合并利润表2012本期年度流量，非上期列；负号照录",
+      "boundary": "原数不自动确认全部科目为经营、与前财务公司窗口可比、经营税率或完整资本/真实回报",
+      "field_pages": {
+        "三、营业利润": 48,
+        "四、利润总额": 48,
+        "减：所得税费用": 48
+      },
+      "header_page": 47,
+      "binding": "00557fe22844f711559b03e89d0e2aa28fc4f6e3caa5e372eb6ae4d30908abf0",
+      "candidate_fingerprint": "2de2a4140f3fb81a6c7c5b70b4409fbf32bf9767d2af6082099a0ad1f9ad0d2d",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2012-06",
+      "year": 2012,
+      "period_year": 2012,
+      "kind": "proxy-finance-investment",
+      "name": "2012财务费用净额与投资收益",
+      "fields": {
+        "财务费用": "-420975922.49",
+        "投资收益": "3103250.00"
+      },
+      "value": "财务费用-420,975,922.49；投资收益3,103,250.00",
+      "page": "48",
+      "source_path": "sources/annual_reports/pdf/600519_2012_贵州茅台_2012年年度报告.pdf",
+      "source_sha256": "9a8faef737d4dd64e8260325247b8ffe77e5de506f4b23b046f28c0758377eae",
+      "scope": "人民币元；合并利润表2012本期年度流量，非上期列；负号照录",
+      "boundary": "原数不自动确认全部科目为经营、与前财务公司窗口可比、经营税率或完整资本/真实回报",
+      "field_pages": {
+        "财务费用": 48,
+        "投资收益": 48
+      },
+      "header_page": 47,
+      "binding": "a5fc449b221fca69b439e28ee7c854660d9c8395263e646b9dee213bcf2ce22c",
+      "candidate_fingerprint": "b2a5f0a3d9253a7b5aa39ffc6332b970524f08fa91625341dca4a53ec3d257db",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2012-07",
+      "year": 2012,
+      "period_year": 2012,
+      "kind": "financial-expense-components",
+      "name": "2012财务费用明细及空白",
+      "fields": {
+        "利息支出": "132222.22",
+        "利息收入（按费用表符号）": "-421711334.78",
+        "汇兑损益": null,
+        "其他手续费": "603190.07"
+      },
+      "value": "利息支出132,222.22；利息收入（按费用表符号）-421,711,334.78；汇兑损益原表空白；其他手续费603,190.07；汇兑损益本期为空白，非上期1,114,988.48元。",
+      "page": "81",
+      "source_path": "sources/annual_reports/pdf/600519_2012_贵州茅台_2012年年度报告.pdf",
+      "source_sha256": "9a8faef737d4dd64e8260325247b8ffe77e5de506f4b23b046f28c0758377eae",
+      "scope": "人民币元；合并财务费用附注2012本期发生额；汇兑本期列空白，上期有数，勿串列",
+      "boundary": "空白不当披露0；不混同应计费用与现金收支，分类和税率另判",
+      "binding": "a90553a717d14ebbb50317bc6bc7fbec934c97060574f44770d51d78f69e8a4d",
+      "candidate_fingerprint": "546908048cd14f510e16fcb29e91ed5f7bbe6009f85d08146f07280378bb4314",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2012-08",
+      "year": 2012,
+      "period_year": 2012,
+      "kind": "investment-origin",
+      "name": "2012投资收益来源类型",
+      "fields": {},
+      "value": "投资收益明细本期列于持有至到期投资取得的投资收益项目。",
+      "page": "81、82",
+      "source_path": "sources/annual_reports/pdf/600519_2012_贵州茅台_2012年年度报告.pdf",
+      "source_sha256": "9a8faef737d4dd64e8260325247b8ffe77e5de506f4b23b046f28c0758377eae",
+      "scope": "合并投资收益附注2012本期项目类型；金额复用本批原利润表，不重复列金额",
+      "boundary": "不确认酒类经营归属、全部金融净贡献或收到现金的时点",
+      "binding": "fb4c815460399da84d3ca87f0d8919e95ad1d57bfeb00558aefdda4fa1eef554",
+      "candidate_fingerprint": "da87c4c2db18affcd4993200c9ce544994c3cebe988aa3214b2e27221ca7d467",
+      "state_at_display": "Unknown"
+    }
+  ],
+  "scope_note": "七项21金额，一处本期原表空白和一项投资来源类型；人民币元。2012只能单列合并观察，不能因2013正式营业就称2012纯酒类。",
+  "actual_human_reply": null,
+  "display_payload_sha256": "f2ef6da47b259478904d5ff53832151c020d036af508165f5ac0ac749e3a5cbf"
+}

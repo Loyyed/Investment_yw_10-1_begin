@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "state": "AgentCalculated",
   "human_arithmetic_confirmation": false,
-  "code_sha256": "9ffe14855dea6c630b438330b2c2959dfc2e5916198d622ff0f65e4406a98171",
+  "code_sha256": "f83dca56ec752350af3e37fa221020942f03572a99e084ed8a27c347d7ffb515",
   "panel": [
     {
       "year": 2001,
@@ -853,7 +853,7 @@
     "economic_classification_complete": false,
     "state": "AgentCalculated",
     "human_scope_approval": false,
-    "source_confirmation": "B11/B12实际原数确认，当前来源绑定重检；与范围/算术认可分开",
+    "source_confirmation": "B11/B12/B13实际原数确认，当前来源绑定重检；与范围/算术认可分开",
     "used_ids": [
       "R2007-02",
       "R2007-03",
@@ -866,8 +866,118 @@
       "R2007-07",
       "R2011-04",
       "R2011-05",
-      "R2011-06"
+      "R2011-06",
+      "R2007-08",
+      "R2007-09",
+      "R2007-10",
+      "R2011-07",
+      "R2011-08",
+      "R2011-09",
+      "R2007-11",
+      "R2011-10"
     ],
+    "classification_and_profit_details": {
+      "date": "2026-10-25",
+      "state": "AgentCalculated / AgentInterpretation：原文Fact与分类判断分开",
+      "used_ids": [
+        "R2007-08",
+        "R2007-09",
+        "R2007-10",
+        "R2011-07",
+        "R2011-08",
+        "R2011-09",
+        "R2007-11",
+        "R2011-10"
+      ],
+      "decomposition": [
+        {
+          "year": 2007,
+          "reported_total_prepayments_yuan": "6825624.62",
+          "listed_materials_prepayments_yuan": "3670891.19",
+          "listed_land_prepayments_yuan": null,
+          "listed_construction_prepayments_yuan": null,
+          "listed_equipment_prepayment_yuan": "165000.00",
+          "listed_capital_prepayment_yuan": "165000.00",
+          "listed_total_yuan": "3835891.19",
+          "unclassified_remainder_yuan": "2989733.43",
+          "unclassified_share": "0.438016093243639290553309097739394874604164798034",
+          "selected_working_balance_excluding_unclassified_yuan": "1270973055.69",
+          "selected_long_assets_plus_listed_capital_prepayments_yuan": "3070875623.48",
+          "sum_with_unclassified_bucket_yuan": "4344838412.60",
+          "baseline_selected_end_capital_yuan": "4344838412.60",
+          "classification_residual_yuan": "0.00",
+          "average_classified_capital_yuan": null,
+          "actual_operating_ncwc_yuan": null,
+          "actual_operating_capital_yuan": null,
+          "boundary": "按公司已披露用途形成Agent分类，不将未列余额当日常周转或0；资本预付从周转桶转至长期桶，加未分类桶与原选择性资本守恒；未证明资产无重叠，年末用途不外推年初。"
+        },
+        {
+          "year": 2011,
+          "reported_total_prepayments_yuan": "1861027424.03",
+          "listed_materials_prepayments_yuan": null,
+          "listed_land_prepayments_yuan": "580000000.00",
+          "listed_construction_prepayments_yuan": "194532871.71",
+          "listed_equipment_prepayment_yuan": null,
+          "listed_capital_prepayment_yuan": "774532871.71",
+          "listed_total_yuan": "774532871.71",
+          "unclassified_remainder_yuan": "1086494552.32",
+          "unclassified_share": "0.583814369574000199640679767871480655281227913996",
+          "selected_working_balance_excluding_unclassified_yuan": "242451983.56",
+          "selected_long_assets_plus_listed_capital_prepayments_yuan": "7260417060.08",
+          "sum_with_unclassified_bucket_yuan": "8589363595.96",
+          "baseline_selected_end_capital_yuan": "8589363595.96",
+          "classification_residual_yuan": "0.00",
+          "average_classified_capital_yuan": null,
+          "actual_operating_ncwc_yuan": null,
+          "actual_operating_capital_yuan": null,
+          "boundary": "按公司已披露用途形成Agent分类，不将未列余额当日常周转或0；资本预付从周转桶转至长期桶，加未分类桶与原选择性资本守恒；未证明资产无重叠，年末用途不外推年初。"
+        }
+      ],
+      "outside_baseline_proxy": [
+        {
+          "year": 2007,
+          "source_id": "R2007-08",
+          "gross_land_other_receivables_yuan": "61806080.00",
+          "net_carrying_value_yuan": null,
+          "added_to_selected_capital": false,
+          "boundary": "原代理未含其他应收；原文坏账列空白不认成0。净值、长期资本重叠与期初对应未裁定，先列补查项，不直接加回。"
+        }
+      ],
+      "disclosed_component_sensitivity_2011": {
+        "year": 2011,
+        "interest_income_as_expense_signed_yuan": "-352218795.40",
+        "fx_expense_yuan": "1114988.48",
+        "fees_yuan": "352310.00",
+        "components_sum_yuan": "-350751496.92",
+        "matches_confirmed_net": true,
+        "conditional_profit_before_tax_yuan": "11980562629.68",
+        "conditional_after_tax_formula_yuan": "8984769703.01795852761671984596236434429743289818",
+        "conditional_formula_over_baseline_average": "1.13469369327231958840147545847631457200891583439",
+        "difference_from_whole_line_after_tax_yuan": "-1100393.97446398792642541589793621774396862442",
+        "difference_from_whole_line_ratio_pp": "-0.01389696279604967967254029992856628009031947100",
+        "formula": "(营业利润+按费用表负号的利息收入−投资收益)×(1−报表有效税率)，保留已列汇兑与手续费",
+        "assumptions": "保留汇兑和手续费仅为明确的比较约定，未确认全部为酒类经营；税率和分母仍为原会计代理",
+        "actual_operating_nopat_yuan": null,
+        "actual_operating_roic": null,
+        "cross_year_same_scope_incremental_return": null,
+        "cross_year_stop": "2007未获同口径应计利息明细，不以现金存款利息或整行净额与2011明细拼接比较。"
+      },
+      "investment_origins": [
+        {
+          "year": 2007,
+          "id": "R2007-11",
+          "text": "投资收益按投资单位分项为国债投资；本期数在右列。"
+        },
+        {
+          "year": 2011,
+          "id": "R2011-10",
+          "text": "本期投资收益列于持有至到期投资取得的投资收益项目。"
+        }
+      ],
+      "economic_classification_complete": false,
+      "formal_incremental_return": null,
+      "code_sha256": "ccb6834dd93853c6c584476b9eb4f684f81453e8b4560024b8d4bd80a4d25726"
+    },
     "panel": [
       {
         "year": 2007,
@@ -1049,7 +1159,7 @@
       "average_capital": "本年报年初与年末选定资本均值；只为附条件代理，不是完整经济资本",
       "maturity": "Unknown：项目投入到成熟映射未齐"
     },
-    "code_sha256": "105d70aa87d8869e31ac008187f622faa098345265e7df886e65aab8d72b0bd3"
+    "code_sha256": "ba7d1a046e35a30f024419e89b44b020a4a36ed470471569fdc9e71f8fa2aa2a"
   },
   "listed_financial_rows": [
     {
@@ -1539,6 +1649,34 @@
     },
     {
       "domain": "facts",
+      "id": "R2007-08",
+      "binding": "cc21886ed67f735e3c4774a5e9aefe7e32047592484577e057e99fa363821e28",
+      "pdf_path": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
+      "pdf_sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679"
+    },
+    {
+      "domain": "facts",
+      "id": "R2007-09",
+      "binding": "304998bdf5500e486c2c2c97ce04ed0408ee59fc96ce41bb2f1f2369116c4504",
+      "pdf_path": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
+      "pdf_sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679"
+    },
+    {
+      "domain": "facts",
+      "id": "R2007-10",
+      "binding": "91b60b14bb3715f704b649b75399e56b39f047fc53b8727fe04af9c953fe29cf",
+      "pdf_path": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
+      "pdf_sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679"
+    },
+    {
+      "domain": "facts",
+      "id": "R2007-11",
+      "binding": "927b3a584bc8e605094343151be76399cbb15eabacc76d9c9643c405dc0532e4",
+      "pdf_path": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
+      "pdf_sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679"
+    },
+    {
+      "domain": "facts",
       "id": "R2011-01",
       "binding": "a4364f905a64c645ae6cbdb1a52de9dccf71b6aa66dfc25c16339b6b37203b08",
       "pdf_path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
@@ -1576,6 +1714,34 @@
       "domain": "facts",
       "id": "R2011-06",
       "binding": "4f05c69533588f5b804d4f05896ed9c27a4ac6f6acb4bf25843400e3b9d18056",
+      "pdf_path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
+      "pdf_sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b"
+    },
+    {
+      "domain": "facts",
+      "id": "R2011-07",
+      "binding": "5b9955c25bf993a3bc732868b562ddfa94fcbcdfae9094b390077a3738153b54",
+      "pdf_path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
+      "pdf_sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b"
+    },
+    {
+      "domain": "facts",
+      "id": "R2011-08",
+      "binding": "34c119db77b3ef6496fb9e3fa35a75b3489fceb368a86dba12bd0c4365375e28",
+      "pdf_path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
+      "pdf_sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b"
+    },
+    {
+      "domain": "facts",
+      "id": "R2011-09",
+      "binding": "064db43e9ad6131a83908a39b30097570acc674e05ac2039de46c85772401820",
+      "pdf_path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
+      "pdf_sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b"
+    },
+    {
+      "domain": "facts",
+      "id": "R2011-10",
+      "binding": "f5125bd1b5405721beee2466e2f3eb37555652bf6fd73a8bf60243dccd9750f9",
       "pdf_path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
       "pdf_sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b"
     },
@@ -1849,5 +2015,5 @@
     "inventory_intensity": "book inventory/consolidated operating revenue"
   },
   "precision": 48,
-  "generated_output_sha256": "37a8ee50de470bf3a98a691968987d722b40c19006421ffe27bff15aace9505e"
+  "generated_output_sha256": "b9112f53431648600dcafe829ad144a20b9890b68c13e3160791e77419115596"
 }

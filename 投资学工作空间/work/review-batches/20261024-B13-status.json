@@ -1,0 +1,20 @@
+{
+  "batch_id": "B13",
+  "display_version": 1,
+  "status": "confirmed-original-disclosure",
+  "reviewer": "leo",
+  "actual_user_reply": "B13全部核验正确，核验人leo",
+  "event_sequences": [
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124
+  ],
+  "receipt": "evidence/20261025-b13-chat-confirmation.json",
+  "arithmetic_status": "AgentCalculated另列",
+  "display_manifest_unchanged": true
+}
