@@ -45,7 +45,7 @@
   "new_human_calculation_judgment_or_signature_confirmation": false,
   "prior_G6_adoption": "accepted-current",
   "report_fingerprint": "f0cc43ab485e94a1bbced0c742b658f401c487c0688aebd12c49b5d96f140353",
-  "code_sha256": "f6df9b565629e63ca671a182c6244158f85a55e67f5af66a773542298543e7cb",
+  "code_sha256": "11cc5955494226519f5aa23fbab518235974e2074387fd5bf500b439f2e8c1d3",
   "reviewed_display_hash_matches_real_receipt": true,
   "B08_canonical_display_checked": true,
   "updated_plan_nodes": [
@@ -74,17 +74,19 @@
   "pearson_crosscheck": "Decimal48 vs statistics.correlation，abs_tol1e-12",
   "definition_2022_current_source_confirmed": true,
   "note_revenue_to_company_revenue_residual_yuan": "0.00",
-  "N03_content_review": "pending-human-content-review",
+  "N03_content_review": "accepted-current-Interpretation",
   "N03_display_payload_sha256": "a679c06db2d14d7af091421c3a579e6b09b2fe3797ae7eb28faa4c5a576bbef9",
   "repeat_calculation_byte_identical": true,
   "all_input_bindings_checked": true,
   "N03_artifact_and_source_bindings_current": true,
-  "N03_not_yet_adopted": true,
+  "N03_not_yet_adopted": false,
   "unconfirmed_candidates_used": false,
   "minimum_sample_guard": {
     "rule": "n<3停止相关系数",
     "current_n": 10,
     "previous_B07_n1_stopped": true
   },
-  "current_main_channel_and_midpoint_unchanged_from_B07": true
+  "current_main_channel_and_midpoint_unchanged_from_B07": true,
+  "N03_adoption_validation": "work/channel-20261024/n03-adoption-validation.json",
+  "numeric_semantics_unchanged_after_status_refresh": true
 }

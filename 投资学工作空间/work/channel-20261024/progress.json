@@ -2,7 +2,7 @@
   "date": "2026-10-24",
   "contract": "第五次任务延伸合同_贵州茅台渠道净贡献验证.md",
   "contract_sha256": "fa36428379f160d124a83a2e9906328ca904b9cce3fb6cea9fcf3d8ab99ab8af",
-  "status": "可计算研究已完成；N03有限Interpretation待本人采纳，净贡献Unknown",
+  "status": "可计算研究与有范围N03意见已完成/本人采纳；正式验收签署分开",
   "required_years": [
     2016,
     2017,
@@ -57,7 +57,7 @@
   ],
   "next_batch": null,
   "pending_steps": [
-    "N03内容采纳及正式验收/签署分别处理"
+    "按实际发生记录正式验收/签署；渠道净贡献未知边界持续保留"
   ],
   "net_contribution_status": "Unknown：按渠道归属的费用、回款和库存不足，禁止按收入主观分摊",
   "new_signatures": 0,
@@ -70,9 +70,11 @@
     "N03主张—机制—变量—证据—诊断—替代解释—反证—状态稿"
   ],
   "source_confirmation_receipt": "evidence/20261024-b07-chat-confirmation.json",
-  "next_content_review": "N03-20261024",
+  "next_content_review": null,
   "source_confirmation_receipts": [
     "evidence/20261024-b07-chat-confirmation.json",
     "evidence/20261024-b08-chat-confirmation.json"
-  ]
+  ],
+  "content_adoption_receipt": "evidence/20261024-n03-chat-adoption.json",
+  "content_validator": "scripts/channel_n03_review.py:current_n03_adoption"
 }

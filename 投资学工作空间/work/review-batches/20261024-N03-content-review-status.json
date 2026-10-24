@@ -1,0 +1,11 @@
+{
+  "review_id": "N03-20261024",
+  "display_version": 1,
+  "status": "accepted-current-Interpretation",
+  "actual_user_reply": "认可N03判断",
+  "receipt": "evidence/20261024-n03-chat-adoption.json",
+  "display_payload_sha256": "a679c06db2d14d7af091421c3a579e6b09b2fe3797ae7eb28faa4c5a576bbef9",
+  "display_manifest_unchanged": true,
+  "teacher_approval": false,
+  "new_signature_created": false
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "review_id": "N03-20261024",
+  "record_kind": "research-content-adoption",
+  "channel": "actual-user-chat",
+  "actual_user_reply": "认可N03判断",
+  "actor": "user",
+  "reviewer_name": null,
+  "identity_note": "本人真实聊天采纳；本条未另署姓名，不把此前原数核验身份leo或旧lxy签署移植为本条签名。",
+  "client_date": "2026-10-24",
+  "recorded_at": "2026-10-24T15:52:52+08:00",
+  "timestamp_meaning": "程序保存时刻，非已知精确聊天发送时间",
+  "display_manifest": "work/review-batches/20261024-N03-content-review.json",
+  "display_manifest_sha256": "30c2f40b68d88c6fe8327e0cdf53e14b7ccfacdb8a17c3b9d39ada8e195900a5",
+  "display_payload_sha256": "a679c06db2d14d7af091421c3a579e6b09b2fe3797ae7eb28faa4c5a576bbef9",
+  "adopted_ids": [
+    "N03"
+  ],
+  "judgments": [
+    {
+      "id": "N03",
+      "claim": "直销与i茅台提高公司确认的渠道收入和直接毛利后，是否提高渠道净贡献",
+      "proposed_interpretation": "2025直销份额和正向结构效应得到支持，但渠道内毛利率下降超过结构效应，两渠道合计直接毛利率下降。费用率相关性具有时期敏感性；缺少渠道归属费用、回款和库存，净贡献是否提高仍Unknown。",
+      "mechanism_hypothesis": "渠道迁移可能改变公司确认的收入/毛利份额，平台运营、履约投入和资金占用也可能变化；需同范围费用及资本/回款证据才能计算净贡献。",
+      "observable_variables": [
+        "按主营渠道披露的收入与营业成本",
+        "公司销售费用及同范围公司营业收入",
+        "FY2022自营+i茅台定义",
+        "主营与附注的业务范围",
+        "渠道费用、履约、回款与库存占用（目前不足）"
+      ],
+      "support": [
+        "B07及旧有效组组成2016—2025十年主营渠道面板，所有原数有当前来源绑定",
+        "2025直销份额50.0923%，较2024提高6.2247个百分点；两渠道合计直接毛利率变化−0.7837个百分点，结构效应+0.3934、渠道内毛利效应−1.1771，均为AgentCalculated",
+        "B08核准公司费用率分子/分母；2025由3.2998%增至4.2961%，增加0.9963个百分点，不能全部归给某渠道",
+        "整体相关n10/r−0.2533，2016—2021 n6/r−0.5815，2022—2025 n4/r+0.9485；窗口改变后符号不同，不识别直销费用因果",
+        "2025附注减酒类主营的收入/成本差额分别63,517,327.14/86,377,431.32元；附注渠道收入与独立公司营业收入勾稽差额0元，主/附注保持分开"
+      ],
+      "alternative_explanations": "FY2022新平台并入渠道构成；产品组合、费用口径及业务范围共同变化均需区别。收入份额不等于同SKU终端成交效果，相关系数不分离其他经营变化。",
+      "refutation": "若取得可比渠道费用、履约、回款及库存台账，显示增量毛利被新增费用和资本占用抵消，应否定净贡献提高命题；若可核完整净贡献持续增加且回款/资本占用支持，才可上调该判断。当前两种净贡献方向均未证实。",
+      "unknown": [
+        "直销/批发分别归属的完整费用和履约成本",
+        "同SKU终端价格与真实动销",
+        "渠道回款与库存/资本占用",
+        "平台与线下自营的单独净贡献",
+        "调整产品结构后的因果贡献"
+      ],
+      "state": "Interpretation待本人内容采纳，非新Fact"
+    }
+  ],
+  "calculation_bindings": {
+    "channel_calculations_sha256": {
+      "displayed_snapshot_path": "work/channel-20261024/n03-displayed/calculations.json",
+      "current_path": "work/channel-20261024/calculations.json",
+      "semantic_sha256": "23d261b872416cfc290938675e9c9f8272300f05f4e28e9ace49ca4607315770"
+    }
+  },
+  "validator_sha256": "48dbc0d4fef5ed3fe429cc04c4c67664c2a0f261f72e68604767c583c13b657a",
+  "judgment_type": "Interpretation",
+  "boundary": "只采纳有范围研究意见与反证，净贡献仍Unknown；不确认新原数/算术/渠道因果、教师验收或新签署；FY2025仅后验。",
+  "new_signature_created": false,
+  "new_raw_fact_confirmations": 0,
+  "new_human_arithmetic_confirmations": 0,
+  "teacher_approval": false,
+  "events": [
+    {
+      "sequence": 1,
+      "operation": "adopt-research-interpretations",
+      "actual_user_reply": "认可N03判断",
+      "adopted_ids": [
+        "N03"
+      ],
+      "actor": "user"
+    }
+  ]
+}

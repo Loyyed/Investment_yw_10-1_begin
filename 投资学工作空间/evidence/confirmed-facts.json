@@ -2,10 +2,10 @@
   "authority": "evidence/review-state.json",
   "counts": {
     "Fact": 85,
-    "Unknown": 46,
+    "Unknown": 55,
     "Withdrawn": 0,
     "stale": 0,
-    "total": 131
+    "total": 140
   },
   "facts": [
     {

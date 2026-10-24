@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-24",
+  "adoption": {
+    "status": "accepted-current",
+    "judgment_type": "Interpretation",
+    "adopted_ids": [
+      "N03"
+    ],
+    "actual_user_reply": "认可N03判断",
+    "actor": "user",
+    "reviewer_name": null,
+    "recorded_at": "2026-10-24T15:52:52+08:00",
+    "display_payload_sha256": "a679c06db2d14d7af091421c3a579e6b09b2fe3797ae7eb28faa4c5a576bbef9",
+    "new_signature_created": false,
+    "boundary": "只采纳有范围研究意见与反证，净贡献仍Unknown；不确认新原数/算术/渠道因果、教师验收或新签署；FY2025仅后验。"
+  },
+  "authority_counts": {
+    "facts": 85,
+    "change_facts": 2,
+    "lec03_agent_facts": 16,
+    "m01_scale_facts": 3,
+    "m01_metric_facts": 15,
+    "m01_disclosure_facts": 3
+  },
+  "original_fact_ledger_unchanged": true,
+  "immutable_N03_display_preserved": true,
+  "calculation_semantics_match_reviewed_snapshot": true,
+  "no_new_signature_or_teacher_approval": true,
+  "prior_G6_adoption": "accepted-current",
+  "next_contract": "第五次任务延伸合同_贵州茅台现金与资本回报验证.md",
+  "B09_pending": 9,
+  "report_fingerprint": "a7c18d1aa6d70ccf8f0f61415a6c0824903c976348f2c6348c3e861b35a285fa",
+  "isolated_validator_checks": {
+    "presentation_metadata_preserves_adoption": true,
+    "numeric_change_invalidates_adoption": true,
+    "source_binding_change_invalidates_adoption": true
+  },
+  "test_fixtures_never_used_as_project_facts": true
+}

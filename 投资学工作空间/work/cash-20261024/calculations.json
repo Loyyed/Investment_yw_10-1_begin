@@ -1,0 +1,1189 @@
+{
+  "date": "2026-10-24",
+  "state": "AgentCalculated",
+  "human_arithmetic_confirmation": false,
+  "code_sha256": "5351a1032b532509c2b474b02fd131a61aeb0a818f598f4d1b0990cff35b1191",
+  "panel": [
+    {
+      "year": 2001,
+      "net_profit_yuan": null,
+      "cfo_yuan": null,
+      "capex_cash_yuan": null,
+      "operating_revenue_yuan": null,
+      "inventory_yuan": null,
+      "input_roles": {},
+      "entity_cfo_yuan": null,
+      "fcff_yuan": null,
+      "nopat_proxy_yuan": null,
+      "selected_ncwc_yuan": null,
+      "selected_invested_capital_yuan": null,
+      "selective_reinvestment_proxy_yuan": null,
+      "entity_roic": null,
+      "cash_conversion": null,
+      "arithmetic_CFO_minus_capex_yuan": null,
+      "capex_to_operating_revenue": null,
+      "inventory_to_operating_revenue": null,
+      "missing_current_reviewed_fields": [
+        "net_profit_yuan",
+        "cfo_yuan",
+        "capex_cash_yuan",
+        "operating_revenue_yuan",
+        "inventory_yuan"
+      ],
+      "cash_base_state": "Unknown：本项目当前有效输入未齐，不表示没有原件",
+      "profit_definition": "旧准则原年报净利润口径待核",
+      "entity_stop_reason": "选择性NCWC/NOPAT及资本原数和范围裁定未齐"
+    },
+    {
+      "year": 2002,
+      "net_profit_yuan": null,
+      "cfo_yuan": null,
+      "capex_cash_yuan": null,
+      "operating_revenue_yuan": null,
+      "inventory_yuan": null,
+      "input_roles": {},
+      "entity_cfo_yuan": null,
+      "fcff_yuan": null,
+      "nopat_proxy_yuan": null,
+      "selected_ncwc_yuan": null,
+      "selected_invested_capital_yuan": null,
+      "selective_reinvestment_proxy_yuan": null,
+      "entity_roic": null,
+      "cash_conversion": null,
+      "arithmetic_CFO_minus_capex_yuan": null,
+      "capex_to_operating_revenue": null,
+      "inventory_to_operating_revenue": null,
+      "missing_current_reviewed_fields": [
+        "net_profit_yuan",
+        "cfo_yuan",
+        "capex_cash_yuan",
+        "operating_revenue_yuan",
+        "inventory_yuan"
+      ],
+      "cash_base_state": "Unknown：本项目当前有效输入未齐，不表示没有原件",
+      "profit_definition": "旧准则原年报净利润口径待核",
+      "entity_stop_reason": "选择性NCWC/NOPAT及资本原数和范围裁定未齐"
+    },
+    {
+      "year": 2003,
+      "net_profit_yuan": null,
+      "cfo_yuan": null,
+      "capex_cash_yuan": null,
+      "operating_revenue_yuan": null,
+      "inventory_yuan": null,
+      "input_roles": {},
+      "entity_cfo_yuan": null,
+      "fcff_yuan": null,
+      "nopat_proxy_yuan": null,
+      "selected_ncwc_yuan": null,
+      "selected_invested_capital_yuan": null,
+      "selective_reinvestment_proxy_yuan": null,
+      "entity_roic": null,
+      "cash_conversion": null,
+      "arithmetic_CFO_minus_capex_yuan": null,
+      "capex_to_operating_revenue": null,
+      "inventory_to_operating_revenue": null,
+      "missing_current_reviewed_fields": [
+        "net_profit_yuan",
+        "cfo_yuan",
+        "capex_cash_yuan",
+        "operating_revenue_yuan",
+        "inventory_yuan"
+      ],
+      "cash_base_state": "Unknown：本项目当前有效输入未齐，不表示没有原件",
+      "profit_definition": "旧准则原年报净利润口径待核",
+      "entity_stop_reason": "选择性NCWC/NOPAT及资本原数和范围裁定未齐"
+    },
+    {
+      "year": 2004,
+      "net_profit_yuan": null,
+      "cfo_yuan": null,
+      "capex_cash_yuan": null,
+      "operating_revenue_yuan": null,
+      "inventory_yuan": null,
+      "input_roles": {},
+      "entity_cfo_yuan": null,
+      "fcff_yuan": null,
+      "nopat_proxy_yuan": null,
+      "selected_ncwc_yuan": null,
+      "selected_invested_capital_yuan": null,
+      "selective_reinvestment_proxy_yuan": null,
+      "entity_roic": null,
+      "cash_conversion": null,
+      "arithmetic_CFO_minus_capex_yuan": null,
+      "capex_to_operating_revenue": null,
+      "inventory_to_operating_revenue": null,
+      "missing_current_reviewed_fields": [
+        "net_profit_yuan",
+        "cfo_yuan",
+        "capex_cash_yuan",
+        "operating_revenue_yuan",
+        "inventory_yuan"
+      ],
+      "cash_base_state": "Unknown：本项目当前有效输入未齐，不表示没有原件",
+      "profit_definition": "旧准则原年报净利润口径待核",
+      "entity_stop_reason": "选择性NCWC/NOPAT及资本原数和范围裁定未齐"
+    },
+    {
+      "year": 2005,
+      "net_profit_yuan": null,
+      "cfo_yuan": null,
+      "capex_cash_yuan": null,
+      "operating_revenue_yuan": null,
+      "inventory_yuan": null,
+      "input_roles": {},
+      "entity_cfo_yuan": null,
+      "fcff_yuan": null,
+      "nopat_proxy_yuan": null,
+      "selected_ncwc_yuan": null,
+      "selected_invested_capital_yuan": null,
+      "selective_reinvestment_proxy_yuan": null,
+      "entity_roic": null,
+      "cash_conversion": null,
+      "arithmetic_CFO_minus_capex_yuan": null,
+      "capex_to_operating_revenue": null,
+      "inventory_to_operating_revenue": null,
+      "missing_current_reviewed_fields": [
+        "net_profit_yuan",
+        "cfo_yuan",
+        "capex_cash_yuan",
+        "operating_revenue_yuan",
+        "inventory_yuan"
+      ],
+      "cash_base_state": "Unknown：本项目当前有效输入未齐，不表示没有原件",
+      "profit_definition": "旧准则原年报净利润口径待核",
+      "entity_stop_reason": "选择性NCWC/NOPAT及资本原数和范围裁定未齐"
+    },
+    {
+      "year": 2006,
+      "net_profit_yuan": null,
+      "cfo_yuan": null,
+      "capex_cash_yuan": null,
+      "operating_revenue_yuan": null,
+      "inventory_yuan": null,
+      "input_roles": {},
+      "entity_cfo_yuan": null,
+      "fcff_yuan": null,
+      "nopat_proxy_yuan": null,
+      "selected_ncwc_yuan": null,
+      "selected_invested_capital_yuan": null,
+      "selective_reinvestment_proxy_yuan": null,
+      "entity_roic": null,
+      "cash_conversion": null,
+      "arithmetic_CFO_minus_capex_yuan": null,
+      "capex_to_operating_revenue": null,
+      "inventory_to_operating_revenue": null,
+      "missing_current_reviewed_fields": [
+        "net_profit_yuan",
+        "cfo_yuan",
+        "capex_cash_yuan",
+        "operating_revenue_yuan",
+        "inventory_yuan"
+      ],
+      "cash_base_state": "Unknown：本项目当前有效输入未齐，不表示没有原件",
+      "profit_definition": "旧准则原年报净利润口径待核",
+      "entity_stop_reason": "选择性NCWC/NOPAT及资本原数和范围裁定未齐"
+    },
+    {
+      "year": 2007,
+      "net_profit_yuan": null,
+      "cfo_yuan": null,
+      "capex_cash_yuan": null,
+      "operating_revenue_yuan": null,
+      "inventory_yuan": null,
+      "input_roles": {},
+      "entity_cfo_yuan": null,
+      "fcff_yuan": null,
+      "nopat_proxy_yuan": null,
+      "selected_ncwc_yuan": null,
+      "selected_invested_capital_yuan": null,
+      "selective_reinvestment_proxy_yuan": null,
+      "entity_roic": null,
+      "cash_conversion": null,
+      "arithmetic_CFO_minus_capex_yuan": null,
+      "capex_to_operating_revenue": null,
+      "inventory_to_operating_revenue": null,
+      "missing_current_reviewed_fields": [
+        "net_profit_yuan",
+        "cfo_yuan",
+        "capex_cash_yuan",
+        "operating_revenue_yuan",
+        "inventory_yuan"
+      ],
+      "cash_base_state": "Unknown：本项目当前有效输入未齐，不表示没有原件",
+      "profit_definition": "新准则合并净利润，含少数股东；不能换归母",
+      "entity_stop_reason": "选择性NCWC/NOPAT及资本原数和范围裁定未齐"
+    },
+    {
+      "year": 2008,
+      "net_profit_yuan": null,
+      "cfo_yuan": null,
+      "capex_cash_yuan": null,
+      "operating_revenue_yuan": null,
+      "inventory_yuan": null,
+      "input_roles": {},
+      "entity_cfo_yuan": null,
+      "fcff_yuan": null,
+      "nopat_proxy_yuan": null,
+      "selected_ncwc_yuan": null,
+      "selected_invested_capital_yuan": null,
+      "selective_reinvestment_proxy_yuan": null,
+      "entity_roic": null,
+      "cash_conversion": null,
+      "arithmetic_CFO_minus_capex_yuan": null,
+      "capex_to_operating_revenue": null,
+      "inventory_to_operating_revenue": null,
+      "missing_current_reviewed_fields": [
+        "net_profit_yuan",
+        "cfo_yuan",
+        "capex_cash_yuan",
+        "operating_revenue_yuan",
+        "inventory_yuan"
+      ],
+      "cash_base_state": "Unknown：本项目当前有效输入未齐，不表示没有原件",
+      "profit_definition": "新准则合并净利润，含少数股东；不能换归母",
+      "entity_stop_reason": "选择性NCWC/NOPAT及资本原数和范围裁定未齐"
+    },
+    {
+      "year": 2009,
+      "net_profit_yuan": null,
+      "cfo_yuan": null,
+      "capex_cash_yuan": null,
+      "operating_revenue_yuan": null,
+      "inventory_yuan": null,
+      "input_roles": {},
+      "entity_cfo_yuan": null,
+      "fcff_yuan": null,
+      "nopat_proxy_yuan": null,
+      "selected_ncwc_yuan": null,
+      "selected_invested_capital_yuan": null,
+      "selective_reinvestment_proxy_yuan": null,
+      "entity_roic": null,
+      "cash_conversion": null,
+      "arithmetic_CFO_minus_capex_yuan": null,
+      "capex_to_operating_revenue": null,
+      "inventory_to_operating_revenue": null,
+      "missing_current_reviewed_fields": [
+        "net_profit_yuan",
+        "cfo_yuan",
+        "capex_cash_yuan",
+        "operating_revenue_yuan",
+        "inventory_yuan"
+      ],
+      "cash_base_state": "Unknown：本项目当前有效输入未齐，不表示没有原件",
+      "profit_definition": "新准则合并净利润，含少数股东；不能换归母",
+      "entity_stop_reason": "选择性NCWC/NOPAT及资本原数和范围裁定未齐"
+    },
+    {
+      "year": 2010,
+      "net_profit_yuan": null,
+      "cfo_yuan": null,
+      "capex_cash_yuan": null,
+      "operating_revenue_yuan": null,
+      "inventory_yuan": null,
+      "input_roles": {},
+      "entity_cfo_yuan": null,
+      "fcff_yuan": null,
+      "nopat_proxy_yuan": null,
+      "selected_ncwc_yuan": null,
+      "selected_invested_capital_yuan": null,
+      "selective_reinvestment_proxy_yuan": null,
+      "entity_roic": null,
+      "cash_conversion": null,
+      "arithmetic_CFO_minus_capex_yuan": null,
+      "capex_to_operating_revenue": null,
+      "inventory_to_operating_revenue": null,
+      "missing_current_reviewed_fields": [
+        "net_profit_yuan",
+        "cfo_yuan",
+        "capex_cash_yuan",
+        "operating_revenue_yuan",
+        "inventory_yuan"
+      ],
+      "cash_base_state": "Unknown：本项目当前有效输入未齐，不表示没有原件",
+      "profit_definition": "新准则合并净利润，含少数股东；不能换归母",
+      "entity_stop_reason": "选择性NCWC/NOPAT及资本原数和范围裁定未齐"
+    },
+    {
+      "year": 2011,
+      "net_profit_yuan": null,
+      "cfo_yuan": null,
+      "capex_cash_yuan": null,
+      "operating_revenue_yuan": null,
+      "inventory_yuan": null,
+      "input_roles": {},
+      "entity_cfo_yuan": null,
+      "fcff_yuan": null,
+      "nopat_proxy_yuan": null,
+      "selected_ncwc_yuan": null,
+      "selected_invested_capital_yuan": null,
+      "selective_reinvestment_proxy_yuan": null,
+      "entity_roic": null,
+      "cash_conversion": null,
+      "arithmetic_CFO_minus_capex_yuan": null,
+      "capex_to_operating_revenue": null,
+      "inventory_to_operating_revenue": null,
+      "missing_current_reviewed_fields": [
+        "net_profit_yuan",
+        "cfo_yuan",
+        "capex_cash_yuan",
+        "operating_revenue_yuan",
+        "inventory_yuan"
+      ],
+      "cash_base_state": "Unknown：本项目当前有效输入未齐，不表示没有原件",
+      "profit_definition": "新准则合并净利润，含少数股东；不能换归母",
+      "entity_stop_reason": "选择性NCWC/NOPAT及资本原数和范围裁定未齐"
+    },
+    {
+      "year": 2012,
+      "net_profit_yuan": null,
+      "cfo_yuan": null,
+      "capex_cash_yuan": null,
+      "operating_revenue_yuan": null,
+      "inventory_yuan": null,
+      "input_roles": {},
+      "entity_cfo_yuan": null,
+      "fcff_yuan": null,
+      "nopat_proxy_yuan": null,
+      "selected_ncwc_yuan": null,
+      "selected_invested_capital_yuan": null,
+      "selective_reinvestment_proxy_yuan": null,
+      "entity_roic": null,
+      "cash_conversion": null,
+      "arithmetic_CFO_minus_capex_yuan": null,
+      "capex_to_operating_revenue": null,
+      "inventory_to_operating_revenue": null,
+      "missing_current_reviewed_fields": [
+        "net_profit_yuan",
+        "cfo_yuan",
+        "capex_cash_yuan",
+        "operating_revenue_yuan",
+        "inventory_yuan"
+      ],
+      "cash_base_state": "Unknown：本项目当前有效输入未齐，不表示没有原件",
+      "profit_definition": "新准则合并净利润，含少数股东；不能换归母",
+      "entity_stop_reason": "选择性NCWC/NOPAT及资本原数和范围裁定未齐"
+    },
+    {
+      "year": 2013,
+      "net_profit_yuan": null,
+      "cfo_yuan": null,
+      "capex_cash_yuan": null,
+      "operating_revenue_yuan": null,
+      "inventory_yuan": null,
+      "input_roles": {},
+      "entity_cfo_yuan": null,
+      "fcff_yuan": null,
+      "nopat_proxy_yuan": null,
+      "selected_ncwc_yuan": null,
+      "selected_invested_capital_yuan": null,
+      "selective_reinvestment_proxy_yuan": null,
+      "entity_roic": null,
+      "cash_conversion": null,
+      "arithmetic_CFO_minus_capex_yuan": null,
+      "capex_to_operating_revenue": null,
+      "inventory_to_operating_revenue": null,
+      "missing_current_reviewed_fields": [
+        "net_profit_yuan",
+        "cfo_yuan",
+        "capex_cash_yuan",
+        "operating_revenue_yuan",
+        "inventory_yuan"
+      ],
+      "cash_base_state": "Unknown：本项目当前有效输入未齐，不表示没有原件",
+      "profit_definition": "新准则合并净利润，含少数股东；不能换归母",
+      "entity_stop_reason": "金融完整贡献/内部抵销及同范围经营投入未裁定"
+    },
+    {
+      "year": 2014,
+      "net_profit_yuan": null,
+      "cfo_yuan": null,
+      "capex_cash_yuan": null,
+      "operating_revenue_yuan": null,
+      "inventory_yuan": null,
+      "input_roles": {},
+      "entity_cfo_yuan": null,
+      "fcff_yuan": null,
+      "nopat_proxy_yuan": null,
+      "selected_ncwc_yuan": null,
+      "selected_invested_capital_yuan": null,
+      "selective_reinvestment_proxy_yuan": null,
+      "entity_roic": null,
+      "cash_conversion": null,
+      "arithmetic_CFO_minus_capex_yuan": null,
+      "capex_to_operating_revenue": null,
+      "inventory_to_operating_revenue": null,
+      "missing_current_reviewed_fields": [
+        "net_profit_yuan",
+        "cfo_yuan",
+        "capex_cash_yuan",
+        "operating_revenue_yuan",
+        "inventory_yuan"
+      ],
+      "cash_base_state": "Unknown：本项目当前有效输入未齐，不表示没有原件",
+      "profit_definition": "新准则合并净利润，含少数股东；不能换归母",
+      "entity_stop_reason": "金融完整贡献/内部抵销及同范围经营投入未裁定"
+    },
+    {
+      "year": 2015,
+      "net_profit_yuan": null,
+      "cfo_yuan": null,
+      "capex_cash_yuan": null,
+      "operating_revenue_yuan": null,
+      "inventory_yuan": null,
+      "input_roles": {},
+      "entity_cfo_yuan": null,
+      "fcff_yuan": null,
+      "nopat_proxy_yuan": null,
+      "selected_ncwc_yuan": null,
+      "selected_invested_capital_yuan": null,
+      "selective_reinvestment_proxy_yuan": null,
+      "entity_roic": null,
+      "cash_conversion": null,
+      "arithmetic_CFO_minus_capex_yuan": null,
+      "capex_to_operating_revenue": null,
+      "inventory_to_operating_revenue": null,
+      "missing_current_reviewed_fields": [
+        "net_profit_yuan",
+        "cfo_yuan",
+        "capex_cash_yuan",
+        "operating_revenue_yuan",
+        "inventory_yuan"
+      ],
+      "cash_base_state": "Unknown：本项目当前有效输入未齐，不表示没有原件",
+      "profit_definition": "新准则合并净利润，含少数股东；不能换归母",
+      "entity_stop_reason": "金融完整贡献/内部抵销及同范围经营投入未裁定"
+    },
+    {
+      "year": 2016,
+      "net_profit_yuan": null,
+      "cfo_yuan": null,
+      "capex_cash_yuan": null,
+      "operating_revenue_yuan": "38862189993.84",
+      "inventory_yuan": null,
+      "input_roles": {
+        "operating_revenue_yuan": "R2016-07"
+      },
+      "entity_cfo_yuan": null,
+      "fcff_yuan": null,
+      "nopat_proxy_yuan": null,
+      "selected_ncwc_yuan": null,
+      "selected_invested_capital_yuan": null,
+      "selective_reinvestment_proxy_yuan": null,
+      "entity_roic": null,
+      "cash_conversion": null,
+      "arithmetic_CFO_minus_capex_yuan": null,
+      "capex_to_operating_revenue": null,
+      "inventory_to_operating_revenue": null,
+      "missing_current_reviewed_fields": [
+        "net_profit_yuan",
+        "cfo_yuan",
+        "capex_cash_yuan",
+        "inventory_yuan"
+      ],
+      "cash_base_state": "Unknown：本项目当前有效输入未齐，不表示没有原件",
+      "profit_definition": "新准则合并净利润，含少数股东；不能换归母",
+      "entity_stop_reason": "金融完整贡献/内部抵销及同范围经营投入未裁定"
+    },
+    {
+      "year": 2017,
+      "net_profit_yuan": null,
+      "cfo_yuan": null,
+      "capex_cash_yuan": null,
+      "operating_revenue_yuan": "58217861314.17",
+      "inventory_yuan": null,
+      "input_roles": {
+        "operating_revenue_yuan": "R2017-04"
+      },
+      "entity_cfo_yuan": null,
+      "fcff_yuan": null,
+      "nopat_proxy_yuan": null,
+      "selected_ncwc_yuan": null,
+      "selected_invested_capital_yuan": null,
+      "selective_reinvestment_proxy_yuan": null,
+      "entity_roic": null,
+      "cash_conversion": null,
+      "arithmetic_CFO_minus_capex_yuan": null,
+      "capex_to_operating_revenue": null,
+      "inventory_to_operating_revenue": null,
+      "missing_current_reviewed_fields": [
+        "net_profit_yuan",
+        "cfo_yuan",
+        "capex_cash_yuan",
+        "inventory_yuan"
+      ],
+      "cash_base_state": "Unknown：本项目当前有效输入未齐，不表示没有原件",
+      "profit_definition": "新准则合并净利润，含少数股东；不能换归母",
+      "entity_stop_reason": "金融完整贡献/内部抵销及同范围经营投入未裁定"
+    },
+    {
+      "year": 2018,
+      "net_profit_yuan": null,
+      "cfo_yuan": null,
+      "capex_cash_yuan": null,
+      "operating_revenue_yuan": "73638872388.03",
+      "inventory_yuan": null,
+      "input_roles": {
+        "operating_revenue_yuan": "R2018-04"
+      },
+      "entity_cfo_yuan": null,
+      "fcff_yuan": null,
+      "nopat_proxy_yuan": null,
+      "selected_ncwc_yuan": null,
+      "selected_invested_capital_yuan": null,
+      "selective_reinvestment_proxy_yuan": null,
+      "entity_roic": null,
+      "cash_conversion": null,
+      "arithmetic_CFO_minus_capex_yuan": null,
+      "capex_to_operating_revenue": null,
+      "inventory_to_operating_revenue": null,
+      "missing_current_reviewed_fields": [
+        "net_profit_yuan",
+        "cfo_yuan",
+        "capex_cash_yuan",
+        "inventory_yuan"
+      ],
+      "cash_base_state": "Unknown：本项目当前有效输入未齐，不表示没有原件",
+      "profit_definition": "新准则合并净利润，含少数股东；不能换归母",
+      "entity_stop_reason": "金融完整贡献/内部抵销及同范围经营投入未裁定"
+    },
+    {
+      "year": 2019,
+      "net_profit_yuan": null,
+      "cfo_yuan": null,
+      "capex_cash_yuan": null,
+      "operating_revenue_yuan": "85429573467.25",
+      "inventory_yuan": null,
+      "input_roles": {
+        "operating_revenue_yuan": "R2019-04"
+      },
+      "entity_cfo_yuan": null,
+      "fcff_yuan": null,
+      "nopat_proxy_yuan": null,
+      "selected_ncwc_yuan": null,
+      "selected_invested_capital_yuan": null,
+      "selective_reinvestment_proxy_yuan": null,
+      "entity_roic": null,
+      "cash_conversion": null,
+      "arithmetic_CFO_minus_capex_yuan": null,
+      "capex_to_operating_revenue": null,
+      "inventory_to_operating_revenue": null,
+      "missing_current_reviewed_fields": [
+        "net_profit_yuan",
+        "cfo_yuan",
+        "capex_cash_yuan",
+        "inventory_yuan"
+      ],
+      "cash_base_state": "Unknown：本项目当前有效输入未齐，不表示没有原件",
+      "profit_definition": "新准则合并净利润，含少数股东；不能换归母",
+      "entity_stop_reason": "金融完整贡献/内部抵销及同范围经营投入未裁定"
+    },
+    {
+      "year": 2020,
+      "net_profit_yuan": "49523329882.40",
+      "cfo_yuan": "51669068693.03",
+      "capex_cash_yuan": "2089769498.78",
+      "operating_revenue_yuan": "94915380916.72",
+      "inventory_yuan": null,
+      "input_roles": {
+        "operating_revenue_yuan": "R2020-09",
+        "net_profit_yuan": "L03-A2020-C",
+        "cfo_yuan": "L03-A2020-C",
+        "capex_cash_yuan": "L03-A2020-C"
+      },
+      "entity_cfo_yuan": null,
+      "fcff_yuan": null,
+      "nopat_proxy_yuan": null,
+      "selected_ncwc_yuan": null,
+      "selected_invested_capital_yuan": null,
+      "selective_reinvestment_proxy_yuan": null,
+      "entity_roic": null,
+      "cash_conversion": "1.04332783792457723945320888881457214861346530366",
+      "arithmetic_CFO_minus_capex_yuan": "49579299194.25",
+      "capex_to_operating_revenue": "0.0220171849767277567464211894365356512267984156769",
+      "inventory_to_operating_revenue": null,
+      "missing_current_reviewed_fields": [
+        "inventory_yuan"
+      ],
+      "cash_base_state": "AgentCalculated（合并范围）",
+      "profit_definition": "新准则合并净利润，含少数股东；不能换归母",
+      "entity_stop_reason": "金融完整贡献/内部抵销及同范围经营投入未裁定"
+    },
+    {
+      "year": 2021,
+      "net_profit_yuan": "55720529956.46",
+      "cfo_yuan": "64028676147.37",
+      "capex_cash_yuan": "3408784532.01",
+      "operating_revenue_yuan": "106190154843.76",
+      "inventory_yuan": null,
+      "input_roles": {
+        "operating_revenue_yuan": "R2021-09",
+        "net_profit_yuan": "L03-A2021-C",
+        "cfo_yuan": "L03-A2021-C",
+        "capex_cash_yuan": "L03-A2021-C"
+      },
+      "entity_cfo_yuan": null,
+      "fcff_yuan": null,
+      "nopat_proxy_yuan": null,
+      "selected_ncwc_yuan": null,
+      "selected_invested_capital_yuan": null,
+      "selective_reinvestment_proxy_yuan": null,
+      "entity_roic": null,
+      "cash_conversion": "1.14910386167184666293002244781184201546050623268",
+      "arithmetic_CFO_minus_capex_yuan": "60619891615.36",
+      "capex_to_operating_revenue": "0.0321007586534309374726126887254379324190874621207",
+      "inventory_to_operating_revenue": null,
+      "missing_current_reviewed_fields": [
+        "inventory_yuan"
+      ],
+      "cash_base_state": "AgentCalculated（合并范围）",
+      "profit_definition": "新准则合并净利润，含少数股东；不能换归母",
+      "entity_stop_reason": "金融完整贡献/内部抵销及同范围经营投入未裁定"
+    },
+    {
+      "year": 2022,
+      "net_profit_yuan": "65375136766.75",
+      "cfo_yuan": "36698595830.03",
+      "capex_cash_yuan": "5306546416.54",
+      "operating_revenue_yuan": "124099843771.99",
+      "inventory_yuan": null,
+      "input_roles": {
+        "operating_revenue_yuan": "R2022-09",
+        "net_profit_yuan": "L03-A2022-C",
+        "cfo_yuan": "L03-A2022-C",
+        "capex_cash_yuan": "L03-A2022-C"
+      },
+      "entity_cfo_yuan": null,
+      "fcff_yuan": null,
+      "nopat_proxy_yuan": null,
+      "selected_ncwc_yuan": null,
+      "selected_invested_capital_yuan": null,
+      "selective_reinvestment_proxy_yuan": null,
+      "entity_roic": null,
+      "cash_conversion": "0.561354019968873260758745149122629081952871981982",
+      "arithmetic_CFO_minus_capex_yuan": "31392049413.49",
+      "capex_to_operating_revenue": "0.0427602989274488996009344185638868069548244625817",
+      "inventory_to_operating_revenue": null,
+      "missing_current_reviewed_fields": [
+        "inventory_yuan"
+      ],
+      "cash_base_state": "AgentCalculated（合并范围）",
+      "profit_definition": "新准则合并净利润，含少数股东；不能换归母",
+      "entity_stop_reason": "金融完整贡献/内部抵销及同范围经营投入未裁定"
+    },
+    {
+      "year": 2023,
+      "net_profit_yuan": "77521476277.80",
+      "cfo_yuan": "66593247721.09",
+      "capex_cash_yuan": "2619755888.79",
+      "operating_revenue_yuan": "147693604994.14",
+      "inventory_yuan": null,
+      "input_roles": {
+        "operating_revenue_yuan": "R2023-09",
+        "net_profit_yuan": "L03-A2023-C",
+        "cfo_yuan": "L03-A2023-C",
+        "capex_cash_yuan": "L03-A2023-C"
+      },
+      "entity_cfo_yuan": null,
+      "fcff_yuan": null,
+      "nopat_proxy_yuan": null,
+      "selected_ncwc_yuan": null,
+      "selected_invested_capital_yuan": null,
+      "selective_reinvestment_proxy_yuan": null,
+      "entity_roic": null,
+      "cash_conversion": "0.859029664017898205857533961463492587595233083101",
+      "arithmetic_CFO_minus_capex_yuan": "63973491832.30",
+      "capex_to_operating_revenue": "0.0177377746916932751400666439980308594527736040866",
+      "inventory_to_operating_revenue": null,
+      "missing_current_reviewed_fields": [
+        "inventory_yuan"
+      ],
+      "cash_base_state": "AgentCalculated（合并范围）",
+      "profit_definition": "新准则合并净利润，含少数股东；不能换归母",
+      "entity_stop_reason": "金融完整贡献/内部抵销及同范围经营投入未裁定"
+    },
+    {
+      "year": 2024,
+      "net_profit_yuan": "89334728025.90",
+      "cfo_yuan": "92463692168.43",
+      "capex_cash_yuan": "4678712053.56",
+      "operating_revenue_yuan": "170899152276.34",
+      "inventory_yuan": null,
+      "input_roles": {
+        "operating_revenue_yuan": "C01",
+        "net_profit_yuan": "L03-A2024-C",
+        "cfo_yuan": "L03-A2024-C",
+        "capex_cash_yuan": "L03-A2024-C"
+      },
+      "entity_cfo_yuan": null,
+      "fcff_yuan": null,
+      "nopat_proxy_yuan": null,
+      "selected_ncwc_yuan": null,
+      "selected_invested_capital_yuan": null,
+      "selective_reinvestment_proxy_yuan": null,
+      "entity_roic": null,
+      "cash_conversion": "1.03502517119235923644518059959918188221697153710",
+      "arithmetic_CFO_minus_capex_yuan": "87784980114.87",
+      "capex_to_operating_revenue": "0.0273770348842610417404722038962364843993726188944",
+      "inventory_to_operating_revenue": null,
+      "missing_current_reviewed_fields": [
+        "inventory_yuan"
+      ],
+      "cash_base_state": "AgentCalculated（合并范围）",
+      "profit_definition": "新准则合并净利润，含少数股东；不能换归母",
+      "entity_stop_reason": "金融完整贡献/内部抵销及同范围经营投入未裁定"
+    },
+    {
+      "year": 2025,
+      "net_profit_yuan": null,
+      "cfo_yuan": null,
+      "capex_cash_yuan": "3127594916.41",
+      "operating_revenue_yuan": "168838102514.79",
+      "inventory_yuan": null,
+      "input_roles": {
+        "operating_revenue_yuan": "R2025-18",
+        "capex_cash_yuan": "R2025-08"
+      },
+      "entity_cfo_yuan": null,
+      "fcff_yuan": null,
+      "nopat_proxy_yuan": null,
+      "selected_ncwc_yuan": null,
+      "selected_invested_capital_yuan": null,
+      "selective_reinvestment_proxy_yuan": null,
+      "entity_roic": null,
+      "cash_conversion": null,
+      "arithmetic_CFO_minus_capex_yuan": null,
+      "capex_to_operating_revenue": "0.0185242245075339360647788202050062796054460344615",
+      "inventory_to_operating_revenue": null,
+      "missing_current_reviewed_fields": [
+        "net_profit_yuan",
+        "cfo_yuan",
+        "inventory_yuan"
+      ],
+      "cash_base_state": "Unknown：本项目当前有效输入未齐，不表示没有原件",
+      "profit_definition": "新准则合并净利润，含少数股东；不能换归母",
+      "entity_stop_reason": "金融完整贡献/内部抵销及同范围经营投入未裁定"
+    }
+  ],
+  "complete_cash_years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "complete_cash_n": 5,
+  "listed_financial_rows": [
+    {
+      "year": 2020,
+      "listed_financial_rows_net_yuan": "5485454769.51",
+      "CFO_minus_listed_rows_yuan": "46183613923.52",
+      "details": [
+        {
+          "label": "客户存款和同业存放款项净增加额",
+          "sign": 1,
+          "amount_yuan": "3189100199.87",
+          "raw_current_blank": false,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        {
+          "label": "收取利息、手续费及佣金的现金",
+          "sign": 1,
+          "amount_yuan": "3075945383.34",
+          "raw_current_blank": false,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        {
+          "label": "客户贷款及垫款净增加额",
+          "sign": -1,
+          "amount_yuan": "2978755728.00",
+          "raw_current_blank": false,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        {
+          "label": "存放中央银行和同业款项净增加额",
+          "sign": -1,
+          "amount_yuan": "-2506406682.56",
+          "raw_current_blank": false,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        {
+          "label": "拆出资金净增加额",
+          "sign": -1,
+          "amount_yuan": "200000000.00",
+          "raw_current_blank": false,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        {
+          "label": "支付利息、手续费及佣金的现金",
+          "sign": -1,
+          "amount_yuan": "107241768.26",
+          "raw_current_blank": false,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        }
+      ],
+      "input_id": "L03-A2020-C",
+      "full_finance_company_contribution": null,
+      "boundary": "已列金融现金行的带符号算术，空白处理沿用已核组明示约定；未含全部税费薪酬/内部抵销，不是完整金融净贡献或实体CFO"
+    },
+    {
+      "year": 2021,
+      "listed_financial_rows_net_yuan": "9850116852.08",
+      "CFO_minus_listed_rows_yuan": "54178559295.29",
+      "details": [
+        {
+          "label": "客户存款和同业存放款项净增加额",
+          "sign": 1,
+          "amount_yuan": "7511166145.93",
+          "raw_current_blank": false,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        {
+          "label": "收取利息、手续费及佣金的现金",
+          "sign": 1,
+          "amount_yuan": "3145747032.91",
+          "raw_current_blank": false,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        {
+          "label": "客户贷款及垫款净增加额",
+          "sign": -1,
+          "amount_yuan": "484244272.00",
+          "raw_current_blank": false,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        {
+          "label": "存放中央银行和同业款项净增加额",
+          "sign": -1,
+          "amount_yuan": "559089326.28",
+          "raw_current_blank": false,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        {
+          "label": "拆出资金净增加额",
+          "sign": -1,
+          "amount_yuan": "-400000000.00",
+          "raw_current_blank": false,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        {
+          "label": "支付利息、手续费及佣金的现金",
+          "sign": -1,
+          "amount_yuan": "163462728.48",
+          "raw_current_blank": false,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        }
+      ],
+      "input_id": "L03-A2021-C",
+      "full_finance_company_contribution": null,
+      "boundary": "已列金融现金行的带符号算术，空白处理沿用已核组明示约定；未含全部税费薪酬/内部抵销，不是完整金融净贡献或实体CFO"
+    },
+    {
+      "year": 2022,
+      "listed_financial_rows_net_yuan": "-19509184157.51",
+      "CFO_minus_listed_rows_yuan": "56207779987.54",
+      "details": [
+        {
+          "label": "客户存款和同业存放款项净增加额",
+          "sign": 1,
+          "amount_yuan": "-8916033228.67",
+          "raw_current_blank": false,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        {
+          "label": "收取利息、手续费及佣金的现金",
+          "sign": 1,
+          "amount_yuan": "3247615476.04",
+          "raw_current_blank": false,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        {
+          "label": "客户贷款及垫款净增加额",
+          "sign": -1,
+          "amount_yuan": "723778672.00",
+          "raw_current_blank": false,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        {
+          "label": "存放中央银行和同业款项净增加额",
+          "sign": -1,
+          "amount_yuan": "13037761321.90",
+          "raw_current_blank": false,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        {
+          "label": "拆出资金净增加额",
+          "sign": -1,
+          "amount_yuan": "0",
+          "raw_current_blank": true,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        {
+          "label": "支付利息、手续费及佣金的现金",
+          "sign": -1,
+          "amount_yuan": "79226410.98",
+          "raw_current_blank": false,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        }
+      ],
+      "input_id": "L03-A2022-C",
+      "full_finance_company_contribution": null,
+      "boundary": "已列金融现金行的带符号算术，空白处理沿用已核组明示约定；未含全部税费薪酬/内部抵销，不是完整金融净贡献或实体CFO"
+    },
+    {
+      "year": 2023,
+      "listed_financial_rows_net_yuan": "47593756.63",
+      "CFO_minus_listed_rows_yuan": "66545653964.46",
+      "details": [
+        {
+          "label": "客户存款和同业存放款项净增加额",
+          "sign": 1,
+          "amount_yuan": "-810223002.76",
+          "raw_current_blank": false,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        {
+          "label": "收取利息、手续费及佣金的现金",
+          "sign": 1,
+          "amount_yuan": "3018786023.42",
+          "raw_current_blank": false,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        {
+          "label": "客户贷款及垫款净增加额",
+          "sign": -1,
+          "amount_yuan": "-2051930316.19",
+          "raw_current_blank": false,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        {
+          "label": "存放中央银行和同业款项净增加额",
+          "sign": -1,
+          "amount_yuan": "1570003429.01",
+          "raw_current_blank": false,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        {
+          "label": "拆出资金净增加额",
+          "sign": -1,
+          "amount_yuan": "2500000000.00",
+          "raw_current_blank": false,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        {
+          "label": "支付利息、手续费及佣金的现金",
+          "sign": -1,
+          "amount_yuan": "142896151.21",
+          "raw_current_blank": false,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        }
+      ],
+      "input_id": "L03-A2023-C",
+      "full_finance_company_contribution": null,
+      "boundary": "已列金融现金行的带符号算术，空白处理沿用已核组明示约定；未含全部税费薪酬/内部抵销，不是完整金融净贡献或实体CFO"
+    },
+    {
+      "year": 2024,
+      "listed_financial_rows_net_yuan": "18808840580.89",
+      "CFO_minus_listed_rows_yuan": "73654851587.54",
+      "details": [
+        {
+          "label": "客户存款和同业存放款项净增加额",
+          "sign": 1,
+          "amount_yuan": "11060205782.10",
+          "raw_current_blank": false,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        {
+          "label": "收取利息、手续费及佣金的现金",
+          "sign": 1,
+          "amount_yuan": "3122827833.43",
+          "raw_current_blank": false,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        {
+          "label": "客户贷款及垫款净增加额",
+          "sign": -1,
+          "amount_yuan": "262376929.65",
+          "raw_current_blank": false,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        {
+          "label": "存放中央银行和同业款项净增加额",
+          "sign": -1,
+          "amount_yuan": "-4585245646.29",
+          "raw_current_blank": false,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        {
+          "label": "拆出资金净增加额",
+          "sign": -1,
+          "amount_yuan": "-400000000.00",
+          "raw_current_blank": false,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        },
+        {
+          "label": "支付利息、手续费及佣金的现金",
+          "sign": -1,
+          "amount_yuan": "97061751.28",
+          "raw_current_blank": false,
+          "blank_policy": "原表空白按本算术的0处理，不移动上期数填入本期"
+        }
+      ],
+      "input_id": "L03-A2024-C",
+      "full_finance_company_contribution": null,
+      "boundary": "已列金融现金行的带符号算术，空白处理沿用已核组明示约定；未含全部税费薪酬/内部抵销，不是完整金融净贡献或实体CFO"
+    }
+  ],
+  "company_disclosure_explanations": [],
+  "input_evidence": [
+    {
+      "domain": "facts",
+      "id": "C01",
+      "binding": "bf6e838d821bfa014ee564b83dbd1438bee886ca176f83e4f985a3eff0a0cc10",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+    },
+    {
+      "domain": "facts",
+      "id": "R2016-07",
+      "binding": "8f56e48a514042196efd87304c1400b2ac4602c3178bb979a7d73027658430fc",
+      "pdf_path": "sources/annual_reports/pdf/600519_2016_贵州茅台_2016年年度报告.pdf",
+      "pdf_sha256": "dd26d9e0017a938cb5e1aa0a830bab7502d0de1f85eb7c00abffb4888c8c20ad"
+    },
+    {
+      "domain": "facts",
+      "id": "R2017-04",
+      "binding": "a179baa2e6fdc6d15637746b64d1979874adb14e7f4e27ce616e7ed6630acdeb",
+      "pdf_path": "sources/annual_reports/pdf/600519_2017_贵州茅台_2017年年度报告.pdf",
+      "pdf_sha256": "b66a4641e5f2313ed7964e5bef0026021ff2164459d0e0615f1b4385ba1a78e3"
+    },
+    {
+      "domain": "facts",
+      "id": "R2018-04",
+      "binding": "0de4d47f1371746190e80f289807a9cd3e92dc672b57cd5792cd0e4f3b7a983b",
+      "pdf_path": "sources/annual_reports/pdf/600519_2018_贵州茅台_2018年年度报告.pdf",
+      "pdf_sha256": "08728fc937836cfeed8e98aeda932da54c737efa6de4280ae001476c0e393dec"
+    },
+    {
+      "domain": "facts",
+      "id": "R2019-04",
+      "binding": "ffd69195fd99f1b74fc52c27e22c0e32b43afc8577e974948bb90aebd91892a1",
+      "pdf_path": "sources/annual_reports/pdf/600519_2019_贵州茅台_2019年年度报告.pdf",
+      "pdf_sha256": "2a2b384ab09a7bc295fd2e33b999acdf4212340b0141031c991060dea2fad03d"
+    },
+    {
+      "domain": "facts",
+      "id": "R2020-09",
+      "binding": "31767e8d1cac8ab856ecf5a683ce258841b2c40ce1201fd48a2749ef5d922a2f",
+      "pdf_path": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "pdf_sha256": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c"
+    },
+    {
+      "domain": "facts",
+      "id": "R2021-09",
+      "binding": "277fc187bd99c5961fe714b46114355540cc1dc9bf5895e823951a7a21d49917",
+      "pdf_path": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+      "pdf_sha256": "f65effdde58bcea99fd6bdb53f61b31d5c432e6dfb2661e5caf05156a433ea5a"
+    },
+    {
+      "domain": "facts",
+      "id": "R2022-09",
+      "binding": "e2e4f516e0c96e0213109da8ce26ca297d2eb872d0dd123038be8e86765c90dc",
+      "pdf_path": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "pdf_sha256": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358"
+    },
+    {
+      "domain": "facts",
+      "id": "R2023-09",
+      "binding": "cf35a36f055c85bcf07586566ad6b8f024c7d3b93c003ef885a729c9c25fdf25",
+      "pdf_path": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "pdf_sha256": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-08",
+      "binding": "ca518cf46cada0f847fd5f5558e445f2c30a497ced196f27b01caf98a0a3a414",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-18",
+      "binding": "a00d783fbbf8488e5f9bda8f44ff82fb315e132f76af96d99916db2b24a4e54b",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "lec03_agent_facts",
+      "id": "L03-A2020-C",
+      "validated_snapshot_sha256": "a9b134a1406138efae0b2a22bc493eced296f786a8a67a7bed3921dbfaffd43c",
+      "pdf_path": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "pdf_sha256": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c",
+      "human_confirmation": false
+    },
+    {
+      "domain": "lec03_agent_facts",
+      "id": "L03-A2021-C",
+      "validated_snapshot_sha256": "a083d03a5abbbb06326eb5ebc5bd33b6945c8964b4a71292e9bccd2dbad71659",
+      "pdf_path": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+      "pdf_sha256": "f65effdde58bcea99fd6bdb53f61b31d5c432e6dfb2661e5caf05156a433ea5a",
+      "human_confirmation": false
+    },
+    {
+      "domain": "lec03_agent_facts",
+      "id": "L03-A2022-C",
+      "validated_snapshot_sha256": "17dc9dd677959a52636e5b95b1a10632ea283ceeb6d40ce2d395f6b8954203f5",
+      "pdf_path": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "pdf_sha256": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358",
+      "human_confirmation": false
+    },
+    {
+      "domain": "lec03_agent_facts",
+      "id": "L03-A2023-C",
+      "validated_snapshot_sha256": "b9ec71d2588bb8b72f6c4e1539f7a7881baf878e3bef16d62bf99a6e01f9b1ae",
+      "pdf_path": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "pdf_sha256": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1",
+      "human_confirmation": false
+    },
+    {
+      "domain": "lec03_agent_facts",
+      "id": "L03-A2024-C",
+      "validated_snapshot_sha256": "49401acee09b8b05e72d07696e7cf19a2138fb2a637ad02047cb3909a2727793",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "human_confirmation": false
+    }
+  ],
+  "research_breakpoint_rules": [
+    {
+      "year": 2007,
+      "reason": "新旧会计准则",
+      "status": "合同研究规则，历史原文/本项目核准待补"
+    },
+    {
+      "year": 2013,
+      "reason": "财务公司进入合并范围",
+      "status": "合同研究规则，历史原文/本项目核准待补"
+    },
+    {
+      "year": 2020,
+      "reason": "预收/合同负债及新收入准则",
+      "status": "合同研究规则，历史原文/本项目核准待补"
+    }
+  ],
+  "selective_ncwc_rule": "inventory+notes/accounts receivable+receivable financing+prepayments−accounts payable−advances/contract liabilities; only current source-confirmed items, no whole other items",
+  "pre_finance_proxy_window": [
+    2007,
+    2012
+  ],
+  "minimum_multiyear_incremental_window_status": "Unknown：输入与范围未齐",
+  "formulas": {
+    "cash_conversion": "consolidated CFO/consolidated net profit",
+    "arithmetic_cash_residual": "consolidated CFO−cash paid for acquisition/construction of fixed/intangible/other long-term assets",
+    "capex_intensity": "purchased long-term asset cash/consolidated operating revenue",
+    "inventory_intensity": "book inventory/consolidated operating revenue"
+  },
+  "precision": 48,
+  "generated_output_sha256": "527860c4c23adb78e9b60a9e762277c98d147dc1c6a0a7398f380b1e1bdf2ec3"
+}

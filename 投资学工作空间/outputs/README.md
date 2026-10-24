@@ -15,4 +15,6 @@
 
 - [渠道净贡献验证工作稿](student-channel-net-check.md)：十年主营面板、九组midpoint分解已复算，B08已核，费用率/定义/附注比较完成；N03待采纳，渠道净贡献保持Unknown。
 
-- [N03渠道净贡献判断审阅稿](student-channel-n03-review.md)：十年/分段相关和主营—附注差额已列；净贡献增减仍Unknown，意见等待本人采纳。
+- [N03原审阅展示（历史）](student-channel-n03-review.md)保持不变；[当前已采纳结论](student-channel-conclusion.md)及独立回执显示意见已采纳，净贡献方向仍Unknown。
+
+- [现金与资本回报阶段性稿](student-cash-capital-check.md)：25年面板与显式缺口、五年有效现金复用、范围停止及教学错误公式识别；B09待核，2007—2012资本代理/多年窗口尚待执行。

@@ -93,7 +93,7 @@
       "interpretation": "长周期投入与销售存在时间差；存货金额、实物吨、项目投入与购建现金分开，不能仅由低Capex贴轻资产标签。",
       "alternative": "存货上升可能为产能配套、结构转换或积压；缺库龄时不能选择唯一原因。",
       "unknown": "经营资产/无息负债范围、维护/扩张Capex、成熟滞后和平均投入资本待裁定。",
-      "next_action": "生产库存延伸合同G6两项有范围Interpretation已由本人采纳，current_g6_adoption()须动态验证；完整回报归因保留Unknown，正式材料批准/验收分开。",
+      "next_action": "进入现金与资本回报延伸合同：复用2020—2024现金组，25年面板显式缺口；B09待核，随后做2007—2012选择性资本/NOPAT及多年增量窗口，实体现金/回报范围未齐时停止。",
       "refutation": "库存与投入长期快于后续销售且回报未兑现，削弱资本效率解释。",
       "source_date": "",
       "source_role": "原始披露",
@@ -359,7 +359,7 @@
       "interpretation": "上市公司价值获取应同时看营业毛利、税费、组织成本、资本需求与现金；高毛利不等于可分配FCFF。",
       "alternative": "金融收益、投资/减值、会计分类与收款时点可能解释净利润/现金差异。",
       "unknown": "NOPAT、经营税率、投入资本、完整实体FCFF及证券权利未定。",
-      "next_action": "B08已核，十年费用率/分段相关与2025主营—附注范围比较完成；下一步本人集中审阅N03有限Interpretation，净贡献增减Unknown，不重核旧原数。",
+      "next_action": "N03已由本人真实采纳为有限Interpretation，current_n03_adoption()核当前来源/计算语义；渠道净贡献方向仍Unknown。",
       "refutation": "新增资本未形成后续NOPAT且调整现金走弱，削弱可持续回报解释。",
       "source_date": "",
       "source_role": "原始披露",
@@ -771,11 +771,11 @@
   "author": "Agent（本轮用户明确授权的研究优化）",
   "status": "研究计划与解释草稿；不新增原值/算术/内容验收或签署",
   "active_extension_contract": {
-    "name": "第五次任务延伸合同_贵州茅台渠道净贡献验证.md",
-    "progress": "work/channel-20261024/progress.json",
-    "next_batch": null,
-    "current_result": "outputs/student-channel-net-check.md",
-    "net_contribution": "Unknown（增减方向均未获证）",
-    "next_content_review": "N03-20261024"
+    "name": "第五次任务延伸合同_贵州茅台现金与资本回报验证.md",
+    "progress": "work/cash-20261024/progress.json",
+    "next_batch": "B09",
+    "current_result": "outputs/student-cash-capital-check.md",
+    "entity_cash_return_status": "Unknown",
+    "previous_N03_adoption": "scripts/channel_n03_review.py:current_n03_adoption"
   }
 }

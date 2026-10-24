@@ -1,0 +1,756 @@
+{
+  "date": "2026-10-24",
+  "state": "AgentCalculated",
+  "human_arithmetic_confirmation": false,
+  "code_path": "scripts/calculate_channel_known.py",
+  "code_sha256": "f6df9b565629e63ca671a182c6244158f85a55e67f5af66a773542298543e7cb",
+  "sample_years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "panel": [
+    {
+      "year": 2016,
+      "direct_revenue_yuan": "3484895916.38",
+      "direct_cost_yuan": "212963457.18",
+      "wholesale_revenue_yuan": "35356078689.16",
+      "wholesale_cost_yuan": "3160454366.93",
+      "channel_revenue_sum_yuan": "38840974605.54",
+      "channel_cost_sum_yuan": "3373417824.11",
+      "direct_gross_profit_yuan": "3271932459.20",
+      "wholesale_gross_profit_yuan": "32195624322.23",
+      "direct_share": "0.0897221542912298412106936853148055914991375376841",
+      "direct_gross_margin": "0.938889578831031566465931720166458465423145160913",
+      "wholesale_gross_margin": "0.910610721434473450822748966415175413554572200987",
+      "gross_margin_gap": "0.028278857396558115643182753751283051868572959926",
+      "combined_gross_margin": "0.913147961440987124293655889144788513472004166326",
+      "independent_reported_total_check": null,
+      "input_ids": [
+        "R2016-06"
+      ],
+      "channel_net_contribution": null,
+      "state": "AgentCalculated"
+    },
+    {
+      "year": 2017,
+      "direct_revenue_yuan": "6247060753.21",
+      "direct_cost_yuan": "407407670.86",
+      "wholesale_revenue_yuan": "51921529539.18",
+      "wholesale_cost_yuan": "5507255055.93",
+      "channel_revenue_sum_yuan": "58168590292.39",
+      "channel_cost_sum_yuan": "5914662726.79",
+      "direct_gross_profit_yuan": "5839653082.35",
+      "wholesale_gross_profit_yuan": "46414274483.25",
+      "direct_share": "0.107395773592045978068605006112759175745713358424",
+      "direct_gross_margin": "0.934784102963836717849443698094865770132855019518",
+      "wholesale_gross_margin": "0.893931186064651198882478337387663026012193316471",
+      "gross_margin_gap": "0.040852916899185518966965360707202744120661703047",
+      "combined_gross_margin": "0.898318616678530795904875476358864113216973661154",
+      "independent_reported_total_check": null,
+      "input_ids": [
+        "R2017-03"
+      ],
+      "channel_net_contribution": null,
+      "state": "AgentCalculated"
+    },
+    {
+      "year": 2018,
+      "direct_revenue_yuan": "4375853481.50",
+      "direct_cost_yuan": "263074799.85",
+      "wholesale_revenue_yuan": "69188816466.75",
+      "wholesale_cost_yuan": "6173779097.22",
+      "channel_revenue_sum_yuan": "73564669948.25",
+      "channel_cost_sum_yuan": "6436853897.07",
+      "direct_gross_profit_yuan": "4112778681.65",
+      "wholesale_gross_profit_yuan": "63015037369.53",
+      "direct_share": "0.0594830845374314820526222600634679929684244982832",
+      "direct_gross_margin": "0.939880345408681161300441498797472933623863155392",
+      "wholesale_gross_margin": "0.910769118298375188762203715774546794704946007046",
+      "gross_margin_gap": "0.029111227110305972538237783022926138918917148346",
+      "combined_gross_margin": "0.912500743881565886122659621892514918274460376438",
+      "independent_reported_total_check": null,
+      "input_ids": [
+        "R2018-03"
+      ],
+      "channel_net_contribution": null,
+      "state": "AgentCalculated"
+    },
+    {
+      "year": 2019,
+      "direct_revenue_yuan": "7248659732.50",
+      "direct_cost_yuan": "361480841.16",
+      "wholesale_revenue_yuan": "78095908608.73",
+      "wholesale_cost_yuan": "7003336780.12",
+      "channel_revenue_sum_yuan": "85344568341.23",
+      "channel_cost_sum_yuan": "7364817621.28",
+      "direct_gross_profit_yuan": "6887178891.34",
+      "wholesale_gross_profit_yuan": "71092571828.61",
+      "direct_share": "0.0849340488022384099151124343926163409979124384493",
+      "direct_gross_margin": "0.950131354691782671563001250314242143935537534214",
+      "wholesale_gross_margin": "0.910323896541013832102299777145392261247354583686",
+      "gross_margin_gap": "0.039807458150768839460701473168849882688182950528",
+      "combined_gross_margin": "0.913704905134284295879594466012247907361141561712",
+      "independent_reported_total_check": null,
+      "input_ids": [
+        "R2019-03"
+      ],
+      "channel_net_contribution": null,
+      "state": "AgentCalculated"
+    },
+    {
+      "year": 2020,
+      "direct_revenue_yuan": "13240356503.01",
+      "direct_cost_yuan": "579663668.13",
+      "wholesale_revenue_yuan": "81581642599.44",
+      "wholesale_cost_yuan": "7503707750.11",
+      "channel_revenue_sum_yuan": "94821999102.45",
+      "channel_cost_sum_yuan": "8083371418.24",
+      "direct_gross_profit_yuan": "12660692834.88",
+      "wholesale_gross_profit_yuan": "74077934849.33",
+      "direct_share": "0.139633804690244050955775536640825261141641318868",
+      "direct_gross_margin": "0.956219935014723961217032251113233463475788380391",
+      "wholesale_gross_margin": "0.908022105083705343030772403105514726982698534770",
+      "gross_margin_gap": "0.048197829931018618186259848007718736493089845621",
+      "combined_gross_margin": "0.914752151454786795661807264624824517137491777823",
+      "independent_reported_total_check": {
+        "revenue_yuan": "94821999102.45",
+        "cost_yuan": "8083371418.24"
+      },
+      "input_ids": [
+        "L03-A2020-B"
+      ],
+      "channel_net_contribution": null,
+      "state": "AgentCalculated"
+    },
+    {
+      "year": 2021,
+      "direct_revenue_yuan": "24029362357.92",
+      "direct_cost_yuan": "932607888.24",
+      "wholesale_revenue_yuan": "82029927984.26",
+      "wholesale_cost_yuan": "7958382622.48",
+      "channel_revenue_sum_yuan": "106059290342.18",
+      "channel_cost_sum_yuan": "8890990510.72",
+      "direct_gross_profit_yuan": "23096754469.68",
+      "wholesale_gross_profit_yuan": "74071545361.78",
+      "direct_share": "0.226565369996290392804528046436541231516299245448",
+      "direct_gross_margin": "0.961188820812275301144925288245619706054942066661",
+      "wholesale_gross_margin": "0.902981962583131074929853444701254561866709755052",
+      "gross_margin_gap": "0.058206858229144226215071843544365144188232311609",
+      "combined_gross_margin": "0.916169620954138756745522247196046640086472016692",
+      "independent_reported_total_check": {
+        "revenue_yuan": "106059290342.18",
+        "cost_yuan": "8890990510.72"
+      },
+      "input_ids": [
+        "L03-A2021-B"
+      ],
+      "channel_net_contribution": null,
+      "state": "AgentCalculated"
+    },
+    {
+      "year": 2022,
+      "direct_revenue_yuan": "49378737661.60",
+      "direct_cost_yuan": "1874222059.91",
+      "wholesale_revenue_yuan": "74393594687.11",
+      "wholesale_cost_yuan": "8021891276.89",
+      "channel_revenue_sum_yuan": "123772332348.71",
+      "channel_cost_sum_yuan": "9896113336.80",
+      "direct_gross_profit_yuan": "47504515601.69",
+      "wholesale_gross_profit_yuan": "66371703410.22",
+      "direct_share": "0.398948106774644964163829074065043580036761795887",
+      "direct_gross_margin": "0.962043945457773164290072354537705778862951814751",
+      "wholesale_gross_margin": "0.892169597253243982691890474502080596682496630200",
+      "gross_margin_gap": "0.069874348204529181598181880035625182180455184551",
+      "combined_gross_margin": "0.920045836181553212273083610869131996752109198464",
+      "independent_reported_total_check": {
+        "revenue_yuan": "123772332348.71",
+        "cost_yuan": "9896113336.80"
+      },
+      "input_ids": [
+        "L03-A2022-B"
+      ],
+      "channel_net_contribution": null,
+      "state": "AgentCalculated"
+    },
+    {
+      "year": 2023,
+      "direct_revenue_yuan": "67232876883.14",
+      "direct_cost_yuan": "3050843541.66",
+      "wholesale_revenue_yuan": "79986119397.90",
+      "wholesale_cost_yuan": "8569360111.66",
+      "channel_revenue_sum_yuan": "147218996281.04",
+      "channel_cost_sum_yuan": "11620203653.32",
+      "direct_gross_profit_yuan": "64182033341.48",
+      "wholesale_gross_profit_yuan": "71416759286.24",
+      "direct_share": "0.456686151797916920304995346643201586427030287250",
+      "direct_gross_margin": "0.954622742873805827649364893593721736247614721260",
+      "wholesale_gross_margin": "0.892864409773016382396510342556169461064865160445",
+      "gross_margin_gap": "0.061758333100789445252854551037552275182749560815",
+      "combined_gross_margin": "0.921068585258269828161413677169190178204793573768",
+      "independent_reported_total_check": {
+        "revenue_yuan": "147218996281.04",
+        "cost_yuan": "11620203653.32"
+      },
+      "input_ids": [
+        "L03-A2023-B"
+      ],
+      "channel_net_contribution": null,
+      "state": "AgentCalculated"
+    },
+    {
+      "year": 2024,
+      "direct_revenue_yuan": "74843327030.79",
+      "direct_cost_yuan": "3493952839.59",
+      "wholesale_revenue_yuan": "95768511021.23",
+      "wholesale_cost_yuan": "10136042973.30",
+      "channel_revenue_sum_yuan": "170611838052.02",
+      "channel_cost_sum_yuan": "13629995812.89",
+      "direct_gross_profit_yuan": "71349374191.20",
+      "wholesale_gross_profit_yuan": "85632468047.93",
+      "direct_share": "0.438676049008803667718309401281366800264723125779",
+      "direct_gross_margin": "0.953316441449047111010763049750295115798211554446",
+      "wholesale_gross_margin": "0.894161004852074622596883183891917981328691444899",
+      "gross_margin_gap": "0.059155436596972488413879865858377134469520109547",
+      "combined_gross_margin": "0.920111078055825303983513545447987175226350396300",
+      "independent_reported_total_check": {
+        "revenue_yuan": "170611838052.02",
+        "cost_yuan": "13629995812.89"
+      },
+      "input_ids": [
+        "L03-A2024-B"
+      ],
+      "channel_net_contribution": null,
+      "state": "AgentCalculated"
+    },
+    {
+      "year": 2025,
+      "direct_revenue_yuan": "84543031854.63",
+      "direct_cost_yuan": "4579568698.41",
+      "wholesale_revenue_yuan": "84231553333.02",
+      "wholesale_cost_yuan": "10226331441.18",
+      "channel_revenue_sum_yuan": "168774585187.65",
+      "channel_cost_sum_yuan": "14805900139.59",
+      "direct_gross_profit_yuan": "79963463156.22",
+      "wholesale_gross_profit_yuan": "74005221891.84",
+      "direct_share": "0.500922764885671875117949024339872413744183945473",
+      "direct_gross_margin": "0.945831506181556465275729209204760424751457020682",
+      "wholesale_gross_margin": "0.878592629050197883371604235761726456671526113252",
+      "gross_margin_gap": "0.067238877131358581904124973443033968079930907430",
+      "combined_gross_margin": "0.912274113290645997683894636947957367969329030793",
+      "independent_reported_total_check": null,
+      "input_ids": [
+        "R2025-17"
+      ],
+      "channel_net_contribution": null,
+      "state": "AgentCalculated"
+    }
+  ],
+  "midpoint_decompositions": [
+    {
+      "from_year": 2016,
+      "to_year": 2017,
+      "direct_share_change_pp": "1.76736193008161368579113207979535842465758207399",
+      "combined_margin_change_pp": "-1.48293447624563283887804127859244002550305051720",
+      "mix_effect_pp": "0.0610904330246459798776812256847865244458339267207",
+      "within_channel_margin_effect_pp": "-1.54402490927027881875572250427722654994888444388",
+      "identity_residual_pp": "-4.00E-47",
+      "definition_breakpoint": false,
+      "boundary": "披露原数的代数分解，非渠道调整因果或净贡献",
+      "state": "AgentCalculated"
+    },
+    {
+      "from_year": 2017,
+      "to_year": 2018,
+      "direct_share_change_pp": "-4.79126890546144960159827460492911827772888601408",
+      "combined_margin_change_pp": "1.41821272030350902177841455336508050574867152840",
+      "mix_effect_pp": "-0.167608513844951767245147813923432784177324463381",
+      "within_channel_margin_effect_pp": "1.58582123414846078902356236728851328992599599165",
+      "identity_residual_pp": "1.300E-46",
+      "definition_breakpoint": false,
+      "boundary": "披露原数的代数分解，非渠道调整因果或净贡献",
+      "state": "AgentCalculated"
+    },
+    {
+      "from_year": 2018,
+      "to_year": 2019,
+      "direct_share_change_pp": "2.54509642648069278624901743291483480294879401661",
+      "combined_margin_change_pp": "0.120416125271840975693484411973298908668118527400",
+      "mix_effect_pp": "0.0877023497878545478899436797712810871912428872247",
+      "within_channel_margin_effect_pp": "0.0327137754839864278035407322020178214768756402891",
+      "identity_residual_pp": "-1.13800E-46",
+      "definition_breakpoint": false,
+      "boundary": "披露原数的代数分解，非渠道调整因果或净贡献",
+      "state": "AgentCalculated"
+    },
+    {
+      "from_year": 2019,
+      "to_year": 2020,
+      "direct_share_change_pp": "5.46997558880056410406631022482089201437288804187",
+      "combined_margin_change_pp": "0.104724632050249978221279861257660977635021611100",
+      "mix_effect_pp": "0.240693388746369307669878027201883008892345982283",
+      "within_channel_margin_effect_pp": "-0.135968756696119329448598165944222031257324371172",
+      "identity_residual_pp": "-1.100E-47",
+      "definition_breakpoint": false,
+      "boundary": "披露原数的代数分解，非渠道调整因果或净贡献",
+      "state": "AgentCalculated"
+    },
+    {
+      "from_year": 2020,
+      "to_year": 2021,
+      "direct_share_change_pp": "8.69315653060463418487525097957159703746579265800",
+      "combined_margin_change_pp": "0.141746949935196108371498257122212294898023886900",
+      "mix_effect_pp": "0.462496304883234614281717932693427410587010654303",
+      "within_channel_margin_effect_pp": "-0.320749354948038505910219675571215115688986767438",
+      "identity_residual_pp": "3.500E-47",
+      "definition_breakpoint": false,
+      "boundary": "披露原数的代数分解，非渠道调整因果或净贡献",
+      "state": "AgentCalculated"
+    },
+    {
+      "from_year": 2021,
+      "to_year": 2022,
+      "direct_share_change_pp": "17.2382736778354571359301027628502348520462550439",
+      "combined_margin_change_pp": "0.387621522741445552756136367308535666563718177200",
+      "mix_effect_pp": "1.10394944474550085510782341585083996495065257577",
+      "within_channel_margin_effect_pp": "-0.716327922004055302351687048542304298386934398591",
+      "identity_residual_pp": "2.100E-47",
+      "definition_breakpoint": true,
+      "boundary": "披露分类的代数分解；非因果。2021→2022涉及平台并入定义变化。",
+      "state": "AgentCalculated"
+    },
+    {
+      "from_year": 2022,
+      "to_year": 2023,
+      "direct_share_change_pp": "5.77380450232719561411662725781580063902684913630",
+      "combined_margin_change_pp": "0.102274907671661588833006630005818145268437530400",
+      "mix_effect_pp": "0.380010683987024780127242118667033481428140512653",
+      "within_channel_margin_effect_pp": "-0.277735776315363191294235488661215336159702982291",
+      "identity_residual_pp": "3.800E-47",
+      "definition_breakpoint": false,
+      "boundary": "披露原数的代数分解，非渠道调整因果或净贡献",
+      "state": "AgentCalculated"
+    },
+    {
+      "from_year": 2023,
+      "to_year": 2024,
+      "direct_share_change_pp": "-1.80101027891132525866859453618347861623071614710",
+      "combined_margin_change_pp": "-0.095750720244452417790013172120300297844317746800",
+      "mix_effect_pp": "-0.108883471043792984288675336758296221533565221914",
+      "within_channel_margin_effect_pp": "0.0131327507993405664986621646379959236892474751455",
+      "identity_residual_pp": "-3.1500E-47",
+      "definition_breakpoint": false,
+      "boundary": "披露原数的代数分解，非渠道调整因果或净贡献",
+      "state": "AgentCalculated"
+    },
+    {
+      "from_year": 2024,
+      "to_year": 2025,
+      "direct_share_change_pp": "6.22467158768682073996396230585056134794608196940",
+      "combined_margin_change_pp": "-0.783696476517930629961890850002980725702136550700",
+      "mix_effect_pp": "0.393381546754958343209956661394214473992416350709",
+      "within_channel_margin_effect_pp": "-1.17707802327288897317184751139719519969455290136",
+      "identity_residual_pp": "-5.00E-47",
+      "definition_breakpoint": false,
+      "boundary": "披露原数的代数分解，非渠道调整因果或净贡献",
+      "state": "AgentCalculated"
+    }
+  ],
+  "sales_expense_inputs": [
+    {
+      "year": 2016,
+      "company_revenue_yuan": "38862189993.84",
+      "sales_expense_yuan": "1681052022.90",
+      "sales_expense_rate": "0.0432567496367667796838645316399463209588051866636",
+      "input_ids": [
+        "R2016-07"
+      ],
+      "state": "AgentCalculated"
+    },
+    {
+      "year": 2017,
+      "company_revenue_yuan": "58217861314.17",
+      "sales_expense_yuan": "2986068544.99",
+      "sales_expense_rate": "0.0512912786142352258143891460713982943954055242565",
+      "input_ids": [
+        "R2017-04"
+      ],
+      "state": "AgentCalculated"
+    },
+    {
+      "year": 2018,
+      "company_revenue_yuan": "73638872388.03",
+      "sales_expense_yuan": "2572076872.16",
+      "sales_expense_rate": "0.0349282490178121078989146896761826140540401035558",
+      "input_ids": [
+        "R2018-04"
+      ],
+      "state": "AgentCalculated"
+    },
+    {
+      "year": 2019,
+      "company_revenue_yuan": "85429573467.25",
+      "sales_expense_yuan": "3278990982.26",
+      "sales_expense_rate": "0.0383823873768610490205970577088805627709921603524",
+      "input_ids": [
+        "R2019-04"
+      ],
+      "state": "AgentCalculated"
+    },
+    {
+      "year": 2020,
+      "company_revenue_yuan": "94915380916.72",
+      "sales_expense_yuan": "2547745650.95",
+      "sales_expense_rate": "0.0268422844258026572846064359017009475197034178206",
+      "input_ids": [
+        "R2020-09"
+      ],
+      "state": "AgentCalculated"
+    },
+    {
+      "year": 2021,
+      "company_revenue_yuan": "106190154843.76",
+      "sales_expense_yuan": "2737369434.78",
+      "sales_expense_rate": "0.0257779964518137690413144540095545608201890710353",
+      "input_ids": [
+        "R2021-09"
+      ],
+      "state": "AgentCalculated"
+    },
+    {
+      "year": 2022,
+      "company_revenue_yuan": "124099843771.99",
+      "sales_expense_yuan": "3297724190.94",
+      "sales_expense_rate": "0.0265731534440844640931675841420327720978028978507",
+      "input_ids": [
+        "R2022-09"
+      ],
+      "state": "AgentCalculated"
+    },
+    {
+      "year": 2023,
+      "company_revenue_yuan": "147693604994.14",
+      "sales_expense_yuan": "4648613585.82",
+      "sales_expense_rate": "0.0314747113526306153101646845556892260263830574419",
+      "input_ids": [
+        "R2024-09（2023比较列）",
+        "R2023-09"
+      ],
+      "state": "AgentCalculated"
+    },
+    {
+      "year": 2024,
+      "company_revenue_yuan": "170899152276.34",
+      "sales_expense_yuan": "5639300059.49",
+      "sales_expense_rate": "0.0329978234787928114463107136127070858740394679639",
+      "input_ids": [
+        "C01",
+        "R2024-09"
+      ],
+      "state": "AgentCalculated"
+    },
+    {
+      "year": 2025,
+      "company_revenue_yuan": "168838102514.79",
+      "sales_expense_yuan": "7253499600.68",
+      "sales_expense_rate": "0.0429612717309743681293675347682058566180476671764",
+      "input_ids": [
+        "R2025-18"
+      ],
+      "state": "AgentCalculated"
+    }
+  ],
+  "sales_expense_correlation": {
+    "n": 10,
+    "years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "r": "-0.253295942934468376969196911711918546659456337496",
+    "boundary": "n<3停止；公司级费用率非渠道归属费用，相关不识别因果"
+  },
+  "sales_expense_correlation_sensitivity": [
+    {
+      "window": "全部2016—2025",
+      "n": 10,
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "r": "-0.253295942934468376969196911711918546659456337496",
+      "boundary": "描述性Pearson；分段仅作定义断点敏感性检查，小样本、不识别因果"
+    },
+    {
+      "window": "定义前2016—2021",
+      "n": 6,
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021
+      ],
+      "r": "-0.581456291939591416806833371822748034999919279269",
+      "boundary": "描述性Pearson；分段仅作定义断点敏感性检查，小样本、不识别因果"
+    },
+    {
+      "window": "定义后2022—2025",
+      "n": 4,
+      "years": [
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "r": "0.948504221014669901657855072340340999157622606708",
+      "boundary": "描述性Pearson；分段仅作定义断点敏感性检查，小样本、不识别因果"
+    }
+  ],
+  "observations_2025": {
+    "year": 2025,
+    "sales_expense_rate_2024_percent": "3.29978234787928114463107136127070858740394679639",
+    "sales_expense_rate_2025_percent": "4.29612717309743681293675347682058566180476671764",
+    "sales_expense_rate_change_pp": "0.996344825218155668305682115549877074400819921250",
+    "sales_expense_delta_yuan": "1614199541.19",
+    "direct_share_2025_percent": "50.0922764885671875117949024339872413744183945473",
+    "state": "AgentCalculated",
+    "boundary": "公司级费用与主营渠道结构分别观察，不按收入分摊费用，不裁定因果或渠道净贡献"
+  },
+  "definition_2022_source_confirmed": true,
+  "main_vs_note_2025": {
+    "直销": {
+      "note_revenue_yuan": "84587347014.89",
+      "note_cost_yuan": "4661072149.33",
+      "main_revenue_yuan": "84543031854.63",
+      "main_cost_yuan": "4579568698.41",
+      "note_minus_main_revenue_yuan": "44315160.26",
+      "note_minus_main_cost_yuan": "81503450.92",
+      "input_id": "R2025-19"
+    },
+    "批发代理": {
+      "note_revenue_yuan": "84250755499.90",
+      "note_cost_yuan": "10231205421.58",
+      "main_revenue_yuan": "84231553333.02",
+      "main_cost_yuan": "10226331441.18",
+      "note_minus_main_revenue_yuan": "19202166.88",
+      "note_minus_main_cost_yuan": "4873980.40",
+      "input_id": "R2025-20"
+    }
+  },
+  "main_vs_note_2025_totals": {
+    "note_minus_main_revenue_yuan": "63517327.14",
+    "note_minus_main_cost_yuan": "86377431.32",
+    "note_revenue_to_company_revenue_residual_yuan": "0.00",
+    "boundary": "附注全营业收入与主营酒类范围差额，仅用于范围核对；不等同i茅台费用或渠道净贡献"
+  },
+  "channel_net_contribution": null,
+  "input_evidence": [
+    {
+      "domain": "facts",
+      "id": "C01",
+      "binding": "bf6e838d821bfa014ee564b83dbd1438bee886ca176f83e4f985a3eff0a0cc10",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+    },
+    {
+      "domain": "facts",
+      "id": "R2016-06",
+      "binding": "65ca78d58ef33b9d5b78d0eca6d96950f9236e091126cf181d7b7afdec793a72",
+      "pdf_path": "sources/annual_reports/pdf/600519_2016_贵州茅台_2016年年度报告.pdf",
+      "pdf_sha256": "dd26d9e0017a938cb5e1aa0a830bab7502d0de1f85eb7c00abffb4888c8c20ad"
+    },
+    {
+      "domain": "facts",
+      "id": "R2016-07",
+      "binding": "8f56e48a514042196efd87304c1400b2ac4602c3178bb979a7d73027658430fc",
+      "pdf_path": "sources/annual_reports/pdf/600519_2016_贵州茅台_2016年年度报告.pdf",
+      "pdf_sha256": "dd26d9e0017a938cb5e1aa0a830bab7502d0de1f85eb7c00abffb4888c8c20ad"
+    },
+    {
+      "domain": "facts",
+      "id": "R2017-03",
+      "binding": "761faca55f0fdc3ec01a4eec2cadfe7bff1479574738cf791c3b26ed01c44608",
+      "pdf_path": "sources/annual_reports/pdf/600519_2017_贵州茅台_2017年年度报告.pdf",
+      "pdf_sha256": "b66a4641e5f2313ed7964e5bef0026021ff2164459d0e0615f1b4385ba1a78e3"
+    },
+    {
+      "domain": "facts",
+      "id": "R2017-04",
+      "binding": "a179baa2e6fdc6d15637746b64d1979874adb14e7f4e27ce616e7ed6630acdeb",
+      "pdf_path": "sources/annual_reports/pdf/600519_2017_贵州茅台_2017年年度报告.pdf",
+      "pdf_sha256": "b66a4641e5f2313ed7964e5bef0026021ff2164459d0e0615f1b4385ba1a78e3"
+    },
+    {
+      "domain": "facts",
+      "id": "R2018-03",
+      "binding": "41bcf542ebade5c8034edf45f87bfdc44fda01c85b34286865b066d2340be6dd",
+      "pdf_path": "sources/annual_reports/pdf/600519_2018_贵州茅台_2018年年度报告.pdf",
+      "pdf_sha256": "08728fc937836cfeed8e98aeda932da54c737efa6de4280ae001476c0e393dec"
+    },
+    {
+      "domain": "facts",
+      "id": "R2018-04",
+      "binding": "0de4d47f1371746190e80f289807a9cd3e92dc672b57cd5792cd0e4f3b7a983b",
+      "pdf_path": "sources/annual_reports/pdf/600519_2018_贵州茅台_2018年年度报告.pdf",
+      "pdf_sha256": "08728fc937836cfeed8e98aeda932da54c737efa6de4280ae001476c0e393dec"
+    },
+    {
+      "domain": "facts",
+      "id": "R2019-03",
+      "binding": "43362cfe7137d9c8c093a65c0b77127355b4c0a265c66bb0efa0af44e970a20e",
+      "pdf_path": "sources/annual_reports/pdf/600519_2019_贵州茅台_2019年年度报告.pdf",
+      "pdf_sha256": "2a2b384ab09a7bc295fd2e33b999acdf4212340b0141031c991060dea2fad03d"
+    },
+    {
+      "domain": "facts",
+      "id": "R2019-04",
+      "binding": "ffd69195fd99f1b74fc52c27e22c0e32b43afc8577e974948bb90aebd91892a1",
+      "pdf_path": "sources/annual_reports/pdf/600519_2019_贵州茅台_2019年年度报告.pdf",
+      "pdf_sha256": "2a2b384ab09a7bc295fd2e33b999acdf4212340b0141031c991060dea2fad03d"
+    },
+    {
+      "domain": "facts",
+      "id": "R2020-09",
+      "binding": "31767e8d1cac8ab856ecf5a683ce258841b2c40ce1201fd48a2749ef5d922a2f",
+      "pdf_path": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "pdf_sha256": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c"
+    },
+    {
+      "domain": "facts",
+      "id": "R2021-09",
+      "binding": "277fc187bd99c5961fe714b46114355540cc1dc9bf5895e823951a7a21d49917",
+      "pdf_path": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+      "pdf_sha256": "f65effdde58bcea99fd6bdb53f61b31d5c432e6dfb2661e5caf05156a433ea5a"
+    },
+    {
+      "domain": "facts",
+      "id": "R2022-09",
+      "binding": "e2e4f516e0c96e0213109da8ce26ca297d2eb872d0dd123038be8e86765c90dc",
+      "pdf_path": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "pdf_sha256": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358"
+    },
+    {
+      "domain": "facts",
+      "id": "R2022-10",
+      "binding": "23e3470c165098f3577e7610f3e88afa4eb7358ca2d7b6fc24de9beade03d3d0",
+      "pdf_path": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "pdf_sha256": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358"
+    },
+    {
+      "domain": "facts",
+      "id": "R2023-09",
+      "binding": "cf35a36f055c85bcf07586566ad6b8f024c7d3b93c003ef885a729c9c25fdf25",
+      "pdf_path": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "pdf_sha256": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1"
+    },
+    {
+      "domain": "facts",
+      "id": "R2024-09",
+      "binding": "db311b32084badde30ff0ac8b7e29641574cc947092aca81a2596f2d5b7be52a",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-17",
+      "binding": "bf31f7dfa7d8336cc616fdef37d31c80cf7284ea09b5df3ad60ac26d818220b3",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-18",
+      "binding": "a00d783fbbf8488e5f9bda8f44ff82fb315e132f76af96d99916db2b24a4e54b",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-19",
+      "binding": "792b4bf1ae0fc0c3fc2ede374370dd8a95c5335bf28b1a86ae5ec85abf50c09b",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-20",
+      "binding": "3b9e0a5f5a70290bb8f5ff41d32a95cb9ad276448614af96096fa82ac52ccafa",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "lec03_agent_facts",
+      "id": "L03-A2020-B",
+      "validated_snapshot_sha256": "4ae6e4b348326ca7be20b9bf23c65ad74df7b56f250173eb9f60ccefc9df42c7",
+      "pdf_path": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "pdf_sha256": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c",
+      "human_confirmation": false
+    },
+    {
+      "domain": "lec03_agent_facts",
+      "id": "L03-A2021-B",
+      "validated_snapshot_sha256": "c67b49c149f5ac33e7777db84ea62952cee50a6980ff3a84ce63212cccb110c1",
+      "pdf_path": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+      "pdf_sha256": "f65effdde58bcea99fd6bdb53f61b31d5c432e6dfb2661e5caf05156a433ea5a",
+      "human_confirmation": false
+    },
+    {
+      "domain": "lec03_agent_facts",
+      "id": "L03-A2022-B",
+      "validated_snapshot_sha256": "8935ec174c5c934c6ab21d96776717dc20f92d184ccb0fc92fcf826d9f4adc5f",
+      "pdf_path": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "pdf_sha256": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358",
+      "human_confirmation": false
+    },
+    {
+      "domain": "lec03_agent_facts",
+      "id": "L03-A2023-B",
+      "validated_snapshot_sha256": "394ee644f6b4a9fc2b27500510b1c5e091ebde161eabbf6b2b96b69f24eac9a2",
+      "pdf_path": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "pdf_sha256": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1",
+      "human_confirmation": false
+    },
+    {
+      "domain": "lec03_agent_facts",
+      "id": "L03-A2024-B",
+      "validated_snapshot_sha256": "dab33bf43b3e52e24fcfd32b3706f88821594fa28e8ddd1ade859a707ee160ca",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "human_confirmation": false
+    }
+  ],
+  "formulas": {
+    "direct_share": "direct revenue/(direct revenue+wholesale revenue)",
+    "gross_margin": "(revenue−corresponding cost)/revenue",
+    "mix_effect": "Δs*(mean(g_direct)−mean(g_wholesale))",
+    "within_effect": "mean(s)*Δg_direct+(1−mean(s))*Δg_wholesale",
+    "sales_expense_rate": "consolidated sales expense / consolidated operating revenue excluding financial interest"
+  },
+  "precision": 48,
+  "identity_tolerance_raw_rate": "1e-42",
+  "generated_output_sha256": "303a962362bc043f109b6225321161a5ad62fc2d5c7c8d048a0cd6b06cda93ae"
+}

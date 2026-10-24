@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-24",
+  "observation_type": "Agent原件一致性检查，非新增人工Fact",
+  "comparative_inventory_matches_original_year": {
+    "2020": true,
+    "2022": true,
+    "2024": true
+  },
+  "FY2022_original_pdf_path": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+  "FY2022_original_pdf_sha256": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358",
+  "FY2022_original_inventory_amount_yuan": "38,824,374,236.24",
+  "B09_inputs_status": "Unknown：等待本人原文核验",
+  "originals_modified": false
+}

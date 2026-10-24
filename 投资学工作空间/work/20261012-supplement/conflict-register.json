@@ -445,6 +445,15 @@
       "treatment": "全部窗口与定义前后窗口同时保存样本年度、n、精确r，Decimal与统计库核对；不择段证明直销降费/增费，不归为渠道净贡献，最终意见独立待采纳。",
       "state": "AgentCalculated，非新增人工算术或因果Fact；净贡献Unknown",
       "evidence": "work/channel-20261024/calculations.json；outputs/student-channel-n03-review.md"
+    },
+    {
+      "id": "SC33",
+      "date": "2026-10-24",
+      "kind": "合并/实体现金、净利润分母与存货单位边界",
+      "original": "现金合同允许CFO/合并净利润、CFO减购建现金；既有生产库存吨数、归母/母公司净利润、固定资产某项折旧和教师HV标签不能直接替代所需输入",
+      "treatment": "25年面板仅取当前facts/有效年度组，五年合并现金复用；B09未知不入计算。净利润含少数、账面存货用元，已列金融行净额不作完整贡献。材料中CFO再减ΔNCWC的错误演示单独识别，不伪造个人历史错误。",
+      "state": "阶段性AgentCalculated；实体CFO/正式FCFF/实体ROIC及前财务公司代理输入未齐保持Unknown，B09待本人确认",
+      "evidence": "work/cash-20261024/calculations.json；outputs/student-cash-capital-check.md；work/review-batches/20261024-B09.json"
     }
   ]
 }

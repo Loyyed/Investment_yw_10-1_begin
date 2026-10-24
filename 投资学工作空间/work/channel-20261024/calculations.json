@@ -3,7 +3,7 @@
   "state": "AgentCalculated",
   "human_arithmetic_confirmation": false,
   "code_path": "scripts/calculate_channel_known.py",
-  "code_sha256": "f6df9b565629e63ca671a182c6244158f85a55e67f5af66a773542298543e7cb",
+  "code_sha256": "11cc5955494226519f5aa23fbab518235974e2074387fd5bf500b439f2e8c1d3",
   "sample_years": [
     2016,
     2017,
@@ -752,5 +752,5 @@
   },
   "precision": 48,
   "identity_tolerance_raw_rate": "1e-42",
-  "generated_output_sha256": "303a962362bc043f109b6225321161a5ad62fc2d5c7c8d048a0cd6b06cda93ae"
+  "generated_output_sha256": "3952d1858838bda3ee3824e84b26321d69e3bc8248f63747a309faf56aa48684"
 }
