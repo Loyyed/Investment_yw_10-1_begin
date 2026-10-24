@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
   "authority_counts": {
-    "facts": 73,
+    "facts": 85,
     "change_facts": 2,
     "lec03_agent_facts": 16,
     "m01_scale_facts": 3,
@@ -39,19 +39,52 @@
     2023,
     2024
   ],
-  "current_expense_correlation_n": 1,
-  "n_less_than3_stopped": true,
-  "B08_pending": 12,
-  "B08_candidates_excluded_from_accepted_calculations": true,
-  "channel_net_contribution": "Unknown",
+  "current_expense_correlation_n": 10,
+  "B08_pending": 0,
+  "channel_net_contribution": "Unknown（增减方向均未获证）",
   "new_human_calculation_judgment_or_signature_confirmation": false,
   "prior_G6_adoption": "accepted-current",
-  "report_fingerprint": "a285af6e00a450e482d12bfe0e02965fa9cb095df3a07a2e2ea345ce19d23a5d",
-  "repeat_calculation_byte_identical": true,
-  "code_sha256": "9abe7c73ce87eddf3f9bd8b735d12ee1cfe7c269453feef34f5a59a6f2004b64",
+  "report_fingerprint": "f0cc43ab485e94a1bbced0c742b658f401c487c0688aebd12c49b5d96f140353",
+  "code_sha256": "f6df9b565629e63ca671a182c6244158f85a55e67f5af66a773542298543e7cb",
   "reviewed_display_hash_matches_real_receipt": true,
   "B08_canonical_display_checked": true,
   "updated_plan_nodes": [
     "capture"
-  ]
+  ],
+  "B08_events": [
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86
+  ],
+  "B08_confirmed_inputs_used": 12,
+  "correlation_segments_n": [
+    10,
+    6,
+    4
+  ],
+  "pearson_crosscheck": "Decimal48 vs statistics.correlation，abs_tol1e-12",
+  "definition_2022_current_source_confirmed": true,
+  "note_revenue_to_company_revenue_residual_yuan": "0.00",
+  "N03_content_review": "pending-human-content-review",
+  "N03_display_payload_sha256": "a679c06db2d14d7af091421c3a579e6b09b2fe3797ae7eb28faa4c5a576bbef9",
+  "repeat_calculation_byte_identical": true,
+  "all_input_bindings_checked": true,
+  "N03_artifact_and_source_bindings_current": true,
+  "N03_not_yet_adopted": true,
+  "unconfirmed_candidates_used": false,
+  "minimum_sample_guard": {
+    "rule": "n<3停止相关系数",
+    "current_n": 10,
+    "previous_B07_n1_stopped": true
+  },
+  "current_main_channel_and_midpoint_unchanged_from_B07": true
 }

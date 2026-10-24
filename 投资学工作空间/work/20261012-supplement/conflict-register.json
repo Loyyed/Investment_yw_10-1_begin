@@ -427,7 +427,24 @@
       "original": "B07按酒类主营渠道表核十年收入/营业成本；合并利润表含营业收入和金融利息等营业总收入；2025附注渠道分解含其他业务，与主渠道数值不同",
       "treatment": "主营面板不混附注；销售费用率按指南以合并销售费用÷其中营业收入，缺有效分母不填主营收入或营业总收入。FY2022直销含平台及批发含电商定义单列；B08未知候选不进入正式计算。",
       "state": "B07主渠道原数有效、运算AgentCalculated；B08定义/费用/附注候选Unknown，净贡献Unknown",
-      "evidence": "work/channel-20261024/calculations.json；work/review-batches/20261024-B08.json"
+      "evidence": "work/channel-20261024/calculations.json；work/review-batches/20261024-B08.json",
+      "resolution_history": [
+        {
+          "date": "2026-10-24",
+          "event": "B08十二项由leo确认，review75—86",
+          "result": "费用率有效年对n10；2022定义与2025附注原数有效。主/附注收入成本范围差额63,517,327.14/86,377,431.32元保留，附注收入与独立公司收入差额0。分母严格采用其中营业收入，未主观分费。",
+          "receipt": "evidence/20261024-b08-chat-confirmation.json"
+        }
+      ]
+    },
+    {
+      "id": "SC32",
+      "date": "2026-10-24",
+      "kind": "渠道份额与费用率相关随窗口改变，不能混作因果",
+      "original": "公司销售费用率与直销份额：2016—2025 n10/r−0.2533；2016—2021 n6/r−0.5815；2022—2025 n4/r+0.9485。2022直销构成含新平台，后段样本仅4。",
+      "treatment": "全部窗口与定义前后窗口同时保存样本年度、n、精确r，Decimal与统计库核对；不择段证明直销降费/增费，不归为渠道净贡献，最终意见独立待采纳。",
+      "state": "AgentCalculated，非新增人工算术或因果Fact；净贡献Unknown",
+      "evidence": "work/channel-20261024/calculations.json；outputs/student-channel-n03-review.md"
     }
   ]
 }

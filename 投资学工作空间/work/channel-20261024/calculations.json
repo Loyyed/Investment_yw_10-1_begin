@@ -3,7 +3,7 @@
   "state": "AgentCalculated",
   "human_arithmetic_confirmation": false,
   "code_path": "scripts/calculate_channel_known.py",
-  "code_sha256": "9abe7c73ce87eddf3f9bd8b735d12ee1cfe7c269453feef34f5a59a6f2004b64",
+  "code_sha256": "f6df9b565629e63ca671a182c6244158f85a55e67f5af66a773542298543e7cb",
   "sample_years": [
     2016,
     2017,
@@ -366,69 +366,84 @@
   "sales_expense_inputs": [
     {
       "year": 2016,
-      "company_revenue_yuan": null,
-      "sales_expense_yuan": null,
-      "sales_expense_rate": null,
-      "input_ids": [],
-      "state": "Unknown：该期分子或分母缺有效输入"
+      "company_revenue_yuan": "38862189993.84",
+      "sales_expense_yuan": "1681052022.90",
+      "sales_expense_rate": "0.0432567496367667796838645316399463209588051866636",
+      "input_ids": [
+        "R2016-07"
+      ],
+      "state": "AgentCalculated"
     },
     {
       "year": 2017,
-      "company_revenue_yuan": null,
-      "sales_expense_yuan": null,
-      "sales_expense_rate": null,
-      "input_ids": [],
-      "state": "Unknown：该期分子或分母缺有效输入"
+      "company_revenue_yuan": "58217861314.17",
+      "sales_expense_yuan": "2986068544.99",
+      "sales_expense_rate": "0.0512912786142352258143891460713982943954055242565",
+      "input_ids": [
+        "R2017-04"
+      ],
+      "state": "AgentCalculated"
     },
     {
       "year": 2018,
-      "company_revenue_yuan": null,
-      "sales_expense_yuan": null,
-      "sales_expense_rate": null,
-      "input_ids": [],
-      "state": "Unknown：该期分子或分母缺有效输入"
+      "company_revenue_yuan": "73638872388.03",
+      "sales_expense_yuan": "2572076872.16",
+      "sales_expense_rate": "0.0349282490178121078989146896761826140540401035558",
+      "input_ids": [
+        "R2018-04"
+      ],
+      "state": "AgentCalculated"
     },
     {
       "year": 2019,
-      "company_revenue_yuan": null,
-      "sales_expense_yuan": null,
-      "sales_expense_rate": null,
-      "input_ids": [],
-      "state": "Unknown：该期分子或分母缺有效输入"
+      "company_revenue_yuan": "85429573467.25",
+      "sales_expense_yuan": "3278990982.26",
+      "sales_expense_rate": "0.0383823873768610490205970577088805627709921603524",
+      "input_ids": [
+        "R2019-04"
+      ],
+      "state": "AgentCalculated"
     },
     {
       "year": 2020,
-      "company_revenue_yuan": null,
-      "sales_expense_yuan": null,
-      "sales_expense_rate": null,
-      "input_ids": [],
-      "state": "Unknown：该期分子或分母缺有效输入"
+      "company_revenue_yuan": "94915380916.72",
+      "sales_expense_yuan": "2547745650.95",
+      "sales_expense_rate": "0.0268422844258026572846064359017009475197034178206",
+      "input_ids": [
+        "R2020-09"
+      ],
+      "state": "AgentCalculated"
     },
     {
       "year": 2021,
-      "company_revenue_yuan": null,
-      "sales_expense_yuan": null,
-      "sales_expense_rate": null,
-      "input_ids": [],
-      "state": "Unknown：该期分子或分母缺有效输入"
+      "company_revenue_yuan": "106190154843.76",
+      "sales_expense_yuan": "2737369434.78",
+      "sales_expense_rate": "0.0257779964518137690413144540095545608201890710353",
+      "input_ids": [
+        "R2021-09"
+      ],
+      "state": "AgentCalculated"
     },
     {
       "year": 2022,
-      "company_revenue_yuan": null,
-      "sales_expense_yuan": null,
-      "sales_expense_rate": null,
-      "input_ids": [],
-      "state": "Unknown：该期分子或分母缺有效输入"
+      "company_revenue_yuan": "124099843771.99",
+      "sales_expense_yuan": "3297724190.94",
+      "sales_expense_rate": "0.0265731534440844640931675841420327720978028978507",
+      "input_ids": [
+        "R2022-09"
+      ],
+      "state": "AgentCalculated"
     },
     {
       "year": 2023,
-      "company_revenue_yuan": null,
+      "company_revenue_yuan": "147693604994.14",
       "sales_expense_yuan": "4648613585.82",
-      "sales_expense_rate": null,
+      "sales_expense_rate": "0.0314747113526306153101646845556892260263830574419",
       "input_ids": [
-        "R2024-09（2023比较列）"
+        "R2024-09（2023比较列）",
+        "R2023-09"
       ],
-      "state": "Unknown：该期分子或分母缺有效输入"
+      "state": "AgentCalculated"
     },
     {
       "year": 2024,
@@ -443,23 +458,115 @@
     },
     {
       "year": 2025,
-      "company_revenue_yuan": null,
-      "sales_expense_yuan": null,
-      "sales_expense_rate": null,
-      "input_ids": [],
-      "state": "Unknown：该期分子或分母缺有效输入"
+      "company_revenue_yuan": "168838102514.79",
+      "sales_expense_yuan": "7253499600.68",
+      "sales_expense_rate": "0.0429612717309743681293675347682058566180476671764",
+      "input_ids": [
+        "R2025-18"
+      ],
+      "state": "AgentCalculated"
     }
   ],
   "sales_expense_correlation": {
-    "n": 1,
+    "n": 10,
     "years": [
-      2024
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
     ],
-    "r": null,
+    "r": "-0.253295942934468376969196911711918546659456337496",
     "boundary": "n<3停止；公司级费用率非渠道归属费用，相关不识别因果"
   },
-  "definition_2022_source_confirmed": false,
-  "main_vs_note_2025": null,
+  "sales_expense_correlation_sensitivity": [
+    {
+      "window": "全部2016—2025",
+      "n": 10,
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "r": "-0.253295942934468376969196911711918546659456337496",
+      "boundary": "描述性Pearson；分段仅作定义断点敏感性检查，小样本、不识别因果"
+    },
+    {
+      "window": "定义前2016—2021",
+      "n": 6,
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021
+      ],
+      "r": "-0.581456291939591416806833371822748034999919279269",
+      "boundary": "描述性Pearson；分段仅作定义断点敏感性检查，小样本、不识别因果"
+    },
+    {
+      "window": "定义后2022—2025",
+      "n": 4,
+      "years": [
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "r": "0.948504221014669901657855072340340999157622606708",
+      "boundary": "描述性Pearson；分段仅作定义断点敏感性检查，小样本、不识别因果"
+    }
+  ],
+  "observations_2025": {
+    "year": 2025,
+    "sales_expense_rate_2024_percent": "3.29978234787928114463107136127070858740394679639",
+    "sales_expense_rate_2025_percent": "4.29612717309743681293675347682058566180476671764",
+    "sales_expense_rate_change_pp": "0.996344825218155668305682115549877074400819921250",
+    "sales_expense_delta_yuan": "1614199541.19",
+    "direct_share_2025_percent": "50.0922764885671875117949024339872413744183945473",
+    "state": "AgentCalculated",
+    "boundary": "公司级费用与主营渠道结构分别观察，不按收入分摊费用，不裁定因果或渠道净贡献"
+  },
+  "definition_2022_source_confirmed": true,
+  "main_vs_note_2025": {
+    "直销": {
+      "note_revenue_yuan": "84587347014.89",
+      "note_cost_yuan": "4661072149.33",
+      "main_revenue_yuan": "84543031854.63",
+      "main_cost_yuan": "4579568698.41",
+      "note_minus_main_revenue_yuan": "44315160.26",
+      "note_minus_main_cost_yuan": "81503450.92",
+      "input_id": "R2025-19"
+    },
+    "批发代理": {
+      "note_revenue_yuan": "84250755499.90",
+      "note_cost_yuan": "10231205421.58",
+      "main_revenue_yuan": "84231553333.02",
+      "main_cost_yuan": "10226331441.18",
+      "note_minus_main_revenue_yuan": "19202166.88",
+      "note_minus_main_cost_yuan": "4873980.40",
+      "input_id": "R2025-20"
+    }
+  },
+  "main_vs_note_2025_totals": {
+    "note_minus_main_revenue_yuan": "63517327.14",
+    "note_minus_main_cost_yuan": "86377431.32",
+    "note_revenue_to_company_revenue_residual_yuan": "0.00",
+    "boundary": "附注全营业收入与主营酒类范围差额，仅用于范围核对；不等同i茅台费用或渠道净贡献"
+  },
   "channel_net_contribution": null,
   "input_evidence": [
     {
@@ -478,8 +585,22 @@
     },
     {
       "domain": "facts",
+      "id": "R2016-07",
+      "binding": "8f56e48a514042196efd87304c1400b2ac4602c3178bb979a7d73027658430fc",
+      "pdf_path": "sources/annual_reports/pdf/600519_2016_贵州茅台_2016年年度报告.pdf",
+      "pdf_sha256": "dd26d9e0017a938cb5e1aa0a830bab7502d0de1f85eb7c00abffb4888c8c20ad"
+    },
+    {
+      "domain": "facts",
       "id": "R2017-03",
       "binding": "761faca55f0fdc3ec01a4eec2cadfe7bff1479574738cf791c3b26ed01c44608",
+      "pdf_path": "sources/annual_reports/pdf/600519_2017_贵州茅台_2017年年度报告.pdf",
+      "pdf_sha256": "b66a4641e5f2313ed7964e5bef0026021ff2164459d0e0615f1b4385ba1a78e3"
+    },
+    {
+      "domain": "facts",
+      "id": "R2017-04",
+      "binding": "a179baa2e6fdc6d15637746b64d1979874adb14e7f4e27ce616e7ed6630acdeb",
       "pdf_path": "sources/annual_reports/pdf/600519_2017_贵州茅台_2017年年度报告.pdf",
       "pdf_sha256": "b66a4641e5f2313ed7964e5bef0026021ff2164459d0e0615f1b4385ba1a78e3"
     },
@@ -492,10 +613,59 @@
     },
     {
       "domain": "facts",
+      "id": "R2018-04",
+      "binding": "0de4d47f1371746190e80f289807a9cd3e92dc672b57cd5792cd0e4f3b7a983b",
+      "pdf_path": "sources/annual_reports/pdf/600519_2018_贵州茅台_2018年年度报告.pdf",
+      "pdf_sha256": "08728fc937836cfeed8e98aeda932da54c737efa6de4280ae001476c0e393dec"
+    },
+    {
+      "domain": "facts",
       "id": "R2019-03",
       "binding": "43362cfe7137d9c8c093a65c0b77127355b4c0a265c66bb0efa0af44e970a20e",
       "pdf_path": "sources/annual_reports/pdf/600519_2019_贵州茅台_2019年年度报告.pdf",
       "pdf_sha256": "2a2b384ab09a7bc295fd2e33b999acdf4212340b0141031c991060dea2fad03d"
+    },
+    {
+      "domain": "facts",
+      "id": "R2019-04",
+      "binding": "ffd69195fd99f1b74fc52c27e22c0e32b43afc8577e974948bb90aebd91892a1",
+      "pdf_path": "sources/annual_reports/pdf/600519_2019_贵州茅台_2019年年度报告.pdf",
+      "pdf_sha256": "2a2b384ab09a7bc295fd2e33b999acdf4212340b0141031c991060dea2fad03d"
+    },
+    {
+      "domain": "facts",
+      "id": "R2020-09",
+      "binding": "31767e8d1cac8ab856ecf5a683ce258841b2c40ce1201fd48a2749ef5d922a2f",
+      "pdf_path": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "pdf_sha256": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c"
+    },
+    {
+      "domain": "facts",
+      "id": "R2021-09",
+      "binding": "277fc187bd99c5961fe714b46114355540cc1dc9bf5895e823951a7a21d49917",
+      "pdf_path": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+      "pdf_sha256": "f65effdde58bcea99fd6bdb53f61b31d5c432e6dfb2661e5caf05156a433ea5a"
+    },
+    {
+      "domain": "facts",
+      "id": "R2022-09",
+      "binding": "e2e4f516e0c96e0213109da8ce26ca297d2eb872d0dd123038be8e86765c90dc",
+      "pdf_path": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "pdf_sha256": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358"
+    },
+    {
+      "domain": "facts",
+      "id": "R2022-10",
+      "binding": "23e3470c165098f3577e7610f3e88afa4eb7358ca2d7b6fc24de9beade03d3d0",
+      "pdf_path": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "pdf_sha256": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358"
+    },
+    {
+      "domain": "facts",
+      "id": "R2023-09",
+      "binding": "cf35a36f055c85bcf07586566ad6b8f024c7d3b93c003ef885a729c9c25fdf25",
+      "pdf_path": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "pdf_sha256": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1"
     },
     {
       "domain": "facts",
@@ -508,6 +678,27 @@
       "domain": "facts",
       "id": "R2025-17",
       "binding": "bf31f7dfa7d8336cc616fdef37d31c80cf7284ea09b5df3ad60ac26d818220b3",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-18",
+      "binding": "a00d783fbbf8488e5f9bda8f44ff82fb315e132f76af96d99916db2b24a4e54b",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-19",
+      "binding": "792b4bf1ae0fc0c3fc2ede374370dd8a95c5335bf28b1a86ae5ec85abf50c09b",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-20",
+      "binding": "3b9e0a5f5a70290bb8f5ff41d32a95cb9ad276448614af96096fa82ac52ccafa",
       "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
       "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
     },
@@ -561,5 +752,5 @@
   },
   "precision": 48,
   "identity_tolerance_raw_rate": "1e-42",
-  "generated_output_sha256": "745997b75f7479fe9a98f2613151dee234984b4559e789635df2aea7397750cc"
+  "generated_output_sha256": "303a962362bc043f109b6225321161a5ad62fc2d5c7c8d048a0cd6b06cda93ae"
 }

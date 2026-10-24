@@ -13,4 +13,6 @@
 
 - [G6原审阅展示（历史）](student-lag-g6-review.md)保持不变；[当前已采纳结论](student-lag-conclusion.md)及独立真实回执显示本人已采纳两项有范围Interpretation。
 
-- [渠道净贡献验证工作稿](student-channel-net-check.md)：十年主营面板、九组midpoint分解已复算，费用率/定义/附注B08待核，渠道净贡献保持Unknown。
+- [渠道净贡献验证工作稿](student-channel-net-check.md)：十年主营面板、九组midpoint分解已复算，B08已核，费用率/定义/附注比较完成；N03待采纳，渠道净贡献保持Unknown。
+
+- [N03渠道净贡献判断审阅稿](student-channel-n03-review.md)：十年/分段相关和主营—附注差额已列；净贡献增减仍Unknown，意见等待本人采纳。

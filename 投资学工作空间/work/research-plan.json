@@ -359,7 +359,7 @@
       "interpretation": "上市公司价值获取应同时看营业毛利、税费、组织成本、资本需求与现金；高毛利不等于可分配FCFF。",
       "alternative": "金融收益、投资/减值、会计分类与收款时点可能解释净利润/现金差异。",
       "unknown": "NOPAT、经营税率、投入资本、完整实体FCFF及证券权利未定。",
-      "next_action": "B07十年主渠道已核并复算；B08一次补费用率、2022定义和2025附注范围，再集中审阅N03；净贡献Unknown，不按收入分费。",
+      "next_action": "B08已核，十年费用率/分段相关与2025主营—附注范围比较完成；下一步本人集中审阅N03有限Interpretation，净贡献增减Unknown，不重核旧原数。",
       "refutation": "新增资本未形成后续NOPAT且调整现金走弱，削弱可持续回报解释。",
       "source_date": "",
       "source_role": "原始披露",
@@ -373,7 +373,19 @@
         "R2017-03",
         "R2018-03",
         "R2019-03",
-        "R2025-17"
+        "R2025-17",
+        "R2016-07",
+        "R2017-04",
+        "R2018-04",
+        "R2019-04",
+        "R2020-09",
+        "R2021-09",
+        "R2022-09",
+        "R2023-09",
+        "R2025-18",
+        "R2022-10",
+        "R2025-19",
+        "R2025-20"
       ],
       "evidence_bindings": {
         "C01": "bf6e838d821bfa014ee564b83dbd1438bee886ca176f83e4f985a3eff0a0cc10",
@@ -385,7 +397,19 @@
         "R2017-03": "761faca55f0fdc3ec01a4eec2cadfe7bff1479574738cf791c3b26ed01c44608",
         "R2018-03": "41bcf542ebade5c8034edf45f87bfdc44fda01c85b34286865b066d2340be6dd",
         "R2019-03": "43362cfe7137d9c8c093a65c0b77127355b4c0a265c66bb0efa0af44e970a20e",
-        "R2025-17": "bf31f7dfa7d8336cc616fdef37d31c80cf7284ea09b5df3ad60ac26d818220b3"
+        "R2025-17": "bf31f7dfa7d8336cc616fdef37d31c80cf7284ea09b5df3ad60ac26d818220b3",
+        "R2016-07": "8f56e48a514042196efd87304c1400b2ac4602c3178bb979a7d73027658430fc",
+        "R2017-04": "a179baa2e6fdc6d15637746b64d1979874adb14e7f4e27ce616e7ed6630acdeb",
+        "R2018-04": "0de4d47f1371746190e80f289807a9cd3e92dc672b57cd5792cd0e4f3b7a983b",
+        "R2019-04": "ffd69195fd99f1b74fc52c27e22c0e32b43afc8577e974948bb90aebd91892a1",
+        "R2020-09": "31767e8d1cac8ab856ecf5a683ce258841b2c40ce1201fd48a2749ef5d922a2f",
+        "R2021-09": "277fc187bd99c5961fe714b46114355540cc1dc9bf5895e823951a7a21d49917",
+        "R2022-09": "e2e4f516e0c96e0213109da8ce26ca297d2eb872d0dd123038be8e86765c90dc",
+        "R2023-09": "cf35a36f055c85bcf07586566ad6b8f024c7d3b93c003ef885a729c9c25fdf25",
+        "R2025-18": "a00d783fbbf8488e5f9bda8f44ff82fb315e132f76af96d99916db2b24a4e54b",
+        "R2022-10": "23e3470c165098f3577e7610f3e88afa4eb7358ca2d7b6fc24de9beade03d3d0",
+        "R2025-19": "792b4bf1ae0fc0c3fc2ede374370dd8a95c5335bf28b1a86ae5ec85abf50c09b",
+        "R2025-20": "3b9e0a5f5a70290bb8f5ff41d32a95cb9ad276448614af96096fa82ac52ccafa"
       }
     }
   ],
@@ -749,8 +773,9 @@
   "active_extension_contract": {
     "name": "第五次任务延伸合同_贵州茅台渠道净贡献验证.md",
     "progress": "work/channel-20261024/progress.json",
-    "next_batch": "B08",
+    "next_batch": null,
     "current_result": "outputs/student-channel-net-check.md",
-    "net_contribution": "Unknown"
+    "net_contribution": "Unknown（增减方向均未获证）",
+    "next_content_review": "N03-20261024"
   }
 }

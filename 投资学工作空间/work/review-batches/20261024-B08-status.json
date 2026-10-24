@@ -1,0 +1,24 @@
+{
+  "batch_id": "B08",
+  "display_version": 1,
+  "status": "confirmed-original-disclosure",
+  "reviewer": "leo",
+  "actual_user_reply": "B08全部核验正确，核验人leo",
+  "event_sequences": [
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86
+  ],
+  "receipt": "evidence/20261024-b08-chat-confirmation.json",
+  "arithmetic_status": "AgentCalculated另列",
+  "display_manifest_unchanged": true
+}

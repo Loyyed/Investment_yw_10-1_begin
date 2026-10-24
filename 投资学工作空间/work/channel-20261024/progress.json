@@ -2,7 +2,7 @@
   "date": "2026-10-24",
   "contract": "第五次任务延伸合同_贵州茅台渠道净贡献验证.md",
   "contract_sha256": "fa36428379f160d124a83a2e9906328ca904b9cce3fb6cea9fcf3d8ab99ab8af",
-  "status": "已核十年主营渠道，份额/毛利/九组结构分解完成；B08原文及费用输入待核，净贡献Unknown",
+  "status": "可计算研究已完成；N03有限Interpretation待本人采纳，净贡献Unknown",
   "required_years": [
     2016,
     2017,
@@ -55,19 +55,24 @@
       "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
     }
   ],
-  "next_batch": "B08",
+  "next_batch": null,
   "pending_steps": [
-    "B08费用率缺口、2022定义和2025附注范围",
-    "费用率有效样本n及相关诊断",
-    "主营/附注跨表比较",
-    "N03意见、反证及本人内容审阅"
+    "N03内容采纳及正式验收/签署分别处理"
   ],
   "net_contribution_status": "Unknown：按渠道归属的费用、回款和库存不足，禁止按收入主观分摊",
   "new_signatures": 0,
   "completed_steps": [
-    "十年主营渠道收入/成本有效输入",
-    "直销份额、两渠道直接毛利率及差额",
-    "九组midpoint/Shapley恒等分解"
+    "十年主营渠道有效输入及份额/毛利/差额",
+    "九组midpoint与独立两路径Shapley恒等检查",
+    "2022定义原文已核，2016分表及2015检索观察有边界",
+    "十年费用率及全窗/定义前后相关n/r",
+    "2025主营/合并附注范围分开及收入独立勾稽",
+    "N03主张—机制—变量—证据—诊断—替代解释—反证—状态稿"
   ],
-  "source_confirmation_receipt": "evidence/20261024-b07-chat-confirmation.json"
+  "source_confirmation_receipt": "evidence/20261024-b07-chat-confirmation.json",
+  "next_content_review": "N03-20261024",
+  "source_confirmation_receipts": [
+    "evidence/20261024-b07-chat-confirmation.json",
+    "evidence/20261024-b08-chat-confirmation.json"
+  ]
 }
