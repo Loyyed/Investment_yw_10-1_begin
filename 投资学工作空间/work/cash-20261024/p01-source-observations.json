@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-24",
+  "state": "AgentSourceObservation，非新增本人Fact",
+  "source_path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
+  "source_sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b",
+  "observations": [
+    {
+      "pdf_page": 73,
+      "printed_page": 72,
+      "section": "6、预付款项／金额前五名单位情况",
+      "finding": "附注列有预付征地拆迁款及未完工工程中标单位款项；不能直接把整项预付款都解释为日常经营周转。需要分类及与长期资产/在建工程勾稽，未机械全部排除经营投入资本。",
+      "human_confirmation": false
+    },
+    {
+      "pdf_pages": [
+        85,
+        86
+      ],
+      "printed_pages": [
+        84,
+        85
+      ],
+      "section": "32、财务费用；33、投资收益",
+      "finding": "财务费用附注有利息收入及汇兑等明细，整行移除只能作暂时敏感性，明细可进一步检验；不将净额全部认成利息。",
+      "human_confirmation": false
+    }
+  ],
+  "impact": "不改B11/B12已核原数，不改原P01展示和工作簿。P01-1/P01-3补分类与明细后再修订，旧版本不作为当前可直接整体认可的完善口径。"
+}
