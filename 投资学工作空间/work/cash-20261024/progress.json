@@ -2,7 +2,7 @@
   "date": "2026-10-24",
   "contract": "第五次任务延伸合同_贵州茅台现金与资本回报验证.md",
   "contract_sha256": "da205d95d3157ca474c8e5638749d884d5ede85302f449999b3879741a60d121",
-  "status": "阶段四：B11已核，2007/2011选定科目与利润公式算术已做；B12平均资本基期和利润范围字段待核",
+  "status": "阶段五：B12已核，平均资本与敏感性/税率因子分解已算，三类电子表格复算完成；转P01四项口径审阅",
   "layers": [
     "合并事实",
     "金融活动与抵销",
@@ -50,27 +50,19 @@
     2025
   ],
   "current_complete_cash_n": 10,
-  "next_batch": "B12",
-  "next_review_ids": [
-    "R2007-05",
-    "R2007-06",
-    "R2007-07",
-    "R2011-04",
-    "R2011-05",
-    "R2011-06"
-  ],
+  "next_batch": null,
+  "next_review_ids": [],
   "remaining_steps": [
-    "B12核2007/2011年初资本列与财务费用/投资收益",
-    "逐项代理范围、利润资本匹配、经营税率和2012敏感性分别裁定",
-    "补平均资本及其他相关年度；多年诊断保留成熟期/分母/累计再投资停止",
-    "至少三项电子表格复算",
-    "N06/N07有证据判断、内容采纳和正式验收分别处理"
+    "本人审阅P01四项代理口径；与原数/算术/观点采纳分开",
+    "必要的其他年度与2012敏感性原数/逐项范围缺口继续标明",
+    "成熟期、逐年累计再投资和内部抵销不足的真实指标保持Unknown",
+    "N06/N07支持、替代解释、反证及内容采纳，正式验收另列"
   ],
   "stopped_outputs": {
     "entity_cfo": "Unknown：金融贡献/内部抵销未齐",
     "formal_fcff": "Unknown：同范围经营Capex和税息/再投资未齐",
     "entity_roic": "Unknown：利润与资本范围未齐",
-    "selective_pre_finance_proxy": "Unknown：2007—2012输入/分类尚未齐"
+    "selective_pre_finance_proxy": "选定会计算术已做；完整真实经营范围/税率与2012敏感性仍Unknown"
   },
   "teacher_HV_imported_as_project_fact": false,
   "new_signature_events": 0,
@@ -81,16 +73,21 @@
     "2025净利润加已列15调整与CFO勾稽差额0；两个空白保留null",
     "2007/2012/2013/2020断点原文已核；2012已合并与2013营业分开",
     "B11由leo确认review105—110，Fact109",
-    "两端选定NCWC/资本与利润公式值由Decimal48和Fraction独立核对，四年余额差诊断不命名成熟回报"
+    "两端选定NCWC/资本与利润公式值由Decimal48和Fraction独立核对，四年余额差诊断不命名成熟回报",
+    "B12由leo确认review111—116，Fact115",
+    "平均选定资本、整行利润移除敏感性及两路径税率因子分解通过Decimal/Fraction核对",
+    "三类电子表格复算、40项现金公式/18项资本检查及保存公式缓存和视觉检查完成；未打开原生Excel"
   ],
   "source_confirmation_receipts": [
     "evidence/20261024-b09-chat-confirmation.json",
     "evidence/20261024-b10-chat-confirmation.json",
-    "evidence/20261024-b11-chat-confirmation.json"
+    "evidence/20261024-b11-chat-confirmation.json",
+    "evidence/20261024-b12-chat-confirmation.json"
   ],
   "primary_candidate_proxy_window": [
     2007,
     2011
   ],
-  "FY2012_sensitivity": "已核2012合并与银行利息事实，完整利润资本重配仍Unknown"
+  "FY2012_sensitivity": "已核2012合并与银行利息事实，完整利润资本重配仍Unknown",
+  "next_content_review": "P01-20261024"
 }

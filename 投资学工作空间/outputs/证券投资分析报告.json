@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "fingerprint": "7aa3b478038bd45974060f9b4aa79fc010b07f137df80dfa7b2f0a2600198a48",
+  "fingerprint": "a8b3123fbd8770c0eee38f23489be363c27f968aa243d388a241f5831eaa5e4e",
   "state_at_generation": {
     "records": [
       {
@@ -8980,9 +8980,9 @@
             "location": "PDF物理30、31页；逐字段表头见B12 JSON"
           }
         ],
-        "effective_state": "Unknown",
-        "verifier": "",
-        "confirmed_at": "",
+        "effective_state": "Fact",
+        "verifier": "leo",
+        "confirmed_at": "2026-10-24T22:09:17+08:00",
         "binding": "70dc433b68f68b6c0ecd87f3e50a405587c75cca0427397f25bbfc25e74e7d63",
         "issues": [],
         "support_boundary": "只核原文金额与列位；2006为2007新准则年初口径，非2006旧准则原披露。平均资本与经济归属/税率/同范围调整不随原数核验自动成立。",
@@ -9003,10 +9003,10 @@
           "unsupported_boundary": "不证明跨年可比、科目经营归属、纯经营税率/利润、完整资本、成熟回报或新签署",
           "pdf_path": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
           "pdf_sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679",
-          "state": "Unknown",
-          "actor": "",
-          "confirmed_at": "",
-          "note": "B12待本人核验；只补B11未覆盖的年初列和两项利润范围字段",
+          "state": "Fact",
+          "actor": "leo",
+          "confirmed_at": "2026-10-24T22:09:17+08:00",
+          "note": "{\"channel\": \"actual-user-chat\", \"actual_user_reply\": \"B12全部核验正确，核验人leo\", \"client_date\": \"2026-10-24\", \"reviewer\": \"leo\", \"batch_id\": \"B12\", \"batch_version\": 1, \"display_payload_sha256\": \"53cdf06da0fa7084217d29e2d42748f729bb468132ed2f4f442918160381fe95\", \"display_manifest\": \"work/review-batches/20261024-B12.json\", \"confirmation_scope\": [\"R2007-05\", \"R2007-06\", \"R2007-07\", \"R2011-04\", \"R2011-05\", \"R2011-06\"], \"exceptions\": [], \"confirmation_context\": \"此前展示B12六项22金额：2007/2011合并资产负债表年初余额的NCWC六科目及长期资本三科目，分别对应2006/2010年末本报告口径；另核两年本期财务费用和投资收益，负号照录。均人民币元。2006为2007新准则年初值，不冒作2006旧准则原披露；B11年末和利润税三项复用。\", \"timestamp_meaning\": \"confirmed_at为程序保存实际聊天答复的时刻；非窗口点击，精确聊天发送时间未提供。\", \"boundary\": \"仅确认原数及列位。原数正确不自动认可与上年原年报完全一致、平均资本或算术结果；财务费用不自动全属存款利息，投资收益及其他/工程物资归属、经营税率、利润资本匹配、成熟期、真实NOPAT/ROIC/增量回报、内容采纳和新签署均分别处理。\"}",
           "pending_issue": "B12待本人核验；只补B11未覆盖的年初列和两项利润范围字段",
           "stale_reason": "",
           "numbers": [
@@ -9018,7 +9018,8 @@
             "2,141,468,768.67"
           ],
           "candidate_fingerprint": "165946111edc341067a622a1efae90bb1c6c532f8e396ed0a5cd4b282aed9470",
-          "binding": "70dc433b68f68b6c0ecd87f3e50a405587c75cca0427397f25bbfc25e74e7d63"
+          "binding": "70dc433b68f68b6c0ecd87f3e50a405587c75cca0427397f25bbfc25e74e7d63",
+          "submitted_state": "Fact"
         }
       },
       {
@@ -9041,9 +9042,9 @@
             "location": "PDF物理30页；逐字段表头见B12 JSON"
           }
         ],
-        "effective_state": "Unknown",
-        "verifier": "",
-        "confirmed_at": "",
+        "effective_state": "Fact",
+        "verifier": "leo",
+        "confirmed_at": "2026-10-24T22:09:17+08:00",
         "binding": "6abee39e418d4f2182da314bcdfe39d528f2da78b3096d269491441a29b7b7da",
         "issues": [],
         "support_boundary": "只核原文金额与列位；2006为2007新准则年初口径，非2006旧准则原披露。平均资本与经济归属/税率/同范围调整不随原数核验自动成立。",
@@ -9064,10 +9065,10 @@
           "unsupported_boundary": "不证明跨年可比、科目经营归属、纯经营税率/利润、完整资本、成熟回报或新签署",
           "pdf_path": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
           "pdf_sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679",
-          "state": "Unknown",
-          "actor": "",
-          "confirmed_at": "",
-          "note": "B12待本人核验；只补B11未覆盖的年初列和两项利润范围字段",
+          "state": "Fact",
+          "actor": "leo",
+          "confirmed_at": "2026-10-24T22:09:17+08:00",
+          "note": "{\"channel\": \"actual-user-chat\", \"actual_user_reply\": \"B12全部核验正确，核验人leo\", \"client_date\": \"2026-10-24\", \"reviewer\": \"leo\", \"batch_id\": \"B12\", \"batch_version\": 1, \"display_payload_sha256\": \"53cdf06da0fa7084217d29e2d42748f729bb468132ed2f4f442918160381fe95\", \"display_manifest\": \"work/review-batches/20261024-B12.json\", \"confirmation_scope\": [\"R2007-05\", \"R2007-06\", \"R2007-07\", \"R2011-04\", \"R2011-05\", \"R2011-06\"], \"exceptions\": [], \"confirmation_context\": \"此前展示B12六项22金额：2007/2011合并资产负债表年初余额的NCWC六科目及长期资本三科目，分别对应2006/2010年末本报告口径；另核两年本期财务费用和投资收益，负号照录。均人民币元。2006为2007新准则年初值，不冒作2006旧准则原披露；B11年末和利润税三项复用。\", \"timestamp_meaning\": \"confirmed_at为程序保存实际聊天答复的时刻；非窗口点击，精确聊天发送时间未提供。\", \"boundary\": \"仅确认原数及列位。原数正确不自动认可与上年原年报完全一致、平均资本或算术结果；财务费用不自动全属存款利息，投资收益及其他/工程物资归属、经营税率、利润资本匹配、成熟期、真实NOPAT/ROIC/增量回报、内容采纳和新签署均分别处理。\"}",
           "pending_issue": "B12待本人核验；只补B11未覆盖的年初列和两项利润范围字段",
           "stale_reason": "",
           "numbers": [
@@ -9076,7 +9077,8 @@
             "256,943,698.66"
           ],
           "candidate_fingerprint": "33fa1ed90fd4ad55f7b9335cbb2aede62fe1c7426a1e3deef520190749f5e3f9",
-          "binding": "6abee39e418d4f2182da314bcdfe39d528f2da78b3096d269491441a29b7b7da"
+          "binding": "6abee39e418d4f2182da314bcdfe39d528f2da78b3096d269491441a29b7b7da",
+          "submitted_state": "Fact"
         }
       },
       {
@@ -9099,9 +9101,9 @@
             "location": "PDF物理34页；逐字段表头见B12 JSON"
           }
         ],
-        "effective_state": "Unknown",
-        "verifier": "",
-        "confirmed_at": "",
+        "effective_state": "Fact",
+        "verifier": "leo",
+        "confirmed_at": "2026-10-24T22:09:17+08:00",
         "binding": "819aee4f7fdf586e5aebc25d32664b17ac1f1793608660efeeda492a81301f08",
         "issues": [],
         "support_boundary": "只核原文金额与列位；2006为2007新准则年初口径，非2006旧准则原披露。平均资本与经济归属/税率/同范围调整不随原数核验自动成立。",
@@ -9122,10 +9124,10 @@
           "unsupported_boundary": "不证明跨年可比、科目经营归属、纯经营税率/利润、完整资本、成熟回报或新签署",
           "pdf_path": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
           "pdf_sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679",
-          "state": "Unknown",
-          "actor": "",
-          "confirmed_at": "",
-          "note": "B12待本人核验；只补B11未覆盖的年初列和两项利润范围字段",
+          "state": "Fact",
+          "actor": "leo",
+          "confirmed_at": "2026-10-24T22:09:17+08:00",
+          "note": "{\"channel\": \"actual-user-chat\", \"actual_user_reply\": \"B12全部核验正确，核验人leo\", \"client_date\": \"2026-10-24\", \"reviewer\": \"leo\", \"batch_id\": \"B12\", \"batch_version\": 1, \"display_payload_sha256\": \"53cdf06da0fa7084217d29e2d42748f729bb468132ed2f4f442918160381fe95\", \"display_manifest\": \"work/review-batches/20261024-B12.json\", \"confirmation_scope\": [\"R2007-05\", \"R2007-06\", \"R2007-07\", \"R2011-04\", \"R2011-05\", \"R2011-06\"], \"exceptions\": [], \"confirmation_context\": \"此前展示B12六项22金额：2007/2011合并资产负债表年初余额的NCWC六科目及长期资本三科目，分别对应2006/2010年末本报告口径；另核两年本期财务费用和投资收益，负号照录。均人民币元。2006为2007新准则年初值，不冒作2006旧准则原披露；B11年末和利润税三项复用。\", \"timestamp_meaning\": \"confirmed_at为程序保存实际聊天答复的时刻；非窗口点击，精确聊天发送时间未提供。\", \"boundary\": \"仅确认原数及列位。原数正确不自动认可与上年原年报完全一致、平均资本或算术结果；财务费用不自动全属存款利息，投资收益及其他/工程物资归属、经营税率、利润资本匹配、成熟期、真实NOPAT/ROIC/增量回报、内容采纳和新签署均分别处理。\"}",
           "pending_issue": "B12待本人核验；只补B11未覆盖的年初列和两项利润范围字段",
           "stale_reason": "",
           "numbers": [
@@ -9133,7 +9135,8 @@
             "1,814,950.00"
           ],
           "candidate_fingerprint": "341b836457508335ff08978aeb5acfe79ecde34b9064f14e24de956cd1c96c17",
-          "binding": "819aee4f7fdf586e5aebc25d32664b17ac1f1793608660efeeda492a81301f08"
+          "binding": "819aee4f7fdf586e5aebc25d32664b17ac1f1793608660efeeda492a81301f08",
+          "submitted_state": "Fact"
         }
       },
       {
@@ -9156,9 +9159,9 @@
             "location": "PDF物理39、40页；逐字段表头见B12 JSON"
           }
         ],
-        "effective_state": "Unknown",
-        "verifier": "",
-        "confirmed_at": "",
+        "effective_state": "Fact",
+        "verifier": "leo",
+        "confirmed_at": "2026-10-24T22:09:17+08:00",
         "binding": "7d8d60ce24e1e83c3a26fb5379d4947fe720d28d6cc81d15e897d60ad0282663",
         "issues": [],
         "support_boundary": "只核原文金额与列位；2006为2007新准则年初口径，非2006旧准则原披露。平均资本与经济归属/税率/同范围调整不随原数核验自动成立。",
@@ -9179,10 +9182,10 @@
           "unsupported_boundary": "不证明跨年可比、科目经营归属、纯经营税率/利润、完整资本、成熟回报或新签署",
           "pdf_path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
           "pdf_sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b",
-          "state": "Unknown",
-          "actor": "",
-          "confirmed_at": "",
-          "note": "B12待本人核验；只补B11未覆盖的年初列和两项利润范围字段",
+          "state": "Fact",
+          "actor": "leo",
+          "confirmed_at": "2026-10-24T22:09:17+08:00",
+          "note": "{\"channel\": \"actual-user-chat\", \"actual_user_reply\": \"B12全部核验正确，核验人leo\", \"client_date\": \"2026-10-24\", \"reviewer\": \"leo\", \"batch_id\": \"B12\", \"batch_version\": 1, \"display_payload_sha256\": \"53cdf06da0fa7084217d29e2d42748f729bb468132ed2f4f442918160381fe95\", \"display_manifest\": \"work/review-batches/20261024-B12.json\", \"confirmation_scope\": [\"R2007-05\", \"R2007-06\", \"R2007-07\", \"R2011-04\", \"R2011-05\", \"R2011-06\"], \"exceptions\": [], \"confirmation_context\": \"此前展示B12六项22金额：2007/2011合并资产负债表年初余额的NCWC六科目及长期资本三科目，分别对应2006/2010年末本报告口径；另核两年本期财务费用和投资收益，负号照录。均人民币元。2006为2007新准则年初值，不冒作2006旧准则原披露；B11年末和利润税三项复用。\", \"timestamp_meaning\": \"confirmed_at为程序保存实际聊天答复的时刻；非窗口点击，精确聊天发送时间未提供。\", \"boundary\": \"仅确认原数及列位。原数正确不自动认可与上年原年报完全一致、平均资本或算术结果；财务费用不自动全属存款利息，投资收益及其他/工程物资归属、经营税率、利润资本匹配、成熟期、真实NOPAT/ROIC/增量回报、内容采纳和新签署均分别处理。\"}",
           "pending_issue": "B12待本人核验；只补B11未覆盖的年初列和两项利润范围字段",
           "stale_reason": "",
           "numbers": [
@@ -9194,7 +9197,8 @@
             "4,738,570,750.16"
           ],
           "candidate_fingerprint": "853703d16902b9c24ded56d0d9a2a555b90bbfd6656a669056afbff9e77891fd",
-          "binding": "7d8d60ce24e1e83c3a26fb5379d4947fe720d28d6cc81d15e897d60ad0282663"
+          "binding": "7d8d60ce24e1e83c3a26fb5379d4947fe720d28d6cc81d15e897d60ad0282663",
+          "submitted_state": "Fact"
         }
       },
       {
@@ -9217,9 +9221,9 @@
             "location": "PDF物理39、40页；逐字段表头见B12 JSON"
           }
         ],
-        "effective_state": "Unknown",
-        "verifier": "",
-        "confirmed_at": "",
+        "effective_state": "Fact",
+        "verifier": "leo",
+        "confirmed_at": "2026-10-24T22:09:17+08:00",
         "binding": "803d3c5606bc5decfa69e4af5b9b6a5eb1b7dab848c1476abf74a575a2b5d613",
         "issues": [],
         "support_boundary": "只核原文金额与列位；2006为2007新准则年初口径，非2006旧准则原披露。平均资本与经济归属/税率/同范围调整不随原数核验自动成立。",
@@ -9240,10 +9244,10 @@
           "unsupported_boundary": "不证明跨年可比、科目经营归属、纯经营税率/利润、完整资本、成熟回报或新签署",
           "pdf_path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
           "pdf_sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b",
-          "state": "Unknown",
-          "actor": "",
-          "confirmed_at": "",
-          "note": "B12待本人核验；只补B11未覆盖的年初列和两项利润范围字段",
+          "state": "Fact",
+          "actor": "leo",
+          "confirmed_at": "2026-10-24T22:09:17+08:00",
+          "note": "{\"channel\": \"actual-user-chat\", \"actual_user_reply\": \"B12全部核验正确，核验人leo\", \"client_date\": \"2026-10-24\", \"reviewer\": \"leo\", \"batch_id\": \"B12\", \"batch_version\": 1, \"display_payload_sha256\": \"53cdf06da0fa7084217d29e2d42748f729bb468132ed2f4f442918160381fe95\", \"display_manifest\": \"work/review-batches/20261024-B12.json\", \"confirmation_scope\": [\"R2007-05\", \"R2007-06\", \"R2007-07\", \"R2011-04\", \"R2011-05\", \"R2011-06\"], \"exceptions\": [], \"confirmation_context\": \"此前展示B12六项22金额：2007/2011合并资产负债表年初余额的NCWC六科目及长期资本三科目，分别对应2006/2010年末本报告口径；另核两年本期财务费用和投资收益，负号照录。均人民币元。2006为2007新准则年初值，不冒作2006旧准则原披露；B11年末和利润税三项复用。\", \"timestamp_meaning\": \"confirmed_at为程序保存实际聊天答复的时刻；非窗口点击，精确聊天发送时间未提供。\", \"boundary\": \"仅确认原数及列位。原数正确不自动认可与上年原年报完全一致、平均资本或算术结果；财务费用不自动全属存款利息，投资收益及其他/工程物资归属、经营税率、利润资本匹配、成熟期、真实NOPAT/ROIC/增量回报、内容采纳和新签署均分别处理。\"}",
           "pending_issue": "B12待本人核验；只补B11未覆盖的年初列和两项利润范围字段",
           "stale_reason": "",
           "numbers": [
@@ -9252,7 +9256,8 @@
             "452,317,235.72"
           ],
           "candidate_fingerprint": "2bc7cba3293a3e7e9e62b40a13f4c846034b98ea1b88a89730e5685cd0192e4b",
-          "binding": "803d3c5606bc5decfa69e4af5b9b6a5eb1b7dab848c1476abf74a575a2b5d613"
+          "binding": "803d3c5606bc5decfa69e4af5b9b6a5eb1b7dab848c1476abf74a575a2b5d613",
+          "submitted_state": "Fact"
         }
       },
       {
@@ -9275,9 +9280,9 @@
             "location": "PDF物理44页；逐字段表头见B12 JSON"
           }
         ],
-        "effective_state": "Unknown",
-        "verifier": "",
-        "confirmed_at": "",
+        "effective_state": "Fact",
+        "verifier": "leo",
+        "confirmed_at": "2026-10-24T22:09:17+08:00",
         "binding": "4f05c69533588f5b804d4f05896ed9c27a4ac6f6acb4bf25843400e3b9d18056",
         "issues": [],
         "support_boundary": "只核原文金额与列位；2006为2007新准则年初口径，非2006旧准则原披露。平均资本与经济归属/税率/同范围调整不随原数核验自动成立。",
@@ -9298,10 +9303,10 @@
           "unsupported_boundary": "不证明跨年可比、科目经营归属、纯经营税率/利润、完整资本、成熟回报或新签署",
           "pdf_path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
           "pdf_sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b",
-          "state": "Unknown",
-          "actor": "",
-          "confirmed_at": "",
-          "note": "B12待本人核验；只补B11未覆盖的年初列和两项利润范围字段",
+          "state": "Fact",
+          "actor": "leo",
+          "confirmed_at": "2026-10-24T22:09:17+08:00",
+          "note": "{\"channel\": \"actual-user-chat\", \"actual_user_reply\": \"B12全部核验正确，核验人leo\", \"client_date\": \"2026-10-24\", \"reviewer\": \"leo\", \"batch_id\": \"B12\", \"batch_version\": 1, \"display_payload_sha256\": \"53cdf06da0fa7084217d29e2d42748f729bb468132ed2f4f442918160381fe95\", \"display_manifest\": \"work/review-batches/20261024-B12.json\", \"confirmation_scope\": [\"R2007-05\", \"R2007-06\", \"R2007-07\", \"R2011-04\", \"R2011-05\", \"R2011-06\"], \"exceptions\": [], \"confirmation_context\": \"此前展示B12六项22金额：2007/2011合并资产负债表年初余额的NCWC六科目及长期资本三科目，分别对应2006/2010年末本报告口径；另核两年本期财务费用和投资收益，负号照录。均人民币元。2006为2007新准则年初值，不冒作2006旧准则原披露；B11年末和利润税三项复用。\", \"timestamp_meaning\": \"confirmed_at为程序保存实际聊天答复的时刻；非窗口点击，精确聊天发送时间未提供。\", \"boundary\": \"仅确认原数及列位。原数正确不自动认可与上年原年报完全一致、平均资本或算术结果；财务费用不自动全属存款利息，投资收益及其他/工程物资归属、经营税率、利润资本匹配、成熟期、真实NOPAT/ROIC/增量回报、内容采纳和新签署均分别处理。\"}",
           "pending_issue": "B12待本人核验；只补B11未覆盖的年初列和两项利润范围字段",
           "stale_reason": "",
           "numbers": [
@@ -9309,7 +9314,8 @@
             "3,383,000.00"
           ],
           "candidate_fingerprint": "3cc75fa9cb61c6eacf709a27be549e092e4184e781654a65fb41790b53c2ba56",
-          "binding": "4f05c69533588f5b804d4f05896ed9c27a4ac6f6acb4bf25843400e3b9d18056"
+          "binding": "4f05c69533588f5b804d4f05896ed9c27a4ac6f6acb4bf25843400e3b9d18056",
+          "submitted_state": "Fact"
         }
       },
       {
@@ -13121,7 +13127,7 @@
       }
     ],
     "domains": {
-      "facts": 109,
+      "facts": 115,
       "change_facts": 2,
       "lec03_agent_facts": 16,
       "m01_scale_facts": 3,
@@ -14441,7 +14447,7 @@
       {
         "path": "work/20261012-supplement/conflict-register.md",
         "title": "conflict-register",
-        "sha256": "316f651ef00f237efabc4fad5025609b23856b5860ead87a198039458c25798d"
+        "sha256": "5c7f33fedb9289ac7136646e94b3aa5bdef7a4a84edc66f1bf9447be20a27c20"
       },
       {
         "path": "docs/20261012-next-task-checklist.md",
@@ -14451,7 +14457,7 @@
       {
         "path": "docs/task-status.md",
         "title": "task-status",
-        "sha256": "06cc17d6c566849730541bdf114699e84c377d2d9142a012a6fb17f34fd3476f"
+        "sha256": "407c6f7415d0ee7195a8e2f251206062de6057baf5a49205d57ee7955273651a"
       },
       {
         "path": "work/yearly-changes.md",
@@ -14521,10 +14527,10 @@
       "profile": "existing",
       "signature_status": "查看原项目真实签署记录"
     },
-    "next_review_id": "R2007-05",
+    "next_review_id": "",
     "counts": {
-      "Fact": 148,
-      "Unknown": 52,
+      "Fact": 154,
+      "Unknown": 46,
       "total": 200
     },
     "research": {
@@ -14813,7 +14819,7 @@
           "interpretation": "长周期投入与销售存在时间差；存货金额、实物吨、项目投入与购建现金分开，不能仅由低Capex贴轻资产标签。",
           "alternative": "存货上升可能为产能配套、结构转换或积压；缺库龄时不能选择唯一原因。",
           "unknown": "经营资产/无息负债范围、维护/扩张Capex、成熟滞后和平均投入资本待裁定。",
-          "next_action": "B11已核并完成两端选定科目算术；核B12年初/利润范围，随后范围税率/平均资本/成熟期与再投资诊断，三项表格复算；不将算式冒称实体回报。",
+          "next_action": "B12已核且三类表格复算完成；下一步P01四项代理口径审阅，再处理必要年度/2012敏感性与范围缺口，形成N06/N07意见集中审阅。",
           "refutation": "库存与投入长期快于后续销售且回报未兑现，削弱资本效率解释。",
           "source_date": "",
           "source_role": "原始披露",
@@ -14879,7 +14885,13 @@
             "R2007-04",
             "R2011-01",
             "R2011-02",
-            "R2011-03"
+            "R2011-03",
+            "R2007-05",
+            "R2007-06",
+            "R2007-07",
+            "R2011-04",
+            "R2011-05",
+            "R2011-06"
           ],
           "evidence_bindings": {
             "R2024-08": "50b379e85fe4a04982f34e70de7b4dfa961702aa7a8675eee71b443cbab01145",
@@ -14943,7 +14955,13 @@
             "R2007-04": "dc85beea643cb0fb7cebcb5bd0b296df1308659da53c3f49c84815c050fea836",
             "R2011-01": "a4364f905a64c645ae6cbdb1a52de9dccf71b6aa66dfc25c16339b6b37203b08",
             "R2011-02": "21d68bbc447f40b6e29ab34770d65be5d4bed5d2148973b7663f2347be904e63",
-            "R2011-03": "cb8fc8984050d74c13019ed5627168ff904c5b2327175ac190cd3e9a7ebc8a61"
+            "R2011-03": "cb8fc8984050d74c13019ed5627168ff904c5b2327175ac190cd3e9a7ebc8a61",
+            "R2007-05": "70dc433b68f68b6c0ecd87f3e50a405587c75cca0427397f25bbfc25e74e7d63",
+            "R2007-06": "6abee39e418d4f2182da314bcdfe39d528f2da78b3096d269491441a29b7b7da",
+            "R2007-07": "819aee4f7fdf586e5aebc25d32664b17ac1f1793608660efeeda492a81301f08",
+            "R2011-04": "7d8d60ce24e1e83c3a26fb5379d4947fe720d28d6cc81d15e897d60ad0282663",
+            "R2011-05": "803d3c5606bc5decfa69e4af5b9b6a5eb1b7dab848c1476abf74a575a2b5d613",
+            "R2011-06": "4f05c69533588f5b804d4f05896ed9c27a4ac6f6acb4bf25843400e3b9d18056"
           },
           "valid_evidence_ids": [
             "R2024-08",
@@ -15007,7 +15025,13 @@
             "R2007-04",
             "R2011-01",
             "R2011-02",
-            "R2011-03"
+            "R2011-03",
+            "R2007-05",
+            "R2007-06",
+            "R2007-07",
+            "R2011-04",
+            "R2011-05",
+            "R2011-06"
           ],
           "issues": [],
           "evidence_ready": true,
@@ -15023,7 +15047,7 @@
           "interpretation": "2024合并现金转换较强但跨年波动且含财务公司影响；已剔除的显式金融项只能形成有边界余额，不是准确酒类CFO。",
           "alternative": "收款节奏、合同负债与集团资金归集均可能改变合并CFO。",
           "unknown": "带合并抵销的金融净贡献、实体利润与受限现金、经营Capex归属Unknown。",
-          "next_action": "B11已核并完成两端选定科目算术；核B12年初/利润范围，随后范围税率/平均资本/成熟期与再投资诊断，三项表格复算；不将算式冒称实体回报。",
+          "next_action": "B12已核且三类表格复算完成；下一步P01四项代理口径审阅，再处理必要年度/2012敏感性与范围缺口，形成N06/N07意见集中审阅。",
           "refutation": "剔除时点和金融影响后实体现金持续弱于利润，削弱稳定现金创造解释。",
           "source_date": "",
           "source_role": "原始披露",
@@ -15055,7 +15079,13 @@
             "R2007-04",
             "R2011-01",
             "R2011-02",
-            "R2011-03"
+            "R2011-03",
+            "R2007-05",
+            "R2007-06",
+            "R2007-07",
+            "R2011-04",
+            "R2011-05",
+            "R2011-06"
           ],
           "evidence_bindings": {
             "C09": "86e23c22a3bacd4c1380022392a70a0e64c81e42960285f30b9cbb8a1d01e618",
@@ -15085,7 +15115,13 @@
             "R2007-04": "dc85beea643cb0fb7cebcb5bd0b296df1308659da53c3f49c84815c050fea836",
             "R2011-01": "a4364f905a64c645ae6cbdb1a52de9dccf71b6aa66dfc25c16339b6b37203b08",
             "R2011-02": "21d68bbc447f40b6e29ab34770d65be5d4bed5d2148973b7663f2347be904e63",
-            "R2011-03": "cb8fc8984050d74c13019ed5627168ff904c5b2327175ac190cd3e9a7ebc8a61"
+            "R2011-03": "cb8fc8984050d74c13019ed5627168ff904c5b2327175ac190cd3e9a7ebc8a61",
+            "R2007-05": "70dc433b68f68b6c0ecd87f3e50a405587c75cca0427397f25bbfc25e74e7d63",
+            "R2007-06": "6abee39e418d4f2182da314bcdfe39d528f2da78b3096d269491441a29b7b7da",
+            "R2007-07": "819aee4f7fdf586e5aebc25d32664b17ac1f1793608660efeeda492a81301f08",
+            "R2011-04": "7d8d60ce24e1e83c3a26fb5379d4947fe720d28d6cc81d15e897d60ad0282663",
+            "R2011-05": "803d3c5606bc5decfa69e4af5b9b6a5eb1b7dab848c1476abf74a575a2b5d613",
+            "R2011-06": "4f05c69533588f5b804d4f05896ed9c27a4ac6f6acb4bf25843400e3b9d18056"
           },
           "valid_evidence_ids": [
             "C09",
@@ -15115,7 +15151,13 @@
             "R2007-04",
             "R2011-01",
             "R2011-02",
-            "R2011-03"
+            "R2011-03",
+            "R2007-05",
+            "R2007-06",
+            "R2007-07",
+            "R2011-04",
+            "R2011-05",
+            "R2011-06"
           ],
           "issues": [],
           "evidence_ready": true,
@@ -15804,15 +15846,15 @@
       "active_extension_contract": {
         "name": "第五次任务延伸合同_贵州茅台现金与资本回报验证.md",
         "progress": "work/cash-20261024/progress.json",
-        "next_batch": "B12",
+        "next_batch": null,
         "current_result": "outputs/student-cash-capital-check.md",
         "entity_cash_return_status": "Unknown",
         "previous_N03_adoption": "scripts/channel_n03_review.py:current_n03_adoption",
         "current_complete_cash_n": 10,
-        "next_content_review": null,
+        "next_content_review": "P01-20261024",
         "scope_correction": "SC34原文B10已核：2012已合并/2013正式营业；代理范围及2012敏感性待判",
         "cash_reconciliation_2025_residual_yuan": "0.00",
-        "proxy_arithmetic_status": "2007/2011两端及四年余额差诊断已算；经济范围/正式回报Unknown"
+        "proxy_arithmetic_status": "平均选定资本及利润公式/整行敏感性/税率因子分解已算；三类表格复算完成，P01范围待审"
       },
       "counts": {
         "nodes": 8,

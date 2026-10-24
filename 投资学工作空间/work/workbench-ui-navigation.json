@@ -1,16 +1,18 @@
 {
   "schema_version": 1,
   "date": "2026-10-24",
-  "next_review_id": "R2007-05",
-  "next_review_scope": "六项22金额：年初资本列对应2006/2010本报告口径，2007/2011财务费用与投资收益核本期",
+  "next_review_id": "",
+  "next_review_scope": "无新原数批次；P01四项代理口径集中审阅",
   "preferred_confirmation_channel": "actual-user-chat",
   "completed_review_id": "",
-  "completed_event": 110,
+  "completed_event": 116,
   "completed_channel": "actual-user-chat",
   "completed_reviewer": "leo",
   "toolkit_directory": "投资学公司分析通用工作台",
-  "next_review_batch": "B12",
-  "next_review_ids": [
+  "next_review_batch": "",
+  "next_review_ids": [],
+  "completed_batch": "B12",
+  "completed_review_ids": [
     "R2007-05",
     "R2007-06",
     "R2007-07",
@@ -18,26 +20,17 @@
     "R2011-05",
     "R2011-06"
   ],
-  "completed_batch": "B11",
-  "completed_review_ids": [
-    "R2007-02",
-    "R2007-03",
-    "R2007-04",
-    "R2011-01",
-    "R2011-02",
-    "R2011-03"
-  ],
   "completed_event_sequences": [
-    105,
-    106,
-    107,
-    108,
-    109,
-    110
+    111,
+    112,
+    113,
+    114,
+    115,
+    116
   ],
-  "next_action_kind": "human-batch-review",
-  "next_content_review_id": "",
-  "next_content_review_path": "",
+  "next_action_kind": "human-content-review",
+  "next_content_review_id": "P01-20261024",
+  "next_content_review_path": "outputs/student-cash-p01-review.md",
   "completed_content_review": "N03-20261024",
   "completed_content_reply": "认可N03判断"
 }

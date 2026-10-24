@@ -482,7 +482,15 @@
       "original": "B11核准2007/2011两端原数，公式可做选定NCWC/期末资本/利润代理及两端差；这不是此前发生过的伪造或错误回报结论。",
       "treatment": "原数Fact与代理范围、经营税率、平均资本、成熟期及结果认可分开。资本余额差不称累计现金再投资；4年跨度不证明逐笔成熟；未纳入工程物资/其他不设0。分母和相对规模留存，小分母阈值不自定。正式ROIC/增量回报Unknown。",
       "evidence": "work/cash-20261024/calculations.json.selected_capital_proxy_diagnostics；work/review-batches/20261024-B12.json",
-      "state": "AgentCalculated附条件算术，研究范围与回报停止Unknown，非人工公式/经济回报确认"
+      "state": "AgentCalculated附条件算术，研究范围与回报停止Unknown，非人工公式/经济回报确认",
+      "resolution_history": [
+        {
+          "date": "2026-10-24",
+          "event": "B12六项由leo确认review111—116",
+          "result": "同报告年初列支持平均资本代理，财务费用/投资收益整行移除仅作敏感性；基准利润公式增量中税率因子约7.93亿元，非税法因果。Scope仍待P01，真实回报不升级。",
+          "receipt": "evidence/20261024-b12-chat-confirmation.json"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,366 @@
+{
+  "review_id": "P01-20261024",
+  "version": 1,
+  "date": "2026-10-24",
+  "review_kind": "research-scope-approval",
+  "status": "pending-human-content-review",
+  "contract": "第五次任务延伸合同_贵州茅台现金与资本回报验证.md",
+  "items": [
+    {
+      "id": "P01-1",
+      "title": "选定科目与完整经营资本分开",
+      "proposed_rule": "同意以已核六个营运科目和三个长期资产科目构造“选择性会计代理”。其他项目、工程物资等未分类部分不整体纳入，不把未纳入等同为0或非经营。完整经营NCWC、投入资本与实体ROIC继续Unknown。"
+    },
+    {
+      "id": "P01-2",
+      "title": "平均资本只采用同份报表的年初与年末",
+      "proposed_rule": "同意以（同年报年初选定资本＋年末选定资本）÷2作平均代理。2007基期来自2007新准则年初列，2011基期来自2011年报年初列；不冒作2006旧准则原披露、不自动裁定与前一年原年报相同，也不宣称全年加权经济资本。"
+    },
+    {
+      "id": "P01-3",
+      "title": "利润与税率只作附条件公式和敏感性",
+      "proposed_rule": "同意并列基准公式“营业利润×（1−报表有效税率）”和整行移除公式“（营业利润＋原财务费用−投资收益）×（1−同一税率）”。整行移除不当精准去利息经营利润；税率因子分解仅解释算式，不能认定税法因果。两种公式都不称真实经营NOPAT。"
+    },
+    {
+      "id": "P01-4",
+      "title": "增量、成熟期和实体现金保持停止规则",
+      "proposed_rule": "同意将2007→2011的四年两端差只作为诊断，不命名成熟增量回报、不年化；资本余额差不当累计现金再投资。2012因已合并财务公司单列敏感性。缺逐项范围、内部抵销、再投资或成熟映射时，实体CFO、正式FCFF/ROIC和可分配现金保持Unknown，不把P01认可当合同全部完成或N06/N07结论采纳。"
+    }
+  ],
+  "input_authority_snapshot": [
+    {
+      "domain": "facts",
+      "id": "C01",
+      "binding": "bf6e838d821bfa014ee564b83dbd1438bee886ca176f83e4f985a3eff0a0cc10",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+    },
+    {
+      "domain": "facts",
+      "id": "R2007-01",
+      "binding": "0881835c640891da14f847cf0d661d6e2aa0d6c42a3087f9939f7b7726266159",
+      "pdf_path": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
+      "pdf_sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679"
+    },
+    {
+      "domain": "facts",
+      "id": "R2007-02",
+      "binding": "9bc3c9d65481cf86c7b38c646f405d5ad67774238f07d09c8004e693641bdd6d",
+      "pdf_path": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
+      "pdf_sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679"
+    },
+    {
+      "domain": "facts",
+      "id": "R2007-03",
+      "binding": "7a178efb1df1f59f85f670e89036d6a87c206f85c66a0ff4aade4506834382c4",
+      "pdf_path": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
+      "pdf_sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679"
+    },
+    {
+      "domain": "facts",
+      "id": "R2007-04",
+      "binding": "dc85beea643cb0fb7cebcb5bd0b296df1308659da53c3f49c84815c050fea836",
+      "pdf_path": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
+      "pdf_sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679"
+    },
+    {
+      "domain": "facts",
+      "id": "R2007-05",
+      "binding": "70dc433b68f68b6c0ecd87f3e50a405587c75cca0427397f25bbfc25e74e7d63",
+      "pdf_path": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
+      "pdf_sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679"
+    },
+    {
+      "domain": "facts",
+      "id": "R2007-06",
+      "binding": "6abee39e418d4f2182da314bcdfe39d528f2da78b3096d269491441a29b7b7da",
+      "pdf_path": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
+      "pdf_sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679"
+    },
+    {
+      "domain": "facts",
+      "id": "R2007-07",
+      "binding": "819aee4f7fdf586e5aebc25d32664b17ac1f1793608660efeeda492a81301f08",
+      "pdf_path": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
+      "pdf_sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679"
+    },
+    {
+      "domain": "facts",
+      "id": "R2011-01",
+      "binding": "a4364f905a64c645ae6cbdb1a52de9dccf71b6aa66dfc25c16339b6b37203b08",
+      "pdf_path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
+      "pdf_sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b"
+    },
+    {
+      "domain": "facts",
+      "id": "R2011-02",
+      "binding": "21d68bbc447f40b6e29ab34770d65be5d4bed5d2148973b7663f2347be904e63",
+      "pdf_path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
+      "pdf_sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b"
+    },
+    {
+      "domain": "facts",
+      "id": "R2011-03",
+      "binding": "cb8fc8984050d74c13019ed5627168ff904c5b2327175ac190cd3e9a7ebc8a61",
+      "pdf_path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
+      "pdf_sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b"
+    },
+    {
+      "domain": "facts",
+      "id": "R2011-04",
+      "binding": "7d8d60ce24e1e83c3a26fb5379d4947fe720d28d6cc81d15e897d60ad0282663",
+      "pdf_path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
+      "pdf_sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b"
+    },
+    {
+      "domain": "facts",
+      "id": "R2011-05",
+      "binding": "803d3c5606bc5decfa69e4af5b9b6a5eb1b7dab848c1476abf74a575a2b5d613",
+      "pdf_path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
+      "pdf_sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b"
+    },
+    {
+      "domain": "facts",
+      "id": "R2011-06",
+      "binding": "4f05c69533588f5b804d4f05896ed9c27a4ac6f6acb4bf25843400e3b9d18056",
+      "pdf_path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
+      "pdf_sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b"
+    },
+    {
+      "domain": "facts",
+      "id": "R2012-01",
+      "binding": "da0d3bae5cd5547b416f9e77cbe83b776b5f3502684df14cbe4d62df52d0d038",
+      "pdf_path": "sources/annual_reports/pdf/600519_2012_贵州茅台_2012年年度报告.pdf",
+      "pdf_sha256": "9a8faef737d4dd64e8260325247b8ffe77e5de506f4b23b046f28c0758377eae"
+    },
+    {
+      "domain": "facts",
+      "id": "R2013-01",
+      "binding": "798a07c1437e0317693b83bd55c9d77a7a2ef1b614f40697b4d05ec39edb9b66",
+      "pdf_path": "sources/annual_reports/pdf/600519_2013_贵州茅台_2013年年度报告.pdf",
+      "pdf_sha256": "26524de9281264e149c23bdc618a32820678c8d07c5dc7c88cbc7e19b3df0bff"
+    },
+    {
+      "domain": "facts",
+      "id": "R2016-07",
+      "binding": "8f56e48a514042196efd87304c1400b2ac4602c3178bb979a7d73027658430fc",
+      "pdf_path": "sources/annual_reports/pdf/600519_2016_贵州茅台_2016年年度报告.pdf",
+      "pdf_sha256": "dd26d9e0017a938cb5e1aa0a830bab7502d0de1f85eb7c00abffb4888c8c20ad"
+    },
+    {
+      "domain": "facts",
+      "id": "R2016-08",
+      "binding": "79e51106363b52449c69f34c561ff3ee3b936f7bd9410b453ca6139653126208",
+      "pdf_path": "sources/annual_reports/pdf/600519_2016_贵州茅台_2016年年度报告.pdf",
+      "pdf_sha256": "dd26d9e0017a938cb5e1aa0a830bab7502d0de1f85eb7c00abffb4888c8c20ad"
+    },
+    {
+      "domain": "facts",
+      "id": "R2017-04",
+      "binding": "a179baa2e6fdc6d15637746b64d1979874adb14e7f4e27ce616e7ed6630acdeb",
+      "pdf_path": "sources/annual_reports/pdf/600519_2017_贵州茅台_2017年年度报告.pdf",
+      "pdf_sha256": "b66a4641e5f2313ed7964e5bef0026021ff2164459d0e0615f1b4385ba1a78e3"
+    },
+    {
+      "domain": "facts",
+      "id": "R2017-05",
+      "binding": "0b94b535d1a4d3155012622331d19a8ff149cf3268d31debde1dc6b96a924bef",
+      "pdf_path": "sources/annual_reports/pdf/600519_2017_贵州茅台_2017年年度报告.pdf",
+      "pdf_sha256": "b66a4641e5f2313ed7964e5bef0026021ff2164459d0e0615f1b4385ba1a78e3"
+    },
+    {
+      "domain": "facts",
+      "id": "R2018-04",
+      "binding": "0de4d47f1371746190e80f289807a9cd3e92dc672b57cd5792cd0e4f3b7a983b",
+      "pdf_path": "sources/annual_reports/pdf/600519_2018_贵州茅台_2018年年度报告.pdf",
+      "pdf_sha256": "08728fc937836cfeed8e98aeda932da54c737efa6de4280ae001476c0e393dec"
+    },
+    {
+      "domain": "facts",
+      "id": "R2018-05",
+      "binding": "bbd134a3f10a3e548748533f2eff6690cb26654b15177930c2808e1ffc729fdc",
+      "pdf_path": "sources/annual_reports/pdf/600519_2018_贵州茅台_2018年年度报告.pdf",
+      "pdf_sha256": "08728fc937836cfeed8e98aeda932da54c737efa6de4280ae001476c0e393dec"
+    },
+    {
+      "domain": "facts",
+      "id": "R2019-04",
+      "binding": "ffd69195fd99f1b74fc52c27e22c0e32b43afc8577e974948bb90aebd91892a1",
+      "pdf_path": "sources/annual_reports/pdf/600519_2019_贵州茅台_2019年年度报告.pdf",
+      "pdf_sha256": "2a2b384ab09a7bc295fd2e33b999acdf4212340b0141031c991060dea2fad03d"
+    },
+    {
+      "domain": "facts",
+      "id": "R2019-05",
+      "binding": "7a3c93ad9c235f7519fd1f3b7926afa20b4eb1eca1be177e0cb44615f8598a45",
+      "pdf_path": "sources/annual_reports/pdf/600519_2019_贵州茅台_2019年年度报告.pdf",
+      "pdf_sha256": "2a2b384ab09a7bc295fd2e33b999acdf4212340b0141031c991060dea2fad03d"
+    },
+    {
+      "domain": "facts",
+      "id": "R2020-09",
+      "binding": "31767e8d1cac8ab856ecf5a683ce258841b2c40ce1201fd48a2749ef5d922a2f",
+      "pdf_path": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "pdf_sha256": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c"
+    },
+    {
+      "domain": "facts",
+      "id": "R2020-10",
+      "binding": "c14a9002036ebc621d135496f21e748539c5b0fca2a141aa0a2a13d5fd5b3ee4",
+      "pdf_path": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "pdf_sha256": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c"
+    },
+    {
+      "domain": "facts",
+      "id": "R2021-09",
+      "binding": "277fc187bd99c5961fe714b46114355540cc1dc9bf5895e823951a7a21d49917",
+      "pdf_path": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+      "pdf_sha256": "f65effdde58bcea99fd6bdb53f61b31d5c432e6dfb2661e5caf05156a433ea5a"
+    },
+    {
+      "domain": "facts",
+      "id": "R2021-10",
+      "binding": "37161e24fdc131909257b2ff4462d95a9bd3d2a4d0a401a30fd3a40a8485d7f8",
+      "pdf_path": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+      "pdf_sha256": "f65effdde58bcea99fd6bdb53f61b31d5c432e6dfb2661e5caf05156a433ea5a"
+    },
+    {
+      "domain": "facts",
+      "id": "R2022-09",
+      "binding": "e2e4f516e0c96e0213109da8ce26ca297d2eb872d0dd123038be8e86765c90dc",
+      "pdf_path": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "pdf_sha256": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358"
+    },
+    {
+      "domain": "facts",
+      "id": "R2023-09",
+      "binding": "cf35a36f055c85bcf07586566ad6b8f024c7d3b93c003ef885a729c9c25fdf25",
+      "pdf_path": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "pdf_sha256": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1"
+    },
+    {
+      "domain": "facts",
+      "id": "R2023-10",
+      "binding": "39acf68909bb9d4264b19ddf71772fe8756085ca76337d6d395629e3ec27db39",
+      "pdf_path": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "pdf_sha256": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-08",
+      "binding": "ca518cf46cada0f847fd5f5558e445f2c30a497ced196f27b01caf98a0a3a414",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-18",
+      "binding": "a00d783fbbf8488e5f9bda8f44ff82fb315e132f76af96d99916db2b24a4e54b",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-21",
+      "binding": "36bb4ce18a2fb2c8d3ed025cbc59d625f35b02bdf330c8121f2483dabdcd11ee",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-22",
+      "binding": "f38aa36a8fca9b3f57627fafb32c9e968958d94c3d51e82efef1819d59be9f8e",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-23",
+      "binding": "0a6c5effaa21206dc91aece00a3ba4c981415733aa209e1c18f310e86980b480",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-24",
+      "binding": "dc3a88327b9f4161e0f11a7f7f6bcbc9c66589e2d1663e5fd8253d5101188e0d",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-25",
+      "binding": "10ff62041df87b48feccbe58421ee1f7077961850a3e6b4ffb3a11b22d4d149e",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-26",
+      "binding": "77cfeda9c2852e7ff23c1a1aac9d3dfbe13131d34a0240f78cb60b143a2ad1f9",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-27",
+      "binding": "65eb0561e812132bb76b96da0a42f79bfd97deef481d41148942b9ee858c4c70",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-28",
+      "binding": "65a92b68fc922cbe6b7549700cab0fad39ba75e0e338a6bca45b65c88cec6854",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "lec03_agent_facts",
+      "id": "L03-A2020-C",
+      "validated_snapshot_sha256": "a9b134a1406138efae0b2a22bc493eced296f786a8a67a7bed3921dbfaffd43c",
+      "pdf_path": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "pdf_sha256": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c",
+      "human_confirmation": false
+    },
+    {
+      "domain": "lec03_agent_facts",
+      "id": "L03-A2021-C",
+      "validated_snapshot_sha256": "a083d03a5abbbb06326eb5ebc5bd33b6945c8964b4a71292e9bccd2dbad71659",
+      "pdf_path": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+      "pdf_sha256": "f65effdde58bcea99fd6bdb53f61b31d5c432e6dfb2661e5caf05156a433ea5a",
+      "human_confirmation": false
+    },
+    {
+      "domain": "lec03_agent_facts",
+      "id": "L03-A2022-C",
+      "validated_snapshot_sha256": "17dc9dd677959a52636e5b95b1a10632ea283ceeb6d40ce2d395f6b8954203f5",
+      "pdf_path": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "pdf_sha256": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358",
+      "human_confirmation": false
+    },
+    {
+      "domain": "lec03_agent_facts",
+      "id": "L03-A2023-C",
+      "validated_snapshot_sha256": "b9ec71d2588bb8b72f6c4e1539f7a7881baf878e3bef16d62bf99a6e01f9b1ae",
+      "pdf_path": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "pdf_sha256": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1",
+      "human_confirmation": false
+    },
+    {
+      "domain": "lec03_agent_facts",
+      "id": "L03-A2024-C",
+      "validated_snapshot_sha256": "49401acee09b8b05e72d07696e7cf19a2138fb2a637ad02047cb3909a2727793",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "human_confirmation": false
+    }
+  ],
+  "input_authority_snapshot_sha256": "99317379917e2e8a36064ad7d5cbc184531e9b64a7be1c48ba88b1defb15c6d9",
+  "calculation_snapshot_path": "work/cash-20261024/p01-displayed/calculations.json",
+  "calculation_snapshot_sha256": "18547ffc644f78c9199558471f9c3cf09006798261ee53dd9ab15e66004df7fd",
+  "spreadsheet_sha256": "28637ccbf8f60e50fba150e47636641c0aed2cccab772f1463d46249d4d02f0d",
+  "actual_user_reply": null,
+  "boundary": "只审阅上述四项处理口径，不确认新原数、原生Excel使用、算术Fact、真实经济回报、N06/N07结论、教师验收或新签署",
+  "display_payload_sha256": "aed414df91cbb714f72b935cb3d5fb364653771e6aac71eccdf83a8d25311331"
+}

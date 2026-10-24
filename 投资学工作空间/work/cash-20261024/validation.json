@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
   "authority_counts": {
-    "facts": 109,
+    "facts": 115,
     "change_facts": 2,
     "lec03_agent_facts": 16,
     "m01_scale_facts": 3,
@@ -45,8 +45,8 @@
   "teacher_HV_imported": false,
   "N03_and_G6_adoption": "accepted-current",
   "research_content_or_signature_created": false,
-  "code_sha256": "1dd1b4dfb709e63f4ea91c2fdc1311459b6ba95a93d4641ba5f839466bfb5fa8",
-  "report_fingerprint": "7aa3b478038bd45974060f9b4aa79fc010b07f137df80dfa7b2f0a2600198a48",
+  "code_sha256": "622c91c32ea5eca7657cc4beb5d5ef6f68bea73b7fdef8185bbfedc4e73e2aac",
+  "report_fingerprint": "a8b3123fbd8770c0eee38f23489be363c27f968aa243d388a241f5831eaa5e4e",
   "scope_correction": "SC34原文B10已核；2012合并/2013营业分开，代理范围与敏感性仍待判",
   "B10_events": [
     96,
@@ -76,8 +76,7 @@
     110
   ],
   "B11_confirmed_inputs_used": 6,
-  "B12_pending": 6,
-  "B12_pending_not_used_as_facts_or_calculation_inputs": true,
+  "B12_pending": 0,
   "proxy_fraction_checks": "两年NCWC/资本余额精确相等，利润公式与48位Decimal误差<1e-30元；两端资本差精确一致",
   "economic_scope_approval": false,
   "formal_incremental_return": null,
@@ -87,5 +86,21 @@
     2011
   ],
   "cash_reconciliation_unchanged": true,
-  "proxy_code_sha256": "b477822490b3bb78a8435b7cc39cb3b1dec206cdc5538a3465666706ba6d4e10"
+  "proxy_code_sha256": "939b751931b81c3e552085c18c958fe12c3019ae714b823f7810a00f90fc6779",
+  "B12_events": [
+    111,
+    112,
+    113,
+    114,
+    115,
+    116
+  ],
+  "B12_confirmed_inputs_used": 6,
+  "current_content_review": "P01-20261024",
+  "P01_scope_approval": false,
+  "average_capital_and_sensitivity_fraction_checked": true,
+  "spreadsheet_validation": "work/cash-20261024/spreadsheet-validation.json",
+  "three_spreadsheet_calculation_types_completed": true,
+  "native_Excel_opened": false,
+  "book_tax_decomposition_residual_yuan": "-1E-38"
 }

@@ -2,7 +2,7 @@
   "date": "2026-10-24",
   "state": "AgentCalculated",
   "human_arithmetic_confirmation": false,
-  "code_sha256": "1dd1b4dfb709e63f4ea91c2fdc1311459b6ba95a93d4641ba5f839466bfb5fa8",
+  "code_sha256": "622c91c32ea5eca7657cc4beb5d5ef6f68bea73b7fdef8185bbfedc4e73e2aac",
   "panel": [
     {
       "year": 2001,
@@ -827,14 +827,20 @@
   "selected_capital_proxy_diagnostics": {
     "state": "AgentCalculated",
     "human_scope_approval": false,
-    "source_confirmation": "B11实际原数确认，当前来源绑定重检；与范围/算术认可分开",
+    "source_confirmation": "B11/B12实际原数确认，当前来源绑定重检；与范围/算术认可分开",
     "used_ids": [
       "R2007-02",
       "R2007-03",
       "R2007-04",
       "R2011-01",
       "R2011-02",
-      "R2011-03"
+      "R2011-03",
+      "R2007-05",
+      "R2007-06",
+      "R2007-07",
+      "R2011-04",
+      "R2011-05",
+      "R2011-06"
     ],
     "panel": [
       {
@@ -856,23 +862,49 @@
         "input_ids": [
           "R2007-02",
           "R2007-03",
-          "R2007-04"
+          "R2007-04",
+          "R2007-05",
+          "R2007-06",
+          "R2007-07"
         ],
         "selected_ncwc_arithmetic_yuan": "1274127789.12",
         "selected_long_assets_arithmetic_yuan": "3070710623.48",
         "selected_end_capital_arithmetic_yuan": "4344838412.60",
         "book_effective_tax_rate": "0.344087549604145340816551151484642423880815826445",
         "nopat_formula_arithmetic_yuan": "2968227505.36746972995642598211954469620040866415",
-        "average_selected_capital_yuan": null,
+        "average_selected_capital_yuan": "3434523321.79",
         "operating_nopat_yuan": null,
         "entity_roic": null,
         "status": "AgentCalculated：按明示选择科目做附条件算术，非本人范围裁决或真实经营回报",
         "stops": [
-          "年初/平均资本当前有效原数未齐，B12待核",
           "营业利润中的利息/投资及税率经营适用性待核",
           "工程物资/其他等未裁定，不将其设成0或全部非经营",
           "选择性资本非完整资本，不与全口径利润直接配对认定经营ROIC"
-        ]
+        ],
+        "opening_raw_fields_yuan": {
+          "存货": "1980903106.21",
+          "应收票据": "185653838.47",
+          "应收账款": "68347002.70",
+          "预付款项": "3144616.20",
+          "应付账款": "41247749.99",
+          "预收款项": "2141468768.67",
+          "固定资产": "1222898569.38",
+          "在建工程": "989033918.02",
+          "无形资产": "256943698.66"
+        },
+        "opening_source_period": 2006,
+        "opening_source_basis": "同份当年年报年初列；不冒作上年原年报原披露",
+        "opening_selected_ncwc_yuan": "55332044.92",
+        "opening_selected_capital_yuan": "2524208230.98",
+        "formula_profit_over_selected_average": "0.864232741276158556719918316231112651215516282613",
+        "finance_investment_raw_fields_yuan": {
+          "财务费用": "-44743824.95",
+          "投资收益": "1814950.00"
+        },
+        "whole_line_neutralized_profit_before_tax_yuan": "4478782226.85",
+        "whole_line_neutralized_formula_yuan": "2937689025.20258609446659483641668152119509807384",
+        "whole_line_sensitivity_status": "整行财务费用和投资收益移除的算术敏感性，非真实去利息经营利润；税率仍为报表有效税率",
+        "whole_line_formula_over_selected_average": "0.855341120138769501619863052354271584180407293946"
       },
       {
         "year": 2011,
@@ -893,23 +925,49 @@
         "input_ids": [
           "R2011-01",
           "R2011-02",
-          "R2011-03"
+          "R2011-03",
+          "R2011-04",
+          "R2011-05",
+          "R2011-06"
         ],
         "selected_ncwc_arithmetic_yuan": "2103479407.59",
         "selected_long_assets_arithmetic_yuan": "6485884188.37",
         "selected_end_capital_arithmetic_yuan": "8589363595.96",
         "book_effective_tax_rate": "0.250054443957450343419277652399518778232071485849",
         "nopat_formula_arithmetic_yuan": "9251451689.19894050429047813779799834866209383995",
-        "average_selected_capital_yuan": null,
+        "average_selected_capital_yuan": "7918233578.18",
         "operating_nopat_yuan": null,
         "entity_roic": null,
         "status": "AgentCalculated：按明示选择科目做附条件算术，非本人范围裁决或真实经营回报",
         "stops": [
-          "年初/平均资本当前有效原数未齐，B12待核",
           "营业利润中的利息/投资及税率经营适用性待核",
           "工程物资/其他等未裁定，不将其设成0或全部非经营",
           "选择性资本非完整资本，不与全口径利润直接配对认定经营ROIC"
-        ]
+        ],
+        "opening_raw_fields_yuan": {
+          "存货": "5574126083.42",
+          "应收票据": "204811101.20",
+          "应收账款": "1254599.91",
+          "预付款项": "1529868837.52",
+          "应付账款": "232013104.28",
+          "预收款项": "4738570750.16",
+          "固定资产": "4191851111.97",
+          "在建工程": "263458445.10",
+          "无形资产": "452317235.72"
+        },
+        "opening_source_period": 2010,
+        "opening_source_basis": "同份当年年报年初列；不冒作上年原年报原披露",
+        "opening_selected_ncwc_yuan": "2339476767.61",
+        "opening_selected_capital_yuan": "7247103560.40",
+        "formula_profit_over_selected_average": "1.16837317286179118738486849472789346649544783307",
+        "finance_investment_raw_fields_yuan": {
+          "财务费用": "-350751496.92",
+          "投资收益": "3383000.00"
+        },
+        "whole_line_neutralized_profit_before_tax_yuan": "11982029928.16",
+        "whole_line_neutralized_formula_yuan": "8985870096.99242251554314526186030056204140152260",
+        "whole_line_sensitivity_status": "整行财务费用和投资收益移除的算术敏感性，非真实去利息经营利润；税率仍为报表有效税率",
+        "whole_line_formula_over_selected_average": "1.13483266290028008519820086147560023480981902910"
       }
     ],
     "window_diagnostic": {
@@ -934,7 +992,16 @@
         "利润税率与选择性资本尚未核准同范围",
         "缺经营现金/Capex分解，正式增量回报停止Unknown"
       ],
-      "status": "仅余额与利润代理的算术诊断，不命名成熟增量回报率"
+      "status": "仅余额与利润代理的算术诊断，不命名成熟增量回报率",
+      "formula_change_decomposition": {
+        "method": "两路径平均，NOPAT公式=OP*(1-t)，只分解算式不认定税法因果",
+        "operating_profit_factor_yuan": "5490454323.2474067390589148656087441193706287772",
+        "book_tax_factor_yuan": "792769860.58406403527513729006970953309105639861",
+        "sum_yuan": "6283224183.83147077433405215567845365246168517581",
+        "residual_yuan": "-1E-38"
+      },
+      "whole_line_sensitivity_delta_formula_yuan": "6048181071.78983642107655042544361904084630344876",
+      "whole_line_sensitivity_delta_profit_over_delta_capital": "1.42493702134240796973339186248847330030093805681"
     },
     "formulas": {
       "selected_ncwc": "存货+应收票据+应收账款+预付款项−应付账款−预收款项",
@@ -953,10 +1020,10 @@
       "other_accounts": "逐项待判，未整体纳入/排除",
       "profit_capital_scope": "Unknown",
       "operating_tax_rate": "Unknown；书面有效税率只供附条件公式",
-      "average_capital": "Unknown：B12年初原数待核",
+      "average_capital": "本年报年初与年末选定资本均值；只为附条件代理，不是完整经济资本",
       "maturity": "Unknown：项目投入到成熟映射未齐"
     },
-    "code_sha256": "b477822490b3bb78a8435b7cc39cb3b1dec206cdc5538a3465666706ba6d4e10"
+    "code_sha256": "939b751931b81c3e552085c18c958fe12c3019ae714b823f7810a00f90fc6779"
   },
   "listed_financial_rows": [
     {
@@ -1425,6 +1492,27 @@
     },
     {
       "domain": "facts",
+      "id": "R2007-05",
+      "binding": "70dc433b68f68b6c0ecd87f3e50a405587c75cca0427397f25bbfc25e74e7d63",
+      "pdf_path": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
+      "pdf_sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679"
+    },
+    {
+      "domain": "facts",
+      "id": "R2007-06",
+      "binding": "6abee39e418d4f2182da314bcdfe39d528f2da78b3096d269491441a29b7b7da",
+      "pdf_path": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
+      "pdf_sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679"
+    },
+    {
+      "domain": "facts",
+      "id": "R2007-07",
+      "binding": "819aee4f7fdf586e5aebc25d32664b17ac1f1793608660efeeda492a81301f08",
+      "pdf_path": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
+      "pdf_sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679"
+    },
+    {
+      "domain": "facts",
       "id": "R2011-01",
       "binding": "a4364f905a64c645ae6cbdb1a52de9dccf71b6aa66dfc25c16339b6b37203b08",
       "pdf_path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
@@ -1441,6 +1529,27 @@
       "domain": "facts",
       "id": "R2011-03",
       "binding": "cb8fc8984050d74c13019ed5627168ff904c5b2327175ac190cd3e9a7ebc8a61",
+      "pdf_path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
+      "pdf_sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b"
+    },
+    {
+      "domain": "facts",
+      "id": "R2011-04",
+      "binding": "7d8d60ce24e1e83c3a26fb5379d4947fe720d28d6cc81d15e897d60ad0282663",
+      "pdf_path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
+      "pdf_sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b"
+    },
+    {
+      "domain": "facts",
+      "id": "R2011-05",
+      "binding": "803d3c5606bc5decfa69e4af5b9b6a5eb1b7dab848c1476abf74a575a2b5d613",
+      "pdf_path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
+      "pdf_sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b"
+    },
+    {
+      "domain": "facts",
+      "id": "R2011-06",
+      "binding": "4f05c69533588f5b804d4f05896ed9c27a4ac6f6acb4bf25843400e3b9d18056",
       "pdf_path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
       "pdf_sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b"
     },
@@ -1714,5 +1823,5 @@
     "inventory_intensity": "book inventory/consolidated operating revenue"
   },
   "precision": 48,
-  "generated_output_sha256": "100455caec92b4bc73ed256796ba9bbb0f0c5630f4cbb40fba5df472c1814309"
+  "generated_output_sha256": "56b493a06ee592b224bbfa8008237e9c559d701ee914267520decfdce4ba7420"
 }
