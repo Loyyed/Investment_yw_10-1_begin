@@ -454,6 +454,17 @@
       "treatment": "25年面板仅取当前facts/有效年度组，五年合并现金复用；B09未知不入计算。净利润含少数、账面存货用元，已列金融行净额不作完整贡献。材料中CFO再减ΔNCWC的错误演示单独识别，不伪造个人历史错误。",
       "state": "阶段性AgentCalculated；实体CFO/正式FCFF/实体ROIC及前财务公司代理输入未齐保持Unknown，B09待本人确认",
       "evidence": "work/cash-20261024/calculations.json；outputs/student-cash-capital-check.md；work/review-batches/20261024-B09.json"
+    },
+    {
+      "id": "SC34",
+      "date": "2026-10-24",
+      "kind": "财务公司首次合并与正式营业年份混称",
+      "original": "前现金阶段将2013写作财务公司进入合并范围，并将2007—2012统称前财务公司窗口；原合同及教学材料表述保留。",
+      "current_source_observation": "2012年报PDF67／印刷66页已写本期合并报表增加财务公司，列净资产800,328,424.84元及净利润328,424.84元（银行存款利息）；2013年报PDF90／印刷89页写2013年3月中旬取得营业执照、5月正式营业。",
+      "treatment": "区分2012设立/已合并和2013正式营业，当前原件观察列B10待本人确认，不追改旧权威账本/原件；候选主窗2007—2011，2012单列敏感性并重审利润和资本范围。不得删328,424.84元后就宣称实体NOPAT或其他科目全部匹配。",
+      "impact": "十年2016—2025现金基础数值不变；影响后续前财务公司资本代理窗口和范围说明。原N03/G6语义与源数未变。",
+      "state": "Agent原件观察与研究范围纠偏；B10仍Unknown；非本人原数或可比性裁决",
+      "evidence": "work/review-batches/20261024-B10.json；work/cash-20261024/local-source-copies.json"
     }
   ]
 }

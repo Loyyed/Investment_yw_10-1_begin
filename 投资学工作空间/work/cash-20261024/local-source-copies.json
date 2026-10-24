@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-24",
+  "copies": [
+    {
+      "year": 2007,
+      "source_path": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
+      "source_sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679",
+      "archive_member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2007Q4_Σ┐«Φ«óτëê_2008-03-17.pdf",
+      "archive_sha256": "50c476c266df02ee0283238f98fbcfb946e8155c48f1653b635c55fb706be13b",
+      "byte_identical_to_archive": true,
+      "originals_uploaded": false
+    },
+    {
+      "year": 2012,
+      "source_path": "sources/annual_reports/pdf/600519_2012_贵州茅台_2012年年度报告.pdf",
+      "source_sha256": "9a8faef737d4dd64e8260325247b8ffe77e5de506f4b23b046f28c0758377eae",
+      "archive_member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2012Q4.pdf",
+      "archive_sha256": "50c476c266df02ee0283238f98fbcfb946e8155c48f1653b635c55fb706be13b",
+      "byte_identical_to_archive": true,
+      "originals_uploaded": false
+    },
+    {
+      "year": 2013,
+      "source_path": "sources/annual_reports/pdf/600519_2013_贵州茅台_2013年年度报告.pdf",
+      "source_sha256": "26524de9281264e149c23bdc618a32820678c8d07c5dc7c88cbc7e19b3df0bff",
+      "archive_member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2013Q4.pdf",
+      "archive_sha256": "50c476c266df02ee0283238f98fbcfb946e8155c48f1653b635c55fb706be13b",
+      "byte_identical_to_archive": true,
+      "originals_uploaded": false
+    }
+  ],
+  "originals_modified": false,
+  "originals_uploaded": false
+}

@@ -18,3 +18,5 @@
 - [N03原审阅展示（历史）](student-channel-n03-review.md)保持不变；[当前已采纳结论](student-channel-conclusion.md)及独立回执显示意见已采纳，净贡献方向仍Unknown。
 
 - [现金与资本回报阶段性稿](student-cash-capital-check.md)：25年面板与显式缺口、五年有效现金复用、范围停止及教学错误公式识别；B09待核，2007—2012资本代理/多年窗口尚待执行。
+
+- 现金合同：[当前十年合并现金基础与25年缺口面板](student-cash-capital-check.md)，B09已由leo确认；[B10调节表与年度口径](../work/review-batches/20261024-B10.md)待核。2012合并/2013营业修正见SC34，资本代理及三项电子表格复算仍待完成。
