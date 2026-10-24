@@ -1,0 +1,19 @@
+{
+  "batch_id": "B05",
+  "display_version": 1,
+  "status": "confirmed-original-disclosure",
+  "reviewer": "leo",
+  "actual_user_reply": "B05全部核验正确，核验人leo.告诉我当前核验到哪个任务合同了",
+  "event_sequences": [
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61
+  ],
+  "receipt": "evidence/20261024-b05-chat-confirmation.json",
+  "arithmetic_status": "AgentCalculated另列",
+  "display_manifest_unchanged": true
+}

@@ -1,0 +1,218 @@
+{
+  "date": "2026-10-24",
+  "state": "AgentCalculated",
+  "human_arithmetic_confirmation": false,
+  "code_sha256": "2a223e5a91cdc869033012706228e338a82c306fc4dcf1533003ad8419ccb21e",
+  "capacity": [
+    {
+      "product": "茅台酒",
+      "design_2024_tonnes": "44595.00",
+      "design_2025_tonnes": "46395.00",
+      "design_delta_tonnes": "1800.00",
+      "actual_base_production_2024_tonnes": "56271.99",
+      "actual_base_production_2025_tonnes": "58473.16",
+      "production_delta_tonnes": "2201.17",
+      "production_growth_percent": "3.91166191208094826573575947820576453756122717500",
+      "actual_to_design_2024_percent": "126.184527413387151025899764547595021863437605113",
+      "actual_to_design_2025_percent": "126.033322556309947192585407910335165427308977260",
+      "ratio_is_utilization_rate": false,
+      "state": "AgentCalculated"
+    },
+    {
+      "product": "其他系列酒",
+      "design_2024_tonnes": "52460.00",
+      "design_2025_tonnes": "59400.00",
+      "design_delta_tonnes": "6940.00",
+      "actual_base_production_2024_tonnes": "48112.51",
+      "actual_base_production_2025_tonnes": "57650.57",
+      "production_delta_tonnes": "9538.06",
+      "production_growth_percent": "19.8244905534963775533639795554212407542237975110",
+      "actual_to_design_2024_percent": "91.7127525733892489515821578345406023637056805185",
+      "actual_to_design_2025_percent": "97.0548316498316498316498316498316498316498316498",
+      "ratio_is_utilization_rate": false,
+      "state": "AgentCalculated"
+    }
+  ],
+  "release_disclosures": [
+    {
+      "disclosure_year": 2024,
+      "new_capacity_tonnes": {
+        "茅台酒": "1800.00",
+        "其他系列酒": "8000.00"
+      },
+      "commission_month": {
+        "茅台酒": "2024-10",
+        "其他系列酒": "2024-11"
+      },
+      "company_expected_release_year": 2025,
+      "actual_release_verified": false,
+      "source_id": "R2024-26"
+    },
+    {
+      "disclosure_year": 2025,
+      "new_capacity_tonnes": {
+        "茅台酒": "1800.00",
+        "其他系列酒": "6940.00"
+      },
+      "commission_month": {
+        "茅台酒": "2025-10",
+        "其他系列酒": "2025-12"
+      },
+      "company_expected_release_year": 2026,
+      "actual_release_verified": false,
+      "source_id": "R2025-05"
+    }
+  ],
+  "finance": [
+    {
+      "name": "固定资产账面列报金额",
+      "current_2025_yuan": "22488122304.35",
+      "previous_2024_yuan": "21871446747.14",
+      "delta_yuan": "616675557.21",
+      "growth_percent": "2.81954625288168933238225914299031275326824433700",
+      "period_type": "期末存量",
+      "source_id": "R2025-06",
+      "state": "AgentCalculated"
+    },
+    {
+      "name": "在建工程账面列报金额",
+      "current_2025_yuan": "2471886030.58",
+      "previous_2024_yuan": "2149619937.05",
+      "delta_yuan": "322266093.53",
+      "growth_percent": "14.9917707765707289591310966483855444291874944490",
+      "period_type": "期末存量",
+      "source_id": "R2025-07",
+      "state": "AgentCalculated"
+    },
+    {
+      "name": "购建固定资产、无形资产和其他长期资产支付的现金",
+      "current_2025_yuan": "3127594916.41",
+      "previous_2024_yuan": "4678712053.56",
+      "delta_yuan": "-1551117137.15",
+      "growth_percent": "-33.1526522554378096362312781559225577399907939292",
+      "period_type": "年度现金流出",
+      "source_id": "R2025-08 / L03-A2024-C",
+      "state": "AgentCalculated"
+    }
+  ],
+  "projects_2024": [
+    {
+      "name": "3万吨酱香系列酒技改工程及其配套设施项目",
+      "planned_wanyuan": "1018000.00",
+      "current_investment_wanyuan": "121954.68",
+      "accumulated_wanyuan": "672070.68",
+      "page": 14
+    },
+    {
+      "name": "“十四五”酱香酒习水同民坝一期建设项目",
+      "planned_wanyuan": "411000.00",
+      "current_investment_wanyuan": "83325.28",
+      "accumulated_wanyuan": "171485.28",
+      "page": 14
+    },
+    {
+      "name": "茅台酒“十四五”技改建设项目",
+      "planned_wanyuan": "1551600.00",
+      "current_investment_wanyuan": "56143.54",
+      "accumulated_wanyuan": "176431.54",
+      "page": 14
+    }
+  ],
+  "input_evidence": [
+    {
+      "domain": "facts",
+      "id": "R2024-25",
+      "binding": "8cb47ea4cc95c03bad1bd9e46e77e64359c06515c6a21cf36f01787287b22f4c",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-04",
+      "binding": "f0323ce9ad6b022aa6a99cc290b5d779e9986a4c7be7d40dcc02bc4aae58bbba",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2024-26",
+      "binding": "e073fd71b200af1f1132d2999fec493c2dcf7afee0e49b1f432cd416ff339618",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-05",
+      "binding": "fb006b5364f20aa8c3855ef9046c78112ee1130d18afea6f3a95890240bb3ae3",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-06",
+      "binding": "e4d18ca963c115ff7c456618e20877c571ab13383e286684fc4ea6cc6a00df71",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-07",
+      "binding": "caffa544d216757a9c91fad8b96ee4de04810a5ce4a5cf0b37df9726e9da4f8c",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-08",
+      "binding": "ca518cf46cada0f847fd5f5558e445f2c30a497ced196f27b01caf98a0a3a414",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-01",
+      "binding": "26ee8f64346b12acad8294ae0ca660d66a76fa3dc140c300d89219df28e9758e",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2016-05",
+      "binding": "09e6aa4e74eef01b8b65b35e7ae78c8d7cd593d117e606771eb2f00ef5cd882a",
+      "pdf_path": "sources/annual_reports/pdf/600519_2016_贵州茅台_2016年年度报告.pdf",
+      "pdf_sha256": "dd26d9e0017a938cb5e1aa0a830bab7502d0de1f85eb7c00abffb4888c8c20ad"
+    },
+    {
+      "domain": "lec03_agent_facts",
+      "id": "L03-A2024-B",
+      "validated_snapshot_sha256": "dab33bf43b3e52e24fcfd32b3706f88821594fa28e8ddd1ade859a707ee160ca",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "human_confirmation": false
+    },
+    {
+      "domain": "lec03_agent_facts",
+      "id": "L03-A2024-C",
+      "validated_snapshot_sha256": "49401acee09b8b05e72d07696e7cf19a2138fb2a637ad02047cb3909a2727793",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "human_confirmation": false
+    },
+    {
+      "domain": "lec03_agent_facts",
+      "id": "L03-A2024-P",
+      "validated_snapshot_sha256": "e451f2580ed791c75cab38b866100ab10b845ff105c316f347f0e76948a8434f",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "human_confirmation": false
+    }
+  ],
+  "formulas": {
+    "delta": "2025−2024",
+    "growth_percent": "(2025/2024−1)*100",
+    "actual_to_design_percent": "actual_base_production/design*100, not identified utilization"
+  },
+  "precision": 48,
+  "generated_output_sha256": "07ab6dad24a4d1f6a95a09c64b35aaaad0516787dfc5ce42aaacff5982497251",
+  "complete_project_cash_production_sales_bridge": "Unknown"
+}

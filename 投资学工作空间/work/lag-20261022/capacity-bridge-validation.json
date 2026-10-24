@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-24",
+  "authority_counts": {
+    "facts": 60,
+    "change_facts": 2,
+    "lec03_agent_facts": 16,
+    "m01_scale_facts": 3,
+    "m01_metric_facts": 15,
+    "m01_disclosure_facts": 3
+  },
+  "B05_events": [
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61
+  ],
+  "B05_original_display_unchanged": true,
+  "prior_authority_records_and_events_preserved": true,
+  "capacity_bridge_repeat_byte_identical": true,
+  "code_sha256": "2a223e5a91cdc869033012706228e338a82c306fc4dcf1533003ad8419ccb21e",
+  "input_evidence_current": true,
+  "no_new_signature_or_human_arithmetic_confirmation": true,
+  "complete_project_bridge": "Unknown",
+  "report_fingerprint": "e09d9f43fa078209aa7f8c903134e5204686d563a2c7332bda3a68fdad8d4244",
+  "report_status": "待人工内容审阅",
+  "next_displayed_batch": null
+}
