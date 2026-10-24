@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-24",
+  "state": "CandidateCalculated（输入Unknown，非有效研究结果）",
+  "source_batch": "B06",
+  "fixed_asset_net_delta_candidate_yuan": "616675557.21",
+  "important_cip_residual_candidate_yuan": "0.00",
+  "blank_other_decrease_policy": "仅候选算术按0；原表空白保留，尚未确认",
+  "table_scope_differences": [
+    {
+      "project": "3万吨酱香系列酒技改工程及其配套设施项目",
+      "current_investment_wanyuan_candidate": "35642.58",
+      "important_cip_additions_yuan_candidate": "307664446.12",
+      "difference_yuan_candidate": "48761353.88",
+      "conclusion": "同名项目不同字段；差额来源Unknown，不直接认定错数或现金差异"
+    }
+  ],
+  "accepted_original_facts_unchanged": 60
+}

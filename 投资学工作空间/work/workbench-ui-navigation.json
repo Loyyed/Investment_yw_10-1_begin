@@ -1,16 +1,25 @@
 {
   "schema_version": 1,
   "date": "2026-10-24",
-  "next_review_id": "",
-  "next_review_scope": "B05已由leo确认；当前处于第五次生产库存延伸合同G5，下一步由Agent补项目级资本与现金连接证据，尚未展示新批次",
+  "next_review_id": "R2025-09",
+  "next_review_scope": "B06八项：2025项目当期/累积投入、固定资产原值/折旧/减值变动及重要在建工程流转；15页万元，97/98页元",
   "preferred_confirmation_channel": "actual-user-chat",
   "completed_review_id": "",
   "completed_event": 61,
   "completed_channel": "actual-user-chat",
   "completed_reviewer": "leo",
   "toolkit_directory": "投资学公司分析通用工作台",
-  "next_review_batch": "",
-  "next_review_ids": [],
+  "next_review_batch": "B06",
+  "next_review_ids": [
+    "R2025-09",
+    "R2025-10",
+    "R2025-11",
+    "R2025-12",
+    "R2025-13",
+    "R2025-14",
+    "R2025-15",
+    "R2025-16"
+  ],
   "completed_batch": "B05",
   "completed_review_ids": [
     "R2024-25",
@@ -30,5 +39,5 @@
     60,
     61
   ],
-  "next_action_kind": "agent-capital-bridge"
+  "next_action_kind": "human-batch-review"
 }
