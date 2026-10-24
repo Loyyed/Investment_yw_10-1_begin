@@ -1,0 +1,242 @@
+{
+  "batch_id": "B08",
+  "version": 1,
+  "date": "2026-10-24",
+  "status": "pending-human-confirmation",
+  "contract": "第五次任务延伸合同_贵州茅台渠道净贡献验证.md",
+  "purpose": "一次补费用率剩余分子/分母、FY2022定义及2025附注渠道范围；完成主要计算输入后转N03意见审阅",
+  "items": [
+    {
+      "id": "R2016-07",
+      "year": 2016,
+      "kind": "company-income-sales-expense",
+      "name": "2016合并营业收入及销售费用",
+      "value": "营业收入38,862,189,993.84；销售费用1,681,052,022.90",
+      "page": "45",
+      "source_path": "sources/annual_reports/pdf/600519_2016_贵州茅台_2016年年度报告.pdf",
+      "source_sha256": "dd26d9e0017a938cb5e1aa0a830bab7502d0de1f85eb7c00abffb4888c8c20ad",
+      "scope": "人民币元；合并；年度发生额；营业收入为合并利润表“其中：营业收入”，不含单列金融利息；销售费用为同表费用，不是现金付款或渠道专属费用",
+      "boundary": "2023销售费用4,648,613,585.82元与2024两项已有效，均不重复核。公司费用率仅作描述相关；不分摊到直销，不将相关作为因果。",
+      "fields": {
+        "company_revenue_yuan": "38862189993.84",
+        "sales_expense_yuan": "1681052022.90"
+      },
+      "binding": "8f56e48a514042196efd87304c1400b2ac4602c3178bb979a7d73027658430fc",
+      "candidate_fingerprint": "8127ca941b00a52420af1465a64be2f6f3b04d534caaf90294831c275e32cc8d",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2017-04",
+      "year": 2017,
+      "kind": "company-income-sales-expense",
+      "name": "2017合并营业收入及销售费用",
+      "value": "营业收入58,217,861,314.17；销售费用2,986,068,544.99",
+      "page": "48—49",
+      "source_path": "sources/annual_reports/pdf/600519_2017_贵州茅台_2017年年度报告.pdf",
+      "source_sha256": "b66a4641e5f2313ed7964e5bef0026021ff2164459d0e0615f1b4385ba1a78e3",
+      "scope": "人民币元；合并；年度发生额；营业收入为合并利润表“其中：营业收入”，不含单列金融利息；销售费用为同表费用，不是现金付款或渠道专属费用",
+      "boundary": "2023销售费用4,648,613,585.82元与2024两项已有效，均不重复核。公司费用率仅作描述相关；不分摊到直销，不将相关作为因果。",
+      "fields": {
+        "company_revenue_yuan": "58217861314.17",
+        "sales_expense_yuan": "2986068544.99"
+      },
+      "binding": "a179baa2e6fdc6d15637746b64d1979874adb14e7f4e27ce616e7ed6630acdeb",
+      "candidate_fingerprint": "a7f284c4611f9055c9d9d8f81ef86afd4b5015299dfdc81d764356d66a7b8401",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2018-04",
+      "year": 2018,
+      "kind": "company-income-sales-expense",
+      "name": "2018合并营业收入及销售费用",
+      "value": "营业收入73,638,872,388.03；销售费用2,572,076,872.16",
+      "page": "55—56",
+      "source_path": "sources/annual_reports/pdf/600519_2018_贵州茅台_2018年年度报告.pdf",
+      "source_sha256": "08728fc937836cfeed8e98aeda932da54c737efa6de4280ae001476c0e393dec",
+      "scope": "人民币元；合并；年度发生额；营业收入为合并利润表“其中：营业收入”，不含单列金融利息；销售费用为同表费用，不是现金付款或渠道专属费用",
+      "boundary": "2023销售费用4,648,613,585.82元与2024两项已有效，均不重复核。公司费用率仅作描述相关；不分摊到直销，不将相关作为因果。",
+      "fields": {
+        "company_revenue_yuan": "73638872388.03",
+        "sales_expense_yuan": "2572076872.16"
+      },
+      "binding": "0de4d47f1371746190e80f289807a9cd3e92dc672b57cd5792cd0e4f3b7a983b",
+      "candidate_fingerprint": "c4e6edccfdb42f0cd1c11061543c649544d0080b88a122842d524d19799e490d",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2019-04",
+      "year": 2019,
+      "kind": "company-income-sales-expense",
+      "name": "2019合并营业收入及销售费用",
+      "value": "营业收入85,429,573,467.25；销售费用3,278,990,982.26",
+      "page": "56",
+      "source_path": "sources/annual_reports/pdf/600519_2019_贵州茅台_2019年年度报告.pdf",
+      "source_sha256": "2a2b384ab09a7bc295fd2e33b999acdf4212340b0141031c991060dea2fad03d",
+      "scope": "人民币元；合并；年度发生额；营业收入为合并利润表“其中：营业收入”，不含单列金融利息；销售费用为同表费用，不是现金付款或渠道专属费用",
+      "boundary": "2023销售费用4,648,613,585.82元与2024两项已有效，均不重复核。公司费用率仅作描述相关；不分摊到直销，不将相关作为因果。",
+      "fields": {
+        "company_revenue_yuan": "85429573467.25",
+        "sales_expense_yuan": "3278990982.26"
+      },
+      "binding": "ffd69195fd99f1b74fc52c27e22c0e32b43afc8577e974948bb90aebd91892a1",
+      "candidate_fingerprint": "557a495920538025e442ae8f787ffd22f1d73ac55d2f1c0e9e21eeddc6f11b4c",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2020-09",
+      "year": 2020,
+      "kind": "company-income-sales-expense",
+      "name": "2020合并营业收入及销售费用",
+      "value": "营业收入94,915,380,916.72；销售费用2,547,745,650.95",
+      "page": "53",
+      "source_path": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "source_sha256": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c",
+      "scope": "人民币元；合并；年度发生额；营业收入为合并利润表“其中：营业收入”，不含单列金融利息；销售费用为同表费用，不是现金付款或渠道专属费用",
+      "boundary": "2023销售费用4,648,613,585.82元与2024两项已有效，均不重复核。公司费用率仅作描述相关；不分摊到直销，不将相关作为因果。",
+      "fields": {
+        "company_revenue_yuan": "94915380916.72",
+        "sales_expense_yuan": "2547745650.95"
+      },
+      "binding": "31767e8d1cac8ab856ecf5a683ce258841b2c40ce1201fd48a2749ef5d922a2f",
+      "candidate_fingerprint": "d17895445623f72c7cd962634383a2a11314153b5df4cd993cb1aa46bcef2591",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2021-09",
+      "year": 2021,
+      "kind": "company-income-sales-expense",
+      "name": "2021合并营业收入及销售费用",
+      "value": "营业收入106,190,154,843.76；销售费用2,737,369,434.78",
+      "page": "54",
+      "source_path": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+      "source_sha256": "f65effdde58bcea99fd6bdb53f61b31d5c432e6dfb2661e5caf05156a433ea5a",
+      "scope": "人民币元；合并；年度发生额；营业收入为合并利润表“其中：营业收入”，不含单列金融利息；销售费用为同表费用，不是现金付款或渠道专属费用",
+      "boundary": "2023销售费用4,648,613,585.82元与2024两项已有效，均不重复核。公司费用率仅作描述相关；不分摊到直销，不将相关作为因果。",
+      "fields": {
+        "company_revenue_yuan": "106190154843.76",
+        "sales_expense_yuan": "2737369434.78"
+      },
+      "binding": "277fc187bd99c5961fe714b46114355540cc1dc9bf5895e823951a7a21d49917",
+      "candidate_fingerprint": "a803a89a66cb08621b8257cd015fd83be61639102d2f267a9b2e26bc0e2a2069",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2022-09",
+      "year": 2022,
+      "kind": "company-income-sales-expense",
+      "name": "2022合并营业收入及销售费用",
+      "value": "营业收入124,099,843,771.99；销售费用3,297,724,190.94",
+      "page": "58—59",
+      "source_path": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "source_sha256": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358",
+      "scope": "人民币元；合并；年度发生额；营业收入为合并利润表“其中：营业收入”，不含单列金融利息；销售费用为同表费用，不是现金付款或渠道专属费用",
+      "boundary": "2023销售费用4,648,613,585.82元与2024两项已有效，均不重复核。公司费用率仅作描述相关；不分摊到直销，不将相关作为因果。",
+      "fields": {
+        "company_revenue_yuan": "124099843771.99",
+        "sales_expense_yuan": "3297724190.94"
+      },
+      "binding": "e2e4f516e0c96e0213109da8ce26ca297d2eb872d0dd123038be8e86765c90dc",
+      "candidate_fingerprint": "869950b230d815f38a9173f45f57bc928092947a696fb2d5ffe64439fb035b2a",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2023-09",
+      "year": 2023,
+      "kind": "company-income-only",
+      "name": "2023合并营业收入（销售费用复用已核比较列）",
+      "value": "营业收入147,693,604,994.14",
+      "page": "63",
+      "source_path": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+      "source_sha256": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1",
+      "scope": "人民币元；合并；年度发生额；营业收入为合并利润表“其中：营业收入”，不含单列金融利息；销售费用为同表费用，不是现金付款或渠道专属费用",
+      "boundary": "2023销售费用4,648,613,585.82元与2024两项已有效，均不重复核。公司费用率仅作描述相关；不分摊到直销，不将相关作为因果。",
+      "fields": {
+        "company_revenue_yuan": "147693604994.14"
+      },
+      "binding": "cf35a36f055c85bcf07586566ad6b8f024c7d3b93c003ef885a729c9c25fdf25",
+      "candidate_fingerprint": "8b7e5c98f005805c237ed2e0ef4b2d2526740a3dcf084d72f51da6786aef9c96",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2025-18",
+      "year": 2025,
+      "kind": "company-income-sales-expense",
+      "name": "2025合并营业收入及销售费用",
+      "value": "营业收入168,838,102,514.79；销售费用7,253,499,600.68",
+      "page": "61",
+      "source_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "source_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288",
+      "scope": "人民币元；合并；年度发生额；营业收入为合并利润表“其中：营业收入”，不含单列金融利息；销售费用为同表费用，不是现金付款或渠道专属费用",
+      "boundary": "2023销售费用4,648,613,585.82元与2024两项已有效，均不重复核。公司费用率仅作描述相关；不分摊到直销，不将相关作为因果。",
+      "fields": {
+        "company_revenue_yuan": "168838102514.79",
+        "sales_expense_yuan": "7253499600.68"
+      },
+      "binding": "a00d783fbbf8488e5f9bda8f44ff82fb315e132f76af96d99916db2b24a4e54b",
+      "candidate_fingerprint": "b68d2b723558856cc6400a7e58810adbe1fd5717987bf78daeeab0b1f9becba3",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2022-10",
+      "year": 2022,
+      "kind": "channel-definition",
+      "name": "FY2022直销和批发代理的原文定义",
+      "value": "公司产品通过直销和批发代理渠道进行销售。直销渠道指自营和“i茅台”数字营销平台渠道，批发代理渠道指社会经销商、商超、电商等渠道。",
+      "page": 15,
+      "source_path": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+      "source_sha256": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358",
+      "scope": "2022年报销售模式原文；直销含自营及i茅台；批发代理包括经销商、商超和电商等",
+      "boundary": "只确认定义披露；不证明平台收入为额外独立渠道、经营效率提升或渠道净贡献；2021→2022按定义断点解释",
+      "fields": {
+        "direct_includes_imoutai": true,
+        "wholesale_includes_ecommerce": true
+      },
+      "binding": "23e3470c165098f3577e7610f3e88afa4eb7358ca2d7b6fc24de9beade03d3d0",
+      "candidate_fingerprint": "bba66de4ed90cc122987b34cc5c8375f309ac34c5bfa5d1c3ac6634b75805002",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2025-19",
+      "year": 2025,
+      "kind": "note-channel",
+      "channel": "直销",
+      "name": "2025合并附注收入分解—直销",
+      "value": "收入84,587,347,014.89；营业成本4,661,072,149.33",
+      "page": 107,
+      "source_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "source_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288",
+      "scope": "人民币元；2025年度；合并附注44(2)按销售渠道分类，覆盖全部营业收入，商品类型含其他业务；与10页酒类主营渠道表分开",
+      "boundary": "只确认附注行及范围；不改B07主营原数，不与主营表拼接计算。该差异不直接证明i茅台费用或某渠道经营低效。",
+      "fields": {
+        "revenue_yuan": "84587347014.89",
+        "cost_yuan": "4661072149.33"
+      },
+      "binding": "792b4bf1ae0fc0c3fc2ede374370dd8a95c5335bf28b1a86ae5ec85abf50c09b",
+      "candidate_fingerprint": "cb19344707f38d59e4a2b6c92ea60d66b565855923b2d6524f1b9445e230b978",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2025-20",
+      "year": 2025,
+      "kind": "note-channel",
+      "channel": "批发代理",
+      "name": "2025合并附注收入分解—批发代理",
+      "value": "收入84,250,755,499.90；营业成本10,231,205,421.58",
+      "page": 107,
+      "source_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "source_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288",
+      "scope": "人民币元；2025年度；合并附注44(2)按销售渠道分类，覆盖全部营业收入，商品类型含其他业务；与10页酒类主营渠道表分开",
+      "boundary": "只确认附注行及范围；不改B07主营原数，不与主营表拼接计算。该差异不直接证明i茅台费用或某渠道经营低效。",
+      "fields": {
+        "revenue_yuan": "84250755499.90",
+        "cost_yuan": "10231205421.58"
+      },
+      "binding": "3b9e0a5f5a70290bb8f5ff41d32a95cb9ad276448614af96096fa82ac52ccafa",
+      "candidate_fingerprint": "8b9c60916379ab610f7970ab05dbc67ad069d098709e6a6dd877165a238b4e76",
+      "state_at_display": "Unknown"
+    }
+  ],
+  "scope_note": "12项：9项年度利润表缺口（2023仅收入）、1项2022定义、2项2025附注渠道。金额均人民币元、合并、年度流量。主表/附注及营业收入/营业总收入严格区分，已核旧值不重复确认。",
+  "actual_human_reply": null,
+  "display_payload_sha256": "2da6e1830d855de5f5a63d61ca33f2b334ee2af708dea65d9ec6c353e5e4b1c6"
+}

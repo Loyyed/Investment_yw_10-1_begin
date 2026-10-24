@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-24",
+  "FY2015_pdf_path": "sources/annual_reports/pdf/600519_2015_贵州茅台_2015年年度报告.pdf",
+  "FY2015_pdf_sha256": "11a32c1e7f02a54fc2eea3c0d852af59ad37af9a2cbe91857cd93a6208a96d6c",
+  "FY2015_keyword_search": {
+    "按销售渠道": [],
+    "分销售模式": [],
+    "直销": []
+  },
+  "FY2016_table_source_id": "R2016-06",
+  "observation_type": "Agent原件定位观察，非新增人工Fact",
+  "boundary": "只说明FY2015文本未检出相应关键词、FY2016已核渠道表存在；不证明此前从未直销或缺披露即收入为0",
+  "FY2022_definition_source_candidate": "R2022-10",
+  "FY2025_main_vs_note_candidates": [
+    "R2025-19",
+    "R2025-20"
+  ]
+}

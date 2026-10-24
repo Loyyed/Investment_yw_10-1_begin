@@ -12,3 +12,5 @@
 - [产能、投产与资本投入连接分析](student-capacity-capital-bridge.md)：B05七项已核，2024/25对照及现金/资产差额为AgentCalculated；完整项目归因和资本回报仍Unknown。
 
 - [G6原审阅展示（历史）](student-lag-g6-review.md)保持不变；[当前已采纳结论](student-lag-conclusion.md)及独立真实回执显示本人已采纳两项有范围Interpretation。
+
+- [渠道净贡献验证工作稿](student-channel-net-check.md)：十年主营面板、九组midpoint分解已复算，费用率/定义/附注B08待核，渠道净贡献保持Unknown。

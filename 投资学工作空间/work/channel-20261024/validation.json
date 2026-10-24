@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-24",
+  "authority_counts": {
+    "facts": 73,
+    "change_facts": 2,
+    "lec03_agent_facts": 16,
+    "m01_scale_facts": 3,
+    "m01_metric_facts": 15,
+    "m01_disclosure_facts": 3
+  },
+  "B07_events": [
+    70,
+    71,
+    72,
+    73,
+    74
+  ],
+  "original_display_unchanged": true,
+  "old_records_and_events_preserved": true,
+  "panel_years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "midpoint_rows": 9,
+  "two_path_shapley_crosscheck": true,
+  "identity_tolerance_raw_rate": "1e-42",
+  "independent_total_checks_years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "current_expense_correlation_n": 1,
+  "n_less_than3_stopped": true,
+  "B08_pending": 12,
+  "B08_candidates_excluded_from_accepted_calculations": true,
+  "channel_net_contribution": "Unknown",
+  "new_human_calculation_judgment_or_signature_confirmation": false,
+  "prior_G6_adoption": "accepted-current",
+  "report_fingerprint": "a285af6e00a450e482d12bfe0e02965fa9cb095df3a07a2e2ea345ce19d23a5d",
+  "repeat_calculation_byte_identical": true,
+  "code_sha256": "9abe7c73ce87eddf3f9bd8b735d12ee1cfe7c269453feef34f5a59a6f2004b64",
+  "reviewed_display_hash_matches_real_receipt": true,
+  "B08_canonical_display_checked": true,
+  "updated_plan_nodes": [
+    "capture"
+  ]
+}

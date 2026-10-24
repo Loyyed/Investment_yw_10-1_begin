@@ -359,7 +359,7 @@
       "interpretation": "上市公司价值获取应同时看营业毛利、税费、组织成本、资本需求与现金；高毛利不等于可分配FCFF。",
       "alternative": "金融收益、投资/减值、会计分类与收款时点可能解释净利润/现金差异。",
       "unknown": "NOPAT、经营税率、投入资本、完整实体FCFF及证券权利未定。",
-      "next_action": "补齐经营利润桥与经营范围后再构建资本回报；预测输入保持Forecast。",
+      "next_action": "B07十年主渠道已核并复算；B08一次补费用率、2022定义和2025附注范围，再集中审阅N03；净贡献Unknown，不按收入分费。",
       "refutation": "新增资本未形成后续NOPAT且调整现金走弱，削弱可持续回报解释。",
       "source_date": "",
       "source_role": "原始披露",
@@ -368,14 +368,24 @@
         "C09",
         "R2024-12",
         "R2024-15",
-        "lec03_agent_facts:L03-A2024-C"
+        "lec03_agent_facts:L03-A2024-C",
+        "R2016-06",
+        "R2017-03",
+        "R2018-03",
+        "R2019-03",
+        "R2025-17"
       ],
       "evidence_bindings": {
         "C01": "bf6e838d821bfa014ee564b83dbd1438bee886ca176f83e4f985a3eff0a0cc10",
         "C09": "86e23c22a3bacd4c1380022392a70a0e64c81e42960285f30b9cbb8a1d01e618",
         "R2024-12": "f3dcc743bf1ee9754ab05db7001e2a8ef407311a2883243e6467389dbd50ee85",
         "R2024-15": "446da58aead77c504cb20770c657956f2939bb175d13ec842999733121de8f37",
-        "lec03_agent_facts:L03-A2024-C": ""
+        "lec03_agent_facts:L03-A2024-C": "",
+        "R2016-06": "65ca78d58ef33b9d5b78d0eca6d96950f9236e091126cf181d7b7afdec793a72",
+        "R2017-03": "761faca55f0fdc3ec01a4eec2cadfe7bff1479574738cf791c3b26ed01c44608",
+        "R2018-03": "41bcf542ebade5c8034edf45f87bfdc44fda01c85b34286865b066d2340be6dd",
+        "R2019-03": "43362cfe7137d9c8c093a65c0b77127355b4c0a265c66bb0efa0af44e970a20e",
+        "R2025-17": "bf31f7dfa7d8336cc616fdef37d31c80cf7284ea09b5df3ad60ac26d818220b3"
       }
     }
   ],
@@ -735,5 +745,12 @@
   ],
   "updated_at": "2026-10-14T20:23:27+08:00",
   "author": "Agent（本轮用户明确授权的研究优化）",
-  "status": "研究计划与解释草稿；不新增原值/算术/内容验收或签署"
+  "status": "研究计划与解释草稿；不新增原值/算术/内容验收或签署",
+  "active_extension_contract": {
+    "name": "第五次任务延伸合同_贵州茅台渠道净贡献验证.md",
+    "progress": "work/channel-20261024/progress.json",
+    "next_batch": "B08",
+    "current_result": "outputs/student-channel-net-check.md",
+    "net_contribution": "Unknown"
+  }
 }

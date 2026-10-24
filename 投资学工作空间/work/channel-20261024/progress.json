@@ -2,7 +2,7 @@
   "date": "2026-10-24",
   "contract": "第五次任务延伸合同_贵州茅台渠道净贡献验证.md",
   "contract_sha256": "fa36428379f160d124a83a2e9906328ca904b9cce3fb6cea9fcf3d8ab99ab8af",
-  "status": "执行中：复用有效旧数据，B07补缺失五年渠道金额",
+  "status": "已核十年主营渠道，份额/毛利/九组结构分解完成；B08原文及费用输入待核，净贡献Unknown",
   "required_years": [
     2016,
     2017,
@@ -16,19 +16,18 @@
     2025
   ],
   "current_source_validated_years": [
-    2020,
-    2021,
-    2022,
-    2023,
-    2024
-  ],
-  "pending_years": [
     2016,
     2017,
     2018,
     2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
     2025
   ],
+  "pending_years": [],
   "reused_input_groups": [
     {
       "id": "L03-A2020-B",
@@ -56,15 +55,19 @@
       "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
     }
   ],
-  "next_batch": "B07",
+  "next_batch": "B08",
   "pending_steps": [
-    "FY2016披露起点与FY2022定义断点核对",
-    "十年份额/直接毛利率及差额复算",
-    "midpoint/Shapley恒等分解",
-    "销售费用率有效样本与n",
-    "主营渠道与附注口径比较",
-    "N03意见、替代解释与反证"
+    "B08费用率缺口、2022定义和2025附注范围",
+    "费用率有效样本n及相关诊断",
+    "主营/附注跨表比较",
+    "N03意见、反证及本人内容审阅"
   ],
   "net_contribution_status": "Unknown：按渠道归属的费用、回款和库存不足，禁止按收入主观分摊",
-  "new_signatures": 0
+  "new_signatures": 0,
+  "completed_steps": [
+    "十年主营渠道收入/成本有效输入",
+    "直销份额、两渠道直接毛利率及差额",
+    "九组midpoint/Shapley恒等分解"
+  ],
+  "source_confirmation_receipt": "evidence/20261024-b07-chat-confirmation.json"
 }
