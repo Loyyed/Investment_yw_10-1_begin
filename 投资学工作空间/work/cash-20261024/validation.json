@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
   "authority_counts": {
-    "facts": 103,
+    "facts": 109,
     "change_facts": 2,
     "lec03_agent_facts": 16,
     "m01_scale_facts": 3,
@@ -37,7 +37,7 @@
     2025
   ],
   "independent_fraction_checks": 40,
-  "repeat_calculation_byte_identical": "本轮新增调节/断点语义；原十年面板与诊断精确一致，新增调节由Fraction独立复核",
+  "repeat_calculation_byte_identical": "旧十年与调节数值精确保持；新增代理由独立Fraction复核",
   "B10_pending": 0,
   "source_originals_unchanged": true,
   "local_annual_copies_byte_identical_to_archive": true,
@@ -45,8 +45,8 @@
   "teacher_HV_imported": false,
   "N03_and_G6_adoption": "accepted-current",
   "research_content_or_signature_created": false,
-  "code_sha256": "f0bdc2553d735c6fe62c0983ef373ee93a0bf93240adc3992a63ab5318e7014b",
-  "report_fingerprint": "cf270c9c091f2cbc0071bc55138bf767c806b3fc04b7adfa47585417067db52a",
+  "code_sha256": "1dd1b4dfb709e63f4ea91c2fdc1311459b6ba95a93d4641ba5f839466bfb5fa8",
+  "report_fingerprint": "7aa3b478038bd45974060f9b4aa79fc010b07f137df80dfa7b2f0a2600198a48",
   "scope_correction": "SC34原文B10已核；2012合并/2013营业分开，代理范围与敏感性仍待判",
   "B10_events": [
     96,
@@ -60,12 +60,32 @@
     104
   ],
   "B10_confirmed_inputs_used": 9,
-  "B11_pending": 6,
-  "B11_pending_not_used_as_facts_or_calculation_inputs": true,
+  "B11_pending": 0,
   "independent_cash_reconciliation_fraction_exact": true,
   "cash_reconciliation_residual_yuan": "0.00",
   "raw_blank_count": 2,
   "raw_blanks_not_disclosed_zero": true,
   "B09_ten_year_panel_and_diagnostics_exactly_preserved": true,
-  "breakpoint_current_original_facts": 4
+  "breakpoint_current_original_facts": 4,
+  "B11_events": [
+    105,
+    106,
+    107,
+    108,
+    109,
+    110
+  ],
+  "B11_confirmed_inputs_used": 6,
+  "B12_pending": 6,
+  "B12_pending_not_used_as_facts_or_calculation_inputs": true,
+  "proxy_fraction_checks": "两年NCWC/资本余额精确相等，利润公式与48位Decimal误差<1e-30元；两端资本差精确一致",
+  "economic_scope_approval": false,
+  "formal_incremental_return": null,
+  "arbitrary_near_zero_threshold_created": false,
+  "early_year_inventory_inputs_added": [
+    2007,
+    2011
+  ],
+  "cash_reconciliation_unchanged": true,
+  "proxy_code_sha256": "b477822490b3bb78a8435b7cc39cb3b1dec206cdc5538a3465666706ba6d4e10"
 }

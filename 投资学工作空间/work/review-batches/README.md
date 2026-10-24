@@ -12,7 +12,8 @@
 - N03本人真实答复“认可N03判断”，[当前已采纳结论](../../outputs/student-channel-conclusion.md)、[独立回执](../../evidence/20261024-n03-chat-adoption.json)。净贡献仍Unknown，原展示不改。
 - B09九项由leo确认，review87—95；[真实回执](../../evidence/20261024-b09-chat-confirmation.json)。
 - B10九项由leo确认，review96—104；[真实回执](../../evidence/20261024-b10-chat-confirmation.json)。
-- 当前待核：[B11资本代理两端六项24金额](20261024-B11.md)，2007与2011本期/年末列，原数和范围/计算分别处理。
+- B11六项由leo确认，review105—110；[真实回执](../../evidence/20261024-b11-chat-confirmation.json)。
+- 当前待核：[B12平均资本年初列与利润范围六项22金额](20261024-B12.md)，不重复核B11年末和利润税三项。
 - [G5连接分析](../../outputs/student-capacity-capital-bridge.md)已形成；运算、预计释放实现、机制与签署分别处理。
 
 [当前合同工作稿](../../outputs/student-lag-check.md)、[诊断CSV](../../outputs/student-lag-diagnostics.csv)、[电子表格复算](../../outputs/生产库存销售滞后复算.xlsx)。产能资本桥、修订版映射及最终验收仍待补。2025仅后验，原件与完整载荷留本地。原展示/指纹保持不变，回执和状态另存。
