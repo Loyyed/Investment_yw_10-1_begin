@@ -464,7 +464,16 @@
       "treatment": "区分2012设立/已合并和2013正式营业，当前原件观察列B10待本人确认，不追改旧权威账本/原件；候选主窗2007—2011，2012单列敏感性并重审利润和资本范围。不得删328,424.84元后就宣称实体NOPAT或其他科目全部匹配。",
       "impact": "十年2016—2025现金基础数值不变；影响后续前财务公司资本代理窗口和范围说明。原N03/G6语义与源数未变。",
       "state": "Agent原件观察与研究范围纠偏；B10仍Unknown；非本人原数或可比性裁决",
-      "evidence": "work/review-batches/20261024-B10.json；work/cash-20261024/local-source-copies.json"
+      "evidence": "work/review-batches/20261024-B10.json；work/cash-20261024/local-source-copies.json",
+      "resolution_history": [
+        {
+          "date": "2026-10-24",
+          "event": "B10九项由leo确认review96—104",
+          "result": "2012已合并/2013正式营业原文确认，旧说法不再作为当前研究口径；2007—2011候选主窗、2012敏感性，正式范围及回报仍待判。",
+          "receipt": "evidence/20261024-b10-chat-confirmation.json"
+        }
+      ],
+      "current_state": "原文修正已核；资本代理范围/2012敏感性待进一步核准"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "date": "2026-10-24",
   "state": "AgentCalculated",
   "human_arithmetic_confirmation": false,
-  "code_sha256": "41c4b4d72db5e355cca6aa34b8e80ae90596f1c33567bb36577a46f1b0ced7aa",
+  "code_sha256": "f0bdc2553d735c6fe62c0983ef373ee93a0bf93240adc3992a63ab5318e7014b",
   "panel": [
     {
       "year": 2001,
@@ -1084,6 +1084,166 @@
       "boundary": "已列金融现金行的带符号算术，空白处理沿用已核组明示约定；未含全部税费薪酬/内部抵销，不是完整金融净贡献或实体CFO"
     }
   ],
+  "cash_reconciliation_2025": {
+    "year": 2025,
+    "net_profit_yuan": "85310324833.67",
+    "reported_cfo_yuan": "61522204989.35",
+    "listed_adjustments_yuan": "-23788119844.32",
+    "listed_working_capital_cash_adjustments_yuan": "-24874446586.02",
+    "other_listed_adjustments_yuan": "1086326741.70",
+    "reconstructed_cfo_yuan": "61522204989.35",
+    "residual_yuan": "0.00",
+    "balanced": true,
+    "listed_depreciation_amortization_yuan": "2259387054.28",
+    "details": [
+      {
+        "label": "信用减值损失",
+        "raw_amount_yuan": "-17234379.37",
+        "input_id": "R2025-24",
+        "arithmetic_policy": "原披露带符号加项，不另翻转符号"
+      },
+      {
+        "label": "资产减值准备",
+        "raw_amount_yuan": null,
+        "input_id": "R2025-24",
+        "arithmetic_policy": "原文空白不产生加项；raw仍null，非披露0"
+      },
+      {
+        "label": "其他",
+        "raw_amount_yuan": null,
+        "input_id": "R2025-24",
+        "arithmetic_policy": "原文空白不产生加项；raw仍null，非披露0"
+      },
+      {
+        "label": "固定资产折旧、油气资产折耗、生产性生物资产折旧",
+        "raw_amount_yuan": "1893338311.91",
+        "input_id": "R2025-25",
+        "arithmetic_policy": "原披露带符号加项，不另翻转符号"
+      },
+      {
+        "label": "使用权资产摊销",
+        "raw_amount_yuan": "55797324.89",
+        "input_id": "R2025-25",
+        "arithmetic_policy": "原披露带符号加项，不另翻转符号"
+      },
+      {
+        "label": "无形资产摊销",
+        "raw_amount_yuan": "289613682.99",
+        "input_id": "R2025-25",
+        "arithmetic_policy": "原披露带符号加项，不另翻转符号"
+      },
+      {
+        "label": "长期待摊费用摊销",
+        "raw_amount_yuan": "20637734.49",
+        "input_id": "R2025-25",
+        "arithmetic_policy": "原披露带符号加项，不另翻转符号"
+      },
+      {
+        "label": "处置固定资产、无形资产和其他长期资产的损失",
+        "raw_amount_yuan": "-3106625.19",
+        "input_id": "R2025-26",
+        "arithmetic_policy": "原披露带符号加项，不另翻转符号"
+      },
+      {
+        "label": "固定资产报废损失",
+        "raw_amount_yuan": "5491211.47",
+        "input_id": "R2025-26",
+        "arithmetic_policy": "原披露带符号加项，不另翻转符号"
+      },
+      {
+        "label": "公允价值变动损失",
+        "raw_amount_yuan": "-76162597.66",
+        "input_id": "R2025-26",
+        "arithmetic_policy": "原披露带符号加项，不另翻转符号"
+      },
+      {
+        "label": "财务费用",
+        "raw_amount_yuan": "28734948.29",
+        "input_id": "R2025-26",
+        "arithmetic_policy": "原披露带符号加项，不另翻转符号"
+      },
+      {
+        "label": "投资损失",
+        "raw_amount_yuan": "-561176.14",
+        "input_id": "R2025-26",
+        "arithmetic_policy": "原披露带符号加项，不另翻转符号"
+      },
+      {
+        "label": "递延所得税资产减少",
+        "raw_amount_yuan": "-1082462282.39",
+        "input_id": "R2025-27",
+        "arithmetic_policy": "原披露带符号加项，不另翻转符号"
+      },
+      {
+        "label": "递延所得税负债增加",
+        "raw_amount_yuan": "-27759411.59",
+        "input_id": "R2025-27",
+        "arithmetic_policy": "原披露带符号加项，不另翻转符号"
+      },
+      {
+        "label": "存货的减少",
+        "raw_amount_yuan": "-7084136638.71",
+        "input_id": "R2025-28",
+        "arithmetic_policy": "原披露带符号加项，不另翻转符号"
+      },
+      {
+        "label": "经营性应收项目的减少",
+        "raw_amount_yuan": "-10983881858.27",
+        "input_id": "R2025-28",
+        "arithmetic_policy": "原披露带符号加项，不另翻转符号"
+      },
+      {
+        "label": "经营性应付项目的增加",
+        "raw_amount_yuan": "-6806428089.04",
+        "input_id": "R2025-28",
+        "arithmetic_policy": "原披露带符号加项，不另翻转符号"
+      }
+    ],
+    "input_ids": [
+      "R2025-24",
+      "R2025-25",
+      "R2025-26",
+      "R2025-27",
+      "R2025-28",
+      "R2025-21"
+    ],
+    "state": "AgentCalculated；原数已核，算术未另经本人确认",
+    "boundary": "合并调节表三类营运现金调整已进入CFO；不能再扣同一ΔNCWC。已列折旧摊销加总不自动成为同范围经营D&A；经营应收/应付不等于实体单科目或完整金融净贡献。"
+  },
+  "breakpoint_source_facts": [
+    {
+      "year": 2007,
+      "id": "R2007-01",
+      "kind": "accounting-breakpoint",
+      "text": "本公司报告期首次执行新《企业会计准则》，对相关项目进行了追溯调整；所得税由应付税款法改为资产负债表债务法；将原未纳入合并的北京茅台神舟、贵州茅台名将酒业有限公司纳入合并报表范围。",
+      "binding": "0881835c640891da14f847cf0d661d6e2aa0d6c42a3087f9939f7b7726266159",
+      "status": "当前原披露Fact；可比性裁决另列"
+    },
+    {
+      "year": 2012,
+      "id": "R2012-01",
+      "kind": "finance-consolidation",
+      "text": "本期合并报表增加新成立控股子公司贵州茅台集团财务有限公司；本期新纳入主体期末净资产800,328,424.84元，本期净利润328,424.84元；注：该本期净利润为银行存款利息收入。",
+      "binding": "da0d3bae5cd5547b416f9e77cbe83b776b5f3502684df14cbe4d62df52d0d038",
+      "status": "当前原披露Fact；可比性裁决另列"
+    },
+    {
+      "year": 2013,
+      "id": "R2013-01",
+      "kind": "finance-operation",
+      "text": "贵州茅台集团财务有限公司2013年3月中旬取得营业执照，并于2013年5月取得相关资格正式开始营业。",
+      "binding": "798a07c1437e0317693b83bd55c9d77a7a2ef1b614f40697b4d05ec39edb9b66",
+      "status": "当前原披露Fact；可比性裁决另列"
+    },
+    {
+      "year": 2020,
+      "id": "R2020-10",
+      "kind": "revenue-breakpoint",
+      "text": "公司自2020年1月1日起执行新收入准则，不对比较财务报表追溯调整；公司将预收款项按新收入准则调整至合同负债、其他流动负债列报。",
+      "binding": "c14a9002036ebc621d135496f21e748539c5b0fca2a141aa0a2a13d5fd5b3ee4",
+      "status": "当前原披露Fact；可比性裁决另列"
+    }
+  ],
   "company_disclosure_explanations": [
     {
       "id": "R2025-23",
@@ -1098,6 +1258,27 @@
       "binding": "bf6e838d821bfa014ee564b83dbd1438bee886ca176f83e4f985a3eff0a0cc10",
       "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
       "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+    },
+    {
+      "domain": "facts",
+      "id": "R2007-01",
+      "binding": "0881835c640891da14f847cf0d661d6e2aa0d6c42a3087f9939f7b7726266159",
+      "pdf_path": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
+      "pdf_sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679"
+    },
+    {
+      "domain": "facts",
+      "id": "R2012-01",
+      "binding": "da0d3bae5cd5547b416f9e77cbe83b776b5f3502684df14cbe4d62df52d0d038",
+      "pdf_path": "sources/annual_reports/pdf/600519_2012_贵州茅台_2012年年度报告.pdf",
+      "pdf_sha256": "9a8faef737d4dd64e8260325247b8ffe77e5de506f4b23b046f28c0758377eae"
+    },
+    {
+      "domain": "facts",
+      "id": "R2013-01",
+      "binding": "798a07c1437e0317693b83bd55c9d77a7a2ef1b614f40697b4d05ec39edb9b66",
+      "pdf_path": "sources/annual_reports/pdf/600519_2013_贵州茅台_2013年年度报告.pdf",
+      "pdf_sha256": "26524de9281264e149c23bdc618a32820678c8d07c5dc7c88cbc7e19b3df0bff"
     },
     {
       "domain": "facts",
@@ -1159,6 +1340,13 @@
       "domain": "facts",
       "id": "R2020-09",
       "binding": "31767e8d1cac8ab856ecf5a683ce258841b2c40ce1201fd48a2749ef5d922a2f",
+      "pdf_path": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+      "pdf_sha256": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c"
+    },
+    {
+      "domain": "facts",
+      "id": "R2020-10",
+      "binding": "c14a9002036ebc621d135496f21e748539c5b0fca2a141aa0a2a13d5fd5b3ee4",
       "pdf_path": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
       "pdf_sha256": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c"
     },
@@ -1233,6 +1421,41 @@
       "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
     },
     {
+      "domain": "facts",
+      "id": "R2025-24",
+      "binding": "dc3a88327b9f4161e0f11a7f7f6bcbc9c66589e2d1663e5fd8253d5101188e0d",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-25",
+      "binding": "10ff62041df87b48feccbe58421ee1f7077961850a3e6b4ffb3a11b22d4d149e",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-26",
+      "binding": "77cfeda9c2852e7ff23c1a1aac9d3dfbe13131d34a0240f78cb60b143a2ad1f9",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-27",
+      "binding": "65eb0561e812132bb76b96da0a42f79bfd97deef481d41148942b9ee858c4c70",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
+      "domain": "facts",
+      "id": "R2025-28",
+      "binding": "65a92b68fc922cbe6b7549700cab0fad39ba75e0e338a6bca45b65c88cec6854",
+      "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+    },
+    {
       "domain": "lec03_agent_facts",
       "id": "L03-A2020-C",
       "validated_snapshot_sha256": "a9b134a1406138efae0b2a22bc493eced296f786a8a67a7bed3921dbfaffd43c",
@@ -1277,22 +1500,22 @@
     {
       "year": 2007,
       "reason": "新旧会计准则",
-      "status": "合同研究规则，历史原文/本项目核准待补"
+      "status": "原文已核；跨年同口径裁决/逐项调整金额仍分开"
     },
     {
       "year": 2012,
       "reason": "财务公司已纳入合并，旧2013首次合并说法需修正",
-      "status": "合同研究规则，历史原文/本项目核准待补"
+      "status": "原文已核；跨年同口径裁决/逐项调整金额仍分开"
     },
     {
       "year": 2013,
       "reason": "财务公司正式营业",
-      "status": "合同研究规则，历史原文/本项目核准待补"
+      "status": "原文已核；跨年同口径裁决/逐项调整金额仍分开"
     },
     {
       "year": 2020,
       "reason": "预收/合同负债及新收入准则",
-      "status": "合同研究规则，历史原文/本项目核准待补"
+      "status": "原文已核；跨年同口径裁决/逐项调整金额仍分开"
     }
   ],
   "selective_ncwc_rule": "inventory+notes/accounts receivable+receivable financing+prepayments−accounts payable−advances/contract liabilities; only current source-confirmed items, no whole other items",
@@ -1304,7 +1527,7 @@
     2007,
     2011
   ],
-  "FY2012_sensitivity_status": "Unknown：原文已定位B10待核，2012含财务公司，利润与资本须重审；不改原合同参考窗",
+  "FY2012_sensitivity_status": "2012已合并原文由B10确认；资本敏感性Unknown，利润与资本须重审；不改原合同参考窗",
   "minimum_multiyear_incremental_window_status": "Unknown：输入与范围未齐",
   "formulas": {
     "cash_conversion": "consolidated CFO/consolidated net profit",
@@ -1313,5 +1536,5 @@
     "inventory_intensity": "book inventory/consolidated operating revenue"
   },
   "precision": 48,
-  "generated_output_sha256": "256768f5699c24fd79fcf88722783a1e47d5cea2b735c4173f1c026fb9c98995"
+  "generated_output_sha256": "f25481c619248a925c5ae1796186054cbe7c88879e3366dd0ea161278281ea1d"
 }

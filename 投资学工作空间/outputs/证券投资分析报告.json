@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "fingerprint": "63f9b491a256bd939669f3f67e94d0c268c597713a67f85411d086ba969a10fa",
+  "fingerprint": "cf270c9c091f2cbc0071bc55138bf767c806b3fc04b7adfa47585417067db52a",
   "state_at_generation": {
     "records": [
       {
@@ -8102,9 +8102,9 @@
             "location": "PDF物理115页；印刷页与表头见B10 JSON"
           }
         ],
-        "effective_state": "Unknown",
-        "verifier": "",
-        "confirmed_at": "",
+        "effective_state": "Fact",
+        "verifier": "leo",
+        "confirmed_at": "2026-10-24T18:43:25+08:00",
         "binding": "dc3a88327b9f4161e0f11a7f7f6bcbc9c66589e2d1663e5fd8253d5101188e0d",
         "issues": [],
         "support_boundary": "原披露不等于人工运算确认、实体现金或完整D&A/FCFF；原文空白保留null，不宣称经济数值为零",
@@ -8125,17 +8125,18 @@
           "unsupported_boundary": "不确认新运算、实体CFO、完整FCFF/ROIC、全部年度可比、机制或签署",
           "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
           "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288",
-          "state": "Unknown",
-          "actor": "",
-          "confirmed_at": "",
-          "note": "B10待本人核验，保留负号/原文空白；原件仅本地",
+          "state": "Fact",
+          "actor": "leo",
+          "confirmed_at": "2026-10-24T18:43:25+08:00",
+          "note": "{\"channel\": \"actual-user-chat\", \"actual_user_reply\": \"B10全部核验正确，核验人leo\", \"client_date\": \"2026-10-24\", \"reviewer\": \"leo\", \"batch_id\": \"B10\", \"batch_version\": 1, \"display_payload_sha256\": \"5763f9d13f6e03abb0b53089f3e843ef6e6caf16fe8a843d73a711f25304d682\", \"display_manifest\": \"work/review-batches/20261024-B10.json\", \"confirmation_scope\": [\"R2025-24\", \"R2025-25\", \"R2025-26\", \"R2025-27\", \"R2025-28\", \"R2007-01\", \"R2012-01\", \"R2013-01\", \"R2020-10\"], \"exceptions\": [], \"confirmation_context\": \"此前展示B10九项：2025合并现金流补充资料当期调节行15金额及资产减值准备/其他两处原表空白；2007首次执行新准则及追溯调整；2012财务公司已合并及新纳入主体净资产/净利润2金额、利润为银行存款利息；2013年3月取得执照、5月正式营业；2020新收入准则与预收重分类及比较表不追溯。共17金额均人民币元。旧净利润/CFO未重核。\", \"timestamp_meaning\": \"confirmed_at为程序保存实际聊天答复的时刻；非窗口点击，精确聊天发送时间未提供。\", \"boundary\": \"仅原文原数及展示口径，负号照录，空白保留null并非披露0。确认2012已合并与2013正式营业的区别，不自动裁决跨年度可比性、实体现金、完整D&A/FCFF/ROIC、调节运算、资本代理、研究观点、教师验收或新签署。FY2025为后验，不回填2024。\"}",
           "pending_issue": "B10待本人核验，保留负号/原文空白；原件仅本地",
           "stale_reason": "",
           "numbers": [
             "17,234,379.37"
           ],
           "candidate_fingerprint": "051f77ae4f022a60fadc6f5c9e87f809537d8594c6f91ec668a820074e949c4d",
-          "binding": "dc3a88327b9f4161e0f11a7f7f6bcbc9c66589e2d1663e5fd8253d5101188e0d"
+          "binding": "dc3a88327b9f4161e0f11a7f7f6bcbc9c66589e2d1663e5fd8253d5101188e0d",
+          "submitted_state": "Fact"
         }
       },
       {
@@ -8158,9 +8159,9 @@
             "location": "PDF物理115页；印刷页与表头见B10 JSON"
           }
         ],
-        "effective_state": "Unknown",
-        "verifier": "",
-        "confirmed_at": "",
+        "effective_state": "Fact",
+        "verifier": "leo",
+        "confirmed_at": "2026-10-24T18:43:25+08:00",
         "binding": "10ff62041df87b48feccbe58421ee1f7077961850a3e6b4ffb3a11b22d4d149e",
         "issues": [],
         "support_boundary": "原披露不等于人工运算确认、实体现金或完整D&A/FCFF；原文空白保留null，不宣称经济数值为零",
@@ -8181,10 +8182,10 @@
           "unsupported_boundary": "不确认新运算、实体CFO、完整FCFF/ROIC、全部年度可比、机制或签署",
           "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
           "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288",
-          "state": "Unknown",
-          "actor": "",
-          "confirmed_at": "",
-          "note": "B10待本人核验，保留负号/原文空白；原件仅本地",
+          "state": "Fact",
+          "actor": "leo",
+          "confirmed_at": "2026-10-24T18:43:25+08:00",
+          "note": "{\"channel\": \"actual-user-chat\", \"actual_user_reply\": \"B10全部核验正确，核验人leo\", \"client_date\": \"2026-10-24\", \"reviewer\": \"leo\", \"batch_id\": \"B10\", \"batch_version\": 1, \"display_payload_sha256\": \"5763f9d13f6e03abb0b53089f3e843ef6e6caf16fe8a843d73a711f25304d682\", \"display_manifest\": \"work/review-batches/20261024-B10.json\", \"confirmation_scope\": [\"R2025-24\", \"R2025-25\", \"R2025-26\", \"R2025-27\", \"R2025-28\", \"R2007-01\", \"R2012-01\", \"R2013-01\", \"R2020-10\"], \"exceptions\": [], \"confirmation_context\": \"此前展示B10九项：2025合并现金流补充资料当期调节行15金额及资产减值准备/其他两处原表空白；2007首次执行新准则及追溯调整；2012财务公司已合并及新纳入主体净资产/净利润2金额、利润为银行存款利息；2013年3月取得执照、5月正式营业；2020新收入准则与预收重分类及比较表不追溯。共17金额均人民币元。旧净利润/CFO未重核。\", \"timestamp_meaning\": \"confirmed_at为程序保存实际聊天答复的时刻；非窗口点击，精确聊天发送时间未提供。\", \"boundary\": \"仅原文原数及展示口径，负号照录，空白保留null并非披露0。确认2012已合并与2013正式营业的区别，不自动裁决跨年度可比性、实体现金、完整D&A/FCFF/ROIC、调节运算、资本代理、研究观点、教师验收或新签署。FY2025为后验，不回填2024。\"}",
           "pending_issue": "B10待本人核验，保留负号/原文空白；原件仅本地",
           "stale_reason": "",
           "numbers": [
@@ -8194,7 +8195,8 @@
             "20,637,734.49"
           ],
           "candidate_fingerprint": "6565b8131c08fe71c37a95a8a09f965858d4790f103d47ed6e790038ef870e4a",
-          "binding": "10ff62041df87b48feccbe58421ee1f7077961850a3e6b4ffb3a11b22d4d149e"
+          "binding": "10ff62041df87b48feccbe58421ee1f7077961850a3e6b4ffb3a11b22d4d149e",
+          "submitted_state": "Fact"
         }
       },
       {
@@ -8217,9 +8219,9 @@
             "location": "PDF物理115页；印刷页与表头见B10 JSON"
           }
         ],
-        "effective_state": "Unknown",
-        "verifier": "",
-        "confirmed_at": "",
+        "effective_state": "Fact",
+        "verifier": "leo",
+        "confirmed_at": "2026-10-24T18:43:25+08:00",
         "binding": "77cfeda9c2852e7ff23c1a1aac9d3dfbe13131d34a0240f78cb60b143a2ad1f9",
         "issues": [],
         "support_boundary": "原披露不等于人工运算确认、实体现金或完整D&A/FCFF；原文空白保留null，不宣称经济数值为零",
@@ -8240,10 +8242,10 @@
           "unsupported_boundary": "不确认新运算、实体CFO、完整FCFF/ROIC、全部年度可比、机制或签署",
           "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
           "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288",
-          "state": "Unknown",
-          "actor": "",
-          "confirmed_at": "",
-          "note": "B10待本人核验，保留负号/原文空白；原件仅本地",
+          "state": "Fact",
+          "actor": "leo",
+          "confirmed_at": "2026-10-24T18:43:25+08:00",
+          "note": "{\"channel\": \"actual-user-chat\", \"actual_user_reply\": \"B10全部核验正确，核验人leo\", \"client_date\": \"2026-10-24\", \"reviewer\": \"leo\", \"batch_id\": \"B10\", \"batch_version\": 1, \"display_payload_sha256\": \"5763f9d13f6e03abb0b53089f3e843ef6e6caf16fe8a843d73a711f25304d682\", \"display_manifest\": \"work/review-batches/20261024-B10.json\", \"confirmation_scope\": [\"R2025-24\", \"R2025-25\", \"R2025-26\", \"R2025-27\", \"R2025-28\", \"R2007-01\", \"R2012-01\", \"R2013-01\", \"R2020-10\"], \"exceptions\": [], \"confirmation_context\": \"此前展示B10九项：2025合并现金流补充资料当期调节行15金额及资产减值准备/其他两处原表空白；2007首次执行新准则及追溯调整；2012财务公司已合并及新纳入主体净资产/净利润2金额、利润为银行存款利息；2013年3月取得执照、5月正式营业；2020新收入准则与预收重分类及比较表不追溯。共17金额均人民币元。旧净利润/CFO未重核。\", \"timestamp_meaning\": \"confirmed_at为程序保存实际聊天答复的时刻；非窗口点击，精确聊天发送时间未提供。\", \"boundary\": \"仅原文原数及展示口径，负号照录，空白保留null并非披露0。确认2012已合并与2013正式营业的区别，不自动裁决跨年度可比性、实体现金、完整D&A/FCFF/ROIC、调节运算、资本代理、研究观点、教师验收或新签署。FY2025为后验，不回填2024。\"}",
           "pending_issue": "B10待本人核验，保留负号/原文空白；原件仅本地",
           "stale_reason": "",
           "numbers": [
@@ -8254,7 +8256,8 @@
             "561,176.14"
           ],
           "candidate_fingerprint": "c6f7c31e31e25477cda9a2ec0cd0d7052cf4fb4ea8fd3c1856fa462d85d896b2",
-          "binding": "77cfeda9c2852e7ff23c1a1aac9d3dfbe13131d34a0240f78cb60b143a2ad1f9"
+          "binding": "77cfeda9c2852e7ff23c1a1aac9d3dfbe13131d34a0240f78cb60b143a2ad1f9",
+          "submitted_state": "Fact"
         }
       },
       {
@@ -8277,9 +8280,9 @@
             "location": "PDF物理115页；印刷页与表头见B10 JSON"
           }
         ],
-        "effective_state": "Unknown",
-        "verifier": "",
-        "confirmed_at": "",
+        "effective_state": "Fact",
+        "verifier": "leo",
+        "confirmed_at": "2026-10-24T18:43:25+08:00",
         "binding": "65eb0561e812132bb76b96da0a42f79bfd97deef481d41148942b9ee858c4c70",
         "issues": [],
         "support_boundary": "原披露不等于人工运算确认、实体现金或完整D&A/FCFF；原文空白保留null，不宣称经济数值为零",
@@ -8300,10 +8303,10 @@
           "unsupported_boundary": "不确认新运算、实体CFO、完整FCFF/ROIC、全部年度可比、机制或签署",
           "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
           "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288",
-          "state": "Unknown",
-          "actor": "",
-          "confirmed_at": "",
-          "note": "B10待本人核验，保留负号/原文空白；原件仅本地",
+          "state": "Fact",
+          "actor": "leo",
+          "confirmed_at": "2026-10-24T18:43:25+08:00",
+          "note": "{\"channel\": \"actual-user-chat\", \"actual_user_reply\": \"B10全部核验正确，核验人leo\", \"client_date\": \"2026-10-24\", \"reviewer\": \"leo\", \"batch_id\": \"B10\", \"batch_version\": 1, \"display_payload_sha256\": \"5763f9d13f6e03abb0b53089f3e843ef6e6caf16fe8a843d73a711f25304d682\", \"display_manifest\": \"work/review-batches/20261024-B10.json\", \"confirmation_scope\": [\"R2025-24\", \"R2025-25\", \"R2025-26\", \"R2025-27\", \"R2025-28\", \"R2007-01\", \"R2012-01\", \"R2013-01\", \"R2020-10\"], \"exceptions\": [], \"confirmation_context\": \"此前展示B10九项：2025合并现金流补充资料当期调节行15金额及资产减值准备/其他两处原表空白；2007首次执行新准则及追溯调整；2012财务公司已合并及新纳入主体净资产/净利润2金额、利润为银行存款利息；2013年3月取得执照、5月正式营业；2020新收入准则与预收重分类及比较表不追溯。共17金额均人民币元。旧净利润/CFO未重核。\", \"timestamp_meaning\": \"confirmed_at为程序保存实际聊天答复的时刻；非窗口点击，精确聊天发送时间未提供。\", \"boundary\": \"仅原文原数及展示口径，负号照录，空白保留null并非披露0。确认2012已合并与2013正式营业的区别，不自动裁决跨年度可比性、实体现金、完整D&A/FCFF/ROIC、调节运算、资本代理、研究观点、教师验收或新签署。FY2025为后验，不回填2024。\"}",
           "pending_issue": "B10待本人核验，保留负号/原文空白；原件仅本地",
           "stale_reason": "",
           "numbers": [
@@ -8311,7 +8314,8 @@
             "27,759,411.59"
           ],
           "candidate_fingerprint": "f94afbe5c6c5fda14d1047243dde9b65b529e469aa03a9b90757fa0ea5b7af1a",
-          "binding": "65eb0561e812132bb76b96da0a42f79bfd97deef481d41148942b9ee858c4c70"
+          "binding": "65eb0561e812132bb76b96da0a42f79bfd97deef481d41148942b9ee858c4c70",
+          "submitted_state": "Fact"
         }
       },
       {
@@ -8334,9 +8338,9 @@
             "location": "PDF物理115页；印刷页与表头见B10 JSON"
           }
         ],
-        "effective_state": "Unknown",
-        "verifier": "",
-        "confirmed_at": "",
+        "effective_state": "Fact",
+        "verifier": "leo",
+        "confirmed_at": "2026-10-24T18:43:25+08:00",
         "binding": "65a92b68fc922cbe6b7549700cab0fad39ba75e0e338a6bca45b65c88cec6854",
         "issues": [],
         "support_boundary": "原披露不等于人工运算确认、实体现金或完整D&A/FCFF；原文空白保留null，不宣称经济数值为零",
@@ -8357,10 +8361,10 @@
           "unsupported_boundary": "不确认新运算、实体CFO、完整FCFF/ROIC、全部年度可比、机制或签署",
           "pdf_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
           "pdf_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288",
-          "state": "Unknown",
-          "actor": "",
-          "confirmed_at": "",
-          "note": "B10待本人核验，保留负号/原文空白；原件仅本地",
+          "state": "Fact",
+          "actor": "leo",
+          "confirmed_at": "2026-10-24T18:43:25+08:00",
+          "note": "{\"channel\": \"actual-user-chat\", \"actual_user_reply\": \"B10全部核验正确，核验人leo\", \"client_date\": \"2026-10-24\", \"reviewer\": \"leo\", \"batch_id\": \"B10\", \"batch_version\": 1, \"display_payload_sha256\": \"5763f9d13f6e03abb0b53089f3e843ef6e6caf16fe8a843d73a711f25304d682\", \"display_manifest\": \"work/review-batches/20261024-B10.json\", \"confirmation_scope\": [\"R2025-24\", \"R2025-25\", \"R2025-26\", \"R2025-27\", \"R2025-28\", \"R2007-01\", \"R2012-01\", \"R2013-01\", \"R2020-10\"], \"exceptions\": [], \"confirmation_context\": \"此前展示B10九项：2025合并现金流补充资料当期调节行15金额及资产减值准备/其他两处原表空白；2007首次执行新准则及追溯调整；2012财务公司已合并及新纳入主体净资产/净利润2金额、利润为银行存款利息；2013年3月取得执照、5月正式营业；2020新收入准则与预收重分类及比较表不追溯。共17金额均人民币元。旧净利润/CFO未重核。\", \"timestamp_meaning\": \"confirmed_at为程序保存实际聊天答复的时刻；非窗口点击，精确聊天发送时间未提供。\", \"boundary\": \"仅原文原数及展示口径，负号照录，空白保留null并非披露0。确认2012已合并与2013正式营业的区别，不自动裁决跨年度可比性、实体现金、完整D&A/FCFF/ROIC、调节运算、资本代理、研究观点、教师验收或新签署。FY2025为后验，不回填2024。\"}",
           "pending_issue": "B10待本人核验，保留负号/原文空白；原件仅本地",
           "stale_reason": "",
           "numbers": [
@@ -8369,7 +8373,8 @@
             "6,806,428,089.04"
           ],
           "candidate_fingerprint": "54701b0c330cd74c8d5748663c24c1473abb6f0649f0b2573fc6ac6aa8db402a",
-          "binding": "65a92b68fc922cbe6b7549700cab0fad39ba75e0e338a6bca45b65c88cec6854"
+          "binding": "65a92b68fc922cbe6b7549700cab0fad39ba75e0e338a6bca45b65c88cec6854",
+          "submitted_state": "Fact"
         }
       },
       {
@@ -8392,9 +8397,9 @@
             "location": "PDF物理48页；印刷页与表头见B10 JSON"
           }
         ],
-        "effective_state": "Unknown",
-        "verifier": "",
-        "confirmed_at": "",
+        "effective_state": "Fact",
+        "verifier": "leo",
+        "confirmed_at": "2026-10-24T18:43:25+08:00",
         "binding": "0881835c640891da14f847cf0d661d6e2aa0d6c42a3087f9939f7b7726266159",
         "issues": [],
         "support_boundary": "2006原年报旧准则数与2007比较列追溯数分别保留；原文核验不自动裁定所有年度可比或替换原数",
@@ -8415,15 +8420,16 @@
           "unsupported_boundary": "不确认新运算、实体CFO、完整FCFF/ROIC、全部年度可比、机制或签署",
           "pdf_path": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
           "pdf_sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679",
-          "state": "Unknown",
-          "actor": "",
-          "confirmed_at": "",
-          "note": "B10待本人核验，保留负号/原文空白；原件仅本地",
+          "state": "Fact",
+          "actor": "leo",
+          "confirmed_at": "2026-10-24T18:43:25+08:00",
+          "note": "{\"channel\": \"actual-user-chat\", \"actual_user_reply\": \"B10全部核验正确，核验人leo\", \"client_date\": \"2026-10-24\", \"reviewer\": \"leo\", \"batch_id\": \"B10\", \"batch_version\": 1, \"display_payload_sha256\": \"5763f9d13f6e03abb0b53089f3e843ef6e6caf16fe8a843d73a711f25304d682\", \"display_manifest\": \"work/review-batches/20261024-B10.json\", \"confirmation_scope\": [\"R2025-24\", \"R2025-25\", \"R2025-26\", \"R2025-27\", \"R2025-28\", \"R2007-01\", \"R2012-01\", \"R2013-01\", \"R2020-10\"], \"exceptions\": [], \"confirmation_context\": \"此前展示B10九项：2025合并现金流补充资料当期调节行15金额及资产减值准备/其他两处原表空白；2007首次执行新准则及追溯调整；2012财务公司已合并及新纳入主体净资产/净利润2金额、利润为银行存款利息；2013年3月取得执照、5月正式营业；2020新收入准则与预收重分类及比较表不追溯。共17金额均人民币元。旧净利润/CFO未重核。\", \"timestamp_meaning\": \"confirmed_at为程序保存实际聊天答复的时刻；非窗口点击，精确聊天发送时间未提供。\", \"boundary\": \"仅原文原数及展示口径，负号照录，空白保留null并非披露0。确认2012已合并与2013正式营业的区别，不自动裁决跨年度可比性、实体现金、完整D&A/FCFF/ROIC、调节运算、资本代理、研究观点、教师验收或新签署。FY2025为后验，不回填2024。\"}",
           "pending_issue": "B10待本人核验，保留负号/原文空白；原件仅本地",
           "stale_reason": "",
           "numbers": [],
           "candidate_fingerprint": "7a14d9024f12c6f29a181c85b31e714859bafe53775267907aa08bb719e305c7",
-          "binding": "0881835c640891da14f847cf0d661d6e2aa0d6c42a3087f9939f7b7726266159"
+          "binding": "0881835c640891da14f847cf0d661d6e2aa0d6c42a3087f9939f7b7726266159",
+          "submitted_state": "Fact"
         }
       },
       {
@@ -8446,9 +8452,9 @@
             "location": "PDF物理67页；印刷页与表头见B10 JSON"
           }
         ],
-        "effective_state": "Unknown",
-        "verifier": "",
-        "confirmed_at": "",
+        "effective_state": "Fact",
+        "verifier": "leo",
+        "confirmed_at": "2026-10-24T18:43:25+08:00",
         "binding": "da0d3bae5cd5547b416f9e77cbe83b776b5f3502684df14cbe4d62df52d0d038",
         "issues": [],
         "support_boundary": "2012已经含财务公司，不称纯粹财务公司前窗口；该利润不是完整金融净贡献，后续资本代理必须单列2012",
@@ -8469,10 +8475,10 @@
           "unsupported_boundary": "不确认新运算、实体CFO、完整FCFF/ROIC、全部年度可比、机制或签署",
           "pdf_path": "sources/annual_reports/pdf/600519_2012_贵州茅台_2012年年度报告.pdf",
           "pdf_sha256": "9a8faef737d4dd64e8260325247b8ffe77e5de506f4b23b046f28c0758377eae",
-          "state": "Unknown",
-          "actor": "",
-          "confirmed_at": "",
-          "note": "B10待本人核验，保留负号/原文空白；原件仅本地",
+          "state": "Fact",
+          "actor": "leo",
+          "confirmed_at": "2026-10-24T18:43:25+08:00",
+          "note": "{\"channel\": \"actual-user-chat\", \"actual_user_reply\": \"B10全部核验正确，核验人leo\", \"client_date\": \"2026-10-24\", \"reviewer\": \"leo\", \"batch_id\": \"B10\", \"batch_version\": 1, \"display_payload_sha256\": \"5763f9d13f6e03abb0b53089f3e843ef6e6caf16fe8a843d73a711f25304d682\", \"display_manifest\": \"work/review-batches/20261024-B10.json\", \"confirmation_scope\": [\"R2025-24\", \"R2025-25\", \"R2025-26\", \"R2025-27\", \"R2025-28\", \"R2007-01\", \"R2012-01\", \"R2013-01\", \"R2020-10\"], \"exceptions\": [], \"confirmation_context\": \"此前展示B10九项：2025合并现金流补充资料当期调节行15金额及资产减值准备/其他两处原表空白；2007首次执行新准则及追溯调整；2012财务公司已合并及新纳入主体净资产/净利润2金额、利润为银行存款利息；2013年3月取得执照、5月正式营业；2020新收入准则与预收重分类及比较表不追溯。共17金额均人民币元。旧净利润/CFO未重核。\", \"timestamp_meaning\": \"confirmed_at为程序保存实际聊天答复的时刻；非窗口点击，精确聊天发送时间未提供。\", \"boundary\": \"仅原文原数及展示口径，负号照录，空白保留null并非披露0。确认2012已合并与2013正式营业的区别，不自动裁决跨年度可比性、实体现金、完整D&A/FCFF/ROIC、调节运算、资本代理、研究观点、教师验收或新签署。FY2025为后验，不回填2024。\"}",
           "pending_issue": "B10待本人核验，保留负号/原文空白；原件仅本地",
           "stale_reason": "",
           "numbers": [
@@ -8480,7 +8486,8 @@
             "328,424.84"
           ],
           "candidate_fingerprint": "244bed73ef83f3a926566fac60a7c034472f3416682e18a3076f8925459aa8cb",
-          "binding": "da0d3bae5cd5547b416f9e77cbe83b776b5f3502684df14cbe4d62df52d0d038"
+          "binding": "da0d3bae5cd5547b416f9e77cbe83b776b5f3502684df14cbe4d62df52d0d038",
+          "submitted_state": "Fact"
         }
       },
       {
@@ -8503,9 +8510,9 @@
             "location": "PDF物理90页；印刷页与表头见B10 JSON"
           }
         ],
-        "effective_state": "Unknown",
-        "verifier": "",
-        "confirmed_at": "",
+        "effective_state": "Fact",
+        "verifier": "leo",
+        "confirmed_at": "2026-10-24T18:43:25+08:00",
         "binding": "798a07c1437e0317693b83bd55c9d77a7a2ef1b614f40697b4d05ec39edb9b66",
         "issues": [],
         "support_boundary": "2013正式营业不等于2013首次合并；与2012已合并同时保留，不确定具体日历日或全部现金影响",
@@ -8526,15 +8533,16 @@
           "unsupported_boundary": "不确认新运算、实体CFO、完整FCFF/ROIC、全部年度可比、机制或签署",
           "pdf_path": "sources/annual_reports/pdf/600519_2013_贵州茅台_2013年年度报告.pdf",
           "pdf_sha256": "26524de9281264e149c23bdc618a32820678c8d07c5dc7c88cbc7e19b3df0bff",
-          "state": "Unknown",
-          "actor": "",
-          "confirmed_at": "",
-          "note": "B10待本人核验，保留负号/原文空白；原件仅本地",
+          "state": "Fact",
+          "actor": "leo",
+          "confirmed_at": "2026-10-24T18:43:25+08:00",
+          "note": "{\"channel\": \"actual-user-chat\", \"actual_user_reply\": \"B10全部核验正确，核验人leo\", \"client_date\": \"2026-10-24\", \"reviewer\": \"leo\", \"batch_id\": \"B10\", \"batch_version\": 1, \"display_payload_sha256\": \"5763f9d13f6e03abb0b53089f3e843ef6e6caf16fe8a843d73a711f25304d682\", \"display_manifest\": \"work/review-batches/20261024-B10.json\", \"confirmation_scope\": [\"R2025-24\", \"R2025-25\", \"R2025-26\", \"R2025-27\", \"R2025-28\", \"R2007-01\", \"R2012-01\", \"R2013-01\", \"R2020-10\"], \"exceptions\": [], \"confirmation_context\": \"此前展示B10九项：2025合并现金流补充资料当期调节行15金额及资产减值准备/其他两处原表空白；2007首次执行新准则及追溯调整；2012财务公司已合并及新纳入主体净资产/净利润2金额、利润为银行存款利息；2013年3月取得执照、5月正式营业；2020新收入准则与预收重分类及比较表不追溯。共17金额均人民币元。旧净利润/CFO未重核。\", \"timestamp_meaning\": \"confirmed_at为程序保存实际聊天答复的时刻；非窗口点击，精确聊天发送时间未提供。\", \"boundary\": \"仅原文原数及展示口径，负号照录，空白保留null并非披露0。确认2012已合并与2013正式营业的区别，不自动裁决跨年度可比性、实体现金、完整D&A/FCFF/ROIC、调节运算、资本代理、研究观点、教师验收或新签署。FY2025为后验，不回填2024。\"}",
           "pending_issue": "B10待本人核验，保留负号/原文空白；原件仅本地",
           "stale_reason": "",
           "numbers": [],
           "candidate_fingerprint": "1e1b05f9c2c636d6606961521bc1209912fb1f683975f8f549d90d1926624f1e",
-          "binding": "798a07c1437e0317693b83bd55c9d77a7a2ef1b614f40697b4d05ec39edb9b66"
+          "binding": "798a07c1437e0317693b83bd55c9d77a7a2ef1b614f40697b4d05ec39edb9b66",
+          "submitted_state": "Fact"
         }
       },
       {
@@ -8557,9 +8565,9 @@
             "location": "PDF物理73、76页；印刷页与表头见B10 JSON"
           }
         ],
-        "effective_state": "Unknown",
-        "verifier": "",
-        "confirmed_at": "",
+        "effective_state": "Fact",
+        "verifier": "leo",
+        "confirmed_at": "2026-10-24T18:43:25+08:00",
         "binding": "c14a9002036ebc621d135496f21e748539c5b0fca2a141aa0a2a13d5fd5b3ee4",
         "issues": [],
         "support_boundary": "不能将全部其他流动负债主观当作经营预收；NCWC跨2019/2020须期初桥接，不把标签切换当现金增减",
@@ -8580,15 +8588,370 @@
           "unsupported_boundary": "不确认新运算、实体CFO、完整FCFF/ROIC、全部年度可比、机制或签署",
           "pdf_path": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
           "pdf_sha256": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c",
-          "state": "Unknown",
-          "actor": "",
-          "confirmed_at": "",
-          "note": "B10待本人核验，保留负号/原文空白；原件仅本地",
+          "state": "Fact",
+          "actor": "leo",
+          "confirmed_at": "2026-10-24T18:43:25+08:00",
+          "note": "{\"channel\": \"actual-user-chat\", \"actual_user_reply\": \"B10全部核验正确，核验人leo\", \"client_date\": \"2026-10-24\", \"reviewer\": \"leo\", \"batch_id\": \"B10\", \"batch_version\": 1, \"display_payload_sha256\": \"5763f9d13f6e03abb0b53089f3e843ef6e6caf16fe8a843d73a711f25304d682\", \"display_manifest\": \"work/review-batches/20261024-B10.json\", \"confirmation_scope\": [\"R2025-24\", \"R2025-25\", \"R2025-26\", \"R2025-27\", \"R2025-28\", \"R2007-01\", \"R2012-01\", \"R2013-01\", \"R2020-10\"], \"exceptions\": [], \"confirmation_context\": \"此前展示B10九项：2025合并现金流补充资料当期调节行15金额及资产减值准备/其他两处原表空白；2007首次执行新准则及追溯调整；2012财务公司已合并及新纳入主体净资产/净利润2金额、利润为银行存款利息；2013年3月取得执照、5月正式营业；2020新收入准则与预收重分类及比较表不追溯。共17金额均人民币元。旧净利润/CFO未重核。\", \"timestamp_meaning\": \"confirmed_at为程序保存实际聊天答复的时刻；非窗口点击，精确聊天发送时间未提供。\", \"boundary\": \"仅原文原数及展示口径，负号照录，空白保留null并非披露0。确认2012已合并与2013正式营业的区别，不自动裁决跨年度可比性、实体现金、完整D&A/FCFF/ROIC、调节运算、资本代理、研究观点、教师验收或新签署。FY2025为后验，不回填2024。\"}",
           "pending_issue": "B10待本人核验，保留负号/原文空白；原件仅本地",
           "stale_reason": "",
           "numbers": [],
           "candidate_fingerprint": "0a858198f6097a5c4673e82e377d5c4533b646fa544e0e394b704c3187f644ff",
-          "binding": "c14a9002036ebc621d135496f21e748539c5b0fca2a141aa0a2a13d5fd5b3ee4"
+          "binding": "c14a9002036ebc621d135496f21e748539c5b0fca2a141aa0a2a13d5fd5b3ee4",
+          "submitted_state": "Fact"
+        }
+      },
+      {
+        "id": "R2007-02",
+        "original_id": "R2007-02",
+        "domain": "facts",
+        "claim": "2007选择性营运资本六项",
+        "kind": "disclosure",
+        "value": "存货2,304,818,947.92；应收票据101,046,224.00；应收账款46,407,153.34；预付款项6,825,624.62；应付账款59,681,964.50；预收款项1,125,288,196.26",
+        "scope": {
+          "period": "2007期末或本期列，按本行分别列示",
+          "entity": "当前项目披露主体",
+          "basis": "人民币元；合并资产负债表期末余额，仅本年度末列，不核年初/比较列；科目账面余额，存货非吨数",
+          "unit": "人民币元",
+          "definition": "2007选择性营运资本六项"
+        },
+        "sources": [
+          {
+            "source_id": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
+            "location": "PDF物理30、31页；逐字段页/表头见B11 JSON"
+          }
+        ],
+        "effective_state": "Unknown",
+        "verifier": "",
+        "confirmed_at": "",
+        "binding": "9bc3c9d65481cf86c7b38c646f405d5ad67774238f07d09c8004e693641bdd6d",
+        "issues": [],
+        "support_boundary": "只核原表金额，不确认科目全属经营、税率代表边际经营税率、选择性资本完整或实体回报；不得按本组所有正数直接相加",
+        "unsupported_boundary": "不证明真实NOPAT、完整NCWC、成熟后增量回报、全部年度可比或新签署",
+        "formula": "",
+        "details": {
+          "id": "R2007-02",
+          "claim": "2007选择性营运资本六项",
+          "source_version": "2007年年度报告；SHA见B11",
+          "year": 2007,
+          "period": "2007期末或本期列，按本行分别列示",
+          "location": "PDF物理30、31页；逐字段页/表头见B11 JSON",
+          "value": "存货2,304,818,947.92；应收票据101,046,224.00；应收账款46,407,153.34；预付款项6,825,624.62；应付账款59,681,964.50；预收款项1,125,288,196.26",
+          "scope": "人民币元；合并资产负债表期末余额，仅本年度末列，不核年初/比较列；科目账面余额，存货非吨数",
+          "unit": "人民币元",
+          "table": "来源定位见原PDF与口径",
+          "support_boundary": "只核原表金额，不确认科目全属经营、税率代表边际经营税率、选择性资本完整或实体回报；不得按本组所有正数直接相加",
+          "unsupported_boundary": "不证明真实NOPAT、完整NCWC、成熟后增量回报、全部年度可比或新签署",
+          "pdf_path": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
+          "pdf_sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679",
+          "state": "Unknown",
+          "actor": "",
+          "confirmed_at": "",
+          "note": "B11待本人核验；先核原数，再分别裁定代理范围、运算与研究意见",
+          "pending_issue": "B11待本人核验；先核原数，再分别裁定代理范围、运算与研究意见",
+          "stale_reason": "",
+          "numbers": [
+            "2,304,818,947.92",
+            "101,046,224.00",
+            "46,407,153.34",
+            "6,825,624.62",
+            "59,681,964.50",
+            "1,125,288,196.26"
+          ],
+          "candidate_fingerprint": "eb6c3370fb5ff243d056f85b5882ea8e3fce5d7f854103b13414c67bce56a515",
+          "binding": "9bc3c9d65481cf86c7b38c646f405d5ad67774238f07d09c8004e693641bdd6d"
+        }
+      },
+      {
+        "id": "R2007-03",
+        "original_id": "R2007-03",
+        "domain": "facts",
+        "claim": "2007长期资本三项",
+        "kind": "disclosure",
+        "value": "固定资产1,826,983,364.36；在建工程994,453,165.72；无形资产249,274,093.40",
+        "scope": {
+          "period": "2007期末或本期列，按本行分别列示",
+          "entity": "当前项目披露主体",
+          "basis": "人民币元；合并资产负债表期末账面金额；不是新增现金支出或全部长期经营资产",
+          "unit": "人民币元",
+          "definition": "2007长期资本三项"
+        },
+        "sources": [
+          {
+            "source_id": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
+            "location": "PDF物理30页；逐字段页/表头见B11 JSON"
+          }
+        ],
+        "effective_state": "Unknown",
+        "verifier": "",
+        "confirmed_at": "",
+        "binding": "7a178efb1df1f59f85f670e89036d6a87c206f85c66a0ff4aade4506834382c4",
+        "issues": [],
+        "support_boundary": "只核原表金额，不确认科目全属经营、税率代表边际经营税率、选择性资本完整或实体回报；不得按本组所有正数直接相加",
+        "unsupported_boundary": "不证明真实NOPAT、完整NCWC、成熟后增量回报、全部年度可比或新签署",
+        "formula": "",
+        "details": {
+          "id": "R2007-03",
+          "claim": "2007长期资本三项",
+          "source_version": "2007年年度报告；SHA见B11",
+          "year": 2007,
+          "period": "2007期末或本期列，按本行分别列示",
+          "location": "PDF物理30页；逐字段页/表头见B11 JSON",
+          "value": "固定资产1,826,983,364.36；在建工程994,453,165.72；无形资产249,274,093.40",
+          "scope": "人民币元；合并资产负债表期末账面金额；不是新增现金支出或全部长期经营资产",
+          "unit": "人民币元",
+          "table": "来源定位见原PDF与口径",
+          "support_boundary": "只核原表金额，不确认科目全属经营、税率代表边际经营税率、选择性资本完整或实体回报；不得按本组所有正数直接相加",
+          "unsupported_boundary": "不证明真实NOPAT、完整NCWC、成熟后增量回报、全部年度可比或新签署",
+          "pdf_path": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
+          "pdf_sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679",
+          "state": "Unknown",
+          "actor": "",
+          "confirmed_at": "",
+          "note": "B11待本人核验；先核原数，再分别裁定代理范围、运算与研究意见",
+          "pending_issue": "B11待本人核验；先核原数，再分别裁定代理范围、运算与研究意见",
+          "stale_reason": "",
+          "numbers": [
+            "1,826,983,364.36",
+            "994,453,165.72",
+            "249,274,093.40"
+          ],
+          "candidate_fingerprint": "01bf0683d92466f54dcb414efa3c70ca7a9c1dfa9f206df62e90bd8241303043",
+          "binding": "7a178efb1df1f59f85f670e89036d6a87c206f85c66a0ff4aade4506834382c4"
+        }
+      },
+      {
+        "id": "R2007-04",
+        "original_id": "R2007-04",
+        "domain": "facts",
+        "claim": "2007NOPAT代理利润税费三项",
+        "kind": "disclosure",
+        "value": "三、营业利润4,525,341,001.80；四、利润总额4,522,025,015.93；减：所得税费用1,555,972,506.98",
+        "scope": {
+          "period": "2007期末或本期列，按本行分别列示",
+          "entity": "当前项目披露主体",
+          "basis": "人民币元；合并利润表本期年度流量，非归母；三科目用途不同不加总",
+          "unit": "人民币元",
+          "definition": "2007NOPAT代理利润税费三项"
+        },
+        "sources": [
+          {
+            "source_id": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
+            "location": "PDF物理34页；逐字段页/表头见B11 JSON"
+          }
+        ],
+        "effective_state": "Unknown",
+        "verifier": "",
+        "confirmed_at": "",
+        "binding": "dc85beea643cb0fb7cebcb5bd0b296df1308659da53c3f49c84815c050fea836",
+        "issues": [],
+        "support_boundary": "只核原表金额，不确认科目全属经营、税率代表边际经营税率、选择性资本完整或实体回报；不得按本组所有正数直接相加",
+        "unsupported_boundary": "不证明真实NOPAT、完整NCWC、成熟后增量回报、全部年度可比或新签署",
+        "formula": "",
+        "details": {
+          "id": "R2007-04",
+          "claim": "2007NOPAT代理利润税费三项",
+          "source_version": "2007年年度报告；SHA见B11",
+          "year": 2007,
+          "period": "2007期末或本期列，按本行分别列示",
+          "location": "PDF物理34页；逐字段页/表头见B11 JSON",
+          "value": "三、营业利润4,525,341,001.80；四、利润总额4,522,025,015.93；减：所得税费用1,555,972,506.98",
+          "scope": "人民币元；合并利润表本期年度流量，非归母；三科目用途不同不加总",
+          "unit": "人民币元",
+          "table": "来源定位见原PDF与口径",
+          "support_boundary": "只核原表金额，不确认科目全属经营、税率代表边际经营税率、选择性资本完整或实体回报；不得按本组所有正数直接相加",
+          "unsupported_boundary": "不证明真实NOPAT、完整NCWC、成熟后增量回报、全部年度可比或新签署",
+          "pdf_path": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
+          "pdf_sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679",
+          "state": "Unknown",
+          "actor": "",
+          "confirmed_at": "",
+          "note": "B11待本人核验；先核原数，再分别裁定代理范围、运算与研究意见",
+          "pending_issue": "B11待本人核验；先核原数，再分别裁定代理范围、运算与研究意见",
+          "stale_reason": "",
+          "numbers": [
+            "4,525,341,001.80",
+            "4,522,025,015.93",
+            "1,555,972,506.98"
+          ],
+          "candidate_fingerprint": "ce4747622c87f32dfd87c675e45e57ab9c34611727d6e7c9d0a1f814a4e2a909",
+          "binding": "dc85beea643cb0fb7cebcb5bd0b296df1308659da53c3f49c84815c050fea836"
+        }
+      },
+      {
+        "id": "R2011-01",
+        "original_id": "R2011-01",
+        "domain": "facts",
+        "claim": "2011选择性营运资本六项",
+        "kind": "disclosure",
+        "value": "存货7,187,117,552.86；应收票据252,101,396.08；应收账款2,225,396.48；预付款项1,861,027,424.03；应付账款172,343,585.06；预收款项7,026,648,776.80",
+        "scope": {
+          "period": "2011期末或本期列，按本行分别列示",
+          "entity": "当前项目披露主体",
+          "basis": "人民币元；合并资产负债表期末余额，仅本年度末列，不核年初/比较列；科目账面余额，存货非吨数",
+          "unit": "人民币元",
+          "definition": "2011选择性营运资本六项"
+        },
+        "sources": [
+          {
+            "source_id": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
+            "location": "PDF物理39、40页；逐字段页/表头见B11 JSON"
+          }
+        ],
+        "effective_state": "Unknown",
+        "verifier": "",
+        "confirmed_at": "",
+        "binding": "a4364f905a64c645ae6cbdb1a52de9dccf71b6aa66dfc25c16339b6b37203b08",
+        "issues": [],
+        "support_boundary": "只核原表金额，不确认科目全属经营、税率代表边际经营税率、选择性资本完整或实体回报；不得按本组所有正数直接相加",
+        "unsupported_boundary": "不证明真实NOPAT、完整NCWC、成熟后增量回报、全部年度可比或新签署",
+        "formula": "",
+        "details": {
+          "id": "R2011-01",
+          "claim": "2011选择性营运资本六项",
+          "source_version": "2011年年度报告；SHA见B11",
+          "year": 2011,
+          "period": "2011期末或本期列，按本行分别列示",
+          "location": "PDF物理39、40页；逐字段页/表头见B11 JSON",
+          "value": "存货7,187,117,552.86；应收票据252,101,396.08；应收账款2,225,396.48；预付款项1,861,027,424.03；应付账款172,343,585.06；预收款项7,026,648,776.80",
+          "scope": "人民币元；合并资产负债表期末余额，仅本年度末列，不核年初/比较列；科目账面余额，存货非吨数",
+          "unit": "人民币元",
+          "table": "来源定位见原PDF与口径",
+          "support_boundary": "只核原表金额，不确认科目全属经营、税率代表边际经营税率、选择性资本完整或实体回报；不得按本组所有正数直接相加",
+          "unsupported_boundary": "不证明真实NOPAT、完整NCWC、成熟后增量回报、全部年度可比或新签署",
+          "pdf_path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
+          "pdf_sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b",
+          "state": "Unknown",
+          "actor": "",
+          "confirmed_at": "",
+          "note": "B11待本人核验；先核原数，再分别裁定代理范围、运算与研究意见",
+          "pending_issue": "B11待本人核验；先核原数，再分别裁定代理范围、运算与研究意见",
+          "stale_reason": "",
+          "numbers": [
+            "7,187,117,552.86",
+            "252,101,396.08",
+            "2,225,396.48",
+            "1,861,027,424.03",
+            "172,343,585.06",
+            "7,026,648,776.80"
+          ],
+          "candidate_fingerprint": "e96744edea8f10853a5bbea1e1e688aec08956ad5fc006f6caa2b2afa2bbe710",
+          "binding": "a4364f905a64c645ae6cbdb1a52de9dccf71b6aa66dfc25c16339b6b37203b08"
+        }
+      },
+      {
+        "id": "R2011-02",
+        "original_id": "R2011-02",
+        "domain": "facts",
+        "claim": "2011长期资本三项",
+        "kind": "disclosure",
+        "value": "固定资产5,426,012,349.61；在建工程251,446,326.43；无形资产808,425,512.33",
+        "scope": {
+          "period": "2011期末或本期列，按本行分别列示",
+          "entity": "当前项目披露主体",
+          "basis": "人民币元；合并资产负债表期末账面金额；不是新增现金支出或全部长期经营资产",
+          "unit": "人民币元",
+          "definition": "2011长期资本三项"
+        },
+        "sources": [
+          {
+            "source_id": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
+            "location": "PDF物理39、40页；逐字段页/表头见B11 JSON"
+          }
+        ],
+        "effective_state": "Unknown",
+        "verifier": "",
+        "confirmed_at": "",
+        "binding": "21d68bbc447f40b6e29ab34770d65be5d4bed5d2148973b7663f2347be904e63",
+        "issues": [],
+        "support_boundary": "只核原表金额，不确认科目全属经营、税率代表边际经营税率、选择性资本完整或实体回报；不得按本组所有正数直接相加",
+        "unsupported_boundary": "不证明真实NOPAT、完整NCWC、成熟后增量回报、全部年度可比或新签署",
+        "formula": "",
+        "details": {
+          "id": "R2011-02",
+          "claim": "2011长期资本三项",
+          "source_version": "2011年年度报告；SHA见B11",
+          "year": 2011,
+          "period": "2011期末或本期列，按本行分别列示",
+          "location": "PDF物理39、40页；逐字段页/表头见B11 JSON",
+          "value": "固定资产5,426,012,349.61；在建工程251,446,326.43；无形资产808,425,512.33",
+          "scope": "人民币元；合并资产负债表期末账面金额；不是新增现金支出或全部长期经营资产",
+          "unit": "人民币元",
+          "table": "来源定位见原PDF与口径",
+          "support_boundary": "只核原表金额，不确认科目全属经营、税率代表边际经营税率、选择性资本完整或实体回报；不得按本组所有正数直接相加",
+          "unsupported_boundary": "不证明真实NOPAT、完整NCWC、成熟后增量回报、全部年度可比或新签署",
+          "pdf_path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
+          "pdf_sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b",
+          "state": "Unknown",
+          "actor": "",
+          "confirmed_at": "",
+          "note": "B11待本人核验；先核原数，再分别裁定代理范围、运算与研究意见",
+          "pending_issue": "B11待本人核验；先核原数，再分别裁定代理范围、运算与研究意见",
+          "stale_reason": "",
+          "numbers": [
+            "5,426,012,349.61",
+            "251,446,326.43",
+            "808,425,512.33"
+          ],
+          "candidate_fingerprint": "431918b13b3ebd33eb24e77b05456ae83352940fc8336c568905cc9d67483b93",
+          "binding": "21d68bbc447f40b6e29ab34770d65be5d4bed5d2148973b7663f2347be904e63"
+        }
+      },
+      {
+        "id": "R2011-03",
+        "original_id": "R2011-03",
+        "domain": "facts",
+        "claim": "2011NOPAT代理利润税费三项",
+        "kind": "disclosure",
+        "value": "三、营业利润12,336,164,425.08；四、利润总额12,334,660,473.80；减：所得税费用3,084,336,666.18",
+        "scope": {
+          "period": "2011期末或本期列，按本行分别列示",
+          "entity": "当前项目披露主体",
+          "basis": "人民币元；合并利润表本期年度流量，非归母；三科目用途不同不加总",
+          "unit": "人民币元",
+          "definition": "2011NOPAT代理利润税费三项"
+        },
+        "sources": [
+          {
+            "source_id": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
+            "location": "PDF物理44、45页；逐字段页/表头见B11 JSON"
+          }
+        ],
+        "effective_state": "Unknown",
+        "verifier": "",
+        "confirmed_at": "",
+        "binding": "cb8fc8984050d74c13019ed5627168ff904c5b2327175ac190cd3e9a7ebc8a61",
+        "issues": [],
+        "support_boundary": "只核原表金额，不确认科目全属经营、税率代表边际经营税率、选择性资本完整或实体回报；不得按本组所有正数直接相加",
+        "unsupported_boundary": "不证明真实NOPAT、完整NCWC、成熟后增量回报、全部年度可比或新签署",
+        "formula": "",
+        "details": {
+          "id": "R2011-03",
+          "claim": "2011NOPAT代理利润税费三项",
+          "source_version": "2011年年度报告；SHA见B11",
+          "year": 2011,
+          "period": "2011期末或本期列，按本行分别列示",
+          "location": "PDF物理44、45页；逐字段页/表头见B11 JSON",
+          "value": "三、营业利润12,336,164,425.08；四、利润总额12,334,660,473.80；减：所得税费用3,084,336,666.18",
+          "scope": "人民币元；合并利润表本期年度流量，非归母；三科目用途不同不加总",
+          "unit": "人民币元",
+          "table": "来源定位见原PDF与口径",
+          "support_boundary": "只核原表金额，不确认科目全属经营、税率代表边际经营税率、选择性资本完整或实体回报；不得按本组所有正数直接相加",
+          "unsupported_boundary": "不证明真实NOPAT、完整NCWC、成熟后增量回报、全部年度可比或新签署",
+          "pdf_path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
+          "pdf_sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b",
+          "state": "Unknown",
+          "actor": "",
+          "confirmed_at": "",
+          "note": "B11待本人核验；先核原数，再分别裁定代理范围、运算与研究意见",
+          "pending_issue": "B11待本人核验；先核原数，再分别裁定代理范围、运算与研究意见",
+          "stale_reason": "",
+          "numbers": [
+            "12,336,164,425.08",
+            "12,334,660,473.80",
+            "3,084,336,666.18"
+          ],
+          "candidate_fingerprint": "764cdc7cfa89c6fbc6aa5a2c905b7f75a6e4417597d2e7930a3c1d5ca9393a6c",
+          "binding": "cb8fc8984050d74c13019ed5627168ff904c5b2327175ac190cd3e9a7ebc8a61"
         }
       },
       {
@@ -12400,7 +12763,7 @@
       }
     ],
     "domains": {
-      "facts": 94,
+      "facts": 103,
       "change_facts": 2,
       "lec03_agent_facts": 16,
       "m01_scale_facts": 3,
@@ -13720,7 +14083,7 @@
       {
         "path": "work/20261012-supplement/conflict-register.md",
         "title": "conflict-register",
-        "sha256": "b889ca0aaa108a45d0e9a1c66e1754de72ba088a27abb6725ff86eda3540f025"
+        "sha256": "36a578f141cd8d51aed57fd0b0e853234fe24425aeb70a0be59ec736926f3b94"
       },
       {
         "path": "docs/20261012-next-task-checklist.md",
@@ -13730,7 +14093,7 @@
       {
         "path": "docs/task-status.md",
         "title": "task-status",
-        "sha256": "af2a31953b8d934eede9928234b61c5a875775b5f66a132e8aa9a832bb44e310"
+        "sha256": "680f42087817472fd87b32b23da5537a3ecfed78bbda5f380dfbf100f33ad1f3"
       },
       {
         "path": "work/yearly-changes.md",
@@ -13800,11 +14163,11 @@
       "profile": "existing",
       "signature_status": "查看原项目真实签署记录"
     },
-    "next_review_id": "R2025-24",
+    "next_review_id": "R2007-02",
     "counts": {
-      "Fact": 133,
-      "Unknown": 55,
-      "total": 188
+      "Fact": 142,
+      "Unknown": 52,
+      "total": 194
     },
     "research": {
       "configured": true,
@@ -14092,7 +14455,7 @@
           "interpretation": "长周期投入与销售存在时间差；存货金额、实物吨、项目投入与购建现金分开，不能仅由低Capex贴轻资产标签。",
           "alternative": "存货上升可能为产能配套、结构转换或积压；缺库龄时不能选择唯一原因。",
           "unknown": "经营资产/无息负债范围、维护/扩张Capex、成熟滞后和平均投入资本待裁定。",
-          "next_action": "B09已核，十年合并现金基础完成；核B10调节与四年度口径，随后补2007—2011代理及2012敏感性、同范围多年增量与三项表格复算；实体指标停止Unknown。",
+          "next_action": "B10已核，净利润→CFO勾稽为0；核B11资本代理两端24原数，再逐项范围/平均资本与多年增量成熟期判断、三项表格复算；实体指标Unknown。",
           "refutation": "库存与投入长期快于后续销售且回报未兑现，削弱资本效率解释。",
           "source_date": "",
           "source_role": "原始披露",
@@ -14143,7 +14506,16 @@
             "R2025-22",
             "R2023-10",
             "R2021-10",
-            "R2025-23"
+            "R2025-23",
+            "R2025-24",
+            "R2025-25",
+            "R2025-26",
+            "R2025-27",
+            "R2025-28",
+            "R2007-01",
+            "R2012-01",
+            "R2013-01",
+            "R2020-10"
           ],
           "evidence_bindings": {
             "R2024-08": "50b379e85fe4a04982f34e70de7b4dfa961702aa7a8675eee71b443cbab01145",
@@ -14192,7 +14564,16 @@
             "R2025-22": "f38aa36a8fca9b3f57627fafb32c9e968958d94c3d51e82efef1819d59be9f8e",
             "R2023-10": "39acf68909bb9d4264b19ddf71772fe8756085ca76337d6d395629e3ec27db39",
             "R2021-10": "37161e24fdc131909257b2ff4462d95a9bd3d2a4d0a401a30fd3a40a8485d7f8",
-            "R2025-23": "0a6c5effaa21206dc91aece00a3ba4c981415733aa209e1c18f310e86980b480"
+            "R2025-23": "0a6c5effaa21206dc91aece00a3ba4c981415733aa209e1c18f310e86980b480",
+            "R2025-24": "dc3a88327b9f4161e0f11a7f7f6bcbc9c66589e2d1663e5fd8253d5101188e0d",
+            "R2025-25": "10ff62041df87b48feccbe58421ee1f7077961850a3e6b4ffb3a11b22d4d149e",
+            "R2025-26": "77cfeda9c2852e7ff23c1a1aac9d3dfbe13131d34a0240f78cb60b143a2ad1f9",
+            "R2025-27": "65eb0561e812132bb76b96da0a42f79bfd97deef481d41148942b9ee858c4c70",
+            "R2025-28": "65a92b68fc922cbe6b7549700cab0fad39ba75e0e338a6bca45b65c88cec6854",
+            "R2007-01": "0881835c640891da14f847cf0d661d6e2aa0d6c42a3087f9939f7b7726266159",
+            "R2012-01": "da0d3bae5cd5547b416f9e77cbe83b776b5f3502684df14cbe4d62df52d0d038",
+            "R2013-01": "798a07c1437e0317693b83bd55c9d77a7a2ef1b614f40697b4d05ec39edb9b66",
+            "R2020-10": "c14a9002036ebc621d135496f21e748539c5b0fca2a141aa0a2a13d5fd5b3ee4"
           },
           "valid_evidence_ids": [
             "R2024-08",
@@ -14241,7 +14622,16 @@
             "R2025-22",
             "R2023-10",
             "R2021-10",
-            "R2025-23"
+            "R2025-23",
+            "R2025-24",
+            "R2025-25",
+            "R2025-26",
+            "R2025-27",
+            "R2025-28",
+            "R2007-01",
+            "R2012-01",
+            "R2013-01",
+            "R2020-10"
           ],
           "issues": [],
           "evidence_ready": true,
@@ -14257,7 +14647,7 @@
           "interpretation": "2024合并现金转换较强但跨年波动且含财务公司影响；已剔除的显式金融项只能形成有边界余额，不是准确酒类CFO。",
           "alternative": "收款节奏、合同负债与集团资金归集均可能改变合并CFO。",
           "unknown": "带合并抵销的金融净贡献、实体利润与受限现金、经营Capex归属Unknown。",
-          "next_action": "B09已核，十年合并现金基础完成；核B10调节与四年度口径，随后补2007—2011代理及2012敏感性、同范围多年增量与三项表格复算；实体指标停止Unknown。",
+          "next_action": "B10已核，净利润→CFO勾稽为0；核B11资本代理两端24原数，再逐项范围/平均资本与多年增量成熟期判断、三项表格复算；实体指标Unknown。",
           "refutation": "剔除时点和金融影响后实体现金持续弱于利润，削弱稳定现金创造解释。",
           "source_date": "",
           "source_role": "原始披露",
@@ -14274,7 +14664,16 @@
             "R2025-22",
             "R2023-10",
             "R2021-10",
-            "R2025-23"
+            "R2025-23",
+            "R2025-24",
+            "R2025-25",
+            "R2025-26",
+            "R2025-27",
+            "R2025-28",
+            "R2007-01",
+            "R2012-01",
+            "R2013-01",
+            "R2020-10"
           ],
           "evidence_bindings": {
             "C09": "86e23c22a3bacd4c1380022392a70a0e64c81e42960285f30b9cbb8a1d01e618",
@@ -14289,7 +14688,16 @@
             "R2025-22": "f38aa36a8fca9b3f57627fafb32c9e968958d94c3d51e82efef1819d59be9f8e",
             "R2023-10": "39acf68909bb9d4264b19ddf71772fe8756085ca76337d6d395629e3ec27db39",
             "R2021-10": "37161e24fdc131909257b2ff4462d95a9bd3d2a4d0a401a30fd3a40a8485d7f8",
-            "R2025-23": "0a6c5effaa21206dc91aece00a3ba4c981415733aa209e1c18f310e86980b480"
+            "R2025-23": "0a6c5effaa21206dc91aece00a3ba4c981415733aa209e1c18f310e86980b480",
+            "R2025-24": "dc3a88327b9f4161e0f11a7f7f6bcbc9c66589e2d1663e5fd8253d5101188e0d",
+            "R2025-25": "10ff62041df87b48feccbe58421ee1f7077961850a3e6b4ffb3a11b22d4d149e",
+            "R2025-26": "77cfeda9c2852e7ff23c1a1aac9d3dfbe13131d34a0240f78cb60b143a2ad1f9",
+            "R2025-27": "65eb0561e812132bb76b96da0a42f79bfd97deef481d41148942b9ee858c4c70",
+            "R2025-28": "65a92b68fc922cbe6b7549700cab0fad39ba75e0e338a6bca45b65c88cec6854",
+            "R2007-01": "0881835c640891da14f847cf0d661d6e2aa0d6c42a3087f9939f7b7726266159",
+            "R2012-01": "da0d3bae5cd5547b416f9e77cbe83b776b5f3502684df14cbe4d62df52d0d038",
+            "R2013-01": "798a07c1437e0317693b83bd55c9d77a7a2ef1b614f40697b4d05ec39edb9b66",
+            "R2020-10": "c14a9002036ebc621d135496f21e748539c5b0fca2a141aa0a2a13d5fd5b3ee4"
           },
           "valid_evidence_ids": [
             "C09",
@@ -14304,7 +14712,16 @@
             "R2025-22",
             "R2023-10",
             "R2021-10",
-            "R2025-23"
+            "R2025-23",
+            "R2025-24",
+            "R2025-25",
+            "R2025-26",
+            "R2025-27",
+            "R2025-28",
+            "R2007-01",
+            "R2012-01",
+            "R2013-01",
+            "R2020-10"
           ],
           "issues": [],
           "evidence_ready": true,
@@ -14993,13 +15410,14 @@
       "active_extension_contract": {
         "name": "第五次任务延伸合同_贵州茅台现金与资本回报验证.md",
         "progress": "work/cash-20261024/progress.json",
-        "next_batch": "B10",
+        "next_batch": "B11",
         "current_result": "outputs/student-cash-capital-check.md",
         "entity_cash_return_status": "Unknown",
         "previous_N03_adoption": "scripts/channel_n03_review.py:current_n03_adoption",
         "current_complete_cash_n": 10,
         "next_content_review": null,
-        "scope_correction": "SC34：2012已合并，2013正式营业；B10待核；2007—2011候选主窗，2012单列敏感性"
+        "scope_correction": "SC34原文B10已核：2012已合并/2013正式营业；代理范围及2012敏感性待判",
+        "cash_reconciliation_2025_residual_yuan": "0.00"
       },
       "counts": {
         "nodes": 8,

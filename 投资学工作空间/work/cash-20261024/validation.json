@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
   "authority_counts": {
-    "facts": 94,
+    "facts": 103,
     "change_facts": 2,
     "lec03_agent_facts": 16,
     "m01_scale_facts": 3,
@@ -37,16 +37,35 @@
     2025
   ],
   "independent_fraction_checks": 40,
-  "repeat_calculation_byte_identical": "数值/全部输入语义重复一致；发布前仅改四关口计数的文字，生成元数据按当前代码重写",
-  "B10_pending": 9,
-  "B10_pending_not_used_as_facts_or_calculation_inputs": true,
+  "repeat_calculation_byte_identical": "本轮新增调节/断点语义；原十年面板与诊断精确一致，新增调节由Fraction独立复核",
+  "B10_pending": 0,
   "source_originals_unchanged": true,
   "local_annual_copies_byte_identical_to_archive": true,
   "entity_CFO_FCFF_ROIC_all_unknown": true,
   "teacher_HV_imported": false,
   "N03_and_G6_adoption": "accepted-current",
   "research_content_or_signature_created": false,
-  "code_sha256": "41c4b4d72db5e355cca6aa34b8e80ae90596f1c33567bb36577a46f1b0ced7aa",
-  "report_fingerprint": "63f9b491a256bd939669f3f67e94d0c268c597713a67f85411d086ba969a10fa",
-  "scope_correction": "SC34：2012已合并/2013正式营业原文观察待B10核验；代理主窗与2012敏感性分开"
+  "code_sha256": "f0bdc2553d735c6fe62c0983ef373ee93a0bf93240adc3992a63ab5318e7014b",
+  "report_fingerprint": "cf270c9c091f2cbc0071bc55138bf767c806b3fc04b7adfa47585417067db52a",
+  "scope_correction": "SC34原文B10已核；2012合并/2013营业分开，代理范围与敏感性仍待判",
+  "B10_events": [
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104
+  ],
+  "B10_confirmed_inputs_used": 9,
+  "B11_pending": 6,
+  "B11_pending_not_used_as_facts_or_calculation_inputs": true,
+  "independent_cash_reconciliation_fraction_exact": true,
+  "cash_reconciliation_residual_yuan": "0.00",
+  "raw_blank_count": 2,
+  "raw_blanks_not_disclosed_zero": true,
+  "B09_ten_year_panel_and_diagnostics_exactly_preserved": true,
+  "breakpoint_current_original_facts": 4
 }

@@ -27,6 +27,14 @@
       "archive_sha256": "50c476c266df02ee0283238f98fbcfb946e8155c48f1653b635c55fb706be13b",
       "byte_identical_to_archive": true,
       "originals_uploaded": false
+    },
+    {
+      "year": 2011,
+      "source_path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
+      "source_sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b",
+      "archive_member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2011Q4.pdf",
+      "byte_identical_to_archive": true,
+      "originals_uploaded": false
     }
   ],
   "originals_modified": false,

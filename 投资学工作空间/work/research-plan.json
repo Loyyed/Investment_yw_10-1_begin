@@ -93,7 +93,7 @@
       "interpretation": "长周期投入与销售存在时间差；存货金额、实物吨、项目投入与购建现金分开，不能仅由低Capex贴轻资产标签。",
       "alternative": "存货上升可能为产能配套、结构转换或积压；缺库龄时不能选择唯一原因。",
       "unknown": "经营资产/无息负债范围、维护/扩张Capex、成熟滞后和平均投入资本待裁定。",
-      "next_action": "B09已核，十年合并现金基础完成；核B10调节与四年度口径，随后补2007—2011代理及2012敏感性、同范围多年增量与三项表格复算；实体指标停止Unknown。",
+      "next_action": "B10已核，净利润→CFO勾稽为0；核B11资本代理两端24原数，再逐项范围/平均资本与多年增量成熟期判断、三项表格复算；实体指标Unknown。",
       "refutation": "库存与投入长期快于后续销售且回报未兑现，削弱资本效率解释。",
       "source_date": "",
       "source_role": "原始披露",
@@ -144,7 +144,16 @@
         "R2025-22",
         "R2023-10",
         "R2021-10",
-        "R2025-23"
+        "R2025-23",
+        "R2025-24",
+        "R2025-25",
+        "R2025-26",
+        "R2025-27",
+        "R2025-28",
+        "R2007-01",
+        "R2012-01",
+        "R2013-01",
+        "R2020-10"
       ],
       "evidence_bindings": {
         "R2024-08": "50b379e85fe4a04982f34e70de7b4dfa961702aa7a8675eee71b443cbab01145",
@@ -193,7 +202,16 @@
         "R2025-22": "f38aa36a8fca9b3f57627fafb32c9e968958d94c3d51e82efef1819d59be9f8e",
         "R2023-10": "39acf68909bb9d4264b19ddf71772fe8756085ca76337d6d395629e3ec27db39",
         "R2021-10": "37161e24fdc131909257b2ff4462d95a9bd3d2a4d0a401a30fd3a40a8485d7f8",
-        "R2025-23": "0a6c5effaa21206dc91aece00a3ba4c981415733aa209e1c18f310e86980b480"
+        "R2025-23": "0a6c5effaa21206dc91aece00a3ba4c981415733aa209e1c18f310e86980b480",
+        "R2025-24": "dc3a88327b9f4161e0f11a7f7f6bcbc9c66589e2d1663e5fd8253d5101188e0d",
+        "R2025-25": "10ff62041df87b48feccbe58421ee1f7077961850a3e6b4ffb3a11b22d4d149e",
+        "R2025-26": "77cfeda9c2852e7ff23c1a1aac9d3dfbe13131d34a0240f78cb60b143a2ad1f9",
+        "R2025-27": "65eb0561e812132bb76b96da0a42f79bfd97deef481d41148942b9ee858c4c70",
+        "R2025-28": "65a92b68fc922cbe6b7549700cab0fad39ba75e0e338a6bca45b65c88cec6854",
+        "R2007-01": "0881835c640891da14f847cf0d661d6e2aa0d6c42a3087f9939f7b7726266159",
+        "R2012-01": "da0d3bae5cd5547b416f9e77cbe83b776b5f3502684df14cbe4d62df52d0d038",
+        "R2013-01": "798a07c1437e0317693b83bd55c9d77a7a2ef1b614f40697b4d05ec39edb9b66",
+        "R2020-10": "c14a9002036ebc621d135496f21e748539c5b0fca2a141aa0a2a13d5fd5b3ee4"
       }
     },
     {
@@ -204,7 +222,7 @@
       "interpretation": "2024合并现金转换较强但跨年波动且含财务公司影响；已剔除的显式金融项只能形成有边界余额，不是准确酒类CFO。",
       "alternative": "收款节奏、合同负债与集团资金归集均可能改变合并CFO。",
       "unknown": "带合并抵销的金融净贡献、实体利润与受限现金、经营Capex归属Unknown。",
-      "next_action": "B09已核，十年合并现金基础完成；核B10调节与四年度口径，随后补2007—2011代理及2012敏感性、同范围多年增量与三项表格复算；实体指标停止Unknown。",
+      "next_action": "B10已核，净利润→CFO勾稽为0；核B11资本代理两端24原数，再逐项范围/平均资本与多年增量成熟期判断、三项表格复算；实体指标Unknown。",
       "refutation": "剔除时点和金融影响后实体现金持续弱于利润，削弱稳定现金创造解释。",
       "source_date": "",
       "source_role": "原始披露",
@@ -221,7 +239,16 @@
         "R2025-22",
         "R2023-10",
         "R2021-10",
-        "R2025-23"
+        "R2025-23",
+        "R2025-24",
+        "R2025-25",
+        "R2025-26",
+        "R2025-27",
+        "R2025-28",
+        "R2007-01",
+        "R2012-01",
+        "R2013-01",
+        "R2020-10"
       ],
       "evidence_bindings": {
         "C09": "86e23c22a3bacd4c1380022392a70a0e64c81e42960285f30b9cbb8a1d01e618",
@@ -236,7 +263,16 @@
         "R2025-22": "f38aa36a8fca9b3f57627fafb32c9e968958d94c3d51e82efef1819d59be9f8e",
         "R2023-10": "39acf68909bb9d4264b19ddf71772fe8756085ca76337d6d395629e3ec27db39",
         "R2021-10": "37161e24fdc131909257b2ff4462d95a9bd3d2a4d0a401a30fd3a40a8485d7f8",
-        "R2025-23": "0a6c5effaa21206dc91aece00a3ba4c981415733aa209e1c18f310e86980b480"
+        "R2025-23": "0a6c5effaa21206dc91aece00a3ba4c981415733aa209e1c18f310e86980b480",
+        "R2025-24": "dc3a88327b9f4161e0f11a7f7f6bcbc9c66589e2d1663e5fd8253d5101188e0d",
+        "R2025-25": "10ff62041df87b48feccbe58421ee1f7077961850a3e6b4ffb3a11b22d4d149e",
+        "R2025-26": "77cfeda9c2852e7ff23c1a1aac9d3dfbe13131d34a0240f78cb60b143a2ad1f9",
+        "R2025-27": "65eb0561e812132bb76b96da0a42f79bfd97deef481d41148942b9ee858c4c70",
+        "R2025-28": "65a92b68fc922cbe6b7549700cab0fad39ba75e0e338a6bca45b65c88cec6854",
+        "R2007-01": "0881835c640891da14f847cf0d661d6e2aa0d6c42a3087f9939f7b7726266159",
+        "R2012-01": "da0d3bae5cd5547b416f9e77cbe83b776b5f3502684df14cbe4d62df52d0d038",
+        "R2013-01": "798a07c1437e0317693b83bd55c9d77a7a2ef1b614f40697b4d05ec39edb9b66",
+        "R2020-10": "c14a9002036ebc621d135496f21e748539c5b0fca2a141aa0a2a13d5fd5b3ee4"
       }
     },
     {
@@ -809,12 +845,13 @@
   "active_extension_contract": {
     "name": "第五次任务延伸合同_贵州茅台现金与资本回报验证.md",
     "progress": "work/cash-20261024/progress.json",
-    "next_batch": "B10",
+    "next_batch": "B11",
     "current_result": "outputs/student-cash-capital-check.md",
     "entity_cash_return_status": "Unknown",
     "previous_N03_adoption": "scripts/channel_n03_review.py:current_n03_adoption",
     "current_complete_cash_n": 10,
     "next_content_review": null,
-    "scope_correction": "SC34：2012已合并，2013正式营业；B10待核；2007—2011候选主窗，2012单列敏感性"
+    "scope_correction": "SC34原文B10已核：2012已合并/2013正式营业；代理范围及2012敏感性待判",
+    "cash_reconciliation_2025_residual_yuan": "0.00"
   }
 }
