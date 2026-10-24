@@ -1,0 +1,11 @@
+{
+  "review_id": "G6-20261024",
+  "display_version": 1,
+  "status": "accepted-current-Interpretation",
+  "actual_user_reply": "认可G6两项判断",
+  "receipt": "evidence/20261024-g6-chat-adoption.json",
+  "display_payload_sha256": "736094d61b07b91e230a55c1a1162b116c536983e377f433fa8f7199606acda3",
+  "display_manifest_unchanged": true,
+  "teacher_approval": false,
+  "new_signature_created": false
+}

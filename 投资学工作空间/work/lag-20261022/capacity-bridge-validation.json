@@ -20,12 +20,12 @@
   ],
   "original_display_unchanged": true,
   "old_records_events_preserved": true,
-  "code_sha256": "df0f8c0ad5a34f6891f8c6f77172490b92279f23f655af3ba0f7634c93e59228",
+  "code_sha256": "9db38478d31f13cd312d00701810932856c4e2228bae20a700250069285cf637",
   "fixed_asset_independent_residual_yuan": "0.00",
   "important_cip_listed_amount_residual_yuan": "0.00",
   "blank_other_decrease_imputed": false,
   "G6_review_id": "G6-20261024",
-  "G6_status": "pending-human-content-review",
+  "G6_status": "accepted-current-Interpretation",
   "new_human_arithmetic_mechanism_or_signature_confirmation": false,
   "conflict_ids": [
     "SC28",
@@ -35,5 +35,7 @@
   "report_status": "待人工内容审阅",
   "repeat_calculation_byte_identical": true,
   "G6_current_authority_and_artifact_bindings_checked": true,
-  "G6_display_payload_sha256": "736094d61b07b91e230a55c1a1162b116c536983e377f433fa8f7199606acda3"
+  "G6_display_payload_sha256": "736094d61b07b91e230a55c1a1162b116c536983e377f433fa8f7199606acda3",
+  "G6_adoption_validation": "work/lag-20261022/g6-adoption-validation.json",
+  "numeric_semantics_unchanged_after_status_refresh": true
 }

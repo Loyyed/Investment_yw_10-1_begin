@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-24",
+  "contract": "第五次任务延伸合同_贵州茅台渠道净贡献验证.md",
+  "contract_sha256": "fa36428379f160d124a83a2e9906328ca904b9cce3fb6cea9fcf3d8ab99ab8af",
+  "status": "执行中：复用有效旧数据，B07补缺失五年渠道金额",
+  "required_years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "current_source_validated_years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "pending_years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2025
+  ],
+  "reused_input_groups": [
+    {
+      "id": "L03-A2020-B",
+      "validated_snapshot_sha256": "4ae6e4b348326ca7be20b9bf23c65ad74df7b56f250173eb9f60ccefc9df42c7",
+      "pdf_sha256": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c"
+    },
+    {
+      "id": "L03-A2021-B",
+      "validated_snapshot_sha256": "c67b49c149f5ac33e7777db84ea62952cee50a6980ff3a84ce63212cccb110c1",
+      "pdf_sha256": "f65effdde58bcea99fd6bdb53f61b31d5c432e6dfb2661e5caf05156a433ea5a"
+    },
+    {
+      "id": "L03-A2022-B",
+      "validated_snapshot_sha256": "8935ec174c5c934c6ab21d96776717dc20f92d184ccb0fc92fcf826d9f4adc5f",
+      "pdf_sha256": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358"
+    },
+    {
+      "id": "L03-A2023-B",
+      "validated_snapshot_sha256": "394ee644f6b4a9fc2b27500510b1c5e091ebde161eabbf6b2b96b69f24eac9a2",
+      "pdf_sha256": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1"
+    },
+    {
+      "id": "L03-A2024-B",
+      "validated_snapshot_sha256": "dab33bf43b3e52e24fcfd32b3706f88821594fa28e8ddd1ade859a707ee160ca",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+    }
+  ],
+  "next_batch": "B07",
+  "pending_steps": [
+    "FY2016披露起点与FY2022定义断点核对",
+    "十年份额/直接毛利率及差额复算",
+    "midpoint/Shapley恒等分解",
+    "销售费用率有效样本与n",
+    "主营渠道与附注口径比较",
+    "N03意见、替代解释与反证"
+  ],
+  "net_contribution_status": "Unknown：按渠道归属的费用、回款和库存不足，禁止按收入主观分摊",
+  "new_signatures": 0
+}

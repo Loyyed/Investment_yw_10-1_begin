@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-24",
+  "adoption": {
+    "status": "accepted-current",
+    "judgment_type": "Interpretation",
+    "adopted_ids": [
+      "G6-N02",
+      "G6-N05"
+    ],
+    "actual_user_reply": "认可G6两项判断",
+    "actor": "user",
+    "reviewer_name": null,
+    "recorded_at": "2026-10-24T14:14:32+08:00",
+    "display_payload_sha256": "736094d61b07b91e230a55c1a1162b116c536983e377f433fa8f7199606acda3",
+    "new_signature_created": false,
+    "boundary": "只审阅有范围的研究解释与反证；不确认新原数、完整项目回报、教师批准或新签署；FY2025仅后验。"
+  },
+  "authority_counts": {
+    "facts": 68,
+    "change_facts": 2,
+    "lec03_agent_facts": 16,
+    "m01_scale_facts": 3,
+    "m01_metric_facts": 15,
+    "m01_disclosure_facts": 3
+  },
+  "original_fact_ledger_unchanged": true,
+  "immutable_G6_display_preserved": true,
+  "current_calculation_semantics_match_reviewed_snapshot": true,
+  "no_new_signature_or_teacher_approval": true,
+  "revision_pair_check": "work/lag-20261022/revision-pair-check.json",
+  "next_contract": "第五次任务延伸合同_贵州茅台渠道净贡献验证.md",
+  "B07_pending": 5,
+  "report_fingerprint": "ee8b8580f0cb4e3aa5109d5155f43b8bb16f9d488888a041bc04ceb90427002e",
+  "isolated_validator_checks": {
+    "unchanged_current_source_fixture": true,
+    "presentation_metadata_preserves_adoption": true,
+    "numeric_change_invalidates_adoption": true,
+    "source_binding_change_invalidates_adoption": true
+  },
+  "test_fixtures_never_used_as_project_facts": true
+}

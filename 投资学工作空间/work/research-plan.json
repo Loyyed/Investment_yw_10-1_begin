@@ -93,7 +93,7 @@
       "interpretation": "长周期投入与销售存在时间差；存货金额、实物吨、项目投入与购建现金分开，不能仅由低Capex贴轻资产标签。",
       "alternative": "存货上升可能为产能配套、结构转换或积压；缺库龄时不能选择唯一原因。",
       "unknown": "经营资产/无息负债范围、维护/扩张Capex、成熟滞后和平均投入资本待裁定。",
-      "next_action": "B06已确认，可核数字连接完成。请本人集中审阅student-lag-g6-review.md两项Interpretation；不重复核旧原数，完整项目现金/回报归因仍Unknown；G0版本与教师批准另列。",
+      "next_action": "生产库存延伸合同G6两项有范围Interpretation已由本人采纳，current_g6_adoption()须动态验证；完整回报归因保留Unknown，正式材料批准/验收分开。",
       "refutation": "库存与投入长期快于后续销售且回报未兑现，削弱资本效率解释。",
       "source_date": "",
       "source_role": "原始披露",
@@ -232,7 +232,7 @@
       "interpretation": "2016—2025半成品数量占比92.71%—96.66%；五组t+5及全部k诊断完成。2025成品库存+39.47%，快于公司出货+2.13%，须核库龄/投放节奏及需求，现有资料不能裁定积压。2025仅后验，新运算AgentCalculated，未自动确认新机制。",
       "alternative": "等待时间也可能抬高库存风险与资本需求，不必然产生稀缺收益。",
       "unknown": "十年库存独立勾稽已完成；库龄、可售批次映射、终端需求、产能释放实现与成熟后增量回报仍Unknown。",
-      "next_action": "B06已确认，可核数字连接完成。请本人集中审阅student-lag-g6-review.md两项Interpretation；不重复核旧原数，完整项目现金/回报归因仍Unknown；G0版本与教师批准另列。",
+      "next_action": "生产库存延伸合同G6两项有范围Interpretation已由本人采纳，current_g6_adoption()须动态验证；完整回报归因保留Unknown，正式材料批准/验收分开。",
       "refutation": "成熟库存长期不能在预期需求下兑现，削弱资源经济价值解释。",
       "source_date": "",
       "source_role": "原始披露",
@@ -315,6 +315,13 @@
         "R2025-14": "2732a7d17829667cd9af41478885d22dec4fd6cea9d539f7ce5f0c394e47de47",
         "R2025-15": "e757f80d9c7d3c3ae11cdee8387e1ce2859b52cf04cc4dd92a232154657d89f5",
         "R2025-16": "d408383d1b538690fa3ee7c47819e8a34b9ca9c6911a70183e7b4c4f10745c4f"
+      },
+      "content_adoption": {
+        "review_id": "G6-20261024",
+        "validator": "scripts/lag_g6_review.py:current_g6_adoption",
+        "judgment_type": "Interpretation",
+        "receipt": "evidence/20261024-g6-chat-adoption.json",
+        "new_signature": false
       }
     },
     {

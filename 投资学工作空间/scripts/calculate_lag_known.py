@@ -66,6 +66,11 @@ def main(p=ROOT):
   note=f"2025后验变化：公司成品库存由{current_change['finished']['previous_tonnes']}吨增至{current_change['finished']['current_tonnes']}吨，增加{current_change['finished']['delta_tonnes']}吨（{current_change['finished']['growth_percent_display']}%）；公司两产品组销售/出货合计由{current_change['company_shipments']['previous_tonnes']}吨增至{current_change['company_shipments']['current_tonnes']}吨（{current_change['company_shipments']['growth_percent_display']}%）。成品库存增长快于当年出货是应核查库龄、包装/投放节奏及需求的线索；公司库存不是渠道库存，出货不是终端动销，尚不能据此裁定积压。"
   lines.insert(lines.index('## 7. N05当前判断')-1,note)
   lines+=['','交付补充：[B04独立总量实际核验回执](../evidence/20261023-b04-chat-confirmation.json)、[B03实际核验回执](../evidence/20261022-b03-chat-confirmation.json)、[诊断CSV](student-lag-diagnostics.csv)、[电子表格公式复算](生产库存销售滞后复算.xlsx)。电子表格引擎与Python已核对10项占比、16项相关和5组收入；未冒称原生Excel已打开或本人手工操作，真实状态见work/lag-20261022/spreadsheet-validation.json。','']
+  from lag_g6_review import current_g6_adoption
+  adoption=current_g6_adoption(p)
+  if adoption['status']=='accepted-current':
+   lines=[line.replace('待人工审阅Interpretation','本人已采纳的有范围Interpretation').replace('Interpretation，待人工内容审阅','Interpretation，本人已于2026-10-24采纳有范围意见').replace('解释待人工审阅','有范围解释已获本人采纳').replace('待本人集中审阅','两项已获本人采纳，当前见结论稿').replace('下一步为G6有范围的判断审阅','G6有范围的判断已获本人采纳').replace('[G6两项判断](student-lag-g6-review.md)','[G6已采纳结论](student-lag-conclusion.md)') for line in lines]
+   lines+=['','[本人已采纳的当前结论](student-lag-conclusion.md)；[真实内容采纳回执](../evidence/20261024-g6-chat-adoption.json)。采纳不把Interpretation升级为Fact，Unknown与反证继续保留。','']
   text='\n'.join(lines).rstrip()+'\n';directory=p/'work/lag-20261022';out=p/'outputs/student-lag-check.md';previous=directory/'calculations.json'
   if out.exists():
    assert previous.exists() and sha(out)==json.loads(previous.read_text(encoding='utf-8'))['generated_output_sha256'],'Manual output edits detected; stop instead of overwrite'

@@ -2,7 +2,7 @@
   "date": "2026-10-24",
   "state": "AgentCalculated",
   "human_arithmetic_confirmation": false,
-  "code_sha256": "df0f8c0ad5a34f6891f8c6f77172490b92279f23f655af3ba0f7634c93e59228",
+  "code_sha256": "9db38478d31f13cd312d00701810932856c4e2228bae20a700250069285cf637",
   "capacity": [
     {
       "product": "茅台酒",
@@ -332,6 +332,6 @@
     "project_accumulation_residual": "2025 accumulated−2024 accumulated−2025 current, in 万元"
   },
   "precision": 48,
-  "generated_output_sha256": "d5014d55c05ac5ea199e8e42496b4d0b6a801b391404dd1ffe0d3b99e0a70089",
+  "generated_output_sha256": "5dc6ccf2120906d6068ceb9d8a5356a555c69770af029895fc0dd30aa4e292ec",
   "complete_project_cash_production_sales_bridge": "Unknown"
 }

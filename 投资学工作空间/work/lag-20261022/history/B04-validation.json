@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-23",
+  "authority_counts": {
+    "facts": 53,
+    "change_facts": 2,
+    "lec03_agent_facts": 16,
+    "m01_scale_facts": 3,
+    "m01_metric_facts": 15,
+    "m01_disclosure_facts": 3
+  },
+  "B03_events": [
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49
+  ],
+  "B03_display_immutable": true,
+  "original_candidates_and_authority_code_preserved": true,
+  "full_window": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "cohort_rows": 5,
+  "lag_diagnostics": 16,
+  "lag_n": [
+    10,
+    9,
+    8,
+    7,
+    6,
+    5,
+    4,
+    3
+  ],
+  "repeat_calculation_byte_identical": true,
+  "spreadsheet_validation": "work/lag-20261022/spreadsheet-validation.json",
+  "native_Excel_or_human_operation_claimed": false,
+  "B04_pending_items": 0,
+  "B04_current_bindings_checked": true,
+  "report_fingerprint": "c789e7551e6f986353a360500b1638578ee8b457b736cc1472de6e7a25a9035e",
+  "report_status": "待人工内容审阅",
+  "new_human_arithmetic_or_mechanism_confirmations": 0,
+  "new_signature_events": 0,
+  "originals_uploaded": false,
+  "B04_events": [
+    50,
+    51,
+    52,
+    53,
+    54
+  ],
+  "B04_display_immutable": true,
+  "B04_independent_totals_wired": 5,
+  "independent_inventory_reconciliations": 10,
+  "independent_inventory_all_zero": true,
+  "prior_lag_cohort_annual_changes_unchanged": true,
+  "B05_pending_items": 7
+}

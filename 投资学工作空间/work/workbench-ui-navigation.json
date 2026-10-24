@@ -1,16 +1,22 @@
 {
   "schema_version": 1,
   "date": "2026-10-24",
-  "next_review_id": "",
-  "next_review_scope": "B06已确认；下一步G6两项研究判断内容审阅，非原数核验；G0版本与教师批准仍独立待办",
+  "next_review_id": "R2016-06",
+  "next_review_scope": "渠道净贡献延伸合同B07：2016/17/18/19/2025五年主营渠道收入及营业成本，人民币元；2020—2024复用有效组",
   "preferred_confirmation_channel": "actual-user-chat",
   "completed_review_id": "",
   "completed_event": 69,
   "completed_channel": "actual-user-chat",
   "completed_reviewer": "leo",
   "toolkit_directory": "投资学公司分析通用工作台",
-  "next_review_batch": "",
-  "next_review_ids": [],
+  "next_review_batch": "B07",
+  "next_review_ids": [
+    "R2016-06",
+    "R2017-03",
+    "R2018-03",
+    "R2019-03",
+    "R2025-17"
+  ],
   "completed_batch": "B06",
   "completed_review_ids": [
     "R2025-09",
@@ -32,7 +38,9 @@
     68,
     69
   ],
-  "next_action_kind": "human-content-review",
-  "next_content_review_id": "G6-20261024",
-  "next_content_review_path": "outputs/student-lag-g6-review.md"
+  "next_action_kind": "human-batch-review",
+  "next_content_review_id": "",
+  "next_content_review_path": "",
+  "completed_content_review": "G6-20261024",
+  "completed_content_reply": "认可G6两项判断"
 }

@@ -3,7 +3,7 @@
   "state": "AgentCalculated",
   "human_arithmetic_confirmation": false,
   "code_path": "scripts/calculate_lag_known.py",
-  "code_sha256": "7dd1b8fcccd7f70a788af85ac372bea0f84ff3fbe5659c57bda7f8800ec54aff",
+  "code_sha256": "48b05885ad2fa6cce3d358be4e186e13aea3f2fd2d59ec3429f7a74aad1310fa",
   "sample_years": [
     2016,
     2017,
@@ -1153,5 +1153,5 @@
     2024,
     2025
   ],
-  "generated_output_sha256": "1d90dccd27067c1bec28794b7bcb21fbe02dd86a95e4a4f8c5adf99ca645f5ad"
+  "generated_output_sha256": "8b2acb8579482901750e02dfdf93ffba79568b1ba64a726f5513d78a59129425"
 }

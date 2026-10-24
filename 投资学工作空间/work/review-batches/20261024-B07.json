@@ -1,0 +1,113 @@
+{
+  "batch_id": "B07",
+  "version": 1,
+  "date": "2026-10-24",
+  "status": "pending-human-confirmation",
+  "contract": "第五次任务延伸合同_贵州茅台渠道净贡献验证.md",
+  "purpose": "渠道净贡献延伸合同：只补十年主渠道面板当前缺的五年收入/营业成本；复用2020—2024有效组",
+  "items": [
+    {
+      "id": "R2016-06",
+      "year": 2016,
+      "name": "2016主营业务按销售渠道收入及营业成本",
+      "value": "直销收入3,484,895,916.38／成本212,963,457.18；批发收入35,356,078,689.16／成本3,160,454,366.93",
+      "page": 14,
+      "source_path": "sources/annual_reports/pdf/600519_2016_贵州茅台_2016年年度报告.pdf",
+      "source_sha256": "dd26d9e0017a938cb5e1aa0a830bab7502d0de1f85eb7c00abffb4888c8c20ad",
+      "scope": "人民币元；年度流量；主营业务构成的按销售渠道／销售模式表，直销与批发分别列收入/营业成本，不是公司全部收入或附注合同收入分解",
+      "boundary": "只确认原收入/成本及所属表；i茅台不另加直销，毛利不等于扣除渠道费用后的净贡献；表内同比/毛利率与口径断点另行处理",
+      "fields": {
+        "direct_revenue_yuan": "3484895916.38",
+        "direct_cost_yuan": "212963457.18",
+        "wholesale_revenue_yuan": "35356078689.16",
+        "wholesale_cost_yuan": "3160454366.93"
+      },
+      "binding": "65ca78d58ef33b9d5b78d0eca6d96950f9236e091126cf181d7b7afdec793a72",
+      "candidate_fingerprint": "4a241b88decc3962c5ebe08c709716088e84ae47f7b600f0befcaf320d9f1710",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2017-03",
+      "year": 2017,
+      "name": "2017主营业务按销售渠道收入及营业成本",
+      "value": "直销收入6,247,060,753.21／成本407,407,670.86；批发收入51,921,529,539.18／成本5,507,255,055.93",
+      "page": 13,
+      "source_path": "sources/annual_reports/pdf/600519_2017_贵州茅台_2017年年度报告.pdf",
+      "source_sha256": "b66a4641e5f2313ed7964e5bef0026021ff2164459d0e0615f1b4385ba1a78e3",
+      "scope": "人民币元；年度流量；主营业务构成的按销售渠道／销售模式表，直销与批发分别列收入/营业成本，不是公司全部收入或附注合同收入分解",
+      "boundary": "只确认原收入/成本及所属表；i茅台不另加直销，毛利不等于扣除渠道费用后的净贡献；表内同比/毛利率与口径断点另行处理",
+      "fields": {
+        "direct_revenue_yuan": "6247060753.21",
+        "direct_cost_yuan": "407407670.86",
+        "wholesale_revenue_yuan": "51921529539.18",
+        "wholesale_cost_yuan": "5507255055.93"
+      },
+      "binding": "761faca55f0fdc3ec01a4eec2cadfe7bff1479574738cf791c3b26ed01c44608",
+      "candidate_fingerprint": "6a17705c898e38e6de7fa856673047bbb6f44f7a151758092f844e76c094a1a0",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2018-03",
+      "year": 2018,
+      "name": "2018主营业务按销售渠道收入及营业成本",
+      "value": "直销收入4,375,853,481.50／成本263,074,799.85；批发收入69,188,816,466.75／成本6,173,779,097.22",
+      "page": 16,
+      "source_path": "sources/annual_reports/pdf/600519_2018_贵州茅台_2018年年度报告.pdf",
+      "source_sha256": "08728fc937836cfeed8e98aeda932da54c737efa6de4280ae001476c0e393dec",
+      "scope": "人民币元；年度流量；主营业务构成的按销售渠道／销售模式表，直销与批发分别列收入/营业成本，不是公司全部收入或附注合同收入分解",
+      "boundary": "只确认原收入/成本及所属表；i茅台不另加直销，毛利不等于扣除渠道费用后的净贡献；表内同比/毛利率与口径断点另行处理",
+      "fields": {
+        "direct_revenue_yuan": "4375853481.50",
+        "direct_cost_yuan": "263074799.85",
+        "wholesale_revenue_yuan": "69188816466.75",
+        "wholesale_cost_yuan": "6173779097.22"
+      },
+      "binding": "41bcf542ebade5c8034edf45f87bfdc44fda01c85b34286865b066d2340be6dd",
+      "candidate_fingerprint": "10cf8e3c2a5b776167f98c762ae6f6d618b47b6a1359f8eceac8aafdcbb227f8",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2019-03",
+      "year": 2019,
+      "name": "2019主营业务按销售渠道收入及营业成本",
+      "value": "直销收入7,248,659,732.50／成本361,480,841.16；批发收入78,095,908,608.73／成本7,003,336,780.12",
+      "page": "15—16",
+      "source_path": "sources/annual_reports/pdf/600519_2019_贵州茅台_2019年年度报告.pdf",
+      "source_sha256": "2a2b384ab09a7bc295fd2e33b999acdf4212340b0141031c991060dea2fad03d",
+      "scope": "人民币元；年度流量；主营业务构成的按销售渠道／销售模式表，直销与批发分别列收入/营业成本，不是公司全部收入或附注合同收入分解",
+      "boundary": "只确认原收入/成本及所属表；i茅台不另加直销，毛利不等于扣除渠道费用后的净贡献；表内同比/毛利率与口径断点另行处理",
+      "fields": {
+        "direct_revenue_yuan": "7248659732.50",
+        "direct_cost_yuan": "361480841.16",
+        "wholesale_revenue_yuan": "78095908608.73",
+        "wholesale_cost_yuan": "7003336780.12"
+      },
+      "binding": "43362cfe7137d9c8c093a65c0b77127355b4c0a265c66bb0efa0af44e970a20e",
+      "candidate_fingerprint": "15ad98f44d2e5acb6060da62973714ee6b173495ae1b66378d2f39cbe4ff6a01",
+      "state_at_display": "Unknown"
+    },
+    {
+      "id": "R2025-17",
+      "year": 2025,
+      "name": "2025主营业务按销售渠道收入及营业成本",
+      "value": "直销收入84,543,031,854.63／成本4,579,568,698.41；批发代理收入84,231,553,333.02／成本10,226,331,441.18",
+      "page": 10,
+      "source_path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+      "source_sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288",
+      "scope": "人民币元；年度流量；主营业务构成的按销售渠道／销售模式表，直销与批发分别列收入/营业成本，不是公司全部收入或附注合同收入分解",
+      "boundary": "只确认原收入/成本及所属表；i茅台不另加直销，毛利不等于扣除渠道费用后的净贡献；表内同比/毛利率与口径断点另行处理",
+      "fields": {
+        "direct_revenue_yuan": "84543031854.63",
+        "direct_cost_yuan": "4579568698.41",
+        "wholesale_revenue_yuan": "84231553333.02",
+        "wholesale_cost_yuan": "10226331441.18"
+      },
+      "binding": "bf31f7dfa7d8336cc616fdef37d31c80cf7284ea09b5df3ad60ac26d818220b3",
+      "candidate_fingerprint": "36d7bfa289153342ac6a5414e610c96af2362143fe99dc07130a4e6f79ed1b84",
+      "state_at_display": "Unknown"
+    }
+  ],
+  "scope_note": "五项年度四金额，共20金额；均人民币元、年度主营渠道表。2019表头/直销在15页、批发续16页。2025仅后验，不回填2024。",
+  "actual_human_reply": null,
+  "display_payload_sha256": "b95e80ac9e687476a8da01148533b14db0f7e682546d27a7f2032ba8c52fe255"
+}

@@ -10,7 +10,7 @@
 <!-- review-store:progress:start -->
 ## 统一核验记录
 
-当前有效Fact为68条；Unknown为46条；已撤回0条；需重新核验0条。共114条候选。 日期自动按Asia/Shanghai记录。合同验收、复核人与正式签署另行完成。
+当前有效Fact为68条；Unknown为51条；已撤回0条；需重新核验0条。共119条候选。 日期自动按Asia/Shanghai记录。合同验收、复核人与正式签署另行完成。
 
 | 编号 | 有效状态 | 核验人 | 核验时间 | 备注／失效原因 |
 | --- | --- | --- | --- | --- |
@@ -128,4 +128,9 @@
 | R2025-14 | Fact | leo | 2026-10-24T14:02:05+08:00 | {"channel": "actual-user-chat", "actual_user_reply": "B06全部核验正确，核验人leo", "client_date": "2026-10-24", "reviewer": "leo", "batch_id": "B06", "batch_version": 1, "display_payload_sha256": "72352dd63afa6de8d82eb2ffd3795b27d0c0536627f3cecc772011dd3a09b207", "display_manifest": "work/review-batches/20261024-B06.json", "confirmation_scope": ["R2025-09", "R2025-10", "R2025-11", "R2025-12", "R2025-13", "R2025-14", "R2025-15", "R2025-16"], "exceptions": [], "confirmation_context": "此前展示8项：2025年报15页三项目当期/累积投资（万元），97页固定资产原值及累计折旧增减、关键分项与减值准备（元），98页重要在建工程流转合计及其他减少列空白（元）。合计/分项、重要项目/全部及空白/明示零分别保留。", "timestamp_meaning": "confirmed_at为程序保存实际聊天答复的时刻；非窗口点击，精确聊天发送时间未提供。", "boundary": "仅原披露与展示口径；预计释放只确认公司披露，不确认实际实现；2025为后验，不回填2024。不自动确认运算、可比性、机制、最终观点、教师验收或签署。"} |
 | R2025-15 | Fact | leo | 2026-10-24T14:02:05+08:00 | {"channel": "actual-user-chat", "actual_user_reply": "B06全部核验正确，核验人leo", "client_date": "2026-10-24", "reviewer": "leo", "batch_id": "B06", "batch_version": 1, "display_payload_sha256": "72352dd63afa6de8d82eb2ffd3795b27d0c0536627f3cecc772011dd3a09b207", "display_manifest": "work/review-batches/20261024-B06.json", "confirmation_scope": ["R2025-09", "R2025-10", "R2025-11", "R2025-12", "R2025-13", "R2025-14", "R2025-15", "R2025-16"], "exceptions": [], "confirmation_context": "此前展示8项：2025年报15页三项目当期/累积投资（万元），97页固定资产原值及累计折旧增减、关键分项与减值准备（元），98页重要在建工程流转合计及其他减少列空白（元）。合计/分项、重要项目/全部及空白/明示零分别保留。", "timestamp_meaning": "confirmed_at为程序保存实际聊天答复的时刻；非窗口点击，精确聊天发送时间未提供。", "boundary": "仅原披露与展示口径；预计释放只确认公司披露，不确认实际实现；2025为后验，不回填2024。不自动确认运算、可比性、机制、最终观点、教师验收或签署。"} |
 | R2025-16 | Fact | leo | 2026-10-24T14:02:05+08:00 | {"channel": "actual-user-chat", "actual_user_reply": "B06全部核验正确，核验人leo", "client_date": "2026-10-24", "reviewer": "leo", "batch_id": "B06", "batch_version": 1, "display_payload_sha256": "72352dd63afa6de8d82eb2ffd3795b27d0c0536627f3cecc772011dd3a09b207", "display_manifest": "work/review-batches/20261024-B06.json", "confirmation_scope": ["R2025-09", "R2025-10", "R2025-11", "R2025-12", "R2025-13", "R2025-14", "R2025-15", "R2025-16"], "exceptions": [], "confirmation_context": "此前展示8项：2025年报15页三项目当期/累积投资（万元），97页固定资产原值及累计折旧增减、关键分项与减值准备（元），98页重要在建工程流转合计及其他减少列空白（元）。合计/分项、重要项目/全部及空白/明示零分别保留。", "timestamp_meaning": "confirmed_at为程序保存实际聊天答复的时刻；非窗口点击，精确聊天发送时间未提供。", "boundary": "仅原披露与展示口径；预计释放只确认公司披露，不确认实际实现；2025为后验，不回填2024。不自动确认运算、可比性、机制、最终观点、教师验收或签署。"} |
+| R2016-06 | Unknown |  |  | B07待本人核验；2020—2024已有有效年度组不重复核 |
+| R2017-03 | Unknown |  |  | B07待本人核验；2020—2024已有有效年度组不重复核 |
+| R2018-03 | Unknown |  |  | B07待本人核验；2020—2024已有有效年度组不重复核 |
+| R2019-03 | Unknown |  |  | B07待本人核验；2020—2024已有有效年度组不重复核 |
+| R2025-17 | Unknown |  |  | B07待本人核验；2020—2024已有有效年度组不重复核 |
 <!-- review-store:progress:end -->

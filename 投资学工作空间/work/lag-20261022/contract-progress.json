@@ -2,12 +2,12 @@
   "date": "2026-10-24",
   "contract": "第五次任务延伸合同_贵州茅台生产库存销售滞后验证.md",
   "contract_sha256": "d9da305bedb3f89c3f0a6b4478ced5e55b163f8bb4efd37e734ba5dc6c876261",
-  "status": "执行中；工作稿不代表最终验收或签署",
+  "status": "研究成果与有范围G6判断已完成/采纳；正式材料批准和最终验收未发生",
   "gates": [
     {
       "id": "G0",
-      "state": "文件名/哈希登记已完成；修订映射与教师材料批准待核",
-      "result": "25份年度PDF及25份对应MD已登记成员名、SHA和大小，PDF年度前页核对；2007/2010前页修订标记见material-freeze.json，不冒充材料批准。"
+      "state": "指定修订PDF与MD配对技术检查完成；正式材料/版本批准Unknown",
+      "result": "25份PDF/MD元数据登记保留。2007/2010指定修订成员与MD逐项哈希复核，数字单元格检索空白规范后两位小数金额集合相等，但出现次数及全文不完全相同；MD只作定位，不宣称历史修订差异已证实。证据revision-pair-check.json"
     },
     {
       "id": "G1",
@@ -26,7 +26,7 @@
     },
     {
       "id": "G4",
-      "state": "数值诊断/交付已完成，最终解释待审",
+      "state": "数值诊断/交付已完成；有关判断范围随G6采纳，非教师最终验收",
       "result": "两产品k=0…7共16项，n由10至3，104个真实年对；Python Decimal与统计库及电子表格公式一致。CSV和XLSX已交付，不冒称本人原生Excel操作"
     },
     {
@@ -36,13 +36,13 @@
     },
     {
       "id": "G6",
-      "state": "两项Interpretation已形成，待本人内容采纳",
-      "result": "outputs/student-lag-g6-review.md与G6审阅JSON固定主张、机制、变量、当前有效证据、诊断、替代解释、反证及Unknown，未新增人工确认/签署"
+      "state": "本人已采纳两项有范围Interpretation",
+      "result": "真实答复“认可G6两项判断”，独立evidence/lag-g6-content-review.json；current_g6_adoption()动态校验原展示、当前来源和数值语义。未新增原数Fact、人工运算确认、签署或教师批准"
     }
   ],
   "next_batch": null,
   "new_signature_events": 0,
-  "current_gate": "G6",
-  "next_agent_action": "等本人采纳/修改G6两项判断；G0版本映射可独立继续，教师批准及正式验收不得代填",
-  "next_content_review": "G6-20261024"
+  "current_gate": "research-content-adopted",
+  "next_agent_action": "进入渠道净贡献延伸合同；本合同未证实的经济价值/资本回报继续Unknown，正式材料批准与验收独立留待实际发生",
+  "next_content_review": null
 }

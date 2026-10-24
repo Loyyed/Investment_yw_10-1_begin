@@ -11,4 +11,4 @@
 
 - [产能、投产与资本投入连接分析](student-capacity-capital-bridge.md)：B05七项已核，2024/25对照及现金/资产差额为AgentCalculated；完整项目归因和资本回报仍Unknown。
 
-- [G6两项研究判断集中审阅](student-lag-g6-review.md)：B06原数已确认，下一步为有范围的Interpretation内容采纳，不重复核验原数。
+- [G6原审阅展示（历史）](student-lag-g6-review.md)保持不变；[当前已采纳结论](student-lag-conclusion.md)及独立真实回执显示本人已采纳两项有范围Interpretation。

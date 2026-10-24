@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-24",
+  "archive_sha256": "50c476c266df02ee0283238f98fbcfb946e8155c48f1653b635c55fb706be13b",
+  "records": [
+    {
+      "year": 2007,
+      "pdf": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2007Q4_Σ┐«Φ«óτëê_2008-03-17.pdf",
+        "display_name": "贵州茅台定期报告/pdf/600519_贵州茅台_2007Q4_修订版_2008-03-17.pdf",
+        "bytes": 637278,
+        "sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679",
+        "pages": 82,
+        "expected_year_in_first_three_pages": true,
+        "revision_mark_in_first_three_pages": false
+      },
+      "md": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/md/600519_Φ┤╡σ╖₧ΦîàσÅ░_2007Q4.md",
+        "display_name": "贵州茅台定期报告/md/600519_贵州茅台_2007Q4.md",
+        "bytes": 256040,
+        "sha256": "798cc67c7537f4cdd123b0a605712d30e47f9f08dd289b3ce8cd30f31fd2ccdb"
+      },
+      "comparison_type": "Agent材料配对技术检查，非新增原数人工Fact或正式材料批准",
+      "numeric_normalization": "仅检索视图中移除纯数字HTML单元格内部空白；原MD/PDF不改",
+      "pdf_decimal_amounts_unique": 1261,
+      "md_decimal_amounts_unique_after_cell_normalization": 1261,
+      "unique_amount_sets_equal": true,
+      "full_amount_multisets_equal": false,
+      "md_amounts_absent_after_normalization": [
+        [
+          "61.78",
+          1
+        ]
+      ],
+      "pdf_amounts_absent_from_md_after_normalization": [],
+      "chinese_12char_md_coverage": 0.952914798206278,
+      "anchors": [
+        {
+          "pdf_page": 4,
+          "token": "营业收入",
+          "context": "6年2005年主要会计数据2007年调整后调整前本年比上年增减(%)调整后调整前营业收入7,237,430,747.124,903,375,765.414,896,186,901.2147"
+        },
+        {
+          "pdf_page": 4,
+          "token": "利润总额",
+          "context": "主要财务数据单位:元币种:人民币项目金额营业利润4,525,341,001.80利润总额4,522,025,015.93归属于上市公司股东的净利润2,830,831,594.36归属于上市"
+        }
+      ],
+      "revision_identity_boundary": "PDF采用原ZIP明确命名修订版的指定成员；本次未取得未修订版或更正公告，不能证明修订内容历史差异。一般章程/制度修订词不作年报版本标记。",
+      "decision": "配对数值/文本技术指标见本记录；MD只作定位，全部事实仍回指定PDF；不宣称全文逐字相同",
+      "teacher_material_approval": "Unknown"
+    },
+    {
+      "year": 2010,
+      "pdf": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2010Q4_Σ┐«Φ«óτëê_2011-04-08.pdf",
+        "display_name": "贵州茅台定期报告/pdf/600519_贵州茅台_2010Q4_修订版_2011-04-08.pdf",
+        "bytes": 612640,
+        "sha256": "613779ed98205e7bf7ee8dfdfe91794ce84336297cbb42cbf5c4ad9f06a55312",
+        "pages": 99,
+        "expected_year_in_first_three_pages": true,
+        "revision_mark_in_first_three_pages": false
+      },
+      "md": {
+        "member_raw_name": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/md/600519_Φ┤╡σ╖₧ΦîàσÅ░_2010Q4.md",
+        "display_name": "贵州茅台定期报告/md/600519_贵州茅台_2010Q4.md",
+        "bytes": 258952,
+        "sha256": "1c6695ab49f9dba075b00a6c4fc94e622acb0d2f7f163265175dbb8b6ca4db84"
+      },
+      "comparison_type": "Agent材料配对技术检查，非新增原数人工Fact或正式材料批准",
+      "numeric_normalization": "仅检索视图中移除纯数字HTML单元格内部空白；原MD/PDF不改",
+      "pdf_decimal_amounts_unique": 1191,
+      "md_decimal_amounts_unique_after_cell_normalization": 1191,
+      "unique_amount_sets_equal": true,
+      "full_amount_multisets_equal": false,
+      "md_amounts_absent_after_normalization": [
+        [
+          "5,442.00",
+          1
+        ]
+      ],
+      "pdf_amounts_absent_from_md_after_normalization": [
+        [
+          "2,668,521.66",
+          1
+        ]
+      ],
+      "chinese_12char_md_coverage": 0.9610745001675416,
+      "anchors": [
+        {
+          "pdf_page": 51,
+          "token": "14,651,565,394.21",
+          "context": "66,147.4010,561,552,279.69185,582,551.4014,651,565,394.21加：会计政策变更前期差错更正其他二、本年年初余额943,800,000.001,374,964,41"
+        },
+        {
+          "pdf_page": 53,
+          "token": "11,503,418,295.95",
+          "context": "133,829.727,924,671,271.03258,848,779.4811,503,418,295.95加：会计政策变更前期差错更正其他二、本年年初余额943,800,000.001,374,964,41"
+        }
+      ],
+      "revision_identity_boundary": "PDF采用原ZIP明确命名修订版的指定成员；本次未取得未修订版或更正公告，不能证明修订内容历史差异。一般章程/制度修订词不作年报版本标记。",
+      "decision": "配对数值/文本技术指标见本记录；MD只作定位，全部事实仍回指定PDF；不宣称全文逐字相同",
+      "teacher_material_approval": "Unknown"
+    }
+  ],
+  "originals_modified": false,
+  "visual_checks": "2007 PDF4、2010 PDF51/53（报告50/52页）核对表头/行名/金额，未造人工Fact"
+}
