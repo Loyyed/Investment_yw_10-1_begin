@@ -264,6 +264,11 @@ if (p/story_rel).is_file():
  spec=ir.apply_story_enrichment(spec,story)
  spec['dependencies'].append({'path':story_rel,'sha256':sha(p/story_rel)})
  chapters=spec['chapters']
+visual_rel='work/visual-replica-20261025/chart-designs.json'
+if (p/visual_rel).is_file():
+ spec=ir.apply_chart_designs(spec,load(visual_rel))
+ spec['dependencies'].append({'path':visual_rel,'sha256':sha(p/visual_rel)})
+ chapters=spec['chapters']
 out=stage/'company';out.mkdir(exist_ok=True)
 def put(rel,text):f=out/rel;f.parent.mkdir(parents=True,exist_ok=True);f.write_text(text,encoding='utf-8',newline='\n')
 def jput(rel,value):put(rel,json.dumps(value,ensure_ascii=False,indent=2)+'\n')
@@ -272,6 +277,7 @@ jput('work/research-atlas-20261025/industry-dual-check.json',{'csv_sha256':sha(c
 jput('work/research-atlas-current.json',{'spec_path':'work/research-atlas-20261025/report-spec.json','state':'研究扩展稿，新增观点和Forecast待人工最终裁决','date':'2026-10-25'})
 put('outputs/证券投资分析研究图册.html',ir.render(spec,source_url=lambda x:'../'+x))
 for c in chapters:put('outputs/research-atlas/'+c['id']+'.html',ir.render(spec,c['id'],source_url=lambda x:'../../'+x))
-put('outputs/research-atlas/README.md','# 逐合同研究图册\n\n2026-10-25。主入口：[综合图册](../证券投资分析研究图册.html)。\n\n'+'\n'.join('- ['+c['kicker']+'：'+c['title']+']('+c['id']+'.html)' for c in chapters)+'\n\n原始Fact权威不变。新观点和预测是待人工最终裁决的研究扩展稿，未转移旧P04等认可或旧签名。\n')
+if any(ch.get('visual') for c in spec['chapters'] for ch in c.get('charts',[])):put('outputs/research-atlas/visual-gallery.html',ir.render_visual_gallery(spec,source_url=lambda x:'../../'+x))
+put('outputs/research-atlas/README.md','# 逐合同研究图册\n\n2026-10-25。主入口：[综合图册](../证券投资分析研究图册.html)。另见[图形复刻样例](visual-gallery.html)（存在复刻图型时生成）。\n\n'+'\n'.join('- ['+c['kicker']+'：'+c['title']+']('+c['id']+'.html)' for c in chapters)+'\n\n原始Fact权威不变。新观点和预测是待人工最终裁决的研究扩展稿，未转移旧P04等认可或旧签名。\n')
 put('outputs/证券投资分析研究意见.md','# 贵州茅台：变化、机制与未来\n\n2026-10-25 · 研究扩展稿。\n\n'+ '\n\n'.join('## '+c['kicker']+'\n\n'+c['thesis']+'\n\n'+'\n\n'.join('### '+b['title']+'\n\n'+'\n\n'.join(b['paragraphs']) for b in c['blocks'])+'\n\n替代解释：'+c['alternative'][1]+'\n\n反证：'+c['falsifier'][1] for c in chapters)+'\n')
 print(json.dumps({'chapters':len(chapters),'html_pages':len(chapters)+1,'charts':sum(len(x['charts']) for x in chapters),'used_authority_records':len(spec['authority']),'dependencies':len(spec['dependencies']),'scenario_revenue_2026_yi':{k:f(yi(v[0]['revenue'])) for k,v in forecast_results.items()},'stage':str(out)},ensure_ascii=False))

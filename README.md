@@ -74,3 +74,6 @@
 
 
 推荐新增专题：[商业机器与三种时间](投资学工作空间/outputs/research-atlas/story-machine.html) · [经营兑现与市场叙事](投资学工作空间/outputs/research-atlas/story-market.html)。参考材料2/3的方法融合位置、数字对齐和修正均有本地底稿，未把教学案例或旧认可迁成新Fact。
+
+
+[打开青瓷蓝图形复刻样例](投资学工作空间/outputs/research-atlas/visual-gallery.html)：九种图型以当前项目数据重画，报告28幅证据图同步更新；保留分析、数据与视觉编码三层。

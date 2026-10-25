@@ -1,0 +1,19 @@
+{
+  "old_24_chart_data_unchanged": true,
+  "forecast_unchanged": true,
+  "idempotent_design_application": true,
+  "chart_count": 28,
+  "templates": {
+    "rungs": 7,
+    "paired": 4,
+    "composition": 2,
+    "dumbbell": 6,
+    "ribbon": 2,
+    "hairline": 4,
+    "waterfall": 1,
+    "plumb": 1,
+    "stem": 1
+  },
+  "report_pages": 15,
+  "gallery_pages": 1
+}

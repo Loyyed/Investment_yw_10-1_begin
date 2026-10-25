@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-25",
+  "source_validation": {
+    "status": "current",
+    "authority_records_checked": 147,
+    "dependencies_checked": 45
+  },
+  "geometry_and_composition_tests_passed": 7,
+  "skill_quick_validate": "passed",
+  "browser": {
+    "pages_checked": 16,
+    "charts_in_report": 28,
+    "gallery_templates": 9,
+    "analysis_panels_in_report": 34,
+    "chart_replay_buttons_checked": 9,
+    "svg_paths_valid": true,
+    "original_model_unchanged": true,
+    "forecast_controls": true,
+    "mobile_chart_pan": true,
+    "page_overflow": false,
+    "print_and_reduced_motion": true,
+    "errors": []
+  },
+  "render": {
+    "old_24_chart_data_unchanged": true,
+    "forecast_unchanged": true,
+    "idempotent_design_application": true,
+    "chart_count": 28,
+    "templates": {
+      "rungs": 7,
+      "paired": 4,
+      "composition": 2,
+      "dumbbell": 6,
+      "ribbon": 2,
+      "hairline": 4,
+      "waterfall": 1,
+      "plumb": 1,
+      "stem": 1
+    },
+    "report_pages": 15,
+    "gallery_pages": 1
+  },
+  "current_renderer_matches_outputs": true,
+  "protected_hashes": {
+    "D:\\投资学\\投资学工作空间\\evidence\\review-state.json": "fa2248ad1bdf28a8d0d1be0d7271b40001422c6218d4df58d2d06feb5d0dbfe6",
+    "D:\\投资学\\投资学工作空间\\evidence\\change-review-state.json": "c3f8f262123cfc758a65d22716ff165bba2f4c452fa780511856028904f96587",
+    "D:\\投资学\\投资学工作空间\\evidence\\task67-content-review.json": "2100d0587f8763a2bf4238b47dcfc2d08e649da8d50d0e7447d2f4f983db462b",
+    "D:\\投资学\\投资学工作空间\\outputs\\task06-industry-advantage.md": "cec803f66e6fe17a76501e98cf7d9f7207fc1adbfe964e6e11d542e10ad3d9d1",
+    "D:\\投资学\\投资学工作空间\\work\\task07-narrative-audit.md": "c390c45259a91aa6133015dbf5fc0a256d1414de4c6f7b3b56c6fc06e11023c6",
+    "D:\\投资学\\投资学工作空间\\outputs\\lec03-evidence-matrix.md": "0f2b56e3973f9e4fa93a5fb6f871bcd673d98c146bd4df679ca43c72371be7e8",
+    "D:\\投资学\\投资学工作空间\\outputs\\lec03-stage-deliverables.md": "6f8cca9b51d62d967248f201b19a9cd2166e9847ce381bd6a48bea82a08eb361",
+    "D:\\投资学\\投资学公司分析通用工作台\\companybench\\core.py": "893e1c8388ead4a27a6ddd83762de2213c0ddad7c3f33e943304d1416a5005e2"
+  },
+  "new_human_confirmations": 0,
+  "new_signature_created": false,
+  "existing_model_and_story_tests_passed": 9,
+  "correction": "2022只标渠道份额/构成定义断点，合并销售费用率原科目序列不制造定义断点。",
+  "spec_report_and_gallery_exact_replay": true
+}
