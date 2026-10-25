@@ -2,7 +2,7 @@
   "date": "2026-10-25",
   "contract": "第五次任务延伸合同_贵州茅台现金与资本回报验证.md",
   "contract_sha256": "da205d95d3157ca474c8e5638749d884d5ede85302f449999b3879741a60d121",
-  "status": "阶段七：B13已核并接入用途守恒与2011明细利润情景；B14补2012合并敏感性年度",
+  "status": "阶段八：B14已核，2012合并敏感性已算；P02两项研究意见待本人审阅",
   "layers": [
     "合并事实",
     "金融活动与抵销",
@@ -38,6 +38,7 @@
     2025
   ],
   "current_complete_cash_years": [
+    2012,
     2016,
     2017,
     2018,
@@ -49,28 +50,21 @@
     2024,
     2025
   ],
-  "current_complete_cash_n": 10,
-  "next_batch": "B14",
-  "next_review_ids": [
-    "R2012-02",
-    "R2012-03",
-    "R2012-04",
-    "R2012-05",
-    "R2012-06",
-    "R2012-07",
-    "R2012-08"
-  ],
+  "current_complete_cash_n": 11,
+  "next_batch": null,
+  "next_review_ids": [],
   "remaining_steps": [
-    "B14核2012合并基础、资本利润与财务明细，独立处理已合并财务公司年度",
-    "2007土地其他应收净值/期初/重叠及2007应计利息、预付未列用途/期初分类、其他经营税率与资本范围继续补证",
-    "累计现金再投资、成熟期与金融抵销不足的真实回报停止Unknown，不用单年明细与另一年净额硬拼",
-    "N06/N07有证据判断、本人内容采纳及正式验收分开"
+    "P02本人审阅N06/N07两项阶段性判断；采纳与正式验收分别记录",
+    "补2008—2010必要主窗原数；其他25年原数缺口保留显式Unknown，不冒称面板全数已核",
+    "补2007土地其他应收净值/重叠/期初、两端预付用途/期初及同口径应计利息、经营税率",
+    "核累计现金再投资、合理成熟期与金融完整贡献/内部抵销；不足则正式实体指标继续Unknown",
+    "在必要补证/停止账本基础上逐条合同验收，真实签署另列"
   ],
   "stopped_outputs": {
     "entity_cfo": "Unknown：金融贡献/内部抵销未齐",
     "formal_fcff": "Unknown：同范围经营Capex和税息/再投资未齐",
     "entity_roic": "Unknown：利润与资本范围未齐",
-    "selective_pre_finance_proxy": "选定会计算术已做；完整真实经营范围/税率与2012敏感性仍Unknown"
+    "selective_pre_finance_proxy": "2007/2011端点及2012独立合并敏感性已算；缺中间年、经济分类/税率与成熟再投资，非完整真实回报"
   },
   "teacher_HV_imported_as_project_fact": false,
   "new_signature_events": 0,
@@ -88,21 +82,26 @@
     "本人真实答复我认可P01四项口径，独立记录方法认可；原数115不变，未代确认经济归属",
     "2026-10-25 B13由leo确认review117—124，Fact123；原展示日期仍2026-10-24",
     "预付款分已识别周转、建设/设备和未分类三桶，2007/2011与原选择性资本差额均0",
-    "2011已列利息/投资剔除、保留汇兑/手续费的条件公式113.47%，与整行情景差−0.0139pp；非真实ROIC"
+    "2011已列利息/投资剔除、保留汇兑/手续费的条件公式113.47%，与整行情景差−0.0139pp；非真实ROIC",
+    "B14由leo于2026-10-25确认review125—131，当前原披露Fact130",
+    "2012现金四指标、选择性NCWC/平均资本及三种利润条件情景完成，财务明细与净额差0；原表空白保留null",
+    "2012与2016—2025共11有效年度非连续；原十年合并统计及2007/2011主窗、2025调节结果不变",
+    "P02两项阶段性判断集中展示具体支持/替代/反证/停止与来源，待本人意见审阅，不重复原数核验"
   ],
   "source_confirmation_receipts": [
     "evidence/20261024-b09-chat-confirmation.json",
     "evidence/20261024-b10-chat-confirmation.json",
     "evidence/20261024-b11-chat-confirmation.json",
     "evidence/20261024-b12-chat-confirmation.json",
-    "evidence/20261025-b13-chat-confirmation.json"
+    "evidence/20261025-b13-chat-confirmation.json",
+    "evidence/20261025-b14-chat-confirmation.json"
   ],
   "primary_candidate_proxy_window": [
     2007,
     2011
   ],
-  "FY2012_sensitivity": "已核2012合并与银行利息事实，完整利润资本重配仍Unknown",
-  "next_content_review": null,
+  "FY2012_sensitivity": "B14已核并完成三种合并条件利润情景；正式实体回报仍Unknown",
+  "next_content_review": "P02-20261025",
   "P01_method_approval": "accepted-method-with-followups",
   "economic_classification_complete": false
 }

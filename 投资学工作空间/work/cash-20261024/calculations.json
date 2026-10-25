@@ -2,7 +2,7 @@
   "date": "2026-10-25",
   "state": "AgentCalculated",
   "human_arithmetic_confirmation": false,
-  "code_sha256": "f83dca56ec752350af3e37fa221020942f03572a99e084ed8a27c347d7ffb515",
+  "code_sha256": "fc7b140dd92261679f655fe51942dff580137ed9b914cbac94ef2eca278b2800",
   "panel": [
     {
       "year": 2001,
@@ -338,12 +338,18 @@
     },
     {
       "year": 2012,
-      "net_profit_yuan": null,
-      "cfo_yuan": null,
-      "capex_cash_yuan": null,
-      "operating_revenue_yuan": null,
-      "inventory_yuan": null,
-      "input_roles": {},
+      "net_profit_yuan": "14008450702.17",
+      "cfo_yuan": "11921310609.25",
+      "capex_cash_yuan": "4211900807.91",
+      "operating_revenue_yuan": "26455335152.99",
+      "inventory_yuan": "9665727593.42",
+      "input_roles": {
+        "net_profit_yuan": "R2012-02",
+        "cfo_yuan": "R2012-02",
+        "capex_cash_yuan": "R2012-02",
+        "operating_revenue_yuan": "R2012-02",
+        "inventory_yuan": "R2012-03"
+      },
       "entity_cfo_yuan": null,
       "fcff_yuan": null,
       "nopat_proxy_yuan": null,
@@ -351,18 +357,12 @@
       "selected_invested_capital_yuan": null,
       "selective_reinvestment_proxy_yuan": null,
       "entity_roic": null,
-      "cash_conversion": null,
-      "arithmetic_CFO_minus_capex_yuan": null,
-      "capex_to_operating_revenue": null,
-      "inventory_to_operating_revenue": null,
-      "missing_current_reviewed_fields": [
-        "net_profit_yuan",
-        "cfo_yuan",
-        "capex_cash_yuan",
-        "operating_revenue_yuan",
-        "inventory_yuan"
-      ],
-      "cash_base_state": "Unknown：本项目当前有效输入未齐，不表示没有原件",
+      "cash_conversion": "0.851008499277033652020407722541059821989158314722",
+      "arithmetic_CFO_minus_capex_yuan": "7709409801.34",
+      "capex_to_operating_revenue": "0.159207992775474934839422359192078772285585067361",
+      "inventory_to_operating_revenue": "0.365360239721913819082026548468985871837565143952",
+      "missing_current_reviewed_fields": [],
+      "cash_base_state": "AgentCalculated（合并范围）",
       "profit_definition": "新准则合并净利润，含少数股东；不能换归母",
       "entity_stop_reason": "金融完整贡献/内部抵销及同范围经营投入未裁定"
     },
@@ -758,6 +758,7 @@
     }
   ],
   "complete_cash_years": [
+    2012,
     2016,
     2017,
     2018,
@@ -769,9 +770,10 @@
     2024,
     2025
   ],
-  "complete_cash_n": 10,
+  "complete_cash_n": 11,
   "consolidated_cash_diagnostics": {
     "sample_years": [
+      2012,
       2016,
       2017,
       2018,
@@ -783,19 +785,22 @@
       2024,
       2025
     ],
-    "n": 10,
-    "sum_consolidated_cfo_yuan": "519175618319.76",
-    "sum_consolidated_net_profit_yuan": "551522210638.18",
-    "ratio_of_sums": "0.941350336043600207040973417680842960620642348005",
+    "n": 11,
+    "sum_consolidated_cfo_yuan": "531096928929.01",
+    "sum_consolidated_net_profit_yuan": "565530661340.35",
+    "ratio_of_sums": "0.939112527816388457773984757294395905184798377661",
     "minimum_annual_ratio": "0.561354019968873260758745149122629081952871981982",
     "maximum_annual_ratio": "2.08867297271752127114452965945722532197200522155",
     "annual_ratio_below_one_years": [
+      2012,
       2017,
       2022,
       2023,
       2025
     ],
     "boundary": "仅实际有效年份的合并原表口径加总及比率，不是稳定实体现金或因果证明，FY2025只用于后验",
+    "sample_is_contiguous": false,
+    "period_note": "2012及2016—2025共11个有效年度，非连续11年；不填补2013—2015或其他缺口",
     "FY2024_to_FY2025": {
       "net_profit_yuan": {
         "previous": "89334728025.90",
@@ -823,6 +828,126 @@
       },
       "inventory_intensity_change_pp": "4.58398811974295309610006439112993433938720594880"
     }
+  },
+  "continuous_2016_2025_diagnostics": {
+    "years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "n": 10,
+    "sum_consolidated_cfo_yuan": "519175618319.76",
+    "sum_consolidated_net_profit_yuan": "551522210638.18",
+    "ratio_of_sums": "0.941350336043600207040973417680842960620642348005",
+    "boundary": "2016—2025连续十年单独保留；不与稀疏年度合计混称连续期间，仍是合并范围"
+  },
+  "fy2012_sensitivity": {
+    "year": 2012,
+    "state": "AgentCalculated",
+    "human_arithmetic_confirmation": false,
+    "used_ids": [
+      "R2012-02",
+      "R2012-03",
+      "R2012-04",
+      "R2012-05",
+      "R2012-06",
+      "R2012-07",
+      "R2012-08",
+      "R2011-01",
+      "R2011-02",
+      "R2011-03",
+      "R2011-04",
+      "R2011-05",
+      "R2011-06"
+    ],
+    "raw_fields_yuan": {
+      "合并净利润": "14008450702.17",
+      "合并CFO": "11921310609.25",
+      "购建长期资产支付现金": "4211900807.91",
+      "合并营业收入": "26455335152.99",
+      "存货": "9665727593.42",
+      "应收票据": "204079117.80",
+      "应收账款": "17818147.27",
+      "预付款项": "3872870407.89",
+      "应付账款": "345280977.68",
+      "预收款项": "5091386269.55",
+      "固定资产": "6807333231.09",
+      "在建工程": "392672323.95",
+      "无形资产": "862615899.20",
+      "三、营业利润": "18830739817.65",
+      "四、利润总额": "18700490469.16",
+      "减：所得税费用": "4692039766.99",
+      "财务费用": "-420975922.49",
+      "投资收益": "3103250.00",
+      "利息支出": "132222.22",
+      "利息收入（按费用表符号）": "-421711334.78",
+      "汇兑损益": null,
+      "其他手续费": "603190.07"
+    },
+    "selected_ncwc_yuan": "8323828019.15",
+    "selected_long_assets_yuan": "8062621454.24",
+    "selected_end_capital_yuan": "16386449473.39",
+    "opening_selected_capital_yuan": "8589363595.96",
+    "opening_basis": "复用B11已核2011年末；Agent比较2012年初列相符，不冒作新人工确认",
+    "average_selected_capital_yuan": "12487906534.675",
+    "book_effective_tax_rate": "0.250904636684684767779523122044338520631178095370",
+    "scenarios": {
+      "baseline": {
+        "pre_tax_formula_yuan": "18830739817.65",
+        "conditional_after_tax_formula_yuan": "14106019885.1986996554356901693908341507947786295",
+        "formula_over_selected_average": "1.12957442835039695023226478514129271595847179859",
+        "entity_roic": null
+      },
+      "whole_finance_line_removed": {
+        "pre_tax_formula_yuan": "18406660645.16",
+        "conditional_after_tax_formula_yuan": "13788344143.4078448688121381497542185077134794287",
+        "formula_over_selected_average": "1.10413575767258807323030058805241259749951463926",
+        "entity_roic": null
+      },
+      "listed_interest_and_investment_removed": {
+        "pre_tax_formula_yuan": "18406057455.09",
+        "conditional_after_tax_formula_yuan": "13787892296.5232100283851430140507710508088426454",
+        "formula_over_selected_average": "1.10409957491582414299618121385343391708137961880",
+        "entity_roic": null
+      }
+    },
+    "financial_expense_components_yuan": {
+      "利息支出": "132222.22",
+      "利息收入（按费用表符号）": "-421711334.78",
+      "汇兑损益": null,
+      "其他手续费": "603190.07"
+    },
+    "nonblank_financial_components_sum_yuan": "-420975922.49",
+    "financial_components_residual_yuan": "0.00",
+    "blank_policy": "汇兑本期原表空白保留null；已列非空金额勾稽相符不等于公司披露汇兑0",
+    "detail_minus_whole_after_tax_yuan": "-451846.884634840426995135703447456904636783240471",
+    "detail_minus_whole_ratio_pp": "-0.00361827567639302341193741989786804181350204489150",
+    "changes_from_2011": {
+      "selected_capital_balance_delta_yuan": "7797085877.43",
+      "baseline_formula_delta_yuan": "4854568195.99975915114521203159283580213268478955",
+      "baseline_formula_ratio_change_pp": "-3.87987445113942371526037095866007505369760344800",
+      "formal_incremental_return": null,
+      "reason": "2011→2012跨财务公司合并断点，仅列两端算术变化，不命名实体增量回报或成熟回报"
+    },
+    "entity_cfo_yuan": null,
+    "economic_nopat_yuan": null,
+    "economic_capital_yuan": null,
+    "entity_roic": null,
+    "boundary": "2012合并利润/资产代理，含财务公司。书面税率及选择性资本只是条件参数；明细情景仅移除已列应计利息和投资，保留手续费，不证明真实经营利润。不能从剔现金资本再扣完整金融子公司净资产，不能从营业利润机械扣子公司净利润；金融抵销/税费/经营范围不足则实体指标停止。",
+    "code_sha256": "b9ff16507d46153c5cc55eb7308423b3bfcf2b8b64264d8a1a5037a8708f3325"
+  },
+  "cash_conclusion_adoption": {
+    "status": "pending",
+    "judgment_type": "Interpretation",
+    "adopted_ids": [],
+    "new_signature_created": false
   },
   "selected_capital_proxy_diagnostics": {
     "method_approval": {
@@ -1754,6 +1879,55 @@
     },
     {
       "domain": "facts",
+      "id": "R2012-02",
+      "binding": "0bc80cb5d630e918aa4d759f31398c613b221100447bbc8dfc6e2232202742f7",
+      "pdf_path": "sources/annual_reports/pdf/600519_2012_贵州茅台_2012年年度报告.pdf",
+      "pdf_sha256": "9a8faef737d4dd64e8260325247b8ffe77e5de506f4b23b046f28c0758377eae"
+    },
+    {
+      "domain": "facts",
+      "id": "R2012-03",
+      "binding": "3c6107f019c636acaffee2072711cb8f0498bf5ceb5a99c8bf4c75b3914181d3",
+      "pdf_path": "sources/annual_reports/pdf/600519_2012_贵州茅台_2012年年度报告.pdf",
+      "pdf_sha256": "9a8faef737d4dd64e8260325247b8ffe77e5de506f4b23b046f28c0758377eae"
+    },
+    {
+      "domain": "facts",
+      "id": "R2012-04",
+      "binding": "7fb2f3952dd9f53d38e3f4b3953282f47027a3ef70475b75dc8416675ab6bdbd",
+      "pdf_path": "sources/annual_reports/pdf/600519_2012_贵州茅台_2012年年度报告.pdf",
+      "pdf_sha256": "9a8faef737d4dd64e8260325247b8ffe77e5de506f4b23b046f28c0758377eae"
+    },
+    {
+      "domain": "facts",
+      "id": "R2012-05",
+      "binding": "00557fe22844f711559b03e89d0e2aa28fc4f6e3caa5e372eb6ae4d30908abf0",
+      "pdf_path": "sources/annual_reports/pdf/600519_2012_贵州茅台_2012年年度报告.pdf",
+      "pdf_sha256": "9a8faef737d4dd64e8260325247b8ffe77e5de506f4b23b046f28c0758377eae"
+    },
+    {
+      "domain": "facts",
+      "id": "R2012-06",
+      "binding": "a5fc449b221fca69b439e28ee7c854660d9c8395263e646b9dee213bcf2ce22c",
+      "pdf_path": "sources/annual_reports/pdf/600519_2012_贵州茅台_2012年年度报告.pdf",
+      "pdf_sha256": "9a8faef737d4dd64e8260325247b8ffe77e5de506f4b23b046f28c0758377eae"
+    },
+    {
+      "domain": "facts",
+      "id": "R2012-07",
+      "binding": "a90553a717d14ebbb50317bc6bc7fbec934c97060574f44770d51d78f69e8a4d",
+      "pdf_path": "sources/annual_reports/pdf/600519_2012_贵州茅台_2012年年度报告.pdf",
+      "pdf_sha256": "9a8faef737d4dd64e8260325247b8ffe77e5de506f4b23b046f28c0758377eae"
+    },
+    {
+      "domain": "facts",
+      "id": "R2012-08",
+      "binding": "fb4c815460399da84d3ca87f0d8919e95ad1d57bfeb00558aefdda4fa1eef554",
+      "pdf_path": "sources/annual_reports/pdf/600519_2012_贵州茅台_2012年年度报告.pdf",
+      "pdf_sha256": "9a8faef737d4dd64e8260325247b8ffe77e5de506f4b23b046f28c0758377eae"
+    },
+    {
+      "domain": "facts",
       "id": "R2013-01",
       "binding": "798a07c1437e0317693b83bd55c9d77a7a2ef1b614f40697b4d05ec39edb9b66",
       "pdf_path": "sources/annual_reports/pdf/600519_2013_贵州茅台_2013年年度报告.pdf",
@@ -2006,7 +2180,7 @@
     2007,
     2011
   ],
-  "FY2012_sensitivity_status": "2012已合并原文由B10确认；资本敏感性Unknown，利润与资本须重审；不改原合同参考窗",
+  "FY2012_sensitivity_status": "B14已核并接入2012合并基础及三种条件利润敏感性；不混入2007—2011主窗，真实经济回报仍Unknown",
   "minimum_multiyear_incremental_window_status": "Unknown：输入与范围未齐",
   "formulas": {
     "cash_conversion": "consolidated CFO/consolidated net profit",
@@ -2015,5 +2189,5 @@
     "inventory_intensity": "book inventory/consolidated operating revenue"
   },
   "precision": 48,
-  "generated_output_sha256": "b9112f53431648600dcafe829ad144a20b9890b68c13e3160791e77419115596"
+  "generated_output_sha256": "4a73764bfdcc8cb00d8bc22c99c4fa62dbd018109565877ba0e615ac0d54e0e0"
 }

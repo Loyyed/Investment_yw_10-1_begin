@@ -62,7 +62,7 @@
 
 先固化批次ID、版本、字段名称、两期原值、单位、所属科目、页码及各项当前来源绑定。本人可整批确认，或列出有误／待核ID并明确其余正确。只对真实答复明确覆盖的项目调用原ReviewStore.submit；expected_bindings使用展示时绑定，变动项停止提交并重列。note保留actual-user-chat、原话、批次ID／版本／展示指纹、实际身份及例外；不把沉默、默认选择、机器校对、催促进度当确认。
 
-批次是交互效率改进，不是代理授权。原数、计算、可比性／口径裁决、研究结论及签署分别记录；同批不同科目不得重复加总。所有原事件与有效Fact保留，不改旧actor，不伪造窗口点击。B01已获本人答复“B01全部核验正确，核验人leo”，原披露review27—34；回执evidence/20261022-b01-chat-confirmation.json。原展示不覆盖，状态另列；B02亦已由leo确认review35—40；B03亦由leo确认review41—49；B04亦由leo确认review50—54；B05亦由leo确认review55—61；B06亦由leo确认review62—69；G6两项已获本人采纳，使用scripts/lag_g6_review.py动态校验，Interpretation不升级Fact；B07亦由leo确认review70—74；B08亦由leo确认review75—86；N03已由本人采纳，current_n03_adoption()动态校验；B09亦由leo确认review87—95；B10亦由leo确认review96—104；B11亦由leo确认review105—110；B12亦由leo确认review111—116；P01四项方法已获本人认可（保留解释限制/后续分类），B13八项由leo于2026-10-25确认review117—124；当前B14七项待核，方法不替代新增附注Fact，见work/review-batches/README.md。
+批次是交互效率改进，不是代理授权。原数、计算、可比性／口径裁决、研究结论及签署分别记录；同批不同科目不得重复加总。所有原事件与有效Fact保留，不改旧actor，不伪造窗口点击。B01已获本人答复“B01全部核验正确，核验人leo”，原披露review27—34；回执evidence/20261022-b01-chat-confirmation.json。原展示不覆盖，状态另列；B02亦已由leo确认review35—40；B03亦由leo确认review41—49；B04亦由leo确认review50—54；B05亦由leo确认review55—61；B06亦由leo确认review62—69；G6两项已获本人采纳，使用scripts/lag_g6_review.py动态校验，Interpretation不升级Fact；B07亦由leo确认review70—74；B08亦由leo确认review75—86；N03已由本人采纳，current_n03_adoption()动态校验；B09亦由leo确认review87—95；B10亦由leo确认review96—104；B11亦由leo确认review105—110；B12亦由leo确认review111—116；P01四项方法已获本人认可（保留解释限制/后续分类），B13八项由leo于2026-10-25确认review117—124；B14七项由leo于2026-10-25确认review125—131；当前P02两项意见待审，方法不替代新增附注Fact，见work/review-batches/README.md。
 
 2026-10-24：本人答复“认可G6两项判断”由独立evidence/lag-g6-content-review.json维护，current_g6_adoption()校验原展示、实际原话、当前来源绑定和计算语义；原数Fact账本不改。排版/生成时间变化不代替新内容；源数/公式/数值变化则当前采纳失效待重审。未另署名，不移植leo/lxy为本条新签名；未发生教师批准。
 

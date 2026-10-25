@@ -1,0 +1,19 @@
+{
+  "batch_id": "B14",
+  "display_version": 1,
+  "status": "confirmed-original-disclosure",
+  "reviewer": "leo",
+  "actual_user_reply": "B14全部核验正确，核验人leo",
+  "event_sequences": [
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131
+  ],
+  "receipt": "evidence/20261025-b14-chat-confirmation.json",
+  "arithmetic_status": "AgentCalculated另列",
+  "display_manifest_unchanged": true
+}

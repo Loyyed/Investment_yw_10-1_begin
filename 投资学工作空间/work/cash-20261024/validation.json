@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
   "authority_counts": {
-    "facts": 123,
+    "facts": 130,
     "change_facts": 2,
     "lec03_agent_facts": 16,
     "m01_scale_facts": 3,
@@ -25,6 +25,7 @@
   "panel_rows": 25,
   "current_complete_n": 10,
   "complete_cash_years": [
+    2012,
     2016,
     2017,
     2018,
@@ -45,8 +46,8 @@
   "teacher_HV_imported": false,
   "N03_and_G6_adoption": "accepted-current",
   "research_content_or_signature_created": false,
-  "code_sha256": "f83dca56ec752350af3e37fa221020942f03572a99e084ed8a27c347d7ffb515",
-  "report_fingerprint": "665b12637744eff5d340005b80fe1e74174ef38b81676c903745f0fe2661e3f8",
+  "code_sha256": "fc7b140dd92261679f655fe51942dff580137ed9b914cbac94ef2eca278b2800",
+  "report_fingerprint": "a68ae3af397b0baed0cba00df53e6e8bf119a672f1ba9681d1592f5d206439aa",
   "scope_correction": "SC34原文B10已核；2012合并/2013营业分开，代理范围与敏感性仍待判",
   "B10_events": [
     96,
@@ -121,8 +122,7 @@
     124
   ],
   "B13_confirmed_inputs_used": 8,
-  "B14_pending": 7,
-  "B14_pending_not_used_as_calculation_inputs": true,
+  "B14_pending": 0,
   "classification_residual_yuan": [
     "0.00",
     "0.00"
@@ -131,5 +131,36 @@
   "unknown_prepayment_bucket_retained": true,
   "classified_opening_average_capital": null,
   "base_workbook_unchanged_and_excludes_B13_detail": true,
-  "classification_code_sha256": "ccb6834dd93853c6c584476b9eb4f684f81453e8b4560024b8d4bd80a4d25726"
+  "classification_code_sha256": "ccb6834dd93853c6c584476b9eb4f684f81453e8b4560024b8d4bd80a4d25726",
+  "state": "AgentVerification",
+  "B14_confirmed": 7,
+  "B14_events": [
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131
+  ],
+  "independent_fraction_check": true,
+  "decimal_precision": 48,
+  "rational_tolerance_yuan_or_ratio": "1e-34",
+  "original_24_other_panel_years_unchanged": true,
+  "original_2007_2011_proxy_and_classification_unchanged": true,
+  "original_2025_cash_reconciliation_unchanged": true,
+  "original_continuous_2016_2025_totals_unchanged": true,
+  "complete_cash_n": 11,
+  "cash_sample_is_contiguous": false,
+  "raw_blank_fx_preserved": true,
+  "missing_or_changed_binding_stops_calculation": true,
+  "B14_spreadsheet_updated": false,
+  "entity_metrics_remain_unknown": true,
+  "new_signature_events": 0,
+  "sensitivity_code_sha256": "b9ff16507d46153c5cc55eb7308423b3bfcf2b8b64264d8a1a5037a8708f3325",
+  "P02_pending": true,
+  "P02_display_semantics_current": true,
+  "B14_confirmed_inputs_used": 7,
+  "current_checkpoint": "B14-confirmed-P02-pending",
+  "historical_checks_retain_their_original_scope": true
 }

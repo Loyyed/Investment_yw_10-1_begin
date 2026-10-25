@@ -16,7 +16,8 @@
 - B12六项由leo确认，review111—116；[真实回执](../../evidence/20261024-b12-chat-confirmation.json)。
 - P01四项方法由本人真实答复“我认可P01四项口径”认可，解释后的限制与SC36补证要求保留；[当前方法状态](../../outputs/student-cash-p01-approved.md)。
 - B13八项由leo于2026-10-25确认，review117—124；[真实回执](../../evidence/20261025-b13-chat-confirmation.json)。
-- 当前待核：[B14 2012合并年度七项21金额](20261025-B14.md)，一处本期原表空白和投资来源另列；2012已合并，不能称纯前财务公司年度。
+- B14七项由leo于2026-10-25确认，review125—131；[真实回执](../../evidence/20261025-b14-chat-confirmation.json)。
+- 当前待审：[P02：N06/N07两项阶段性意见](../../outputs/student-cash-conclusion-review.md)。只审Interpretation，不重复已核原数；后续中间年/范围/成熟再投资补证及正式验收另列。
 - [G5连接分析](../../outputs/student-capacity-capital-bridge.md)已形成；运算、预计释放实现、机制与签署分别处理。
 
 [当前合同工作稿](../../outputs/student-lag-check.md)、[诊断CSV](../../outputs/student-lag-diagnostics.csv)、[电子表格复算](../../outputs/生产库存销售滞后复算.xlsx)。产能资本桥、修订版映射及最终验收仍待补。2025仅后验，原件与完整载荷留本地。原展示/指纹保持不变，回执和状态另存。
