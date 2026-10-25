@@ -1,19 +1,13 @@
 # 当前交接
 
-2026-10-25。先读本页；最新内容融合与导图读[08_内容融合与机制导图.md](08_内容融合与机制导图.md)；图形接续按需读[07_图形复刻与使用.md](07_图形复刻与使用.md)，叙事接续见[06](06_故事融合与预测接续.md)。01/02是主学习与流程入口，03/04/05按题读取；不全文读旧日志、不重扫项目。
+2026-10-25。先读本页与当前用户问题；操作接续读[10](10_快速接续与下一步.md)，充分方法总结读[09](09_证券分析框架与图表经验.md)。01/02仍为课件与合同主入口；06/07/08是故事、视觉、内容融合历史节点，按需读取，不重扫项目或全文读日志。
 
-- 主工具D:/投资学/投资学公司分析通用工作台 → Loyyed/Investment_yw_finaltask；公司D:/投资学/投资学工作空间，父仓库D:/投资学 → Loyyed/Investment_yw_10-1_begin。原件及完整载荷只留本地，远端只成果。
-- 最新成果：公司outputs/证券投资分析研究图册.html，14章/15报告页加1图鉴页/28证据图/34处图表分析。原合同章节保留，新增专题story-machine（商业机器与三种时间）、story-market（经营兑现与市场叙事）；正文补过程故事、价值三层和跨章连接。九份HTML和三个ZIP目录已读/查，登记work/story-synthesis-20261025/reference-reading-manifest.json，反馈docs/20261025-story-synthesis-feedback.md。
-- 本轮新观察：2024直销+11.32%、i茅台-10.51%，单位万元已换算；R2022-10已核包含关系继续复用，不重新标未知。合同负债余额减少45.33亿元，非期间收款或CFO减少额。新增计算为AgentCalculated，不是新人工确认。叙事从供给、客户、渠道、资金到再投资闭环，成熟供给承接与利润保留仍是工作假说；未把生肖案例的行情/公司/动机迁入Fact。
-- 本轮既有24图数值、三年Forecast模型/参数/数值未改。2020—2024主实证、2025独立后验及新预测基期、2026—2028条件预测分开。叙事更充分不代表提高确定性；新观点不继承旧认可/签名。
-- Fact权威：ReviewStore.facts()144；change_facts2、lec03_agent_facts16、m01_scale3、metric15、disclosure3各核当前来源，不加成独立Fact。图册147为跨域引用记录数。原窗口/聊天身份和事件不改；原值、算术、解释、签署与正式关闭分开。
-- 已认可G6、N03、P03、P04分别调用scripts/lag_g6_review.py、channel_n03_review.py、cash_path_review.py、task67_content_review.py的current_*_adoption校当前绑定。P01/P02保留实际历史，P02严格全包状态与新增年度/P03分开。原evidence/review-state.json不重建，旧63条候选保留，新增候选append-only。
-- P04四份绑定成果冻结：outputs/task06-industry-advantage.md、work/task07-narrative-audit.md、outputs/lec03-evidence-matrix.md、outputs/lec03-stage-deliverables.md。新图册/专题不替代受审原文；lxy/leo只按真实授权对应版本，不补造教师批准、亲查或新签署。
-- 新工作底稿work/story-synthesis-20261025含story-enrichment/精确运算/对齐/修正/验证；work/research-atlas-20261025保留原图册及逐图分析底稿。入口指针work/research-atlas-current.json。公司builder复用原API后叠加两份编辑层，通用apply_story_enrichment防重复/覆盖原图数值/静默重绑。技能见通用skills/investment-insight-forecast与references/story-synthesis.md。
-- 重要修正继续保留SC/RA/ST：2012财务公司首并表、2013营业；2008预付/CIP重分类非现金释放；基酒单年量不作t+5全年销量硬上限；“茅台酒”是产品组；参考直销43.83%不混当前主营分母43.87%/公司分母约43.79%；参考25年统计/同业/挂牌价/HV/SCX不迁移。材料收到时间不当合同updated，第五主稿10-10、第六七10-21。
-- 当前无需新逐项旧数确认或机械P05。下一步直接讨论机制和参数；补证优先后续同范围量价、成品、费用、订单/收款、终端/渠道及实体金融现金桥。Unknown保留；正式条款/版本验收及签署按真实授权另办，旧总清单docs/20261025-contract-overview.md仍可回查。
-- 两仓库按既有授权推送，具体最新版本看git log/远端refs；工具库不带公司数字/授权。About设置字段仍未通过接口修改，中文稿已备，不混称文件推送。外部未跟踪报告与展示/和旧缺失输出20261013.json不动、不暂存其删除。
-
-- 最新视觉升级：outputs/research-atlas/visual-gallery.html汇集9种青瓷蓝复刻/转译图型，原报告同步；每图支持重播、分析/原值/编码三层。新增t+5哑铃、渠道金额条带、毛利双阶梯、费用年度散点均复用当前计算包。通用visual_charts.py及apply_chart_designs/render_visual_gallery可复用，公司配置work/visual-replica-20261025/chart-designs.json；builder先故事后样式。2022断点、精确末阶、完整毛利率轴、原值身份与样本边界保留。验证见同目录validation.json，原核心/旧认可不改。
-
-- 最新内容纠偏：参考数据/机制融合新增11图+3张可点击导图，总39数据图+3导图/48分析层；119项选定原数Agent原件对读，非新人工Fact。同业附件样本、历史京东挂牌、长期口径分段均保留身份。内容/覆盖/冲突见work/content-fusion-20261025；概览重叠修复并可切换两种风格。原28图数据、三年预测和权威账本不变。以08及docs/20261025-content-fusion-feedback.md为当前成果，旧07视觉计数为历史节点。
+- **项目**：通用D:/投资学/投资学公司分析通用工作台 → Loyyed/Investment_yw_finaltask；公司D:/投资学/投资学工作空间，父Git根D:/投资学 → Loyyed/Investment_yw_10-1_begin。原件/完整载荷仅本地，授权同步成果。About字段未通过接口修改。
+- **当前成果**：公司outputs/证券投资分析研究图册.html，14章/15报告页另加1图鉴；39数据图+3可点击机制导图、48分析层。story-machine商业机器、task06品牌、forecast供给预测；两种风格、手机图内滚动、概览重叠已修。当前指针work/research-atlas-current.json。
+- **方法**：问题→证据→可比运算→变化/分化→机制与反方→条件预测→复盘。09系统总结框架、合同组织、证据身份、量价/结构分解、现金/滞后、故事、预测、图形与协作；通用skill新增references/research-playbook.md。此轮是方法整理，无新研究结论确认/签署。
+- **权威**：原ReviewStore.facts()144；change2、lec03_agent16、scale3、metric15、disclosure3独立核当前来源，不相加。图册147跨域引用；119项原件对读非人工Fact，human_confirmation=false。同业是附件样本，历史京东挂牌非当前现货。摘要/上次validation不能代当前API。
+- **版本**：2020—2024主实证，2025后验/新预测基期，2026—2028条件情景。内容融合未改旧28图原数、三年Forecast。P04四成果冻结，G6/N03/P03/P04调用对应current_*_adoption校绑定；新解释不继承旧认可、leo/lxy或签署。旧候选、原evidence及修正历史保留。
+- **底稿**：work/research-atlas-20261025、story-synthesis-20261025、visual-replica-20261025、content-fusion-20261025；内容层存原件定位、精确数据、参考覆盖、冲突与validation。builder基础→故事→图形→内容；scripts/audit_content_fusion.py只读检查，不提交review。
+- **关键边界**：2012金融首并表/2013营业；2008预付/CIP重分类非现金；旧净利润少数股东列示；平台万元换元及已核包含关系复用；t−5产量非销量硬上限；CFO减购建不是实体FCFF；产品组ASP非固定SKU价。不同合理口径保留各自计算。具体冲突见各版本登记。
+- **下一步**：不重复核旧数或机械新建P05。优先讨论其余直销承接、成熟库存释放、品牌ASP/费用留存、实体/金融现金桥；缺同业原PDF、终端成交、渠道库存/库存分龄等。新人工核验按同源同口径批量固化、真实答复提交；机制、参数、最终裁决分别处理。
+- **状态/发布**：上轮通用70764b0、父仓库8bf45b4，最新以git log/远端main为准；本轮总结按既有授权同步。未跟踪报告与展示/和缺失旧20261013输出不动。完整接续命令、保护清单及旧验证范围见10。
