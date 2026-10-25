@@ -1,0 +1,113 @@
+{
+  "review_id": "P04-20261025",
+  "date": "2026-10-25",
+  "version": 1,
+  "state_at_display": "pending-version-specific-content-review",
+  "items": [
+    {
+      "id": "T06-v20261021",
+      "content": "新版第六次五步法/品牌链与费用/代理/缺口增量内容",
+      "source_contract": "sources/library/补充材料3/第六次任务合同_贵州茅台行业竞争与竞争优势.md"
+    },
+    {
+      "id": "T07-v20261021",
+      "content": "新版第七次原话与五机制、正反替代/代理、原提交件与财务交接增量内容",
+      "source_contract": "sources/library/补充材料3/第七次任务合同_贵州茅台叙事核验.md"
+    }
+  ],
+  "review_page": "docs/20261025-task06-task07-review.md",
+  "review_snapshot_path": "work/task67-20261025/p04-displayed/review.md",
+  "review_snapshot_sha256": "c4204a8940c0adeb86fba3be10060eaf45f15870a1c55a0ee75fbfa9015cb7f9",
+  "bound_artifacts": [
+    {
+      "path": "outputs/task06-industry-advantage.md",
+      "sha256": "cec803f66e6fe17a76501e98cf7d9f7207fc1adbfe964e6e11d542e10ad3d9d1",
+      "role": "canonical-student-content"
+    },
+    {
+      "path": "work/task07-narrative-audit.md",
+      "sha256": "c390c45259a91aa6133015dbf5fc0a256d1414de4c6f7b3b56c6fc06e11023c6",
+      "role": "canonical-student-content"
+    },
+    {
+      "path": "outputs/lec03-evidence-matrix.md",
+      "sha256": "0f2b56e3973f9e4fa93a5fb6f871bcd673d98c146bd4df679ca43c72371be7e8",
+      "role": "canonical-student-content"
+    },
+    {
+      "path": "outputs/lec03-stage-deliverables.md",
+      "sha256": "6f8cca9b51d62d967248f201b19a9cd2166e9847ce381bd6a48bea82a08eb361",
+      "role": "canonical-student-content"
+    },
+    {
+      "path": "sources/library/补充材料3/第六次任务合同_贵州茅台行业竞争与竞争优势.md",
+      "sha256": "0ed8d279fad8598890838f9da3e561c6b7e1cc4a1a9afd5da7103d89f1ef8aa2",
+      "role": "contract-original-local-only"
+    },
+    {
+      "path": "sources/library/补充材料3/第七次任务合同_贵州茅台叙事核验.md",
+      "sha256": "6ca0d75c9efbcbd643d7129cb4ea5a3cb4be0a4c55ca63539f0041b01fa72c6e",
+      "role": "contract-original-local-only"
+    },
+    {
+      "path": "work/task67-20261025/current-inputs-and-calculations.json",
+      "sha256": "dfb8a150d0e4f73a41400dbcb456d8881c81d289eb1f9a9815e31a2b621fa095",
+      "role": "derived-input-or-process"
+    },
+    {
+      "path": "work/task67-20261025/check-only-validation.json",
+      "sha256": "04ed3e391820a9d8e72b076d652f2d8da3e0d4bf5eaa7248efabb3184593f98f",
+      "role": "derived-input-or-process"
+    }
+  ],
+  "input_authority": [
+    {
+      "domain": "facts",
+      "id": "C01",
+      "binding": "bf6e838d821bfa014ee564b83dbd1438bee886ca176f83e4f985a3eff0a0cc10",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf"
+    },
+    {
+      "domain": "facts",
+      "id": "R2024-07",
+      "binding": "b18e3abc5535e5084cbaa4355dd9952590003f520697bd2016636cb1c30e46f1",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf"
+    },
+    {
+      "domain": "facts",
+      "id": "R2024-09",
+      "binding": "db311b32084badde30ff0ac8b7e29641574cc947092aca81a2596f2d5b7be52a",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf"
+    },
+    {
+      "domain": "facts",
+      "id": "R2024-10",
+      "binding": "59a6ae1310f90e0da3804077533478a83620533c4176ac7fb1dd1c054dbc9ebd",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf"
+    },
+    {
+      "domain": "m01_disclosure_facts",
+      "id": "M01-D01",
+      "validated_snapshot_sha256": "6e8ed4340045f40a645737447dc1a8c9d10f82cc3d4d28a2c9d548c5d737f114"
+    },
+    {
+      "domain": "lec03_agent_facts",
+      "id": "L03-A2024-B",
+      "validated_snapshot_sha256": "dab33bf43b3e52e24fcfd32b3706f88821594fa28e8ddd1ade859a707ee160ca"
+    },
+    {
+      "domain": "lec03_agent_facts",
+      "id": "L03-A2024-C",
+      "validated_snapshot_sha256": "49401acee09b8b05e72d07696e7cf19a2138fb2a637ad02047cb3909a2727793"
+    }
+  ],
+  "new_human_fact_events": false,
+  "new_signatures": false,
+  "contracts_formally_closed": false,
+  "strict_new_visit_clause_resolved": false,
+  "display_payload_sha256": "9d49a91b67656aaafee68114380e432772a8b95079f05aac832cc498b59e892b"
+}

@@ -51,8 +51,8 @@
   "teacher_HV_imported": false,
   "N03_and_G6_adoption": "accepted-current",
   "research_content_or_signature_created": false,
-  "code_sha256": "05230a8fa1f4ed6ad61b284d08a9e37cafb0c80a092733a97c0611941437eb2f",
-  "report_fingerprint": "33a6d529c0a639d5ea560d2a1f42c117ec77ee0a2890d96a9e026f11f05f10e7",
+  "code_sha256": "507762008ec7e12ae86fc92765e5ec97b64a32444c9bfbd8798d29d87f6725c2",
+  "report_fingerprint": "1e57aaa057d7d7949932e1492f2914bf266f13b45c69b614e733b64d9b6537e8",
   "scope_correction": "SC34原文B10已核；2012合并/2013营业分开，代理范围与敏感性仍待判",
   "B10_events": [
     96,
@@ -166,7 +166,7 @@
   "P02_pending": false,
   "P02_display_semantics_current": false,
   "B14_confirmed_inputs_used": 7,
-  "current_checkpoint": "B17-confirmed-P03-pending",
+  "current_checkpoint": "P03-accepted-Task67-increment-ready-P04-pending",
   "historical_checks_retain_their_original_scope": true,
   "P02_adoption_status": "historical-adoption-preserved-new-path-needs-reassessment",
   "P02_actual_user_reply": "认可P02两项判断",
@@ -276,6 +276,9 @@
   "real_economic_roic_unknown": true,
   "new_human_arithmetic_approval": false,
   "B17_spreadsheet_updated": false,
-  "P03_pending": 1,
-  "P03_semantics_current": true
+  "P03_pending": 0,
+  "P03_semantics_current": true,
+  "P03_adoption_status": "accepted-current",
+  "P03_actual_user_reply": "认可P03判断",
+  "new_raw_confirmations_from_P03": 0
 }

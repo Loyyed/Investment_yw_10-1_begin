@@ -178,7 +178,7 @@ def main(p=ROOT):
   insert=lines.index('## N07阶段性判断');lines[insert:insert]=path_lines
   bridge_row=next(x for x in capital_path['panel'] if x['year']==2008)
   if bridge_row.get('opening_bridge_confirmed'):
-   bridge_lines=['## B17：2008期初桥接完成（AgentCalculated）','',f"调整后年初选定NCWC{bridge_row['adjusted_opening_selected_ncwc_yuan']}元，选定长期资产{bridge_row['adjusted_opening_selected_long_assets_yuan']}元；选定资本合计仍{bridge_row['confirmed_prior_capital_yuan']}元，平均资本{bridge_row['average_selected_capital_yuan']}元。",'',f"2008年末选定NCWC减同报告调整后年初＝{bridge_row['same_scope_ncwc_change_yuan']}元；直接跨报原值相减＝{bridge_row['cross_report_original_ncwc_delta_yuan']}元，两种账面差变化相差{bridge_row['ncwc_delta_difference_from_unadjusted_yuan']}元。该差与披露期初重分类对应，不把NCWC账面下降等同真实现金释放，CFO不再扣同一营运资本变化。",'', '[P03：年度资本路径的一项增量判断](student-cash-path-review.md)，只审新判断，不重复P01/P02或B01—B17原数核验。','']
+   bridge_lines=['## B17：2008期初桥接完成（AgentCalculated）','',f"调整后年初选定NCWC{bridge_row['adjusted_opening_selected_ncwc_yuan']}元，选定长期资产{bridge_row['adjusted_opening_selected_long_assets_yuan']}元；选定资本合计仍{bridge_row['confirmed_prior_capital_yuan']}元，平均资本{bridge_row['average_selected_capital_yuan']}元。",'',f"2008年末选定NCWC减同报告调整后年初＝{bridge_row['same_scope_ncwc_change_yuan']}元；直接跨报原值相减＝{bridge_row['cross_report_original_ncwc_delta_yuan']}元，两种账面差变化相差{bridge_row['ncwc_delta_difference_from_unadjusted_yuan']}元。该差与披露期初重分类对应，不把NCWC账面下降等同真实现金释放，CFO不再扣同一营运资本变化。",'', '[P03已认可的年度路径增量判断](student-cash-conclusion.md)，只记录本条真实采纳，不重复P01/P02或B01—B17原数核验。','']
    insert=lines.index('## N07阶段性判断');lines[insert:insert]=bridge_lines
   from cash_path_review import current_p03_adoption
   path_adoption=current_p03_adoption(p)

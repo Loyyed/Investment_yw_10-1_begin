@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "review_id": "P03-20261025",
+  "record_kind": "research-content-adoption",
+  "channel": "actual-user-chat",
+  "actual_user_reply": "认可P03判断",
+  "actor": "user",
+  "reviewer_name": null,
+  "identity_note": "本条明确采纳但未另署姓名，不移植原数核验人leo或旧lxy签名。",
+  "client_date": "2026-10-25",
+  "recorded_at": "2026-10-25T11:37:29+08:00",
+  "timestamp_meaning": "程序保存时刻，精确聊天发送时间未提供",
+  "display_manifest": "work/review-batches/20261025-P03-content-review.json",
+  "display_manifest_sha256": "3d3640c76735a8bcfa8a827cfab580720aa7e3742e7d6e5d7e12138026ab9ff3",
+  "display_payload_sha256": "d3b3ca5774aec5feb26f83735a4be77696ef693b116b8ce4b092e82010e27ca0",
+  "adopted_ids": [
+    "N07-annual-path"
+  ],
+  "judgments": [
+    {
+      "id": "N07-annual-path",
+      "kind": "Interpretation",
+      "judgment": "2007—2011年选定会计利润公式/平均资本比率存在先升、连续回落、再跃升的年度波动，不能由两个端点的改善推出新增资本持续获得较好成熟回报。2008期初分类调整已按原披露桥接，账面营运资本变化不能直接当现金释放；正式经营ROIC及成熟增量回报仍未验证，不认定新增投入已被证实低效。",
+      "alternative": "报表税率、利润项目、预付款经济用途、选定资本覆盖及投入成熟时间均可能影响代理。现有数据不足以把年度波动唯一归因新项目效率。",
+      "refutation": "若同主体逐年投入、成熟时间与经营NOPAT/实体现金能够匹配，并在多组合理成熟窗口持续形成可核增量回报，且结论不依赖遗漏资本或税率假设，则应重评当前“未验证”的停止判断；反向若成熟投入持续不形成对应经营利润和现金，则削弱持续较好回报命题。当前两种检验均缺完整输入。",
+      "stops": [
+        "选择性资本不是完整经济资本，报表有效税率不是已核经营税率",
+        "年度余额差并非累计现金再投资；四年端点跨度不证明逐笔成熟",
+        "金融完整贡献/抵销、真实经营Capex和成熟投入映射仍不足"
+      ]
+    }
+  ],
+  "judgment_type": "Interpretation",
+  "validator_sha256": "261bc28de172f876072e972cef874de6a22610e4f514862f8b4e73a76a0e8f22",
+  "new_signature_created": false,
+  "contract_formally_closed": false,
+  "new_raw_fact_confirmations": 0,
+  "new_human_arithmetic_confirmations": 0,
+  "teacher_approval": false,
+  "boundary": "只认可年度资本路径的增量Interpretation及其限制；不确认真实经营ROIC、成熟增量回报或现金释放，不关闭原始数据/经济范围/成熟映射缺口，不代正式验收/签署。P01/P02原记录保持。",
+  "events": [
+    {
+      "sequence": 1,
+      "operation": "adopt-research-interpretations",
+      "actor": "user",
+      "actual_user_reply": "认可P03判断",
+      "adopted_ids": [
+        "N07-annual-path"
+      ]
+    }
+  ],
+  "current_validation_at_recording": {
+    "status": "accepted-current",
+    "judgment_type": "Interpretation",
+    "adopted_ids": [
+      "N07-annual-path"
+    ],
+    "actual_user_reply": "认可P03判断",
+    "actor": "user",
+    "reviewer_name": null,
+    "new_signature_created": false,
+    "contract_formally_closed": false
+  },
+  "original_fact_count_unchanged": 144
+}

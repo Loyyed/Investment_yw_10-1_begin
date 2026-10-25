@@ -2,7 +2,7 @@
   "date": "2026-10-25",
   "contract": "第五次任务延伸合同_贵州茅台现金与资本回报验证.md",
   "contract_sha256": "da205d95d3157ca474c8e5638749d884d5ede85302f449999b3879741a60d121",
-  "status": "阶段十二：B17已核，2008期初桥接完成；P03一项年度路径解释待审",
+  "status": "阶段十三：P03增量意见已认可；现金保留停算/待验收，转新版第六七增量",
   "layers": [
     "合并事实",
     "金融活动与抵销",
@@ -59,9 +59,9 @@
   "next_batch": null,
   "next_review_ids": [],
   "remaining_steps": [
-    "本人审阅P03一项年度路径增量判断，不重复旧原数或P01/P02",
-    "真实税率/资本经济用途、金融抵销及现金再投资/成熟映射不足的指标继续Unknown，按停止规则记录",
-    "按合同逐条账本完成本版意见/正式验收，真实签署另列；随后继续其余合同"
+    "现金真实范围/经营税率/金融抵销/成熟现金再投资不足按合同停Unknown，正式验收/签署另列",
+    "新版第六七增量内容P04集中审阅，不重核旧原数/范围/H04意见",
+    "新版严格本次亲查与旧记录复用的差异、正式版本批准和签署不伪造"
   ],
   "stopped_outputs": {
     "entity_cfo": "Unknown：金融贡献/内部抵销未齐",
@@ -99,7 +99,9 @@
     "发现2007原报年末与2008调整后年初预付/CIP等额反向差632,936,687.20元，物理21/48页定位公司政策变更新披露，B17待核；2008相关平均/同口径NCWC变动暂止",
     "B17由leo确认review144—145，原披露Fact144；2008调整后两项年初余额及政策说明已核",
     "2008同报告平均资本与选定NCWC账面变化已恢复，跨报/同报两条算法相差632,936,687.20元，资本合计不变；Decimal/Fraction独立复算通过",
-    "年度资本路径增量意见P03仅一项待审，合同逐条完成/停算/意见/验收账本已列"
+    "年度资本路径增量意见P03仅一项待审，合同逐条完成/停算/意见/验收账本已列",
+    "2026-10-25本人真实答复认可P03判断，独立采纳年度路径Interpretation，原Fact144和145原事件不变，不新增签署",
+    "现金逐条完成/停止账本已更新，2026-10-21版第六七指定原成果增量已写入，P04只审两项新版内容"
   ],
   "source_confirmation_receipts": [
     "evidence/20261024-b09-chat-confirmation.json",
@@ -117,9 +119,13 @@
     2011
   ],
   "FY2012_sensitivity": "B14已核并完成三种合并条件利润情景；正式实体回报仍Unknown",
-  "next_content_review": "P03-20261025",
+  "next_content_review": null,
   "P01_method_approval": "accepted-method-with-followups",
   "economic_classification_complete": false,
   "P02_content_approval": "原版本采纳保留；新年度路径待桥接后评估",
-  "P03_status": "pending"
+  "P03_status": "accepted-current-Interpretation",
+  "next_contracts": [
+    "T06-v20261021",
+    "T07-v20261021"
+  ]
 }

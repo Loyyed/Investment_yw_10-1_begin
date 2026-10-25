@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-25",
+  "state": "AgentVerification",
+  "authority_counts": {
+    "facts": 144,
+    "lec03_agent_facts": 16,
+    "m01_disclosure_facts": 3
+  },
+  "canonical_files_updated": [
+    {
+      "path": "outputs/task06-industry-advantage.md",
+      "sha256": "cec803f66e6fe17a76501e98cf7d9f7207fc1adbfe964e6e11d542e10ad3d9d1"
+    },
+    {
+      "path": "work/task07-narrative-audit.md",
+      "sha256": "c390c45259a91aa6133015dbf5fc0a256d1414de4c6f7b3b56c6fc06e11023c6"
+    },
+    {
+      "path": "outputs/lec03-evidence-matrix.md",
+      "sha256": "0f2b56e3973f9e4fa93a5fb6f871bcd673d98c146bd4df679ca43c72371be7e8"
+    },
+    {
+      "path": "outputs/lec03-stage-deliverables.md",
+      "sha256": "6f8cca9b51d62d967248f201b19a9cd2166e9847ce381bd6a48bea82a08eb361"
+    }
+  ],
+  "independent_fraction_checked": true,
+  "new_human_fact_events": 0,
+  "new_signatures": 0,
+  "new_contracts_formally_closed": false,
+  "old_authority_and_acceptances_preserved": true,
+  "2025_hindsight_not_used_as_2024_fact": true,
+  "new_task07_parallel_result_created": false,
+  "check_only_packages_passed": [
+    "Task06",
+    "Task07"
+  ],
+  "proxy_grade_based_on_target_not_formula_correctness": true,
+  "prepublication_corrections": [
+    "将“S1同对象算术”改为按目标评定代理距离；算术为AgentCalculated，费用/毛利相对净品牌收益仅S2线索"
+  ],
+  "five_claims_individually_bounded": true,
+  "alternative_explanations_with_discriminating_evidence": 4
+}

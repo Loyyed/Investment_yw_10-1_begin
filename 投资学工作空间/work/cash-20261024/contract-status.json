@@ -54,7 +54,7 @@
     {
       "id": "C08",
       "requirement": "N06/N07支持、替代、反证、停止",
-      "state": "P02原版本意见已认可；年度路径增量判断P03待本人审阅，未自动继承旧认可"
+      "state": "P02原版本意见保留，P03年度路径增量Interpretation已由本人独立认可；不升级为真实经济回报"
     },
     {
       "id": "C09",
@@ -68,5 +68,9 @@
     }
   ],
   "new_formal_acceptance": false,
-  "new_signature": false
+  "new_signature": false,
+  "P03_status": "accepted-current-Interpretation",
+  "P03_receipt": "evidence/20261025-p03-chat-adoption.json",
+  "missing_meaning": "当前有效输入字段未齐，不表示缺少原件",
+  "next_work": "P04新版第六七次增量内容审阅；现金正式验收/签署另列"
 }

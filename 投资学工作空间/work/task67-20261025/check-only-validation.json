@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-25",
+  "runs": [
+    {
+      "package": "Task06",
+      "command": [
+        "D:\\Anaconda\\python.exe",
+        "isolated/04_复现脚本.py",
+        "--check-only"
+      ],
+      "actor": "Agent",
+      "exit_code": 0,
+      "source_script_sha256": "fe2bb92c969c4f3a8d7521f732d4d39299645319bacf10b46511ceef4389dc0e",
+      "source_evidence_sha256": "7005aaa041827d20b42b0fde4efd53cfd2da0ee42589fd7312bf82b595d94f17",
+      "source_originals_unchanged": true,
+      "output_files_created": false,
+      "stdout": "{\n  \"evidence_rows\": 15577,\n  \"panel_rows\": 164,\n  \"diagnostic_rows\": 20,\n  \"panel_sections\": {\n    \"peer_financial_panel\": 25,\n    \"peer_financial_summary\": 5,\n    \"broad_baijiu_cycle\": 16,\n    \"annual_list_price_proxy\": 15,\n    \"same_date_same_jd_list_price\": 16,\n    \"peer_product_operations\": 75,\n    \"moutai_product_operations\": 6,\n    \"source_audit\": 6\n  },\n  \"codex_status\": \"partial\",\n  \"check_only\": true\n}\n",
+      "stderr": "",
+      "boundary": "只复现冻结包内数据/规则，不证明本项目原始年报/行业事实或新学生亲查，不导入SCX/HV为Fact"
+    },
+    {
+      "package": "Task07",
+      "command": [
+        "D:\\Anaconda\\python.exe",
+        "isolated/04_复现脚本.py",
+        "--check-only"
+      ],
+      "actor": "Agent",
+      "exit_code": 0,
+      "source_script_sha256": "35ade8d738f2612f92ffd211804969df703d1d0046895d26c36c0e41eb4fa966",
+      "source_evidence_sha256": "4cc5e8abb6e24970524740043baff1760d861f2db870fcd73542837365aeb9e9",
+      "source_originals_unchanged": true,
+      "output_files_created": false,
+      "stdout": "{\n  \"check_only\": true,\n  \"diagnostic_rows\": 47,\n  \"evidence_rows\": 4675,\n  \"evidence_sha256\": \"4cc5e8abb6e24970524740043baff1760d861f2db870fcd73542837365aeb9e9\",\n  \"panel_rows\": 449,\n  \"panel_sections\": {\n    \"cash_conversion_annual\": 19,\n    \"cash_conversion_stage_median\": 3,\n    \"channel_structure\": 10,\n    \"claim_gate\": 8,\n    \"codex_batch_manifest\": 1,\n    \"codex_company_operations_annual\": 68,\n    \"codex_denominator_audit\": 18,\n    \"codex_mechanism_proxy_catalog\": 16,\n    \"codex_mechanism_values_annual\": 84,\n    \"codex_nominal_quote_month_end\": 144,\n    \"codex_price_proxy_audit\": 15,\n    \"codex_proxy2_batch_manifest\": 1,\n    \"codex_terminal_proxy_audit\": 14,\n    \"narrative_evidence\": 15,\n    \"peer_outcome\": 5,\n    \"price_ratio\": 12,\n    \"sales_and_growth\": 6,\n    \"time_capital_inventory\": 10\n  }\n}\n",
+      "stderr": "",
+      "boundary": "只复现冻结包内数据/规则，不证明本项目原始年报/行业事实或新学生亲查，不导入SCX/HV为Fact"
+    }
+  ],
+  "new_human_confirmations": 0,
+  "originals_uploaded": false
+}

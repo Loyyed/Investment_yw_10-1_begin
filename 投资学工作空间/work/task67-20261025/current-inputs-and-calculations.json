@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-25",
+  "information_set": "Task06/07实证以2020—2024年报及批准旧成果为限；2025后验和其他年现金方法案例不回填2024品牌因果",
+  "state": "AgentCalculated-and-compiled-not-new-Fact",
+  "input_authority": [
+    {
+      "domain": "facts",
+      "id": "C01",
+      "binding": "bf6e838d821bfa014ee564b83dbd1438bee886ca176f83e4f985a3eff0a0cc10",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf"
+    },
+    {
+      "domain": "facts",
+      "id": "R2024-07",
+      "binding": "b18e3abc5535e5084cbaa4355dd9952590003f520697bd2016636cb1c30e46f1",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf"
+    },
+    {
+      "domain": "facts",
+      "id": "R2024-09",
+      "binding": "db311b32084badde30ff0ac8b7e29641574cc947092aca81a2596f2d5b7be52a",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf"
+    },
+    {
+      "domain": "facts",
+      "id": "R2024-10",
+      "binding": "59a6ae1310f90e0da3804077533478a83620533c4176ac7fb1dd1c054dbc9ebd",
+      "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+      "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf"
+    },
+    {
+      "domain": "m01_disclosure_facts",
+      "id": "M01-D01",
+      "validated_snapshot_sha256": "6e8ed4340045f40a645737447dc1a8c9d10f82cc3d4d28a2c9d548c5d737f114"
+    },
+    {
+      "domain": "lec03_agent_facts",
+      "id": "L03-A2024-B",
+      "validated_snapshot_sha256": "dab33bf43b3e52e24fcfd32b3706f88821594fa28e8ddd1ade859a707ee160ca"
+    },
+    {
+      "domain": "lec03_agent_facts",
+      "id": "L03-A2024-C",
+      "validated_snapshot_sha256": "49401acee09b8b05e72d07696e7cf19a2138fb2a637ad02047cb3909a2727793"
+    }
+  ],
+  "current_validated_original_values": {
+    "C01": "170,899,152,276.34",
+    "R2024-07": "74,843,327,030.79／3,493,952,839.59",
+    "R2024-09": "本期5,639,300,059.49／上期4,648,613,585.82",
+    "R2024-10": "本期3,745,440,527.81／上期2,814,141,940.30"
+  },
+  "metrics": {
+    "selling_expense_change_yuan": "990686473.67",
+    "selling_expense_change_ratio": "0.213114395374130929360353069209668560405429306180",
+    "market_service_change_yuan": "931298587.51",
+    "market_service_change_ratio": "0.330935186378949827984268288757574009707814452702",
+    "selling_expense_over_operating_revenue_2024": "0.0329978234787928114463107136127070858740394679639",
+    "direct_accounting_gross_margin_2024": "0.953316441449047111010763049750295115798211554446"
+  },
+  "decimal_precision": 48,
+  "independent_fraction_checked": true,
+  "new_human_confirmations": 0,
+  "boundary": "销售费用为公司整体；市场推广服务费不等同全部品牌成本或CSV广告合计；直销毛利不等于净贡献；原话核验不证明因果或期限"
+}

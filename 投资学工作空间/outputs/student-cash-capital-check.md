@@ -168,7 +168,7 @@ B17两项已由leo确认：2008年初预付款639,762,311.82元、在建工程36
 
 2008年末选定NCWC减同报告调整后年初＝-902975871.48元；直接跨报原值相减＝-270039184.28元，两种账面差变化相差-632936687.20元。该差与披露期初重分类对应，不把NCWC账面下降等同真实现金释放，CFO不再扣同一营运资本变化。
 
-[P03：年度资本路径的一项增量判断](student-cash-path-review.md)，只审新判断，不重复P01/P02或B01—B17原数核验。
+[P03已认可的年度路径增量判断](student-cash-conclusion.md)，只记录本条真实采纳，不重复P01/P02或B01—B17原数核验。
 
 ## N07阶段性判断
 
@@ -188,4 +188,4 @@ B09已由leo确认，2016—2025十年现金基础及金额存货入表；旧有
 [P02已认可的N06/N07阶段性判断及真实回执](student-cash-conclusion.md)。不重复原数核验；意见采纳不关闭数据缺口或代替正式验收。
 
 
-当前年度路径增量意见状态：pending；[P03一项判断](student-cash-path-review.md)；[现金合同逐条完成/停止账本](student-cash-contract-status.md)。
+当前年度路径增量意见状态：accepted-current；[P03一项判断](student-cash-path-review.md)；[现金合同逐条完成/停止账本](student-cash-contract-status.md)。

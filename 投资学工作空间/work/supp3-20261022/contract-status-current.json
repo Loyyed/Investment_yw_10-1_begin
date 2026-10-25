@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-25",
+  "historical_version_map_unchanged": true,
+  "contracts": [
+    {
+      "name": "第七次任务合同_贵州茅台叙事核验.md",
+      "source_sha256": "6ca0d75c9efbcbd643d7129cb4ea5a3cb4be0a4c55ca63539f0041b01fa72c6e",
+      "current_state": "2026-10-25增量已写指定原成果，P04内容待审；不移植旧签署，新本次条款差异保留",
+      "formal_close": false
+    },
+    {
+      "name": "第五次任务合同_贵州茅台商业模式验证.md",
+      "source_sha256": "fb25c4182f568fb3922535f7a22363a06e9cae250a1c8cb53c206f17f629320d",
+      "current_state": "既有商业模式成果保留，三项延伸结果回接；本版最终逐条验收另列，不由旧签名自动关闭",
+      "formal_close": false
+    },
+    {
+      "name": "第五次任务延伸合同_贵州茅台渠道净贡献验证.md",
+      "source_sha256": "fa36428379f160d124a83a2e9906328ca904b9cce3fb6cea9fcf3d8ab99ab8af",
+      "current_state": "N03意见已采纳；净贡献方向仍Unknown，正式验收另列",
+      "formal_close": false
+    },
+    {
+      "name": "第五次任务延伸合同_贵州茅台现金与资本回报验证.md",
+      "source_sha256": "da205d95d3157ca474c8e5638749d884d5ede85302f449999b3879741a60d121",
+      "current_state": "P01/P02原认可保留，P03年度增量已认可；16年算术/9年字段缺口及真实指标停止已列；未正式验收",
+      "formal_close": false
+    },
+    {
+      "name": "第五次任务延伸合同_贵州茅台生产库存销售滞后验证.md",
+      "source_sha256": "d9da305bedb3f89c3f0a6b4478ced5e55b163f8bb4efd37e734ba5dc6c876261",
+      "current_state": "G6两项意见已采纳；来源/数量/滞后及项目边界已处理，材料批准/正式验收另列",
+      "formal_close": false
+    },
+    {
+      "name": "第六次任务合同_贵州茅台行业竞争与竞争优势.md",
+      "source_sha256": "0ed8d279fad8598890838f9da3e561c6b7e1cc4a1a9afd5da7103d89f1ef8aa2",
+      "current_state": "2026-10-25增量已写指定原成果，P04内容待审；不移植旧签署，新本次条款差异保留",
+      "formal_close": false
+    }
+  ],
+  "next_review": "P04-20261025",
+  "new_signatures": false
+}

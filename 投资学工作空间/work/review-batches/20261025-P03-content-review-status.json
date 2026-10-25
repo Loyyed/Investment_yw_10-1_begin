@@ -1,7 +1,12 @@
 {
   "review_id": "P03-20261025",
-  "status": "pending",
-  "judgment_type": "Interpretation",
+  "display_version": 1,
+  "status": "accepted-current-Interpretation",
+  "actual_user_reply": "认可P03判断",
+  "receipt": "evidence/20261025-p03-chat-adoption.json",
+  "display_payload_sha256": "d3b3ca5774aec5feb26f83735a4be77696ef693b116b8ce4b092e82010e27ca0",
+  "display_manifest_unchanged": true,
+  "teacher_approval": false,
   "new_signature_created": false,
-  "next_action": "只审一项年度路径增量意见，不重核旧原数/方法/意见"
+  "contract_formally_closed": false
 }
