@@ -1,0 +1,29 @@
+{
+  "csv_sha256": "2c91b0a280bf1f31eec38b2dbf1f8b3171b48e77efbde3c7010433481369a5e2",
+  "selected_rows": [
+    {
+      "role": "current",
+      "source_line": 100835,
+      "id": "S000009429",
+      "time": "2024-12-31",
+      "value": "414.5"
+    },
+    {
+      "role": "previous",
+      "source_line": 100846,
+      "id": "S000009429",
+      "time": "2023-12-31",
+      "value": "449.2"
+    },
+    {
+      "role": "reported_yoy",
+      "source_line": 101129,
+      "id": "S000009430",
+      "time": "2024-12-31",
+      "value": "-1.8"
+    }
+  ],
+  "state": "附件候选与Agent计算，不是新增人工Fact",
+  "raw_path_2025": "382.4805209260908281389136242",
+  "reported_yoy_path_2025": "407.0390"
+}

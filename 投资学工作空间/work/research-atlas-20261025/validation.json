@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-25",
+  "state": "研究扩展稿；新解释和Forecast待人工最终裁决",
+  "chapters": 12,
+  "html_pages": 13,
+  "static_figures": 22,
+  "browser": {
+    "date": "2026-10-25",
+    "browser": "Chromium 1097 headless / Playwright",
+    "desktop": [
+      1440,
+      1000
+    ],
+    "mobile": [
+      390,
+      844
+    ],
+    "chapters": 12,
+    "pages_checked": 13,
+    "evidence_figures": 22,
+    "forecast_chart": true,
+    "js_vs_decimal_max_abs_error": 9.1552734375e-05,
+    "scenario_switch": true,
+    "slider_reset": true,
+    "source_anchor": true,
+    "print_css": true,
+    "page_errors": []
+  },
+  "live_portal": {
+    "live_portal": true,
+    "report_page_entry": true,
+    "current_authority_checked_on_open": true,
+    "interactive_nonce_csp": true,
+    "sandbox_no_same_origin": true,
+    "no_network_policy": true,
+    "scenario_switch": true,
+    "console_errors": []
+  },
+  "python_and_fraction_checks": {
+    "tests_passed": 8,
+    "actual_authority_and_stale_input": true,
+    "independent_fraction_forecasts": true
+  },
+  "existing_workflow_tests_passed": 22,
+  "existing_review_status_tests_passed": 7,
+  "skill_quick_validate": "passed with UTF-8 mode",
+  "protected_records_and_core_unchanged": true,
+  "protected_hashes": {
+    "D:\\投资学\\投资学工作空间\\evidence\\review-state.json": "fa2248ad1bdf28a8d0d1be0d7271b40001422c6218d4df58d2d06feb5d0dbfe6",
+    "D:\\投资学\\投资学工作空间\\evidence\\change-review-state.json": "c3f8f262123cfc758a65d22716ff165bba2f4c452fa780511856028904f96587",
+    "D:\\投资学\\投资学工作空间\\evidence\\m01-metric-review.json": "9ebbdadb66a9d073d6168e5cc091adcaf8f99b7cccf480549ac92c964dc3c75e",
+    "D:\\投资学\\投资学工作空间\\evidence\\m01-disclosure-review.json": "f5be129332a7f660558b50437aabf86195dbb3293b203e2b257e510cc63d412a",
+    "D:\\投资学\\投资学工作空间\\evidence\\lec03-agent-facts.json": "2251b8067e5e080b1ddd8260b379c7d4fde39c6a7df7cd28c14f382995f86f05",
+    "D:\\投资学\\投资学工作空间\\evidence\\task67-content-review.json": "2100d0587f8763a2bf4238b47dcfc2d08e649da8d50d0e7447d2f4f983db462b",
+    "D:\\投资学\\投资学工作空间\\outputs\\task06-industry-advantage.md": "cec803f66e6fe17a76501e98cf7d9f7207fc1adbfe964e6e11d542e10ad3d9d1",
+    "D:\\投资学\\投资学工作空间\\work\\task07-narrative-audit.md": "c390c45259a91aa6133015dbf5fc0a256d1414de4c6f7b3b56c6fc06e11023c6",
+    "D:\\投资学\\投资学工作空间\\outputs\\lec03-evidence-matrix.md": "0f2b56e3973f9e4fa93a5fb6f871bcd673d98c146bd4df679ca43c72371be7e8",
+    "D:\\投资学\\投资学工作空间\\outputs\\lec03-stage-deliverables.md": "6f8cca9b51d62d967248f201b19a9cd2166e9847ce381bd6a48bea82a08eb361",
+    "D:\\投资学\\投资学公司分析通用工作台\\companybench\\core.py": "893e1c8388ead4a27a6ddd83762de2213c0ddad7c3f33e943304d1416a5005e2"
+  },
+  "original_fact_count": 144,
+  "independent_domain_counts": {
+    "change_facts": 2,
+    "lec03_agent_facts": 16,
+    "m01_metric_facts": 15,
+    "m01_disclosure_facts": 3,
+    "m01_scale_facts": 3
+  },
+  "referenced_domain_records_not_unique_facts": 146,
+  "source_dependencies_current_checked": 41,
+  "new_human_confirmations": 0,
+  "new_signatures": 0,
+  "publication": "待实际git结果；不以此记录冒称已推送",
+  "generic_model_tests_passed": 5,
+  "source_and_history_guards_rechecked_before_publication": true
+}

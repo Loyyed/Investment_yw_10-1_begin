@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-25",
+  "browser": "Chromium 1097 headless / Playwright",
+  "desktop": [
+    1440,
+    1000
+  ],
+  "mobile": [
+    390,
+    844
+  ],
+  "chapters": 12,
+  "pages_checked": 13,
+  "evidence_figures": 22,
+  "forecast_chart": true,
+  "js_vs_decimal_max_abs_error": 0.000091552734375,
+  "scenario_switch": true,
+  "slider_reset": true,
+  "source_anchor": true,
+  "print_css": true,
+  "page_errors": []
+}

@@ -1,0 +1,10 @@
+{
+  "live_portal": true,
+  "report_page_entry": true,
+  "current_authority_checked_on_open": true,
+  "interactive_nonce_csp": true,
+  "sandbox_no_same_origin": true,
+  "no_network_policy": true,
+  "scenario_switch": true,
+  "console_errors": []
+}

@@ -68,3 +68,6 @@
 本机公司目录D:/投资学/投资学工作空间，使用已有D:/Anaconda/python.exe；运行与资料位置见[运行指南](投资学工作空间/docs/run-guide.md)。本地窗口负责核验，GitHub用于浏览与版本记录。
 
 首页已将旧“待签署”“后续合同未提供”等当时状态收回历史，不删除原核验或修正。改写前的首页见[原版本](https://github.com/Loyyed/Investment_yw_10-1_begin/blob/5085d8dea68daf25592aba499d45090b4982d951/README.md)，合同状态依据[10日逐项映射](投资学工作空间/work/20261010-contract-map.json)与[12日逐项映射](投资学工作空间/work/20261012-supplement/contract-map.json)。
+
+
+2026-10-25新增推荐阅读：[贵州茅台研究图册](投资学工作空间/outputs/证券投资分析研究图册.html) · [逐合同HTML目录](投资学工作空间/outputs/research-atlas/README.md)。包含变化机制、竞争解释、22幅证据图及2026—2028条件预测；完整原件和供应商载荷仍仅保留本地。
