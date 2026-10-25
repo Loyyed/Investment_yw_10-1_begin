@@ -576,6 +576,19 @@
           "receipt": "evidence/20261025-b17-chat-confirmation.json"
         }
       ]
+    },
+    {
+      "id": "SC38",
+      "date": "2026-10-25",
+      "kind": "新收到材料时间不等于合同原稿更新日期",
+      "original": "此前20261025-contract-overview.md把补充材料3第五主合同也称为2026-10-21版；该原稿frontmatter实际updated=2026-10-10。第六七原稿updated=2026-10-21。",
+      "treatment": "更正当前总清单并在状态图/第五主成果注明原稿更新日期，保留版本映射及历史，原合同字节不改。P04明确认可的是第六七21日版，不受此标记纠正影响；不推定第五旧签名适用于任何不同哈希版本。",
+      "evidence": {
+        "source_path": "sources/library/补充材料3/第五次任务合同_贵州茅台商业模式验证.md",
+        "source_sha256": "fb25c4182f568fb3922535f7a22363a06e9cae250a1c8cb53c206f17f629320d",
+        "frontmatter_updated": "2026-10-10"
+      },
+      "state": "Agent文档元数据核对与说明修正，非新增人工Fact/签署/正式版本批准"
     }
   ]
 }

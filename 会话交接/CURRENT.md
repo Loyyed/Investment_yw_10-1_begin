@@ -13,4 +13,10 @@
 
 - 现金当前：本人真实答复“认可P03判断”已记evidence/cash-path-content-review.json及20261025-p03-chat-adoption.json，current_p03_adoption() accepted-current；原Fact144/145事件、原展示及p03-displayed冻结。P03为年度路径增量Interpretation，未另署姓名，非算术Fact/真实ROIC/新签署/正式验收。P01/P02历史保持。2008桥接已核，16有效年/9当前字段缺口、真实范围/税率/金融抵销与成熟现金再投资停Unknown；现金逐条账本student-cash-contract-status.md，旧工作簿只截至B12。
 
-- 当前转新版第六七（2026-10-21）：原稿/05指南已读，Task06/07隔离check-only均退出0且原01—09哈希不变。原task06成果、work/task07-narrative-audit及原lec03矩阵/阶段成果已补2024费用证据、五标签分别处理、四种替代解释/区分证据、代理正名和财务交接；无平行Task07结果。所有旧有效原数/已采纳范围/H04复用，不重复问。2020—2024为主实证，2025后验/历史方法案例不倒灌；费用/毛利对净品牌收益只S2，算式准确性与代理距离分开。底稿work/task67-20261025/current-inputs-and-calculations.json、check-only-validation.json、integration-validation.json。当前P04-20261025两项新版增量内容待审docs/20261025-task06-task07-review.md，manifest及p04-displayed冻结，current_p04_adoption() pending。原R2024-07事件19与聊天记录复用，不造本轮新亲查；严格本次条款兼容/正式版本批准/签署未发生，不移植旧lxy/leo。当前总清单docs/20261025-contract-overview.md；当前合同状态work/supp3-20261022/contract-status-current.json，旧版本图不改。反馈docs/20261025-p03-progress.md。
+- 当前转新版第六七（2026-10-21）：原稿/05指南已读，Task06/07隔离check-only均退出0且原01—09哈希不变。原task06成果、work/task07-narrative-audit及原lec03矩阵/阶段成果已补2024费用证据、五标签分别处理、四种替代解释/区分证据、代理正名和财务交接；无平行Task07结果。所有旧有效原数/已采纳范围/H04复用，不重复问。2020—2024为主实证，2025后验/历史方法案例不倒灌；费用/毛利对净品牌收益只S2，算式准确性与代理距离分开。底稿work/task67-20261025/current-inputs-and-calculations.json、check-only-validation.json、integration-validation.json。P04本人真实答复“认可P04两项内容”已登记evidence/task67-content-review.json及20261025-p04-chat-adoption.json，current_p04_adoption() accepted-current；原四份受审成果/原审阅页、manifest及p04-displayed冻结，不再改它们造成认可失效。原R2024-07事件19与聊天记录复用，不造本轮新亲查；严格本次条款兼容/正式版本批准/签署未发生，不移植旧lxy/leo。当前总清单docs/20261025-contract-overview.md；当前合同状态work/supp3-20261022/contract-status-current.json，旧版本图不改。反馈docs/20261025-p04-progress.md。
+
+- 当前阶段交付收束：没有新逐项核数或内容认可队列，不自行再建同类P05或让用户重复旧确认。下一步docs/20261025-final-delivery-checklist.md核最终报告版本与实际条款差异，再按真实指令办正式验收/签署；旧lxy/leo不迁移，证据不足持续Unknown。SC38修正第五主原稿updated=2026-10-10，不能因补充材料3收取时间称21日版；第六七21日及P04认可不受影响。第五主四环已回接延伸成果，原稿不要求完整ROIC/FCFF。通用工作台companybench/review_status.py、legacy_reader.py、workflow.py只读展示P03/P04当前认可及未签署/未正式关闭，叙事优先当前原过程稿；核心core.py不改。7专项合成检查+22既有工作流测试通过。最终状态work/delivery-20261025/status.json。
+
+- GitHub About简介字段仍未通过设置接口修改（当前无接口/gh）；两仓库中文稿已备公司docs/github-about-zh.md，文件成果推送与About设置分开，列最终收束待办。
+
+- 报告核验数量按原披露与各独立域分别列示，关联/重叠不合计独立Fact；相应合成检查已覆盖。

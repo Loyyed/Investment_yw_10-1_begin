@@ -2,7 +2,7 @@
   "schema_version": 1,
   "date": "2026-10-25",
   "next_review_id": "",
-  "next_review_scope": "新版第六七合同两项增量内容审阅；无新数字/不重审旧边界意见",
+  "next_review_scope": "无新逐项核数/内容认可队列；先核最终报告及实际条款差异，签署/正式验收另列",
   "preferred_confirmation_channel": "actual-user-chat",
   "completed_review_id": "",
   "completed_event": 145,
@@ -20,14 +20,15 @@
     144,
     145
   ],
-  "next_action_kind": "human-content-review",
-  "next_content_review_id": "P04-20261025",
-  "next_content_review_path": "docs/20261025-task06-task07-review.md",
-  "completed_content_review": "P03-20261025",
-  "completed_content_reply": "认可P03判断",
-  "completed_content_review_id": "P03-20261025",
-  "completed_content_review_status": "accepted-current-Interpretation",
-  "completed_content_review_path": "outputs/student-cash-conclusion.md",
+  "next_action_kind": "final-delivery-readiness",
+  "next_content_review_id": "",
+  "next_content_review_path": "",
+  "completed_content_review": "P04-20261025",
+  "completed_content_reply": "认可P04两项内容",
+  "completed_content_review_id": "P04-20261025",
+  "completed_content_review_status": "accepted-current-version-specific-content",
+  "completed_content_review_path": "docs/20261025-final-delivery-checklist.md",
   "completed_content_actor": "user",
-  "completed_content_reviewer_name": null
+  "completed_content_reviewer_name": null,
+  "next_action_path": "docs/20261025-final-delivery-checklist.md"
 }

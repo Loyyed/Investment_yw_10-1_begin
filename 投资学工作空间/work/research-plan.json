@@ -1037,8 +1037,12 @@
     ],
     "review_id": "P04-20261025",
     "review_path": "docs/20261025-task06-task07-review.md",
-    "state": "新版增量内容已写原成果、待审；非Fact/签名账本",
+    "state": "P04两项新版增量内容已获本人认可；原受审文件冻结，正式关闭/新签署和条款差异另列",
     "old_valid_inputs_reused": true,
-    "new_human_events": false
+    "new_human_events": false,
+    "review_status": "accepted-current",
+    "receipt": "evidence/20261025-p04-chat-adoption.json",
+    "next_action": "final-delivery-readiness",
+    "next_path": "docs/20261025-final-delivery-checklist.md"
   }
 }

@@ -5,14 +5,19 @@
     {
       "name": "第七次任务合同_贵州茅台叙事核验.md",
       "source_sha256": "6ca0d75c9efbcbd643d7129cb4ea5a3cb4be0a4c55ca63539f0041b01fa72c6e",
-      "current_state": "2026-10-25增量已写指定原成果，P04内容待审；不移植旧签署，新本次条款差异保留",
-      "formal_close": false
+      "current_state": "2026-10-21版两项增量内容已由本人P04真实认可，当前有效；严格本次条款/旧记录复用差异和新签署/正式验收另列",
+      "formal_close": false,
+      "content_review": "P04-20261025",
+      "content_review_status": "accepted-current",
+      "content_receipt": "evidence/20261025-p04-chat-adoption.json"
     },
     {
       "name": "第五次任务合同_贵州茅台商业模式验证.md",
       "source_sha256": "fb25c4182f568fb3922535f7a22363a06e9cae250a1c8cb53c206f17f629320d",
-      "current_state": "既有商业模式成果保留，三项延伸结果回接；本版最终逐条验收另列，不由旧签名自动关闭",
-      "formal_close": false
+      "current_state": "原四环节成果/真实核验与旧签署保留，延伸已回接；主合同不要求完整FCFE/FCFF/ROIC，最终验收另列",
+      "formal_close": false,
+      "source_frontmatter_updated": "2026-10-10",
+      "version_note": "补充材料3的收取时间不代表原稿更新日期，不能称2026-10-21新版"
     },
     {
       "name": "第五次任务延伸合同_贵州茅台渠道净贡献验证.md",
@@ -35,10 +40,15 @@
     {
       "name": "第六次任务合同_贵州茅台行业竞争与竞争优势.md",
       "source_sha256": "0ed8d279fad8598890838f9da3e561c6b7e1cc4a1a9afd5da7103d89f1ef8aa2",
-      "current_state": "2026-10-25增量已写指定原成果，P04内容待审；不移植旧签署，新本次条款差异保留",
-      "formal_close": false
+      "current_state": "2026-10-21版两项增量内容已由本人P04真实认可，当前有效；严格本次条款/旧记录复用差异和新签署/正式验收另列",
+      "formal_close": false,
+      "content_review": "P04-20261025",
+      "content_review_status": "accepted-current",
+      "content_receipt": "evidence/20261025-p04-chat-adoption.json"
     }
   ],
-  "next_review": "P04-20261025",
-  "new_signatures": false
+  "next_review": null,
+  "new_signatures": false,
+  "next_action": "final-delivery-readiness",
+  "P04_status": "accepted-current"
 }

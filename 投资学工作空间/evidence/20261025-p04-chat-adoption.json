@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "review_id": "P04-20261025",
+  "record_kind": "version-specific-content-adoption",
+  "channel": "actual-user-chat",
+  "actual_user_reply": "认可P04两项内容",
+  "actor": "user",
+  "reviewer_name": null,
+  "identity_note": "本条本人认可但未另署姓名，不把旧原数核验人leo或旧lxy签名移植为本条新签署。",
+  "client_date": "2026-10-25",
+  "recorded_at": "2026-10-25T11:55:06+08:00",
+  "timestamp_meaning": "程序保存实际答复时刻，精确聊天发送时间未提供",
+  "display_manifest": "work/review-batches/20261025-P04-content-review.json",
+  "display_manifest_sha256": "e78a99467db67f99a3d4d4cf18939df1f7f6caab6b576aa37f74e83423f0f92e",
+  "display_payload_sha256": "9d49a91b67656aaafee68114380e432772a8b95079f05aac832cc498b59e892b",
+  "adopted_ids": [
+    "T06-v20261021",
+    "T07-v20261021"
+  ],
+  "reviewed_items": [
+    {
+      "id": "T06-v20261021",
+      "content": "新版第六次五步法/品牌链与费用/代理/缺口增量内容",
+      "source_contract": "sources/library/补充材料3/第六次任务合同_贵州茅台行业竞争与竞争优势.md"
+    },
+    {
+      "id": "T07-v20261021",
+      "content": "新版第七次原话与五机制、正反替代/代理、原提交件与财务交接增量内容",
+      "source_contract": "sources/library/补充材料3/第七次任务合同_贵州茅台叙事核验.md"
+    }
+  ],
+  "validator_sha256": "ffd31c6691b800c60b09513fa3bc8bb64d092c9df05a8adee59a5d50146e5e67",
+  "new_signature_created": false,
+  "contracts_formally_closed": false,
+  "new_human_fact_events": false,
+  "new_human_arithmetic_confirmations": false,
+  "strict_new_visit_clause_resolved": false,
+  "teacher_approval": false,
+  "boundary": "只认可2026-10-21版第六七合同已展示的两项增量内容及披露的Unknown；旧核验/旧范围/H04及其他意见分别保留。认可不把旧亲查改写为本轮新点击，不自动证明新机制，不移植旧署名或解决严格本次条款，不代正式版本批准/合同验收/新签署。",
+  "events": [
+    {
+      "sequence": 1,
+      "operation": "adopt-version-specific-content",
+      "actor": "user",
+      "actual_user_reply": "认可P04两项内容",
+      "adopted_ids": [
+        "T06-v20261021",
+        "T07-v20261021"
+      ]
+    }
+  ],
+  "current_validation_at_recording": {
+    "status": "accepted-current",
+    "review_type": "version-specific-content",
+    "adopted_ids": [
+      "T06-v20261021",
+      "T07-v20261021"
+    ],
+    "actual_user_reply": "认可P04两项内容",
+    "actor": "user",
+    "reviewer_name": null,
+    "new_signature_created": false,
+    "contracts_formally_closed": false,
+    "strict_new_visit_clause_resolved": false
+  },
+  "original_fact_count_unchanged": 144
+}

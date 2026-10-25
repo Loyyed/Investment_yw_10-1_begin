@@ -1,8 +1,13 @@
 {
   "review_id": "P04-20261025",
-  "status": "pending",
-  "review_type": "version-specific-content",
-  "next_action": "只审新版增量内容两项，不核新数字/不重复旧范围意见",
+  "display_version": 1,
+  "status": "accepted-current-version-specific-content",
+  "actual_user_reply": "认可P04两项内容",
+  "receipt": "evidence/20261025-p04-chat-adoption.json",
+  "display_payload_sha256": "9d49a91b67656aaafee68114380e432772a8b95079f05aac832cc498b59e892b",
+  "display_manifest_unchanged": true,
+  "new_human_fact_events": false,
   "new_signatures": false,
-  "contracts_formally_closed": false
+  "contracts_formally_closed": false,
+  "strict_new_visit_clause_resolved": false
 }

@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-25",
+  "stage": "final-delivery-readiness",
+  "authority_counts": {
+    "facts": 144,
+    "change_facts": 2,
+    "lec03_agent_facts": 16,
+    "m01_scale_facts": 3,
+    "m01_metric_facts": 15,
+    "m01_disclosure_facts": 3
+  },
+  "current_reviews": {
+    "P03": {
+      "status": "accepted-current",
+      "judgment_type": "Interpretation",
+      "adopted_ids": [
+        "N07-annual-path"
+      ],
+      "actual_user_reply": "认可P03判断",
+      "actor": "user",
+      "reviewer_name": null,
+      "new_signature_created": false,
+      "contract_formally_closed": false
+    },
+    "P04": {
+      "status": "accepted-current",
+      "review_type": "version-specific-content",
+      "adopted_ids": [
+        "T06-v20261021",
+        "T07-v20261021"
+      ],
+      "actual_user_reply": "认可P04两项内容",
+      "actor": "user",
+      "reviewer_name": null,
+      "new_signature_created": false,
+      "contracts_formally_closed": false,
+      "strict_new_visit_clause_resolved": false
+    },
+    "G6": {
+      "status": "accepted-current",
+      "judgment_type": "Interpretation",
+      "adopted_ids": [
+        "G6-N02",
+        "G6-N05"
+      ],
+      "actual_user_reply": "认可G6两项判断",
+      "actor": "user",
+      "reviewer_name": null,
+      "recorded_at": "2026-10-24T14:14:32+08:00",
+      "display_payload_sha256": "736094d61b07b91e230a55c1a1162b116c536983e377f433fa8f7199606acda3",
+      "new_signature_created": false,
+      "boundary": "只审阅有范围的研究解释与反证；不确认新原数、完整项目回报、教师批准或新签署；FY2025仅后验。"
+    },
+    "N03": {
+      "status": "accepted-current",
+      "judgment_type": "Interpretation",
+      "adopted_ids": [
+        "N03"
+      ],
+      "actual_user_reply": "认可N03判断",
+      "actor": "user",
+      "reviewer_name": null,
+      "recorded_at": "2026-10-24T15:52:52+08:00",
+      "display_payload_sha256": "a679c06db2d14d7af091421c3a579e6b09b2fe3797ae7eb28faa4c5a576bbef9",
+      "new_signature_created": false,
+      "boundary": "只采纳有范围研究意见与反证，净贡献仍Unknown；不确认新原数/算术/渠道因果、教师验收或新签署；FY2025仅后验。"
+    },
+    "P01": {
+      "status": "accepted-method-with-followups",
+      "method_approved": true,
+      "reference_examples_status": "current",
+      "stale_reference_ids": [],
+      "economic_classification_complete": false,
+      "new_raw_facts": 0,
+      "new_signature_created": false,
+      "approved_ids": [
+        "P01-1",
+        "P01-2",
+        "P01-3",
+        "P01-4"
+      ],
+      "actual_user_reply": "我认可P01四项口径",
+      "actor": "user",
+      "reviewer_name": null,
+      "recorded_at": "2026-10-24T23:42:38+08:00",
+      "required_followups": [
+        "预付款按日常周转/土地与建设预付分类，核其他应收/工程物资及长期资本重叠；不能机械剔除建设预付",
+        "财务费用继续拆利息/汇兑/手续费及投资来源，整行移除只保留临时敏感性",
+        "其他相关年度与2012财务公司敏感性、经营税率和利润资本范围、累计再投资及成熟映射继续补证；不足的真实指标Unknown"
+      ],
+      "boundary": "方法认可与实例计算、原披露、逐项经济归属、真实经营回报、N06/N07观点、教师验收和正式签署分开；不确认新增附注明细，也不要求为同一方法重复签认可。未来新数据只核其自身，不自动升级Fact。"
+    }
+  },
+  "new_human_fact_events": 0,
+  "new_signatures": 0,
+  "contracts_formally_closed": false,
+  "strict_new_visit_clause_resolved": false,
+  "pending_numeric_or_same_content_review_queue": [],
+  "next_action_path": "docs/20261025-final-delivery-checklist.md",
+  "SC38": "contract-date-description-corrected",
+  "toolkit_checks": {
+    "targeted_status_tests": 7,
+    "existing_workflow_tests": 22,
+    "synthetic_only": true,
+    "core_unchanged": true
+  },
+  "report_fingerprint": "abb01f2234a77985ef569282ff03b7785b63d22fc1d71a2aac9e6a6f62090c94",
+  "report_artifacts": [
+    {
+      "path": "outputs/证券投资分析报告.md",
+      "sha256": "fd88abb4f7b01ccc055c7bc19265de4907eda37a7747c2236f85385860bd224a"
+    },
+    {
+      "path": "outputs/证券投资分析报告.html",
+      "sha256": "9aa985e463f5e8d69ebf7c2e918177da2f4a9dd919226450d87a662a0211538b"
+    },
+    {
+      "path": "outputs/证券投资分析报告.json",
+      "sha256": "1ede00ab1775537ce2e5cb244d8a6c5a16890462a54affcc3ccc20a97a210dca"
+    }
+  ],
+  "github_about_updated": false,
+  "github_about_draft_path": "docs/github-about-zh.md",
+  "github_about_missing_capability": "当前无GitHub设置接口，gh命令不可用",
+  "overlapping_domains_not_counted_as_unique_facts": true
+}
