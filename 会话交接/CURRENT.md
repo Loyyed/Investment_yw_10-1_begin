@@ -25,3 +25,5 @@
 - 报告核验数量按原披露与各独立域分别列示，关联/重叠不合计独立Fact；相应合成检查已覆盖。
 
 - 本轮图册内容已推送并核远端refs：工具包be48982、公司成果2b55f0b；真实回执work/research-atlas-20261025/publication.json。后续仅元数据回执提交按当前git log读取，原件未上传。
+
+- 2026-10-25图表补充：综合及12分章HTML已为22证据图、2研究矩阵及预测图/结果表/参数表加入可展开分析（主报告27处），分含义/用途/推断。预测解读随情景/滑块更新，展开状态保留。文字在work/research-atlas-20261025/chart-analysis.json，spec与公司builder接续保留；验证chart-analysis-validation.json。数据/模型参数/旧核验与认可均未改变。

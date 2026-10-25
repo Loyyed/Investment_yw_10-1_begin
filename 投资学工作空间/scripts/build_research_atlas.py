@@ -247,6 +247,13 @@ for c in chapters:
   for row in ch['rows']:
    for key,val in list(row.items()):
     if isinstance(val,D):row[key]=float(val)
+analysis_rel='work/research-atlas-20261025/chart-analysis.json'
+if (p/analysis_rel).is_file():
+ annotations=load(analysis_rel);dep(analysis_rel)
+ for chapter in chapters:
+  for item in chapter['charts']:
+   if item['title'] in annotations['charts']:item['analysis']=annotations['charts'][item['title']]
+  if chapter.get('matrix') and chapter['id'] in annotations.get('matrices',{}):chapter['matrix']['analysis']=annotations['matrices'][chapter['id']]
 spec={'schema_version':1,'company':'贵州茅台','security_code':'600519','date':'2026-10-25','title':'贵州茅台：变化、机制与未来','subtitle':'逐合同的证券投资分析研究图册。先回答问题，再用图表解释变化，最后将判断写进可修改、可复算的未来情景。',
  'snapshot_note':'本页为2026-10-25生成的离线研究快照。原披露Fact144项，独立域分列且不合计；新增分析为Interpretation，未来参数与结果为Forecast，均未自动人审或签署。工作台打开时重新校验源绑定；离线副本不会自动感知后续文件变化。',
  'chapters':chapters,'sources':sources,'authority':list(used.values()),'dependencies':list(deps.values()),'forecast':model,'forecast_results':forecast_results,'contract_coverage':contract_files,
