@@ -2,7 +2,7 @@
   "date": "2026-10-25",
   "state": "AgentCalculated",
   "human_arithmetic_confirmation": false,
-  "code_sha256": "1bee0c0a1757d7f8e4bf105d3df69b7bb60b9bdeb47fd7318102d1a1fd2f9409",
+  "code_sha256": "676dd76775ecce79222da80c424309eeb84bdb2e68ad52d26ea6dd6a252386bd",
   "panel": [
     {
       "year": 2001,
@@ -186,13 +186,17 @@
     },
     {
       "year": 2007,
-      "net_profit_yuan": null,
-      "cfo_yuan": null,
-      "capex_cash_yuan": null,
-      "operating_revenue_yuan": null,
+      "net_profit_yuan": "2966052508.95",
+      "cfo_yuan": "1743303211.38",
+      "capex_cash_yuan": "772456652.49",
+      "operating_revenue_yuan": "7237430747.12",
       "inventory_yuan": "2304818947.92",
       "input_roles": {
-        "inventory_yuan": "R2007-02"
+        "inventory_yuan": "R2007-02",
+        "net_profit_yuan": "R2007-12",
+        "cfo_yuan": "R2007-12",
+        "capex_cash_yuan": "R2007-12",
+        "operating_revenue_yuan": "R2007-12"
       },
       "entity_cfo_yuan": null,
       "fcff_yuan": null,
@@ -201,17 +205,12 @@
       "selected_invested_capital_yuan": null,
       "selective_reinvestment_proxy_yuan": null,
       "entity_roic": null,
-      "cash_conversion": null,
-      "arithmetic_CFO_minus_capex_yuan": null,
-      "capex_to_operating_revenue": null,
-      "inventory_to_operating_revenue": null,
-      "missing_current_reviewed_fields": [
-        "net_profit_yuan",
-        "cfo_yuan",
-        "capex_cash_yuan",
-        "operating_revenue_yuan"
-      ],
-      "cash_base_state": "Unknown：本项目当前有效输入未齐，不表示没有原件",
+      "cash_conversion": "0.587751972063751349657305600816949421053168371623",
+      "arithmetic_CFO_minus_capex_yuan": "970846558.89",
+      "capex_to_operating_revenue": "0.106730783268273020203008684840910569312434863659",
+      "inventory_to_operating_revenue": "0.318458169542715075827567596191976645446022780789",
+      "missing_current_reviewed_fields": [],
+      "cash_base_state": "AgentCalculated（合并范围）",
       "profit_definition": "新准则合并净利润，含少数股东；不能换归母",
       "entity_stop_reason": "选择性NCWC/NOPAT及资本原数和范围裁定未齐"
     },
@@ -221,12 +220,13 @@
       "cfo_yuan": "5247488535.74",
       "capex_cash_yuan": "1010735786.04",
       "operating_revenue_yuan": "8241685564.11",
-      "inventory_yuan": null,
+      "inventory_yuan": "3114567813.33",
       "input_roles": {
         "net_profit_yuan": "R2008-01",
         "cfo_yuan": "R2008-01",
         "capex_cash_yuan": "R2008-01",
-        "operating_revenue_yuan": "R2008-01"
+        "operating_revenue_yuan": "R2008-01",
+        "inventory_yuan": "R2008-03"
       },
       "entity_cfo_yuan": null,
       "fcff_yuan": null,
@@ -238,10 +238,8 @@
       "cash_conversion": "1.31162314093625337426275983049828159050185314409",
       "arithmetic_CFO_minus_capex_yuan": "4236752749.70",
       "capex_to_operating_revenue": "0.122637023479935072104045043627261954251498205426",
-      "inventory_to_operating_revenue": null,
-      "missing_current_reviewed_fields": [
-        "inventory_yuan"
-      ],
+      "inventory_to_operating_revenue": "0.377904227127152570779150537514281397896027406152",
+      "missing_current_reviewed_fields": [],
       "cash_base_state": "AgentCalculated（合并范围）",
       "profit_definition": "新准则合并净利润，含少数股东；不能换归母",
       "entity_stop_reason": "选择性NCWC/NOPAT及资本原数和范围裁定未齐"
@@ -252,12 +250,13 @@
       "cfo_yuan": "4223937144.19",
       "capex_cash_yuan": "1356601530.09",
       "operating_revenue_yuan": "9669999065.39",
-      "inventory_yuan": null,
+      "inventory_yuan": "4192246440.36",
       "input_roles": {
         "net_profit_yuan": "R2009-01",
         "cfo_yuan": "R2009-01",
         "capex_cash_yuan": "R2009-01",
-        "operating_revenue_yuan": "R2009-01"
+        "operating_revenue_yuan": "R2009-01",
+        "inventory_yuan": "R2009-03"
       },
       "entity_cfo_yuan": null,
       "fcff_yuan": null,
@@ -269,10 +268,8 @@
       "cash_conversion": "0.927748775808927352566673982988327421851561859665",
       "arithmetic_CFO_minus_capex_yuan": "2867335614.10",
       "capex_to_operating_revenue": "0.140289727115427286385676952318256091640674850909",
-      "inventory_to_operating_revenue": null,
-      "missing_current_reviewed_fields": [
-        "inventory_yuan"
-      ],
+      "inventory_to_operating_revenue": "0.433531214637291469716544003286369277298199612789",
+      "missing_current_reviewed_fields": [],
       "cash_base_state": "AgentCalculated（合并范围）",
       "profit_definition": "新准则合并净利润，含少数股东；不能换归母",
       "entity_stop_reason": "选择性NCWC/NOPAT及资本原数和范围裁定未齐"
@@ -309,13 +306,17 @@
     },
     {
       "year": 2011,
-      "net_profit_yuan": null,
-      "cfo_yuan": null,
-      "capex_cash_yuan": null,
-      "operating_revenue_yuan": null,
+      "net_profit_yuan": "9250323807.62",
+      "cfo_yuan": "10148564689.53",
+      "capex_cash_yuan": "2184528163.11",
+      "operating_revenue_yuan": "18402355207.30",
       "inventory_yuan": "7187117552.86",
       "input_roles": {
-        "inventory_yuan": "R2011-01"
+        "inventory_yuan": "R2011-01",
+        "net_profit_yuan": "R2011-11",
+        "cfo_yuan": "R2011-11",
+        "capex_cash_yuan": "R2011-11",
+        "operating_revenue_yuan": "R2011-11"
       },
       "entity_cfo_yuan": null,
       "fcff_yuan": null,
@@ -324,17 +325,12 @@
       "selected_invested_capital_yuan": null,
       "selective_reinvestment_proxy_yuan": null,
       "entity_roic": null,
-      "cash_conversion": null,
-      "arithmetic_CFO_minus_capex_yuan": null,
-      "capex_to_operating_revenue": null,
-      "inventory_to_operating_revenue": null,
-      "missing_current_reviewed_fields": [
-        "net_profit_yuan",
-        "cfo_yuan",
-        "capex_cash_yuan",
-        "operating_revenue_yuan"
-      ],
-      "cash_base_state": "Unknown：本项目当前有效输入未齐，不表示没有原件",
+      "cash_conversion": "1.09710372313346151512264070742750408471132857798",
+      "arithmetic_CFO_minus_capex_yuan": "7964036526.42",
+      "capex_to_operating_revenue": "0.118709161870944818973068339725156545179953771362",
+      "inventory_to_operating_revenue": "0.390554223733761761469724219934142625096202840210",
+      "missing_current_reviewed_fields": [],
+      "cash_base_state": "AgentCalculated（合并范围）",
       "profit_definition": "新准则合并净利润，含少数股东；不能换归母",
       "entity_stop_reason": "选择性NCWC/NOPAT及资本原数和范围裁定未齐"
     },
@@ -760,9 +756,11 @@
     }
   ],
   "complete_cash_years": [
+    2007,
     2008,
     2009,
     2010,
+    2011,
     2012,
     2016,
     2017,
@@ -775,12 +773,14 @@
     2024,
     2025
   ],
-  "complete_cash_n": 14,
+  "complete_cash_n": 16,
   "consolidated_cash_diagnostics": {
     "sample_years": [
+      2007,
       2008,
       2009,
       2010,
+      2011,
       2012,
       2016,
       2017,
@@ -793,13 +793,14 @@
       2024,
       2025
     ],
-    "n": 14,
-    "sum_consolidated_cfo_yuan": "546769831128.51",
-    "sum_consolidated_net_profit_yuan": "579424071124.43",
-    "ratio_of_sums": "0.943643625414886196002764459937971783450325747660",
+    "n": 16,
+    "sum_consolidated_cfo_yuan": "558661699029.42",
+    "sum_consolidated_net_profit_yuan": "591640447441.00",
+    "ratio_of_sums": "0.944258800164488870936608578278887712656688123147",
     "minimum_annual_ratio": "0.561354019968873260758745149122629081952871981982",
     "maximum_annual_ratio": "2.08867297271752127114452965945722532197200522155",
     "annual_ratio_below_one_years": [
+      2007,
       2009,
       2012,
       2017,
@@ -953,10 +954,10 @@
     "code_sha256": "b9ff16507d46153c5cc55eb7308423b3bfcf2b8b64264d8a1a5037a8708f3325"
   },
   "cash_conclusion_adoption": {
-    "status": "accepted-original-scope-supplement-unreviewed",
+    "status": "needs-content-reassessment",
     "judgment_type": "Interpretation",
     "original_user_adoption_record_valid": true,
-    "original_reviewed_support_unchanged": true,
+    "original_reviewed_support_unchanged": false,
     "full_calculation_package_matches_display": false,
     "new_supplement_human_adoption": false,
     "reviewer_name": null,
@@ -1071,6 +1072,340 @@
     ],
     "human_arithmetic_confirmation": false,
     "code_sha256": "02c35e871570467efb5c426270a7606e1fc9ff89af8aefc678c2c3d3a0eeeb43"
+  },
+  "annual_selected_capital_path": {
+    "state": "AgentCalculated",
+    "used_ids": [
+      "R2008-03",
+      "R2008-04",
+      "R2009-03",
+      "R2009-04",
+      "R2007-12",
+      "R2011-11",
+      "R2007-02",
+      "R2007-03",
+      "R2007-04",
+      "R2007-05",
+      "R2007-06",
+      "R2007-07",
+      "R2011-04",
+      "R2011-05",
+      "R2011-01",
+      "R2011-02",
+      "R2011-03",
+      "R2011-06"
+    ],
+    "panel": [
+      {
+        "year": 2007,
+        "raw_capital_fields_yuan": {
+          "存货": "2304818947.92",
+          "应收票据": "101046224.00",
+          "应收账款": "46407153.34",
+          "预付款项": "6825624.62",
+          "应付账款": "59681964.50",
+          "预收款项": "1125288196.26",
+          "固定资产": "1826983364.36",
+          "在建工程": "994453165.72",
+          "无形资产": "249274093.40"
+        },
+        "capital_input_ids": [
+          "R2007-02",
+          "R2007-03",
+          "R2007-04",
+          "R2007-05",
+          "R2007-06",
+          "R2007-07"
+        ],
+        "profit_input_ids": [
+          "R2007-02",
+          "R2007-03",
+          "R2007-04",
+          "R2007-05",
+          "R2007-06",
+          "R2007-07"
+        ],
+        "selected_ncwc_yuan": "1274127789.12",
+        "selected_long_assets_yuan": "3070710623.48",
+        "selected_end_capital_yuan": "4344838412.60",
+        "confirmed_prior_capital_yuan": "2524208230.98",
+        "same_report_opening_component_match": null,
+        "average_selected_capital_yuan": "3434523321.79",
+        "baseline_profit_formula_yuan": "2968227505.36746972995642598211954469620040866415",
+        "whole_line_profit_formula_yuan": "2937689025.20258609446659483641668152119509807384",
+        "baseline_formula_over_average": "0.864232741276158556719918316231112651215516282613",
+        "whole_line_formula_over_average": "0.855341120138769501619863052354271584180407293946",
+        "cross_report_original_average_capital_yuan": "3434523321.79",
+        "same_scope_ncwc_change_yuan": null,
+        "entity_roic": null,
+        "formal_incremental_return": null,
+        "status": "AgentCalculated；选择科目会计路径，真实经济资本/利润范围仍未齐"
+      },
+      {
+        "year": 2008,
+        "raw_capital_fields_yuan": {
+          "存货": "3114567813.33",
+          "应收票据": "170612609.00",
+          "应收账款": "34825094.84",
+          "预付款项": "741638536.34",
+          "应付账款": "121289073.57",
+          "预收款项": "2936266375.10",
+          "固定资产": "2190171911.89",
+          "在建工程": "582860996.70",
+          "无形资产": "445207595.72"
+        },
+        "capital_input_ids": [
+          "R2008-03",
+          "R2008-04"
+        ],
+        "profit_input_ids": [
+          "R2008-01",
+          "R2008-02"
+        ],
+        "selected_ncwc_yuan": "1004088604.84",
+        "selected_long_assets_yuan": "3218240504.31",
+        "selected_end_capital_yuan": "4222329109.15",
+        "confirmed_prior_capital_yuan": "4344838412.60",
+        "same_report_opening_component_match": false,
+        "average_selected_capital_yuan": null,
+        "baseline_profit_formula_yuan": "4004536426.23158405574352756331317664680949827717",
+        "whole_line_profit_formula_yuan": "3927405932.22201092096420082028589020599712293482",
+        "baseline_formula_over_average": null,
+        "whole_line_formula_over_average": null,
+        "cross_report_original_average_capital_yuan": "4283583760.875",
+        "same_scope_ncwc_change_yuan": null,
+        "entity_roic": null,
+        "formal_incremental_return": null,
+        "status": "AgentCalculated；选择科目会计路径，真实经济资本/利润范围仍未齐",
+        "cross_report_original_ncwc_delta_yuan": "-270039184.28",
+        "selected_capital_balance_delta_yuan": "-122509303.45",
+        "opening_differences_yuan": {
+          "预付款项": "632936687.20",
+          "在建工程": "-632936687.20"
+        },
+        "selected_capital_total_difference_yuan": "0.00",
+        "opening_gate": "B17待本人核2008调整后年初数及公司会计政策变更；不把资本合计抵消当科目可比",
+        "cross_report_original_average_status": "仅两份原值均值，非已核2008同报告基期；不输出对应回报比率"
+      },
+      {
+        "year": 2009,
+        "raw_capital_fields_yuan": {
+          "存货": "4192246440.36",
+          "应收票据": "380760283.20",
+          "应收账款": "21386314.28",
+          "预付款项": "1203126087.16",
+          "应付账款": "139121352.45",
+          "预收款项": "3516423880.20",
+          "固定资产": "3168725156.29",
+          "在建工程": "193956334.39",
+          "无形资产": "465550825.17"
+        },
+        "capital_input_ids": [
+          "R2009-03",
+          "R2009-04"
+        ],
+        "profit_input_ids": [
+          "R2009-01",
+          "R2009-02"
+        ],
+        "selected_ncwc_yuan": "2141973892.35",
+        "selected_long_assets_yuan": "3828232315.85",
+        "selected_end_capital_yuan": "5970206208.20",
+        "confirmed_prior_capital_yuan": "4222329109.15",
+        "same_report_opening_component_match": true,
+        "average_selected_capital_yuan": "5096267658.675",
+        "baseline_profit_formula_yuan": "4549130617.85466908455410631196599383416555909662",
+        "whole_line_profit_formula_yuan": "4448163124.05315127286253043930662597045860597120",
+        "baseline_formula_over_average": "0.892639657595499336639658155830367216356292333808",
+        "whole_line_formula_over_average": "0.872827610708666714152041581653912005506798553531",
+        "cross_report_original_average_capital_yuan": "5096267658.675",
+        "same_scope_ncwc_change_yuan": "1137885287.51",
+        "entity_roic": null,
+        "formal_incremental_return": null,
+        "status": "AgentCalculated；选择科目会计路径，真实经济资本/利润范围仍未齐",
+        "cross_report_original_ncwc_delta_yuan": "1137885287.51",
+        "selected_capital_balance_delta_yuan": "1747877099.05"
+      },
+      {
+        "year": 2010,
+        "raw_capital_fields_yuan": {
+          "存货": "5574126083.42",
+          "应收票据": "204811101.20",
+          "应收账款": "1254599.91",
+          "预付款项": "1529868837.52",
+          "应付账款": "232013104.28",
+          "预收款项": "4738570750.16",
+          "固定资产": "4191851111.97",
+          "在建工程": "263458445.10",
+          "无形资产": "452317235.72"
+        },
+        "capital_input_ids": [
+          "R2011-04",
+          "R2011-05"
+        ],
+        "profit_input_ids": [
+          "R2010-01",
+          "R2010-02"
+        ],
+        "selected_ncwc_yuan": "2339476767.61",
+        "selected_long_assets_yuan": "4907626792.79",
+        "selected_end_capital_yuan": "7247103560.40",
+        "confirmed_prior_capital_yuan": "5970206208.20",
+        "same_report_opening_component_match": true,
+        "average_selected_capital_yuan": "6608654884.30",
+        "baseline_profit_formula_yuan": "5338635379.90239055863323453041700754171681653433",
+        "whole_line_profit_formula_yuan": "5206643086.03690154017633443257614274942791333970",
+        "baseline_formula_over_average": "0.807824810550364807863391688658497972659343235653",
+        "whole_line_formula_over_average": "0.787852169191975903672978312158787751244338849383",
+        "cross_report_original_average_capital_yuan": "6608654884.30",
+        "same_scope_ncwc_change_yuan": "197502875.26",
+        "entity_roic": null,
+        "formal_incremental_return": null,
+        "status": "AgentCalculated；选择科目会计路径，真实经济资本/利润范围仍未齐",
+        "cross_report_original_ncwc_delta_yuan": "197502875.26",
+        "selected_capital_balance_delta_yuan": "1276897352.20"
+      },
+      {
+        "year": 2011,
+        "raw_capital_fields_yuan": {
+          "存货": "7187117552.86",
+          "应收票据": "252101396.08",
+          "应收账款": "2225396.48",
+          "预付款项": "1861027424.03",
+          "应付账款": "172343585.06",
+          "预收款项": "7026648776.80",
+          "固定资产": "5426012349.61",
+          "在建工程": "251446326.43",
+          "无形资产": "808425512.33"
+        },
+        "capital_input_ids": [
+          "R2011-01",
+          "R2011-02",
+          "R2011-03",
+          "R2011-04",
+          "R2011-05",
+          "R2011-06"
+        ],
+        "profit_input_ids": [
+          "R2011-01",
+          "R2011-02",
+          "R2011-03",
+          "R2011-04",
+          "R2011-05",
+          "R2011-06"
+        ],
+        "selected_ncwc_yuan": "2103479407.59",
+        "selected_long_assets_yuan": "6485884188.37",
+        "selected_end_capital_yuan": "8589363595.96",
+        "confirmed_prior_capital_yuan": "7247103560.40",
+        "same_report_opening_component_match": null,
+        "average_selected_capital_yuan": "7918233578.18",
+        "baseline_profit_formula_yuan": "9251451689.19894050429047813779799834866209383995",
+        "whole_line_profit_formula_yuan": "8985870096.99242251554314526186030056204140152260",
+        "baseline_formula_over_average": "1.16837317286179118738486849472789346649544783307",
+        "whole_line_formula_over_average": "1.13483266290028008519820086147560023480981902910",
+        "cross_report_original_average_capital_yuan": "7918233578.18",
+        "same_scope_ncwc_change_yuan": "-235997360.02",
+        "entity_roic": null,
+        "formal_incremental_return": null,
+        "status": "AgentCalculated；选择科目会计路径，真实经济资本/利润范围仍未齐",
+        "cross_report_original_ncwc_delta_yuan": "-235997360.02",
+        "selected_capital_balance_delta_yuan": "1342260035.56"
+      }
+    ],
+    "cash_assignments": [
+      {
+        "id": "R2007-12",
+        "year": 2007,
+        "period_year": 2007,
+        "kind": "cash-revenue-basic-year",
+        "name": "2007合并净利润/现金/收入四项",
+        "fields": {
+          "合并净利润": "2966052508.95",
+          "合并CFO": "1743303211.38",
+          "购建长期资产支付现金": "772456652.49",
+          "合并营业收入": "7237430747.12"
+        },
+        "value": "合并净利润2,966,052,508.95；合并CFO1,743,303,211.38；购建长期资产支付现金772,456,652.49；合并营业收入7,237,430,747.12",
+        "page": "34、36",
+        "source_path": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
+        "source_sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679",
+        "scope": "人民币元；2007合并年度流量、本期金额列；五、净利润含少数股东，非归母",
+        "boundary": "只核原披露；期末账面存量不当当年现金投入，完整经营资本/税率、成熟再投资与回报另判",
+        "field_pages": {
+          "合并净利润": 34,
+          "合并CFO": 36,
+          "购建长期资产支付现金": 36,
+          "合并营业收入": 34
+        },
+        "header_pages": {
+          "合并利润表": 34,
+          "合并现金流量表": 36
+        },
+        "printed_page_relation": "印刷页与物理页相同",
+        "binding": "bd335789b0f4595f56e24328b68af8e3108cacfe3132abd679c0d10105fe7d8b",
+        "candidate_fingerprint": "f59bb2198169828fb784ddeca52529c3d1c37e035c7103a30f64977f78227c27",
+        "state_at_display": "Unknown"
+      },
+      {
+        "id": "R2011-11",
+        "year": 2011,
+        "period_year": 2011,
+        "kind": "cash-revenue-basic-year",
+        "name": "2011合并净利润/现金/收入四项",
+        "fields": {
+          "合并净利润": "9250323807.62",
+          "合并CFO": "10148564689.53",
+          "购建长期资产支付现金": "2184528163.11",
+          "合并营业收入": "18402355207.30"
+        },
+        "value": "合并净利润9,250,323,807.62；合并CFO10,148,564,689.53；购建长期资产支付现金2,184,528,163.11；合并营业收入18,402,355,207.30",
+        "page": "44、45、47、48",
+        "source_path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
+        "source_sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b",
+        "scope": "人民币元；2011合并年度流量、本期金额列；五、净利润含少数股东，非归母",
+        "boundary": "只核原披露；期末账面存量不当当年现金投入，完整经营资本/税率、成熟再投资与回报另判",
+        "field_pages": {
+          "合并净利润": 45,
+          "合并CFO": 47,
+          "购建长期资产支付现金": 48,
+          "合并营业收入": 44
+        },
+        "header_pages": {
+          "合并利润表": 44,
+          "合并现金流量表": 46
+        },
+        "printed_page_relation": "印刷页=物理页−1",
+        "binding": "51689f353428686c5384fee4237e0254999c28f777b615e5e90debc66752fbe3",
+        "candidate_fingerprint": "8dffbd380203a6898cf14422d2e30a7c468e6921b3ece48582e20f1cdef139a0",
+        "state_at_display": "Unknown"
+      }
+    ],
+    "capital_balance_telescope": {
+      "annual_deltas_sum_yuan": "4244525183.36",
+      "endpoint_delta_yuan": "4244525183.36",
+      "residual_yuan": "0.00",
+      "cumulative_cash_reinvestment_yuan": null,
+      "boundary": "年度余额差加总只勾稽端点；不等于累计现金再投资/成熟增量回报"
+    },
+    "human_arithmetic_confirmation": false,
+    "code_sha256": "56d5c139c3168c4b51d33a8c29e25e5b738e55dabe4da32fa4dbd73ed2c6f60e"
+  },
+  "continuous_2007_2011_cash_diagnostics": {
+    "years": [
+      2007,
+      2008,
+      2009,
+      2010,
+      2011
+    ],
+    "n": 5,
+    "sum_consolidated_cfo_yuan": "27564770100.41",
+    "sum_consolidated_net_profit_yuan": "26109786100.65",
+    "ratio_of_sums": "1.05572561928126168553587575749621636148246573973",
+    "sum_reported_purchase_cash_yuan": "7056235920.25",
+    "CFO_minus_purchase_cash_sum_yuan": "20508534180.16",
+    "boundary": "2007—2011五个完整年度的合并原表观察，不是实体经营现金或成熟项目回报；购建现金不等于全部再投资，2012另列"
   },
   "selected_capital_proxy_diagnostics": {
     "method_approval": {
@@ -1925,6 +2260,13 @@
     },
     {
       "domain": "facts",
+      "id": "R2007-12",
+      "binding": "bd335789b0f4595f56e24328b68af8e3108cacfe3132abd679c0d10105fe7d8b",
+      "pdf_path": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
+      "pdf_sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679"
+    },
+    {
+      "domain": "facts",
       "id": "R2008-01",
       "binding": "03a1951c0f185e941cf9ce1e5beefae6aa1de08408ff0b854930780cf7dd9069",
       "pdf_path": "sources/annual_reports/pdf/600519_2008_贵州茅台_2008年年度报告.pdf",
@@ -1939,6 +2281,20 @@
     },
     {
       "domain": "facts",
+      "id": "R2008-03",
+      "binding": "46f5092026b077d7f33f8f509a4c9a274576b1ed5247fb3da04e10659909edc8",
+      "pdf_path": "sources/annual_reports/pdf/600519_2008_贵州茅台_2008年年度报告.pdf",
+      "pdf_sha256": "9d296c6db7e4abe204f2d5927572acd4914c49fbbcd4f9dd22250583d55ad200"
+    },
+    {
+      "domain": "facts",
+      "id": "R2008-04",
+      "binding": "4339e21b215c58c9009bb679166acb99ed0e6ec4652c492b1bbb2b7e05f08838",
+      "pdf_path": "sources/annual_reports/pdf/600519_2008_贵州茅台_2008年年度报告.pdf",
+      "pdf_sha256": "9d296c6db7e4abe204f2d5927572acd4914c49fbbcd4f9dd22250583d55ad200"
+    },
+    {
+      "domain": "facts",
       "id": "R2009-01",
       "binding": "3442ab584d57558c565898b0bf72af31eff0baa63dcdd599273a5f7388ec7718",
       "pdf_path": "sources/annual_reports/pdf/600519_2009_贵州茅台_2009年年度报告.pdf",
@@ -1948,6 +2304,20 @@
       "domain": "facts",
       "id": "R2009-02",
       "binding": "858433c3112530ab46b1f3d15ff048ebeb382899de31543b5f6774cc0b5eb387",
+      "pdf_path": "sources/annual_reports/pdf/600519_2009_贵州茅台_2009年年度报告.pdf",
+      "pdf_sha256": "37a18565407aa0a29634b6140d7e48ef4e33fe5ab02f7b1cdcff2a184ed0aba9"
+    },
+    {
+      "domain": "facts",
+      "id": "R2009-03",
+      "binding": "8cf91aa2aad2415f91632e0b166c7a7f251bc388e5333f09dc311a61a79bd2f4",
+      "pdf_path": "sources/annual_reports/pdf/600519_2009_贵州茅台_2009年年度报告.pdf",
+      "pdf_sha256": "37a18565407aa0a29634b6140d7e48ef4e33fe5ab02f7b1cdcff2a184ed0aba9"
+    },
+    {
+      "domain": "facts",
+      "id": "R2009-04",
+      "binding": "19bfb45e8ada0b480465ef2c0c277377d024f5fc0cde930ec6bbbd3ce4fae80b",
       "pdf_path": "sources/annual_reports/pdf/600519_2009_贵州茅台_2009年年度报告.pdf",
       "pdf_sha256": "37a18565407aa0a29634b6140d7e48ef4e33fe5ab02f7b1cdcff2a184ed0aba9"
     },
@@ -2032,6 +2402,13 @@
       "domain": "facts",
       "id": "R2011-10",
       "binding": "f5125bd1b5405721beee2466e2f3eb37555652bf6fd73a8bf60243dccd9750f9",
+      "pdf_path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
+      "pdf_sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b"
+    },
+    {
+      "domain": "facts",
+      "id": "R2011-11",
+      "binding": "51689f353428686c5384fee4237e0254999c28f777b615e5e90debc66752fbe3",
       "pdf_path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
       "pdf_sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b"
     },
@@ -2354,5 +2731,5 @@
     "inventory_intensity": "book inventory/consolidated operating revenue"
   },
   "precision": 48,
-  "generated_output_sha256": "73e1b3b552768c572738dd621d626a01d8a0dc88078575edd1f4461fe64d9c9f"
+  "generated_output_sha256": "e9192c171ab6b101b45d061252e6edb8b4a026f4b84327e4ecc3c925ee431b22"
 }

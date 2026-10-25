@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-25",
+  "state": "AgentAssessment-not-new-human-adoption",
+  "strict_original_validator": {
+    "status": "stale",
+    "judgment_type": "Interpretation",
+    "reason": "AssertionError: ",
+    "new_signature_created": false
+  },
+  "current_scope_assessment": {
+    "status": "needs-content-reassessment",
+    "judgment_type": "Interpretation",
+    "original_user_adoption_record_valid": true,
+    "original_reviewed_support_unchanged": false,
+    "full_calculation_package_matches_display": false,
+    "new_supplement_human_adoption": false,
+    "reviewer_name": null,
+    "new_signature_created": false,
+    "contract_formally_closed": false,
+    "boundary": "保留本人对原版本的真实采纳；新增中间年运算是AgentCalculated，不自动扩展本人意见认可。支持范围若变化则另行重评；原严格校验器及其历史不改。"
+  },
+  "reason": "新增2007/2011现金及2008/2009资本改变所审整包；原十年、2007/2011端点利润资本与2012敏感性数值保持，但年度路径及2008桥接应另行评估，原认可不撤回或改写",
+  "next_action": "B17先核新披露，再集中提交有增量内容的研究意见，不重复核旧原数"
+}

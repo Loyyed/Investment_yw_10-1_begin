@@ -2,7 +2,7 @@
   "date": "2026-10-25",
   "contract": "第五次任务延伸合同_贵州茅台现金与资本回报验证.md",
   "contract_sha256": "da205d95d3157ca474c8e5638749d884d5ede85302f449999b3879741a60d121",
-  "status": "阶段十：B15已核并补中间年利润现金；B16补必要资本与两端现金",
+  "status": "阶段十一：B16已核，年度资本路径已形成；B17解决2008期初分类差异",
   "layers": [
     "合并事实",
     "金融活动与抵销",
@@ -38,9 +38,11 @@
     2025
   ],
   "current_complete_cash_years": [
+    2007,
     2008,
     2009,
     2010,
+    2011,
     2012,
     2016,
     2017,
@@ -53,21 +55,17 @@
     2024,
     2025
   ],
-  "current_complete_cash_n": 14,
-  "next_batch": "B16",
+  "current_complete_cash_n": 16,
+  "next_batch": "B17",
   "next_review_ids": [
-    "R2008-03",
-    "R2008-04",
-    "R2009-03",
-    "R2009-04",
-    "R2007-12",
-    "R2011-11"
+    "R2008-05",
+    "R2008-06"
   ],
   "remaining_steps": [
-    "核B16六项26金额补2008/2009资本与2007/2011现金；2010资本复用，之后构造年度会计路径",
-    "补必要净值/用途/期初、应计利息与经营税率；真实利润资本范围未齐则Unknown",
-    "累计现金再投资、合理成熟期与金融完整贡献/内部抵销仍待核，正式ROIC/FCFF/可分配现金不估填",
-    "新证据改变研究结论时提交增量意见审阅；原数/意见认可、合同逐条验收与签署分开"
+    "核B17两项三金额与公司会计政策变更，保留两份历史原值及分类桥接",
+    "桥接后更新2008同报告平均/NCWC会计算式，集中提交年度路径的增量意见，不移植P02旧采纳",
+    "完整经营税率、资本经济用途/净值/期初、金融抵销、累计现金再投资与成熟映射不足则真实回报Unknown",
+    "合同逐条内容验收与真实签署另列，尚未全部完成"
   ],
   "stopped_outputs": {
     "entity_cfo": "Unknown：金融贡献/内部抵销未齐",
@@ -99,7 +97,10 @@
     "2026-10-25本人真实答复认可P02两项判断，N06/N07独立意见采纳，原披露Fact130不变，不新增签署/教师批准/正式验收",
     "B15由leo于2026-10-25确认review132—137，原披露Fact136；三年利润现金已接入并经Fraction独立复核",
     "2010存货与资本复用已核B12的2011年初列，不重复人工确认；三年净利润勾稽差均0",
-    "P02整包版本变化如实显示，原认可不改，原十年/两端/2012数值支持未变；新增分析不冒作人审"
+    "P02整包版本变化如实显示，原认可不改，原十年/两端/2012数值支持未变；新增分析不冒作人审",
+    "B16由leo确认review138—143，原Fact142；现金基础16有效年，非连续16年",
+    "2007—2011年度选定资本路径及五年合并现金观察形成，Decimal/Fraction独立复算与端点勾稽差0",
+    "发现2007原报年末与2008调整后年初预付/CIP等额反向差632,936,687.20元，物理21/48页定位公司政策变更新披露，B17待核；2008相关平均/同口径NCWC变动暂止"
   ],
   "source_confirmation_receipts": [
     "evidence/20261024-b09-chat-confirmation.json",
@@ -108,7 +109,8 @@
     "evidence/20261024-b12-chat-confirmation.json",
     "evidence/20261025-b13-chat-confirmation.json",
     "evidence/20261025-b14-chat-confirmation.json",
-    "evidence/20261025-b15-chat-confirmation.json"
+    "evidence/20261025-b15-chat-confirmation.json",
+    "evidence/20261025-b16-chat-confirmation.json"
   ],
   "primary_candidate_proxy_window": [
     2007,
@@ -118,5 +120,5 @@
   "next_content_review": null,
   "P01_method_approval": "accepted-method-with-followups",
   "economic_classification_complete": false,
-  "P02_content_approval": "原版本采纳保留/原支持未变/新增补证未人工采纳"
+  "P02_content_approval": "原版本采纳保留；新年度路径待桥接后评估"
 }

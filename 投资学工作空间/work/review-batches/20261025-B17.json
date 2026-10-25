@@ -1,0 +1,52 @@
+{
+  "batch_id": "B17",
+  "version": 1,
+  "date": "2026-10-25",
+  "status": "pending-human-confirmation",
+  "contract": "第五次任务延伸合同_贵州茅台现金与资本回报验证.md",
+  "purpose": "解决2007原年末与2008调整后年初科目分类差异；只补关键期初数与公司变更说明，不重核旧事实",
+  "items": [
+    {
+      "year": 2008,
+      "period_year": 2007,
+      "source_path": "sources/annual_reports/pdf/600519_2008_贵州茅台_2008年年度报告.pdf",
+      "source_sha256": "9d296c6db7e4abe204f2d5927572acd4914c49fbbcd4f9dd22250583d55ad200",
+      "state_at_display": "Unknown",
+      "id": "R2008-05",
+      "kind": "restated-opening-capital",
+      "name": "2008报告调整后年初预付及在建工程",
+      "fields": {
+        "年初预付账款/预付款项": "639762311.82",
+        "年初在建工程": "361516478.52"
+      },
+      "value": "年初预付账款/预付款项639,762,311.82；年初在建工程361,516,478.52",
+      "page": "21、28",
+      "scope": "人民币元；2008年报披露的调整后年初余额，对应2007期末比较口径；不是2008年末，不覆盖2007原年报",
+      "boundary": "只确认调整后年初披露，不把原报数覆盖，不自动确认全部经营分类或NCWC变化为现金流",
+      "binding": "ed77ebace9e7a90c5669e39581e30b5e9a54f5529a27fc79ab5d1536c389f097",
+      "candidate_fingerprint": "741548603f22bbe95db176ca0cd8cbff1296b3f230cc0db6d1016a8fdee816d4"
+    },
+    {
+      "year": 2008,
+      "period_year": 2007,
+      "source_path": "sources/annual_reports/pdf/600519_2008_贵州茅台_2008年年度报告.pdf",
+      "source_sha256": "9d296c6db7e4abe204f2d5927572acd4914c49fbbcd4f9dd22250583d55ad200",
+      "state_at_display": "Unknown",
+      "id": "R2008-06",
+      "kind": "accounting-opening-reclassification",
+      "name": "工程预付款会计政策变更说明与期初影响",
+      "fields": {
+        "变更影响数": "632936687.20"
+      },
+      "value": "变更影响数632,936,687.20；公司在会计政策变更中说明将进行在建工程预付的工程价款从在建工程-预付工程款调入预付账款，并调整期初余额；同页会计估计变更和会计差错更正列无。",
+      "page": "48",
+      "scope": "人民币元；2008年报列示的会计政策变更及期初分类调整影响数，不是2008年度现金支出；仅核公司披露",
+      "boundary": "不把会计分类转入当新增投资/现金支出，不扩展为真实回报或外部法律/准则合规意见",
+      "binding": "a234a4d04f1b1b10791d8049058e219baa70598751a75dfe9c3cc3b634d5d65b",
+      "candidate_fingerprint": "87534fa6f44b038c02e6bd0f185595ea1703c54c9b4369b1e42ee731c6882039"
+    }
+  ],
+  "scope_note": "两项三金额与会计政策变更原文；复杂年度口径问题减量，原值/调整后比较值分别保留。原说明属待人工核验新披露，不提前当人审Fact。",
+  "actual_human_reply": null,
+  "display_payload_sha256": "c9f51d9eca995f200ceac7e62cc98030b8bd9f4544005fb70903cebe437e56cd"
+}

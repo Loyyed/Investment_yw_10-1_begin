@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-25",
+  "state": "AgentVerification",
+  "authority_counts": {
+    "facts": 142,
+    "change_facts": 2,
+    "lec03_agent_facts": 16,
+    "m01_scale_facts": 3,
+    "m01_metric_facts": 15,
+    "m01_disclosure_facts": 3
+  },
+  "B16_confirmed": 6,
+  "B16_events": [
+    138,
+    139,
+    140,
+    141,
+    142,
+    143
+  ],
+  "independent_fraction_check": true,
+  "tolerance": "1e-34",
+  "complete_cash_years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "complete_cash_n": 16,
+  "continuous_primary_cash_years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "original_ten_year_endpoints_2012_and_reconciliation_unchanged": true,
+  "other_21_panel_years_unchanged": true,
+  "2008_component_differences_yuan": {
+    "预付款项": "632936687.20",
+    "在建工程": "-632936687.20"
+  },
+  "2008_selected_total_difference_yuan": "0.00",
+  "2008_same_report_average_and_ncwc_change_stopped": true,
+  "annual_capital_delta_telescope_residual_yuan": "0.00",
+  "B17_pending": 2,
+  "original_P02_ledger_and_validator_preserved": true,
+  "P02_current_impact": {
+    "status": "needs-content-reassessment",
+    "judgment_type": "Interpretation",
+    "original_user_adoption_record_valid": true,
+    "original_reviewed_support_unchanged": false,
+    "full_calculation_package_matches_display": false,
+    "new_supplement_human_adoption": false,
+    "reviewer_name": null,
+    "new_signature_created": false,
+    "contract_formally_closed": false,
+    "boundary": "保留本人对原版本的真实采纳；新增中间年运算是AgentCalculated，不自动扩展本人意见认可。支持范围若变化则另行重评；原严格校验器及其历史不改。"
+  },
+  "B16_spreadsheet_updated": false,
+  "new_signatures": 0,
+  "code_sha256": "676dd76775ecce79222da80c424309eeb84bdb2e68ad52d26ea6dd6a252386bd",
+  "annual_path_code_sha256": "56d5c139c3168c4b51d33a8c29e25e5b738e55dabe4da32fa4dbd73ed2c6f60e",
+  "B17_not_used_as_confirmed_calculation_input": true,
+  "report_fingerprint": "29a474a3390731461a74fc80702e515da0afc6b7c2c0b97d3b77fb7c27796964"
+}

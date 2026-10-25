@@ -1,16 +1,21 @@
 {
   "schema_version": 1,
   "date": "2026-10-25",
-  "next_review_id": "R2008-03",
-  "next_review_scope": "2008/2009合并年末资本及2007/2011本期合并现金六项26金额，资本存量/现金流量分别核",
+  "next_review_id": "R2008-05",
+  "next_review_scope": "2008调整后年初预付/CIP及会计政策变更，两项三金额；期初分类，不是年度现金流",
   "preferred_confirmation_channel": "actual-user-chat",
   "completed_review_id": "",
-  "completed_event": 137,
+  "completed_event": 143,
   "completed_channel": "actual-user-chat",
   "completed_reviewer": "leo",
   "toolkit_directory": "投资学公司分析通用工作台",
-  "next_review_batch": "B16",
+  "next_review_batch": "B17",
   "next_review_ids": [
+    "R2008-05",
+    "R2008-06"
+  ],
+  "completed_batch": "B16",
+  "completed_review_ids": [
     "R2008-03",
     "R2008-04",
     "R2009-03",
@@ -18,22 +23,13 @@
     "R2007-12",
     "R2011-11"
   ],
-  "completed_batch": "B15",
-  "completed_review_ids": [
-    "R2008-01",
-    "R2008-02",
-    "R2009-01",
-    "R2009-02",
-    "R2010-01",
-    "R2010-02"
-  ],
   "completed_event_sequences": [
-    132,
-    133,
-    134,
-    135,
-    136,
-    137
+    138,
+    139,
+    140,
+    141,
+    142,
+    143
   ],
   "next_action_kind": "human-batch-review",
   "next_content_review_id": "",
@@ -41,7 +37,7 @@
   "completed_content_review": "P02-20261025",
   "completed_content_reply": "认可P02两项判断",
   "completed_content_review_id": "P02-20261025",
-  "completed_content_review_status": "accepted-original-scope-supplement-unreviewed",
+  "completed_content_review_status": "historical-adoption-preserved-new-path-needs-reassessment",
   "completed_content_review_path": "outputs/student-cash-conclusion.md",
   "completed_content_actor": "user",
   "completed_content_reviewer_name": null

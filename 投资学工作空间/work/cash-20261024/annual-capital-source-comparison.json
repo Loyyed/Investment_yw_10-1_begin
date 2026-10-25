@@ -1,0 +1,266 @@
+{
+  "date": "2026-10-25",
+  "comparisons": [
+    {
+      "year": 2008,
+      "state": "AgentSourceComparison-not-new-human-Fact",
+      "source_path": "sources/annual_reports/pdf/600519_2008_贵州茅台_2008年年度报告.pdf",
+      "source_sha256": "9d296c6db7e4abe204f2d5927572acd4914c49fbbcd4f9dd22250583d55ad200",
+      "header_page": 28,
+      "prior_fact_ids": [
+        "R2007-02",
+        "R2007-03"
+      ],
+      "rows": [
+        {
+          "field": "存货",
+          "current_yuan": "3114567813.33",
+          "opening_yuan": "2304818947.92",
+          "confirmed_previous_closing_yuan": "2304818947.92",
+          "opening_matches": true,
+          "page": 28
+        },
+        {
+          "field": "应收票据",
+          "current_yuan": "170612609.00",
+          "opening_yuan": "101046224.00",
+          "confirmed_previous_closing_yuan": "101046224.00",
+          "opening_matches": true,
+          "page": 28
+        },
+        {
+          "field": "应收账款",
+          "current_yuan": "34825094.84",
+          "opening_yuan": "46407153.34",
+          "confirmed_previous_closing_yuan": "46407153.34",
+          "opening_matches": true,
+          "page": 28
+        },
+        {
+          "field": "预付款项",
+          "current_yuan": "741638536.34",
+          "opening_yuan": "639762311.82",
+          "confirmed_previous_closing_yuan": "6825624.62",
+          "opening_matches": false,
+          "page": 28
+        },
+        {
+          "field": "应付账款",
+          "current_yuan": "121289073.57",
+          "opening_yuan": "59681964.50",
+          "confirmed_previous_closing_yuan": "59681964.50",
+          "opening_matches": true,
+          "page": 29
+        },
+        {
+          "field": "预收款项",
+          "current_yuan": "2936266375.10",
+          "opening_yuan": "1125288196.26",
+          "confirmed_previous_closing_yuan": "1125288196.26",
+          "opening_matches": true,
+          "page": 29
+        },
+        {
+          "field": "固定资产",
+          "current_yuan": "2190171911.89",
+          "opening_yuan": "1826983364.36",
+          "confirmed_previous_closing_yuan": "1826983364.36",
+          "opening_matches": true,
+          "page": 28
+        },
+        {
+          "field": "在建工程",
+          "current_yuan": "582860996.70",
+          "opening_yuan": "361516478.52",
+          "confirmed_previous_closing_yuan": "994453165.72",
+          "opening_matches": false,
+          "page": 28
+        },
+        {
+          "field": "无形资产",
+          "current_yuan": "445207595.72",
+          "opening_yuan": "249274093.40",
+          "confirmed_previous_closing_yuan": "249274093.40",
+          "opening_matches": true,
+          "page": 28
+        }
+      ],
+      "all_nine_opening_values_match": false,
+      "2010_closing_matches_confirmed_2011_opening": null
+    },
+    {
+      "year": 2009,
+      "state": "AgentSourceComparison-not-new-human-Fact",
+      "source_path": "sources/annual_reports/pdf/600519_2009_贵州茅台_2009年年度报告.pdf",
+      "source_sha256": "37a18565407aa0a29634b6140d7e48ef4e33fe5ab02f7b1cdcff2a184ed0aba9",
+      "header_page": 29,
+      "prior_fact_ids": [
+        "R2008-03",
+        "R2008-04"
+      ],
+      "rows": [
+        {
+          "field": "存货",
+          "current_yuan": "4192246440.36",
+          "opening_yuan": "3114567813.33",
+          "confirmed_previous_closing_yuan": "3114567813.33",
+          "opening_matches": true,
+          "page": 29
+        },
+        {
+          "field": "应收票据",
+          "current_yuan": "380760283.20",
+          "opening_yuan": "170612609.00",
+          "confirmed_previous_closing_yuan": "170612609.00",
+          "opening_matches": true,
+          "page": 29
+        },
+        {
+          "field": "应收账款",
+          "current_yuan": "21386314.28",
+          "opening_yuan": "34825094.84",
+          "confirmed_previous_closing_yuan": "34825094.84",
+          "opening_matches": true,
+          "page": 29
+        },
+        {
+          "field": "预付款项",
+          "current_yuan": "1203126087.16",
+          "opening_yuan": "741638536.34",
+          "confirmed_previous_closing_yuan": "741638536.34",
+          "opening_matches": true,
+          "page": 29
+        },
+        {
+          "field": "应付账款",
+          "current_yuan": "139121352.45",
+          "opening_yuan": "121289073.57",
+          "confirmed_previous_closing_yuan": "121289073.57",
+          "opening_matches": true,
+          "page": 30
+        },
+        {
+          "field": "预收款项",
+          "current_yuan": "3516423880.20",
+          "opening_yuan": "2936266375.10",
+          "confirmed_previous_closing_yuan": "2936266375.10",
+          "opening_matches": true,
+          "page": 30
+        },
+        {
+          "field": "固定资产",
+          "current_yuan": "3168725156.29",
+          "opening_yuan": "2190171911.89",
+          "confirmed_previous_closing_yuan": "2190171911.89",
+          "opening_matches": true,
+          "page": 29
+        },
+        {
+          "field": "在建工程",
+          "current_yuan": "193956334.39",
+          "opening_yuan": "582860996.70",
+          "confirmed_previous_closing_yuan": "582860996.70",
+          "opening_matches": true,
+          "page": 29
+        },
+        {
+          "field": "无形资产",
+          "current_yuan": "465550825.17",
+          "opening_yuan": "445207595.72",
+          "confirmed_previous_closing_yuan": "445207595.72",
+          "opening_matches": true,
+          "page": 29
+        }
+      ],
+      "all_nine_opening_values_match": true,
+      "2010_closing_matches_confirmed_2011_opening": null
+    },
+    {
+      "year": 2010,
+      "state": "AgentSourceComparison-not-new-human-Fact",
+      "source_path": "sources/annual_reports/pdf/600519_2010_贵州茅台_2010年年度报告_修订版_2011-04-08.pdf",
+      "source_sha256": "613779ed98205e7bf7ee8dfdfe91794ce84336297cbb42cbf5c4ad9f06a55312",
+      "header_page": 37,
+      "prior_fact_ids": [
+        "R2009-03",
+        "R2009-04"
+      ],
+      "rows": [
+        {
+          "field": "存货",
+          "current_yuan": "5574126083.42",
+          "opening_yuan": "4192246440.36",
+          "confirmed_previous_closing_yuan": "4192246440.36",
+          "opening_matches": true,
+          "page": 37
+        },
+        {
+          "field": "应收票据",
+          "current_yuan": "204811101.20",
+          "opening_yuan": "380760283.20",
+          "confirmed_previous_closing_yuan": "380760283.20",
+          "opening_matches": true,
+          "page": 37
+        },
+        {
+          "field": "应收账款",
+          "current_yuan": "1254599.91",
+          "opening_yuan": "21386314.28",
+          "confirmed_previous_closing_yuan": "21386314.28",
+          "opening_matches": true,
+          "page": 37
+        },
+        {
+          "field": "预付款项",
+          "current_yuan": "1529868837.52",
+          "opening_yuan": "1203126087.16",
+          "confirmed_previous_closing_yuan": "1203126087.16",
+          "opening_matches": true,
+          "page": 37
+        },
+        {
+          "field": "应付账款",
+          "current_yuan": "232013104.28",
+          "opening_yuan": "139121352.45",
+          "confirmed_previous_closing_yuan": "139121352.45",
+          "opening_matches": true,
+          "page": 38
+        },
+        {
+          "field": "预收款项",
+          "current_yuan": "4738570750.16",
+          "opening_yuan": "3516423880.20",
+          "confirmed_previous_closing_yuan": "3516423880.20",
+          "opening_matches": true,
+          "page": 38
+        },
+        {
+          "field": "固定资产",
+          "current_yuan": "4191851111.97",
+          "opening_yuan": "3168725156.29",
+          "confirmed_previous_closing_yuan": "3168725156.29",
+          "opening_matches": true,
+          "page": 37
+        },
+        {
+          "field": "在建工程",
+          "current_yuan": "263458445.10",
+          "opening_yuan": "193956334.39",
+          "confirmed_previous_closing_yuan": "193956334.39",
+          "opening_matches": true,
+          "page": 37
+        },
+        {
+          "field": "无形资产",
+          "current_yuan": "452317235.72",
+          "opening_yuan": "465550825.17",
+          "confirmed_previous_closing_yuan": "465550825.17",
+          "opening_matches": true,
+          "page": 38
+        }
+      ],
+      "all_nine_opening_values_match": true,
+      "2010_closing_matches_confirmed_2011_opening": true
+    }
+  ]
+}
