@@ -1,12 +1,17 @@
 {
   "review_id": "P02-20261025",
   "display_version": 1,
-  "status": "accepted-current-Interpretation",
+  "status": "accepted-original-scope-supplement-unreviewed",
   "actual_user_reply": "认可P02两项判断",
   "receipt": "evidence/20261025-p02-chat-adoption.json",
   "display_payload_sha256": "6e531f64ab3190d00bf0a70d7505f7c8fc52d00e0b28bfb58db841a6798e8eaf",
   "display_manifest_unchanged": true,
   "teacher_approval": false,
   "new_signature_created": false,
-  "contract_formally_closed": false
+  "contract_formally_closed": false,
+  "strict_full_package_validation": "stale-new-calculation-version",
+  "original_adoption_preserved": true,
+  "original_reviewed_support_unchanged": true,
+  "new_supplement_human_adoption": false,
+  "current_impact": "work/cash-20261024/p02-post-b15-impact.json"
 }

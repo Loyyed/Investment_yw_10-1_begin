@@ -1,0 +1,18 @@
+{
+  "batch_id": "B15",
+  "display_version": 1,
+  "status": "confirmed-original-disclosure",
+  "reviewer": "leo",
+  "actual_user_reply": "B15全部核验正确，核验人leo",
+  "event_sequences": [
+    132,
+    133,
+    134,
+    135,
+    136,
+    137
+  ],
+  "receipt": "evidence/20261025-b15-chat-confirmation.json",
+  "arithmetic_status": "AgentCalculated另列",
+  "display_manifest_unchanged": true
+}

@@ -93,7 +93,7 @@
       "interpretation": "长周期投入与销售存在时间差；存货金额、实物吨、项目投入与购建现金分开，不能仅由低Capex贴轻资产标签。",
       "alternative": "存货上升可能为产能配套、结构转换或积压；缺库龄时不能选择唯一原因。",
       "unknown": "经营资产/无息负债范围、维护/扩张Capex、成熟滞后和平均投入资本待裁定。",
-      "next_action": "P02已采纳阶段性判断；核B15六项27金额补2008—2010利润与现金，再补必要资本/范围/成熟投入，未核候选不入计算。",
+      "next_action": "核B16六项26金额补2008/2009资本及2007/2011现金；复用2010资本，再构造主窗年度会计路径和必要经济范围/成熟投入补证。",
       "refutation": "库存与投入长期快于后续销售且回报未兑现，削弱资本效率解释。",
       "source_date": "",
       "source_role": "原始披露",
@@ -180,7 +180,13 @@
         "R2012-05",
         "R2012-06",
         "R2012-07",
-        "R2012-08"
+        "R2012-08",
+        "R2008-01",
+        "R2008-02",
+        "R2009-01",
+        "R2009-02",
+        "R2010-01",
+        "R2010-02"
       ],
       "evidence_bindings": {
         "R2024-08": "50b379e85fe4a04982f34e70de7b4dfa961702aa7a8675eee71b443cbab01145",
@@ -265,7 +271,13 @@
         "R2012-05": "00557fe22844f711559b03e89d0e2aa28fc4f6e3caa5e372eb6ae4d30908abf0",
         "R2012-06": "a5fc449b221fca69b439e28ee7c854660d9c8395263e646b9dee213bcf2ce22c",
         "R2012-07": "a90553a717d14ebbb50317bc6bc7fbec934c97060574f44770d51d78f69e8a4d",
-        "R2012-08": "fb4c815460399da84d3ca87f0d8919e95ad1d57bfeb00558aefdda4fa1eef554"
+        "R2012-08": "fb4c815460399da84d3ca87f0d8919e95ad1d57bfeb00558aefdda4fa1eef554",
+        "R2008-01": "03a1951c0f185e941cf9ce1e5beefae6aa1de08408ff0b854930780cf7dd9069",
+        "R2008-02": "d61fecc647dee7031a0bb3e6c07a8714dfa5f8ecc0c470d88f419d3503a4fc6d",
+        "R2009-01": "3442ab584d57558c565898b0bf72af31eff0baa63dcdd599273a5f7388ec7718",
+        "R2009-02": "858433c3112530ab46b1f3d15ff048ebeb382899de31543b5f6774cc0b5eb387",
+        "R2010-01": "749a4fde665fa1ca2cd9f728eaf9842c39d64e61f92f3883ddbcf687208a12f6",
+        "R2010-02": "0895f99922e0e516dc1995e92e06d603c1888c4daf3dab329acf02ee3b0c7043"
       }
     },
     {
@@ -276,7 +288,7 @@
       "interpretation": "2024合并现金转换较强但跨年波动且含财务公司影响；已剔除的显式金融项只能形成有边界余额，不是准确酒类CFO。",
       "alternative": "收款节奏、合同负债与集团资金归集均可能改变合并CFO。",
       "unknown": "带合并抵销的金融净贡献、实体利润与受限现金、经营Capex归属Unknown。",
-      "next_action": "P02已采纳阶段性判断；核B15六项27金额补2008—2010利润与现金，再补必要资本/范围/成熟投入，未核候选不入计算。",
+      "next_action": "核B16六项26金额补2008/2009资本及2007/2011现金；复用2010资本，再构造主窗年度会计路径和必要经济范围/成熟投入补证。",
       "refutation": "剔除时点和金融影响后实体现金持续弱于利润，削弱稳定现金创造解释。",
       "source_date": "",
       "source_role": "原始披露",
@@ -329,7 +341,13 @@
         "R2012-05",
         "R2012-06",
         "R2012-07",
-        "R2012-08"
+        "R2012-08",
+        "R2008-01",
+        "R2008-02",
+        "R2009-01",
+        "R2009-02",
+        "R2010-01",
+        "R2010-02"
       ],
       "evidence_bindings": {
         "C09": "86e23c22a3bacd4c1380022392a70a0e64c81e42960285f30b9cbb8a1d01e618",
@@ -380,7 +398,13 @@
         "R2012-05": "00557fe22844f711559b03e89d0e2aa28fc4f6e3caa5e372eb6ae4d30908abf0",
         "R2012-06": "a5fc449b221fca69b439e28ee7c854660d9c8395263e646b9dee213bcf2ce22c",
         "R2012-07": "a90553a717d14ebbb50317bc6bc7fbec934c97060574f44770d51d78f69e8a4d",
-        "R2012-08": "fb4c815460399da84d3ca87f0d8919e95ad1d57bfeb00558aefdda4fa1eef554"
+        "R2012-08": "fb4c815460399da84d3ca87f0d8919e95ad1d57bfeb00558aefdda4fa1eef554",
+        "R2008-01": "03a1951c0f185e941cf9ce1e5beefae6aa1de08408ff0b854930780cf7dd9069",
+        "R2008-02": "d61fecc647dee7031a0bb3e6c07a8714dfa5f8ecc0c470d88f419d3503a4fc6d",
+        "R2009-01": "3442ab584d57558c565898b0bf72af31eff0baa63dcdd599273a5f7388ec7718",
+        "R2009-02": "858433c3112530ab46b1f3d15ff048ebeb382899de31543b5f6774cc0b5eb387",
+        "R2010-01": "749a4fde665fa1ca2cd9f728eaf9842c39d64e61f92f3883ddbcf687208a12f6",
+        "R2010-02": "0895f99922e0e516dc1995e92e06d603c1888c4daf3dab329acf02ee3b0c7043"
       }
     },
     {
@@ -953,7 +977,7 @@
   "active_extension_contract": {
     "name": "第五次任务延伸合同_贵州茅台现金与资本回报验证.md",
     "progress": "work/cash-20261024/progress.json",
-    "next_batch": "B15",
+    "next_batch": "B16",
     "current_result": "outputs/student-cash-capital-check.md",
     "entity_cash_return_status": "Unknown",
     "previous_N03_adoption": "scripts/channel_n03_review.py:current_n03_adoption",
@@ -966,6 +990,7 @@
     "economic_classification_complete": false,
     "B13_detail_state": "已核用途/来源，三桶分解与单年利润明细情景完成；完整经济范围仍Unknown",
     "B14_state": "已核七项21金额/空白/来源，2012独立合并三情景已算",
-    "P02_status": "本人已认可N06/N07阶段性Interpretation，正式指标/验收另列"
+    "P02_status": "原版本采纳保留；整包版本改变，原支持未变，新增未人工采纳",
+    "B15_state": "六项已核，2008—2010利润现金已算"
   }
 }

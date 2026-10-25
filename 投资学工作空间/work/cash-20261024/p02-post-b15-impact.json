@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-25",
+  "state": "AgentAssessment-not-new-human-adoption",
+  "strict_original_validator": {
+    "status": "stale",
+    "judgment_type": "Interpretation",
+    "reason": "AssertionError: ",
+    "new_signature_created": false
+  },
+  "current_scope_assessment": {
+    "status": "accepted-original-scope-supplement-unreviewed",
+    "judgment_type": "Interpretation",
+    "original_user_adoption_record_valid": true,
+    "original_reviewed_support_unchanged": true,
+    "full_calculation_package_matches_display": false,
+    "new_supplement_human_adoption": false,
+    "reviewer_name": null,
+    "new_signature_created": false,
+    "contract_formally_closed": false,
+    "boundary": "保留本人对原版本的真实采纳；新增中间年运算是AgentCalculated，不自动扩展本人意见认可。支持范围若变化则另行重评；原严格校验器及其历史不改。"
+  },
+  "calculation_path": "work/cash-20261024/calculations.json",
+  "impact_code_sha256": "47972b31ab7102739c091713cb3c4547fa0ce8c42f376e74e5e435f42796d51d"
+}

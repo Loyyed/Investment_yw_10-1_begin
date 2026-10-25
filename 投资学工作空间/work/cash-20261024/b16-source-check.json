@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-25",
+  "state": "AgentSourceCheck-not-human-Fact",
+  "visually_checked_pdf_pages": {
+    "2008": [
+      28,
+      29
+    ],
+    "2009": [
+      29,
+      30
+    ],
+    "2007": [
+      34,
+      36
+    ],
+    "2011": [
+      44,
+      45,
+      46,
+      47,
+      48
+    ]
+  },
+  "printed_page_offset_by_year": {
+    "2007": 0,
+    "2008": -1,
+    "2009": -1,
+    "2011": -1
+  },
+  "pending_items": 6,
+  "pending_amounts": 26,
+  "pending_not_used": true,
+  "originals_uploaded": false
+}

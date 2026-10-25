@@ -2,7 +2,7 @@
   "date": "2026-10-25",
   "contract": "第五次任务延伸合同_贵州茅台现金与资本回报验证.md",
   "contract_sha256": "da205d95d3157ca474c8e5638749d884d5ede85302f449999b3879741a60d121",
-  "status": "阶段九：P02两项阶段性意见本人已认可；B15补2008—2010利润与现金",
+  "status": "阶段十：B15已核并补中间年利润现金；B16补必要资本与两端现金",
   "layers": [
     "合并事实",
     "金融活动与抵销",
@@ -38,6 +38,9 @@
     2025
   ],
   "current_complete_cash_years": [
+    2008,
+    2009,
+    2010,
     2012,
     2016,
     2017,
@@ -50,22 +53,21 @@
     2024,
     2025
   ],
-  "current_complete_cash_n": 11,
-  "next_batch": "B15",
+  "current_complete_cash_n": 14,
+  "next_batch": "B16",
   "next_review_ids": [
-    "R2008-01",
-    "R2008-02",
-    "R2009-01",
-    "R2009-02",
-    "R2010-01",
-    "R2010-02"
+    "R2008-03",
+    "R2008-04",
+    "R2009-03",
+    "R2009-04",
+    "R2007-12",
+    "R2011-11"
   ],
   "remaining_steps": [
-    "核B15六项27金额，再补主窗中间年资本与其他必要范围/成熟投入缺口；意见认可不代替原数确认",
-    "补2008—2010必要主窗原数；其他25年原数缺口保留显式Unknown，不冒称面板全数已核",
-    "补2007土地其他应收净值/重叠/期初、两端预付用途/期初及同口径应计利息、经营税率",
-    "核累计现金再投资、合理成熟期与金融完整贡献/内部抵销；不足则正式实体指标继续Unknown",
-    "在必要补证/停止账本基础上逐条合同验收，真实签署另列"
+    "核B16六项26金额补2008/2009资本与2007/2011现金；2010资本复用，之后构造年度会计路径",
+    "补必要净值/用途/期初、应计利息与经营税率；真实利润资本范围未齐则Unknown",
+    "累计现金再投资、合理成熟期与金融完整贡献/内部抵销仍待核，正式ROIC/FCFF/可分配现金不估填",
+    "新证据改变研究结论时提交增量意见审阅；原数/意见认可、合同逐条验收与签署分开"
   ],
   "stopped_outputs": {
     "entity_cfo": "Unknown：金融贡献/内部抵销未齐",
@@ -94,7 +96,10 @@
     "2012现金四指标、选择性NCWC/平均资本及三种利润条件情景完成，财务明细与净额差0；原表空白保留null",
     "2012与2016—2025共11有效年度非连续；原十年合并统计及2007/2011主窗、2025调节结果不变",
     "P02两项阶段性判断集中展示具体支持/替代/反证/停止与来源，待本人意见审阅，不重复原数核验",
-    "2026-10-25本人真实答复认可P02两项判断，N06/N07独立意见采纳，原披露Fact130不变，不新增签署/教师批准/正式验收"
+    "2026-10-25本人真实答复认可P02两项判断，N06/N07独立意见采纳，原披露Fact130不变，不新增签署/教师批准/正式验收",
+    "B15由leo于2026-10-25确认review132—137，原披露Fact136；三年利润现金已接入并经Fraction独立复核",
+    "2010存货与资本复用已核B12的2011年初列，不重复人工确认；三年净利润勾稽差均0",
+    "P02整包版本变化如实显示，原认可不改，原十年/两端/2012数值支持未变；新增分析不冒作人审"
   ],
   "source_confirmation_receipts": [
     "evidence/20261024-b09-chat-confirmation.json",
@@ -102,7 +107,8 @@
     "evidence/20261024-b11-chat-confirmation.json",
     "evidence/20261024-b12-chat-confirmation.json",
     "evidence/20261025-b13-chat-confirmation.json",
-    "evidence/20261025-b14-chat-confirmation.json"
+    "evidence/20261025-b14-chat-confirmation.json",
+    "evidence/20261025-b15-chat-confirmation.json"
   ],
   "primary_candidate_proxy_window": [
     2007,
@@ -112,5 +118,5 @@
   "next_content_review": null,
   "P01_method_approval": "accepted-method-with-followups",
   "economic_classification_complete": false,
-  "P02_content_approval": "accepted-current-Interpretation"
+  "P02_content_approval": "原版本采纳保留/原支持未变/新增补证未人工采纳"
 }

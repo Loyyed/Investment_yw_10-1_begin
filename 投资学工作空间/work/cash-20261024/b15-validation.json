@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-25",
+  "state": "AgentVerification",
+  "B15_confirmed": 6,
+  "B15_events": [
+    132,
+    133,
+    134,
+    135,
+    136,
+    137
+  ],
+  "authority_counts": {
+    "facts": 136,
+    "change_facts": 2,
+    "lec03_agent_facts": 16,
+    "m01_scale_facts": 3,
+    "m01_metric_facts": 15,
+    "m01_disclosure_facts": 3
+  },
+  "independent_fraction_check": true,
+  "rational_tolerance": "1e-34",
+  "complete_cash_years": [
+    2008,
+    2009,
+    2010,
+    2012,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "complete_cash_n": 14,
+  "prior_22_other_panel_years_unchanged": true,
+  "continuous_ten_year_proxy_2012_and_reconciliation_unchanged": true,
+  "profit_reconciliation_residuals_yuan": [
+    "0.00",
+    "0.00",
+    "0.00"
+  ],
+  "P02_strict_full_package_status": "stale",
+  "P02_original_scope_impact": {
+    "status": "accepted-original-scope-supplement-unreviewed",
+    "judgment_type": "Interpretation",
+    "original_user_adoption_record_valid": true,
+    "original_reviewed_support_unchanged": true,
+    "full_calculation_package_matches_display": false,
+    "new_supplement_human_adoption": false,
+    "reviewer_name": null,
+    "new_signature_created": false,
+    "contract_formally_closed": false,
+    "boundary": "保留本人对原版本的真实采纳；新增中间年运算是AgentCalculated，不自动扩展本人意见认可。支持范围若变化则另行重评；原严格校验器及其历史不改。"
+  },
+  "source_and_missing_input_guards_checked": true,
+  "changed_reviewed_support_requires_reassessment": true,
+  "B16_pending": 6,
+  "B16_pending_not_used": true,
+  "new_signatures": 0,
+  "B15_spreadsheet_updated": false,
+  "code_sha256": "1bee0c0a1757d7f8e4bf105d3df69b7bb60b9bdeb47fd7318102d1a1fd2f9409",
+  "intermediate_code_sha256": "02c35e871570467efb5c426270a7606e1fc9ff89af8aefc678c2c3d3a0eeeb43",
+  "impact_code_sha256": "47972b31ab7102739c091713cb3c4547fa0ce8c42f376e74e5e435f42796d51d",
+  "report_fingerprint": "f8fe386a86ba2dc5c67b5d22df2fd038138a30e171020ca7a3a212b0677a3c17"
+}
