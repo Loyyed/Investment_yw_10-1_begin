@@ -1,0 +1,131 @@
+{
+  "date": "2026-10-25",
+  "html": [
+    {
+      "id": "H01",
+      "path": "补充材料2/羊年生肖叙事_形成传播与二级市场映射.html",
+      "sha256": "039b725405bac05b3b4a6127147b95c86cbfd4c6cf132590f5c847546dd8dcd7",
+      "bytes": 29982,
+      "text_chars": 2817,
+      "title": "从“羊”到“牧羊犬”：A股生肖叙事的形成、传播与价格映射",
+      "method": "从事件锚到关联扩张、共同标注与价格反馈",
+      "destination": "专题B：两条路径与连接变量",
+      "boundary": "只吸收方法；不迁移单日行情、资金动机或其他公司事实"
+    },
+    {
+      "id": "H02",
+      "path": "补充材料3/贵州茅台商业机器_运转拆解(1).html",
+      "sha256": "3ecbdefbafc8d74ce66d9892c85cd8eb2b547d1d5f6bf73ba67c626d7d2f2517",
+      "bytes": 28081,
+      "text_chars": 2363,
+      "title": "贵州茅台的商业机器",
+      "method": "商业机器闭环、逐环图题、反证作结",
+      "destination": "总览及专题A；串联四环与反馈",
+      "boundary": "25年、23/25与护城河强表述不直接沿用"
+    },
+    {
+      "id": "H03",
+      "path": "补充材料3/贵州茅台商业模式_从经济逻辑到价值创造.html",
+      "sha256": "db4b070a6e3d49473ddabdccbefb5abfd352f092ad0ba38f56a80e91b6289e88",
+      "bytes": 31411,
+      "text_chars": 4142,
+      "title": "贵州茅台的商业模式",
+      "method": "先财务四环，再升华价值创造/交付/获取",
+      "destination": "第五次章节与专题A五幕故事",
+      "boundary": "财务公司年份、资本叙述按本项目修正"
+    },
+    {
+      "id": "H04",
+      "path": "补充材料3/贵州茅台商业模式_基酒产量预测销量.html",
+      "sha256": "6f8620e14493d35c7eb80c29900b6d3551e5d24d12cc3475e6d5342cd3416ec4",
+      "bytes": 16119,
+      "text_chars": 1860,
+      "title": "基酒产量 → 销量：能预测吗",
+      "method": "区分稳定安排、变动系数、条件预测",
+      "destination": "生产延伸、专题A与预测三情景故事",
+      "boundary": "不沿用单生产年构成全年销量硬上限"
+    },
+    {
+      "id": "H05",
+      "path": "补充材料3/贵州茅台渠道净贡献复现包/09_课堂展示_渠道结构与价值归属.html",
+      "sha256": "16997cb36a6e7ac70d3023324fc973b548938f9a218674178703ed5fe1dedd87",
+      "bytes": 38632,
+      "text_chars": 773,
+      "title": "茅台渠道结构与价值归属",
+      "method": "区分渠道价值归属和新增需求",
+      "destination": "渠道章节新增平台分化图与责任解释",
+      "boundary": "i茅台只纳入本项目已核2023/2024两期"
+    },
+    {
+      "id": "H06",
+      "path": "补充材料3/贵州茅台现金与资本回报复现包/09_课堂展示_现金与资本回报.html",
+      "sha256": "f385e99057b0f9549dd633a46cc1de33de2be9b36803ba39d508d62c437e69e2",
+      "bytes": 114505,
+      "text_chars": 1350,
+      "title": "茅台现金资本链",
+      "method": "利润—现金—资本分层、资金提供者与用途",
+      "destination": "现金章节、专题A预收款图",
+      "boundary": "16有效年/连续十年，2012首并表、2013营业分别记录"
+    },
+    {
+      "id": "H07",
+      "path": "补充材料3/贵州茅台生产库存销售滞后复现包/09_课堂展示_生产库存销售滞后.html",
+      "sha256": "d2fd13a65a835cce4901b320e1d306420d74a7bdf12a6c79fe024abf1d27d992",
+      "bytes": 17813,
+      "text_chars": 963,
+      "title": "茅台生产库存销售滞后",
+      "method": "库存蓄水池、cohort并列、右删失",
+      "destination": "生产章节加双向经济含义及后续兑现",
+      "boundary": "相关与预测机制分开，不宣称时间独有壁垒"
+    },
+    {
+      "id": "H08",
+      "path": "补充材料3/贵州茅台管理层叙事核验复现包/09_课堂展示_贵州茅台叙事核验.html",
+      "sha256": "0863b22bd9d28aa40db800737db91abf50df55c3385d969153fc6dcdac4db4df",
+      "bytes": 86158,
+      "text_chars": 10861,
+      "title": "贵州茅台叙事核验",
+      "method": "分项叙事、支持与反方、代理距离",
+      "destination": "第七次及专题B逐桥核验",
+      "boundary": "老师SCX/HV身份、同业排名和代理候选不迁入Fact"
+    },
+    {
+      "id": "H09",
+      "path": "补充材料3/贵州茅台行业竞争与品牌优势复现包/09_课堂展示_行业竞争与品牌优势.html",
+      "sha256": "e9c0f71391af4c6d65c5f5a2b1137b5c27e41127e315729668033bea8ce09499",
+      "bytes": 35489,
+      "text_chars": 2295,
+      "title": "贵州茅台行业竞争与品牌优势",
+      "method": "结果三角印证、行业边界、图型匹配",
+      "destination": "第六次补支付/替代/利润保留，桥接预测",
+      "boundary": "不导入未核五公司数列和挂牌价比"
+    }
+  ],
+  "archives": [
+    {
+      "path": "补充材料2/.claude.zip",
+      "sha256": "2f6dc83040f7d54669fae301cc8ff8f9f4337f38a8a563d3c03d86c4ddfc4c57",
+      "html_members": [],
+      "members_count": 12,
+      "skill_members": [
+        ".claude/skills/annual-report-evidence-chain/SKILL.md",
+        "__MACOSX/.claude/skills/annual-report-evidence-chain/._SKILL.md"
+      ]
+    },
+    {
+      "path": "补充材料2/市场叙事_贵州茅台及白酒行业研报.zip",
+      "sha256": "db84477a1d3c109c4442d14f9dfe2998ac5ada3b9aa02b960dff2670c113eb0a",
+      "html_members": [],
+      "members_count": 2662,
+      "skill_members": []
+    },
+    {
+      "path": "补充材料2/贵州茅台定期报告.zip",
+      "sha256": "50c476c266df02ee0283238f98fbcfb946e8155c48f1653b635c55fb706be13b",
+      "html_members": [],
+      "members_count": 404,
+      "skill_members": []
+    }
+  ],
+  "excluded": "__MACOSX/._*.html为资源分叉元数据；3个ZIP均无HTML正文成员；完整HTML与解压正文仅本地，不随成果上传。"
+}

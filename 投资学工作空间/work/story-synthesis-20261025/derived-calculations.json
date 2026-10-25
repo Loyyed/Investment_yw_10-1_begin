@@ -1,0 +1,34 @@
+{
+  "state": "AgentCalculated；无新增人工原数/算术确认",
+  "date": "2026-10-25",
+  "input_ids": [
+    "R2024-13",
+    "R2024-08",
+    "E04当前渠道计算包"
+  ],
+  "inputs_yuan": {
+    "platform2024": "20023666200.00",
+    "platform2023": "22374323500.00",
+    "direct2024": "74843327030.79",
+    "direct2023": "67232876883.14",
+    "direct_minus_platform2024": "54819660830.79",
+    "direct_minus_platform2023": "44858553383.14"
+  },
+  "formulas": {
+    "platform_yoy_percent": "(platform24/platform23−1)×100",
+    "direct_yoy_percent": "(direct24/direct23−1)×100",
+    "platform_share_percent": "platform/direct×100，两个披露数观察比率，包含关系仍需桥接",
+    "direct_minus_platform": "direct−platform，非已确认经营分部",
+    "contract_liability_change": "期末余额−比较期余额，非本期收款或CFO变化"
+  },
+  "metrics_exact": {
+    "platform_yoy_percent": "-10.5060485962849334863688727840195928158453595256",
+    "direct_yoy_percent": "11.3195366619191538436154133068691556816872425820",
+    "platform_share_2024_percent": "26.7541102118060698528071996215783716249225791054",
+    "platform_share_2023_percent": "33.2788429370494674149315484760365193788989225408",
+    "direct_minus_platform_growth_percent": "22.2055922369397289818713554555763060558483484240",
+    "contract_liability_change_yuan": "-4533302787.63",
+    "contract_liability_yoy_percent": "-32.0924618199550258707079582075232233382352410874"
+  },
+  "independent_fraction_crosscheck": true
+}

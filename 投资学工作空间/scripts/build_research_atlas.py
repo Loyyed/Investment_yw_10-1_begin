@@ -258,6 +258,12 @@ spec={'schema_version':1,'company':'贵州茅台','security_code':'600519','date
  'snapshot_note':'本页为2026-10-25生成的离线研究快照。原披露Fact144项，独立域分列且不合计；新增分析为Interpretation，未来参数与结果为Forecast，均未自动人审或签署。工作台打开时重新校验源绑定；离线副本不会自动感知后续文件变化。',
  'chapters':chapters,'sources':sources,'authority':list(used.values()),'dependencies':list(deps.values()),'forecast':model,'forecast_results':forecast_results,'contract_coverage':contract_files,
  'fact_domain_counts':{k:len(v) for k,v in domains.items()},'new_human_confirmations':0,'new_signature_created':False}
+story_rel='work/story-synthesis-20261025/story-enrichment.json'
+if (p/story_rel).is_file():
+ story=load(story_rel)
+ spec=ir.apply_story_enrichment(spec,story)
+ spec['dependencies'].append({'path':story_rel,'sha256':sha(p/story_rel)})
+ chapters=spec['chapters']
 out=stage/'company';out.mkdir(exist_ok=True)
 def put(rel,text):f=out/rel;f.parent.mkdir(parents=True,exist_ok=True);f.write_text(text,encoding='utf-8',newline='\n')
 def jput(rel,value):put(rel,json.dumps(value,ensure_ascii=False,indent=2)+'\n')
@@ -268,4 +274,4 @@ put('outputs/证券投资分析研究图册.html',ir.render(spec,source_url=lamb
 for c in chapters:put('outputs/research-atlas/'+c['id']+'.html',ir.render(spec,c['id'],source_url=lambda x:'../../'+x))
 put('outputs/research-atlas/README.md','# 逐合同研究图册\n\n2026-10-25。主入口：[综合图册](../证券投资分析研究图册.html)。\n\n'+'\n'.join('- ['+c['kicker']+'：'+c['title']+']('+c['id']+'.html)' for c in chapters)+'\n\n原始Fact权威不变。新观点和预测是待人工最终裁决的研究扩展稿，未转移旧P04等认可或旧签名。\n')
 put('outputs/证券投资分析研究意见.md','# 贵州茅台：变化、机制与未来\n\n2026-10-25 · 研究扩展稿。\n\n'+ '\n\n'.join('## '+c['kicker']+'\n\n'+c['thesis']+'\n\n'+'\n\n'.join('### '+b['title']+'\n\n'+'\n\n'.join(b['paragraphs']) for b in c['blocks'])+'\n\n替代解释：'+c['alternative'][1]+'\n\n反证：'+c['falsifier'][1] for c in chapters)+'\n')
-print(json.dumps({'chapters':len(chapters),'html_pages':len(chapters)+1,'charts':sum(len(x['charts']) for x in chapters),'used_authority_records':len(used),'dependencies':len(deps),'scenario_revenue_2026_yi':{k:f(yi(v[0]['revenue'])) for k,v in forecast_results.items()},'stage':str(out)},ensure_ascii=False))
+print(json.dumps({'chapters':len(chapters),'html_pages':len(chapters)+1,'charts':sum(len(x['charts']) for x in chapters),'used_authority_records':len(spec['authority']),'dependencies':len(spec['dependencies']),'scenario_revenue_2026_yi':{k:f(yi(v[0]['revenue'])) for k,v in forecast_results.items()},'stage':str(out)},ensure_ascii=False))

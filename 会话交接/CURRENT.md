@@ -1,29 +1,15 @@
 # 当前交接
 
-2026-10-25。先读本文件，按问题读05_补充材料3学习与复现管理.md；方法见01/02/03/04。不全文读历史日志，不重扫项目。
+2026-10-25。先读本页；本轮叙事接续按需读[06_故事融合与预测接续.md](06_故事融合与预测接续.md)。01/02是主学习与流程入口，03/04/05按题读取；不全文读旧日志、不重扫项目。
 
-- 2026-10-25最新主线（优先于下文旧收束安排）：用户批评结果可读性，明确要求综合每个合同形成图解HTML及自己的分析、机制和预测。已交付outputs/证券投资分析研究图册.html，逐合同页outputs/research-atlas/，12章13页/22证据图/交互预测；第五历史三版合章指向，原验收分开。新增观点优先“成熟供给承接与利润保留”，需求压力为可反驳工作假说，非Fact。2025单列后验并作2026—2028新预测基期，量价/毛利/费用逐年参数与条件利润/CFO敏感性写明假设，非实体FCFF或目标价。新内容未迁移P04等认可，四份受审文件冻结。当前没有新原数核验批次；可直接讨论机制/参数，最有价值补证是后续同范围量价、成品、费用及终端/渠道面板。详见公司docs/20261025-research-atlas-feedback.md，work/research-atlas-20261025含spec/精确运算/验证/修正；重生成用通用模块companybench.insight，先核当前权威与依赖。skill见通用skills/investment-insight-forecast。HTML参考错误（2013并表、基酒硬上限、一款酒表述）已另记RA01—08，原SC历史不改。原Fact144、独立域分列，146是跨域引用记录而非独立Fact数。原件/完整载荷仅本地。
-
-
-- 主目标工具D:/投资学/投资学公司分析通用工作台，远端Investment_yw_finaltask；公司空间D:/投资学/投资学工作空间，父仓库Investment_yw_10-1_begin。
-- 原件/完整载荷仅本地，远端只成果；sources/library和materials-catalog.json只导航。旧综合导出归档archive/reports/20261022-cleanup，outputs保留各合同当前成果与固定报告三件套。原先缺失的20261013.json不恢复、不暂存删除；报告与展示目录为外部未跟踪工作，不动。
-- 当前原ReviewStore.facts()应144，change_facts2、lec03_agent_facts16、m01_scale3、metric15、disclosure3，分别核当前来源与绑定，不合计独立事实。B17由leo于2026-10-25真实聊天确认review144—145，evidence/20261025-b17-chat-confirmation.json；B16为138—143；B15为132—137；B14为125—131；B13为117—124；B12为111—116；B11为105—110；B10为96—104；B09为87—95；B08为75—86；B07为70—74；B06为62—69；B05为55—61；B04为50—54；旧B03 41—49、B02 35—40、B01 27—34不改。执行/复核lxy/lxy只按旧真实授权对应版本记录，不新造签署/教师批准。
-- B06八项已由leo确认；G6本人真实答复“认可G6两项判断”已独立记录evidence/lag-g6-content-review.json与20261024-g6-chat-adoption.json；current_g6_adoption()核当前源绑定和计算语义。Interpretation不升级Fact；本条未另署名，不造新签名/教师批准。原G6展示JSON/MD不改，当前结论outputs/student-lag-conclusion.md。
-- 生产库存合同outputs/student-lag-check.md、student-lag-diagnostics.csv、生产库存销售滞后复算.xlsx。B04五个独立总量已实际接入calculate_lag_known.py和原数列，FY2016—2025十年差额均0吨；电子表格引擎与Decimal/保存缓存一致，未打开原生Excel。五组t+5及16项k诊断n10…3、年度变化与B03一致；工作底稿work/lag-20261022，B02/B03历史保留history。
-- 半成品数量占比92.71%—96.66%；2025成品+39.47%与公司出货+2.13%为AgentCalculated后验线索，不裁定积压、不回填2024信息集。预计产能释放只证明公司当年披露，不证明实现；资产存量不当现金投入或分部资本回报。
-- 25份PDF/25份MD元数据已登记material-freeze.json；G0指定修订PDF/MD配对技术检查已完成，正式版本/教师材料批准、G5可核数字连接完成但完整项目归因Unknown，G6两项观点已采纳，正式验收未发生。八份旧合同与2026-10-21第六七新稿、三份第五延伸增量分开，不移植教师参考包HV/SCX或历史撤回。SC25已追加B04补齐处理，SC27制作修正历史保留。
-- N03本人答复“认可N03判断”已独立记录evidence/channel-n03-content-review.json与20261024-n03-chat-adoption.json，current_n03_adoption()校验当前有效；原N03展示JSON/MD不改，当前结论outputs/student-channel-conclusion.md。意见仍Interpretation，净贡献方向Unknown，本条未另署名，不造新签署。渠道计算和意见采纳完成，正式验收分开。
-
-- 现金当前：本人真实答复“认可P03判断”已记evidence/cash-path-content-review.json及20261025-p03-chat-adoption.json，current_p03_adoption() accepted-current；原Fact144/145事件、原展示及p03-displayed冻结。P03为年度路径增量Interpretation，未另署姓名，非算术Fact/真实ROIC/新签署/正式验收。P01/P02历史保持。2008桥接已核，16有效年/9当前字段缺口、真实范围/税率/金融抵销与成熟现金再投资停Unknown；现金逐条账本student-cash-contract-status.md，旧工作簿只截至B12。
-
-- 当前转新版第六七（2026-10-21）：原稿/05指南已读，Task06/07隔离check-only均退出0且原01—09哈希不变。原task06成果、work/task07-narrative-audit及原lec03矩阵/阶段成果已补2024费用证据、五标签分别处理、四种替代解释/区分证据、代理正名和财务交接；无平行Task07结果。所有旧有效原数/已采纳范围/H04复用，不重复问。2020—2024为主实证，2025后验/历史方法案例不倒灌；费用/毛利对净品牌收益只S2，算式准确性与代理距离分开。底稿work/task67-20261025/current-inputs-and-calculations.json、check-only-validation.json、integration-validation.json。P04本人真实答复“认可P04两项内容”已登记evidence/task67-content-review.json及20261025-p04-chat-adoption.json，current_p04_adoption() accepted-current；原四份受审成果/原审阅页、manifest及p04-displayed冻结，不再改它们造成认可失效。原R2024-07事件19与聊天记录复用，不造本轮新亲查；严格本次条款兼容/正式版本批准/签署未发生，不移植旧lxy/leo。当前总清单docs/20261025-contract-overview.md；当前合同状态work/supp3-20261022/contract-status-current.json，旧版本图不改。反馈docs/20261025-p04-progress.md。
-
-- 当前阶段交付收束：没有新逐项核数或内容认可队列，不自行再建同类P05或让用户重复旧确认。下一步docs/20261025-final-delivery-checklist.md核最终报告版本与实际条款差异，再按真实指令办正式验收/签署；旧lxy/leo不迁移，证据不足持续Unknown。SC38修正第五主原稿updated=2026-10-10，不能因补充材料3收取时间称21日版；第六七21日及P04认可不受影响。第五主四环已回接延伸成果，原稿不要求完整ROIC/FCFF。通用工作台companybench/review_status.py、legacy_reader.py、workflow.py只读展示P03/P04当前认可及未签署/未正式关闭，叙事优先当前原过程稿；核心core.py不改。7专项合成检查+22既有工作流测试通过。最终状态work/delivery-20261025/status.json。
-
-- GitHub About简介字段仍未通过设置接口修改（当前无接口/gh）；两仓库中文稿已备公司docs/github-about-zh.md，文件成果推送与About设置分开，列最终收束待办。
-
-- 报告核验数量按原披露与各独立域分别列示，关联/重叠不合计独立Fact；相应合成检查已覆盖。
-
-- 本轮图册内容已推送并核远端refs：工具包be48982、公司成果2b55f0b；真实回执work/research-atlas-20261025/publication.json。后续仅元数据回执提交按当前git log读取，原件未上传。
-
-- 2026-10-25图表补充：综合及12分章HTML已为22证据图、2研究矩阵及预测图/结果表/参数表加入可展开分析（主报告27处），分含义/用途/推断。预测解读随情景/滑块更新，展开状态保留。文字在work/research-atlas-20261025/chart-analysis.json，spec与公司builder接续保留；验证chart-analysis-validation.json。数据/模型参数/旧核验与认可均未改变。
+- 主工具D:/投资学/投资学公司分析通用工作台 → Loyyed/Investment_yw_finaltask；公司D:/投资学/投资学工作空间，父仓库D:/投资学 → Loyyed/Investment_yw_10-1_begin。原件及完整载荷只留本地，远端只成果。
+- 最新成果：公司outputs/证券投资分析研究图册.html，14章/15份HTML/24证据图/30处图表分析。原合同章节保留，新增专题story-machine（商业机器与三种时间）、story-market（经营兑现与市场叙事）；正文补过程故事、价值三层和跨章连接。九份HTML和三个ZIP目录已读/查，登记work/story-synthesis-20261025/reference-reading-manifest.json，反馈docs/20261025-story-synthesis-feedback.md。
+- 本轮新观察：2024直销+11.32%、i茅台-10.51%，单位万元已换算；R2022-10已核包含关系继续复用，不重新标未知。合同负债余额减少45.33亿元，非期间收款或CFO减少额。新增计算为AgentCalculated，不是新人工确认。叙事从供给、客户、渠道、资金到再投资闭环，成熟供给承接与利润保留仍是工作假说；未把生肖案例的行情/公司/动机迁入Fact。
+- 既有22图、三年Forecast模型/参数/数值未改。2020—2024主实证、2025独立后验及新预测基期、2026—2028条件预测分开。叙事更充分不代表提高确定性；新观点不继承旧认可/签名。
+- Fact权威：ReviewStore.facts()144；change_facts2、lec03_agent_facts16、m01_scale3、metric15、disclosure3各核当前来源，不加成独立Fact。图册147为跨域引用记录数。原窗口/聊天身份和事件不改；原值、算术、解释、签署与正式关闭分开。
+- 已认可G6、N03、P03、P04分别调用scripts/lag_g6_review.py、channel_n03_review.py、cash_path_review.py、task67_content_review.py的current_*_adoption校当前绑定。P01/P02保留实际历史，P02严格全包状态与新增年度/P03分开。原evidence/review-state.json不重建，旧63条候选保留，新增候选append-only。
+- P04四份绑定成果冻结：outputs/task06-industry-advantage.md、work/task07-narrative-audit.md、outputs/lec03-evidence-matrix.md、outputs/lec03-stage-deliverables.md。新图册/专题不替代受审原文；lxy/leo只按真实授权对应版本，不补造教师批准、亲查或新签署。
+- 新工作底稿work/story-synthesis-20261025含story-enrichment/精确运算/对齐/修正/验证；work/research-atlas-20261025保留原图册及逐图分析底稿。入口指针work/research-atlas-current.json。公司builder复用原API后叠加两份编辑层，通用apply_story_enrichment防重复/覆盖原图数值/静默重绑。技能见通用skills/investment-insight-forecast与references/story-synthesis.md。
+- 重要修正继续保留SC/RA/ST：2012财务公司首并表、2013营业；2008预付/CIP重分类非现金释放；基酒单年量不作t+5全年销量硬上限；“茅台酒”是产品组；参考直销43.83%不混当前主营分母43.87%/公司分母约43.79%；参考25年统计/同业/挂牌价/HV/SCX不迁移。材料收到时间不当合同updated，第五主稿10-10、第六七10-21。
+- 当前无需新逐项旧数确认或机械P05。下一步直接讨论机制和参数；补证优先后续同范围量价、成品、费用、订单/收款、终端/渠道及实体金融现金桥。Unknown保留；正式条款/版本验收及签署按真实授权另办，旧总清单docs/20261025-contract-overview.md仍可回查。
+- 两仓库按既有授权推送，具体最新版本看git log/远端refs；工具库不带公司数字/授权。About设置字段仍未通过接口修改，中文稿已备，不混称文件推送。外部未跟踪报告与展示/和旧缺失输出20261013.json不动、不暂存其删除。

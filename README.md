@@ -71,3 +71,6 @@
 
 
 2026-10-25新增推荐阅读：[贵州茅台研究图册](投资学工作空间/outputs/证券投资分析研究图册.html) · [逐合同HTML目录](投资学工作空间/outputs/research-atlas/README.md)。包含变化机制、竞争解释、22幅证据图及2026—2028条件预测；完整原件和供应商载荷仍仅保留本地。
+
+
+推荐新增专题：[商业机器与三种时间](投资学工作空间/outputs/research-atlas/story-machine.html) · [经营兑现与市场叙事](投资学工作空间/outputs/research-atlas/story-market.html)。参考材料2/3的方法融合位置、数字对齐和修正均有本地底稿，未把教学案例或旧认可迁成新Fact。

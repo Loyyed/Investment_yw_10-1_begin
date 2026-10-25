@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-25",
+  "reference_H02_direct_share_percent": "43.83",
+  "current_wine_scope_direct_share_percent": "43.86760490088036677183094013",
+  "current_company_scope_direct_share_percent": "43.79385505070853771870794705",
+  "resolution": "保留参考原文，不猜其分母；当前图继续采用主营酒类渠道合计为分母43.87%，公司营业收入分母为43.79%，不得把两者或43.83%无说明混用。",
+  "matching_quantity_anchors": [
+    {
+      "reference": "H08/H09",
+      "label": "2024茅台酒销量",
+      "value": "46412.95",
+      "unit": "吨",
+      "current_basis": "有效L03-A2024-B与M01原统计；原图数值不变"
+    },
+    {
+      "reference": "H08/H09",
+      "label": "2025茅台酒销量",
+      "value": "46750.66",
+      "unit": "吨",
+      "current_basis": "有效R2025-01；原图数值不变"
+    },
+    {
+      "reference": "H08",
+      "label": "2024公司两产品销量合计",
+      "value": "83332.76",
+      "unit": "吨",
+      "current_basis": "当前生产/库存计算包，原图数值不变"
+    }
+  ],
+  "sample_warning": "参考25年中位转换率/23年正余量，与当前16有效年或连续十年合计比率不可直接比较；本轮未迁移完整参考数列。"
+}
