@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-25",
+  "type": "AgentCorrection",
+  "old_path": "sources/annual_reports/pdf/600519_2010_贵州茅台_2010年年度报告_修订版_2011-03-19.pdf",
+  "corrected_path": "sources/annual_reports/pdf/600519_2010_贵州茅台_2010年年度报告_修订版_2011-04-08.pdf",
+  "sha256_unchanged": "613779ed98205e7bf7ee8dfdfe91794ce84336297cbb42cbf5c4ad9f06a55312",
+  "source_of_correct_date": "贵州茅台定期报告/pdf/600519_贵州茅台_2010Q4_修订版_2011-04-08.pdf",
+  "reason": "Agent本次提取时在新建本地PDF副本名中误写修订日期，已在任何B15展示/人工核验之前依原压缩包成员名更正；不是PDF披露日期或历史修订内容的额外证明",
+  "original_zip_unchanged": true,
+  "prior_fact_bindings_unchanged": true,
+  "new_human_confirmation": false
+}

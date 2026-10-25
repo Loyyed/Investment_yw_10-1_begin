@@ -418,7 +418,21 @@
       "original": "2010 MD表格单元格有14,651,565, 394.21及11,503,418,2 95.95，简单金额提取产生394.21和95.95两个片段；2007/2010文件成员名标修订，但正文一般制度/章程修订词不证明报告版本",
       "treatment": "仅在检索比较视图去除纯数字HTML单元格内部空白，原件不改；回PDF51/53（报告50/52页）核对应行。两年规范后金额集合一致，但金额出现次数和全文并不相同，不夸成全文一致或历史更正已经核准。指定PDF仍为事实依据。",
       "state": "材料配对技术核查完成；正式版本批准/历史更正差异Unknown；不影响2016—2025已核数和G6采纳",
-      "evidence": "work/lag-20261022/revision-pair-check.json"
+      "evidence": "work/lag-20261022/revision-pair-check.json",
+      "resolution_history": [
+        {
+          "date": "2026-10-25",
+          "type": "AgentCorrection",
+          "old_path": "sources/annual_reports/pdf/600519_2010_贵州茅台_2010年年度报告_修订版_2011-03-19.pdf",
+          "corrected_path": "sources/annual_reports/pdf/600519_2010_贵州茅台_2010年年度报告_修订版_2011-04-08.pdf",
+          "sha256_unchanged": "613779ed98205e7bf7ee8dfdfe91794ce84336297cbb42cbf5c4ad9f06a55312",
+          "source_of_correct_date": "贵州茅台定期报告/pdf/600519_贵州茅台_2010Q4_修订版_2011-04-08.pdf",
+          "reason": "Agent本次提取时在新建本地PDF副本名中误写修订日期，已在任何B15展示/人工核验之前依原压缩包成员名更正；不是PDF披露日期或历史修订内容的额外证明",
+          "original_zip_unchanged": true,
+          "prior_fact_bindings_unchanged": true,
+          "new_human_confirmation": false
+        }
+      ]
     },
     {
       "id": "SC31",
@@ -495,6 +509,12 @@
           "event": "B12六项由leo确认review111—116",
           "result": "同报告年初列支持平均资本代理，财务费用/投资收益整行移除仅作敏感性；基准利润公式增量中税率因子约7.93亿元，非税法因果。Scope仍待P01，真实回报不升级。",
           "receipt": "evidence/20261024-b12-chat-confirmation.json"
+        },
+        {
+          "date": "2026-10-25",
+          "event": "本人认可P02两项判断",
+          "result": "N06十年合并现金支撑与年度波动并存，稳定实体兑现未验证；N07端点会计代理改善，成熟新增回报未验证。意见采纳不升级Fact，不关闭资本范围、税率、净值/用途/期初、成熟现金再投资及金融抵销缺口；非合同正式验收。",
+          "receipt": "evidence/20261025-p02-chat-adoption.json"
         }
       ]
     },

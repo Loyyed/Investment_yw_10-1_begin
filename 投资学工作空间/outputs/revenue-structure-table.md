@@ -123,7 +123,7 @@
 ![合并附注全收入](../docs/images/pdf-2024-p108.png)
 
 <!-- review-store:progress:start -->
-当前有效Fact为130条；Unknown为46条；已撤回0条；需重新核验0条。共176条候选。 日期自动按Asia/Shanghai记录。合同验收、复核人与正式签署另行完成。
+当前有效Fact为130条；Unknown为52条；已撤回0条；需重新核验0条。共182条候选。 日期自动按Asia/Shanghai记录。合同验收、复核人与正式签署另行完成。
 
 | 编号 | 有效状态 | 核验人 | 核验时间 | 备注／失效原因 |
 | --- | --- | --- | --- | --- |
@@ -291,4 +291,10 @@
 | R2012-06 | Fact | leo | 2026-10-25T10:13:30+08:00 | {"channel": "actual-user-chat", "actual_user_reply": "B14全部核验正确，核验人leo", "client_date": "2026-10-25", "reviewer": "leo", "batch_id": "B14", "batch_version": 1, "display_payload_sha256": "f2ef6da47b259478904d5ff53832151c020d036af508165f5ac0ac749e3a5cbf", "display_manifest": "work/review-batches/20261025-B14.json", "confirmation_scope": ["R2012-02", "R2012-03", "R2012-04", "R2012-05", "R2012-06", "R2012-07", "R2012-08"], "exceptions": [], "confirmation_context": "B14七项21金额、汇兑损益本期原表空白及持有至到期投资收益来源。2012合并、人民币元、资产负债表年末存量及利润/现金年度流量分别核；净利润含少数股东；财务费用利息收入负号照录；不取汇兑上期数。2011基期及2012已合并财务公司旧Fact不重核。", "timestamp_meaning": "confirmed_at为程序保存实际聊天答复的时刻；非窗口点击，精确聊天发送时间未提供。", "boundary": "只确认展示原披露，不确认计算结果或跨年可比性、经济资本/经营税率、实体CFO/ROIC、金融净贡献、N06/N07或新签署；空白不当披露零。"} |
 | R2012-07 | Fact | leo | 2026-10-25T10:13:30+08:00 | {"channel": "actual-user-chat", "actual_user_reply": "B14全部核验正确，核验人leo", "client_date": "2026-10-25", "reviewer": "leo", "batch_id": "B14", "batch_version": 1, "display_payload_sha256": "f2ef6da47b259478904d5ff53832151c020d036af508165f5ac0ac749e3a5cbf", "display_manifest": "work/review-batches/20261025-B14.json", "confirmation_scope": ["R2012-02", "R2012-03", "R2012-04", "R2012-05", "R2012-06", "R2012-07", "R2012-08"], "exceptions": [], "confirmation_context": "B14七项21金额、汇兑损益本期原表空白及持有至到期投资收益来源。2012合并、人民币元、资产负债表年末存量及利润/现金年度流量分别核；净利润含少数股东；财务费用利息收入负号照录；不取汇兑上期数。2011基期及2012已合并财务公司旧Fact不重核。", "timestamp_meaning": "confirmed_at为程序保存实际聊天答复的时刻；非窗口点击，精确聊天发送时间未提供。", "boundary": "只确认展示原披露，不确认计算结果或跨年可比性、经济资本/经营税率、实体CFO/ROIC、金融净贡献、N06/N07或新签署；空白不当披露零。"} |
 | R2012-08 | Fact | leo | 2026-10-25T10:13:30+08:00 | {"channel": "actual-user-chat", "actual_user_reply": "B14全部核验正确，核验人leo", "client_date": "2026-10-25", "reviewer": "leo", "batch_id": "B14", "batch_version": 1, "display_payload_sha256": "f2ef6da47b259478904d5ff53832151c020d036af508165f5ac0ac749e3a5cbf", "display_manifest": "work/review-batches/20261025-B14.json", "confirmation_scope": ["R2012-02", "R2012-03", "R2012-04", "R2012-05", "R2012-06", "R2012-07", "R2012-08"], "exceptions": [], "confirmation_context": "B14七项21金额、汇兑损益本期原表空白及持有至到期投资收益来源。2012合并、人民币元、资产负债表年末存量及利润/现金年度流量分别核；净利润含少数股东；财务费用利息收入负号照录；不取汇兑上期数。2011基期及2012已合并财务公司旧Fact不重核。", "timestamp_meaning": "confirmed_at为程序保存实际聊天答复的时刻；非窗口点击，精确聊天发送时间未提供。", "boundary": "只确认展示原披露，不确认计算结果或跨年可比性、经济资本/经营税率、实体CFO/ROIC、金融净贡献、N06/N07或新签署；空白不当披露零。"} |
+| R2008-01 | Unknown |  |  | B15待本人原文核验；已核2010资本2011比较列与其他旧Fact不重核 |
+| R2008-02 | Unknown |  |  | B15待本人原文核验；已核2010资本2011比较列与其他旧Fact不重核 |
+| R2009-01 | Unknown |  |  | B15待本人原文核验；已核2010资本2011比较列与其他旧Fact不重核 |
+| R2009-02 | Unknown |  |  | B15待本人原文核验；已核2010资本2011比较列与其他旧Fact不重核 |
+| R2010-01 | Unknown |  |  | B15待本人原文核验；已核2010资本2011比较列与其他旧Fact不重核 |
+| R2010-02 | Unknown |  |  | B15待本人原文核验；已核2010资本2011比较列与其他旧Fact不重核 |
 <!-- review-store:progress:end -->

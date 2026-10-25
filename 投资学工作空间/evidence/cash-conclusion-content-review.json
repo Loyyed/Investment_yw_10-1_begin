@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "review_id": "P02-20261025",
+  "record_kind": "research-content-adoption",
+  "channel": "actual-user-chat",
+  "actual_user_reply": "认可P02两项判断",
+  "actor": "user",
+  "reviewer_name": null,
+  "identity_note": "本条本人明确认可，未另署姓名；不将此前原数核验人leo或旧lxy签名移植为本条新签署。",
+  "client_date": "2026-10-25",
+  "recorded_at": "2026-10-25T10:30:38+08:00",
+  "timestamp_meaning": "程序保存实际聊天答复的时刻；精确聊天发送时间未提供",
+  "display_manifest": "work/review-batches/20261025-P02-content-review.json",
+  "display_manifest_sha256": "a03d1000450058b1cac7e52acf2df72fd2cf0e93d569e504f65d62df24950e4e",
+  "display_payload_sha256": "6e531f64ab3190d00bf0a70d7505f7c8fc52d00e0b28bfb58db841a6798e8eaf",
+  "adopted_ids": [
+    "N06",
+    "N07"
+  ],
+  "judgments": [
+    {
+      "id": "N06",
+      "type": "Interpretation",
+      "judgment": "合并层面十年累计CFO覆盖同期净利润约94.14%，但年度波动明显；现有证据支持“多年利润有较大合并现金支撑”，不足以采纳“核心白酒利润稳定转化为现金”。后一个命题保持未验证，不裁定已被推翻。",
+      "supported": "2016—2025连续十年合并CFO/净利润合计比0.9413503360，单年0.5613540—2.0886730倍；2017/2022/2023/2025低于1。2025净利润＋已列调整=CFO，差额0。",
+      "alternative_explanations": "已列金融存放/存款、经营性应收应付及存货现金调整可能共同影响；2025公司原因说明不等于完整归因，不能把合并现金下降全归酒类需求。",
+      "refutation": "若核得同主体白酒实体CFO在合理多年窗口持续低于经营利润、且税费/成熟库存周转等时间差不能解释，则削弱实体现金兑现命题。目前无完整同主体数据，反证尚未成立。",
+      "stop": "金融税费薪酬/内部抵销、同主体经营CFO未齐。CFO−购建现金只作算术剩余，不命名FCFF/FCFE/可自由分配现金。"
+    },
+    {
+      "id": "N07",
+      "type": "Interpretation",
+      "judgment": "2007→2011两端选定资本对应的条件利润比率上升，但这只支持选定会计代理的端点改善；当前不采纳“新增资本持续获得较好成熟回报”。该命题未验证，不等同新增资本已被证实低效。",
+      "supported": "2007/2011基准公式÷平均选定资本86.42%→116.84%；整行移除财务/投资敏感性85.53%→113.48%。四年利润公式差÷资本余额差1.4803倍未年化，不是真实增量回报率。",
+      "alternative_explanations": "报表有效税率、财务/投资收益、预付用途、遗漏科目及利润/资本范围均影响比率；两端变化不能识别新增项目的贡献。2012已合并财务公司，单列基准112.96%、整行110.41%、明细110.41%，不能归因新增酒类投入回报下降。",
+      "refutation": "若同主体、逐年投入和成熟期映射补齐后，新项目成熟经营NOPAT与实体现金持续不足以覆盖对应投入，则削弱持续较好增量回报命题。目前数据不足以运行此反证。",
+      "stop": "2008—2010主窗中间年、净值/用途与期初分类、经营税率、累计现金再投资及合理成熟映射尚不齐。2011用途待判预付10.86亿元保留在资本，不删未知缩分母。正式经营ROIC/增量回报Unknown。"
+    }
+  ],
+  "judgment_type": "Interpretation",
+  "validator_sha256": "a1eb3e891587a843acf54024d261e5419a80a49d86430b65154f066518b41ba3",
+  "new_signature_created": false,
+  "contract_formally_closed": false,
+  "new_raw_fact_confirmations": 0,
+  "new_human_arithmetic_confirmations": 0,
+  "teacher_approval": false,
+  "boundary": "只认可原展示的两项阶段性Interpretation及其限制；原数/算术核验、真实经营范围、正式实体CFO/ROIC/成熟增量回报、数据补齐与合同验收分别处理，不升级Fact、不关闭Unknown。",
+  "events": [
+    {
+      "sequence": 1,
+      "operation": "adopt-research-interpretations",
+      "actor": "user",
+      "actual_user_reply": "认可P02两项判断",
+      "adopted_ids": [
+        "N06",
+        "N07"
+      ]
+    }
+  ]
+}

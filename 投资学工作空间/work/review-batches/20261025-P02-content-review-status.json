@@ -1,8 +1,12 @@
 {
   "review_id": "P02-20261025",
-  "status": "pending",
-  "judgment_type": "Interpretation",
-  "adopted_ids": [],
+  "display_version": 1,
+  "status": "accepted-current-Interpretation",
+  "actual_user_reply": "认可P02两项判断",
+  "receipt": "evidence/20261025-p02-chat-adoption.json",
+  "display_payload_sha256": "6e531f64ab3190d00bf0a70d7505f7c8fc52d00e0b28bfb58db841a6798e8eaf",
+  "display_manifest_unchanged": true,
+  "teacher_approval": false,
   "new_signature_created": false,
-  "next_action": "本人仅审阅N06/N07两项阶段性意见，不重复原数核验"
+  "contract_formally_closed": false
 }

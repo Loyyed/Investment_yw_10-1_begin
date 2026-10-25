@@ -93,7 +93,7 @@
       "interpretation": "长周期投入与销售存在时间差；存货金额、实物吨、项目投入与购建现金分开，不能仅由低Capex贴轻资产标签。",
       "alternative": "存货上升可能为产能配套、结构转换或积压；缺库龄时不能选择唯一原因。",
       "unknown": "经营资产/无息负债范围、维护/扩张Capex、成熟滞后和平均投入资本待裁定。",
-      "next_action": "P02集中审阅N06/N07两项阶段性判断；随后补主窗中间年和必要范围/成熟再投资，正式指标缺证保持Unknown，非合同验收。",
+      "next_action": "P02已采纳阶段性判断；核B15六项27金额补2008—2010利润与现金，再补必要资本/范围/成熟投入，未核候选不入计算。",
       "refutation": "库存与投入长期快于后续销售且回报未兑现，削弱资本效率解释。",
       "source_date": "",
       "source_role": "原始披露",
@@ -276,7 +276,7 @@
       "interpretation": "2024合并现金转换较强但跨年波动且含财务公司影响；已剔除的显式金融项只能形成有边界余额，不是准确酒类CFO。",
       "alternative": "收款节奏、合同负债与集团资金归集均可能改变合并CFO。",
       "unknown": "带合并抵销的金融净贡献、实体利润与受限现金、经营Capex归属Unknown。",
-      "next_action": "P02集中审阅N06/N07两项阶段性判断；随后补主窗中间年和必要范围/成熟再投资，正式指标缺证保持Unknown，非合同验收。",
+      "next_action": "P02已采纳阶段性判断；核B15六项27金额补2008—2010利润与现金，再补必要资本/范围/成熟投入，未核候选不入计算。",
       "refutation": "剔除时点和金融影响后实体现金持续弱于利润，削弱稳定现金创造解释。",
       "source_date": "",
       "source_role": "原始披露",
@@ -953,18 +953,19 @@
   "active_extension_contract": {
     "name": "第五次任务延伸合同_贵州茅台现金与资本回报验证.md",
     "progress": "work/cash-20261024/progress.json",
-    "next_batch": null,
+    "next_batch": "B15",
     "current_result": "outputs/student-cash-capital-check.md",
     "entity_cash_return_status": "Unknown",
     "previous_N03_adoption": "scripts/channel_n03_review.py:current_n03_adoption",
     "current_complete_cash_n": 10,
-    "next_content_review": "P02-20261025",
+    "next_content_review": null,
     "scope_correction": "SC34原文B10已核：2012已合并/2013正式营业；代理范围及2012敏感性待判",
     "cash_reconciliation_2025_residual_yuan": "0.00",
     "proxy_arithmetic_status": "平均选定资本及利润公式/整行敏感性/税率因子分解已算；三类表格复算完成，P01范围待审",
     "P01_method_approval": "accepted-method-with-followups",
     "economic_classification_complete": false,
     "B13_detail_state": "已核用途/来源，三桶分解与单年利润明细情景完成；完整经济范围仍Unknown",
-    "B14_state": "已核七项21金额/空白/来源，2012独立合并三情景已算"
+    "B14_state": "已核七项21金额/空白/来源，2012独立合并三情景已算",
+    "P02_status": "本人已认可N06/N07阶段性Interpretation，正式指标/验收另列"
   }
 }

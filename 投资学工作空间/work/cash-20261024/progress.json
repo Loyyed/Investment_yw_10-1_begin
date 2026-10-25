@@ -2,7 +2,7 @@
   "date": "2026-10-25",
   "contract": "第五次任务延伸合同_贵州茅台现金与资本回报验证.md",
   "contract_sha256": "da205d95d3157ca474c8e5638749d884d5ede85302f449999b3879741a60d121",
-  "status": "阶段八：B14已核，2012合并敏感性已算；P02两项研究意见待本人审阅",
+  "status": "阶段九：P02两项阶段性意见本人已认可；B15补2008—2010利润与现金",
   "layers": [
     "合并事实",
     "金融活动与抵销",
@@ -51,10 +51,17 @@
     2025
   ],
   "current_complete_cash_n": 11,
-  "next_batch": null,
-  "next_review_ids": [],
+  "next_batch": "B15",
+  "next_review_ids": [
+    "R2008-01",
+    "R2008-02",
+    "R2009-01",
+    "R2009-02",
+    "R2010-01",
+    "R2010-02"
+  ],
   "remaining_steps": [
-    "P02本人审阅N06/N07两项阶段性判断；采纳与正式验收分别记录",
+    "核B15六项27金额，再补主窗中间年资本与其他必要范围/成熟投入缺口；意见认可不代替原数确认",
     "补2008—2010必要主窗原数；其他25年原数缺口保留显式Unknown，不冒称面板全数已核",
     "补2007土地其他应收净值/重叠/期初、两端预付用途/期初及同口径应计利息、经营税率",
     "核累计现金再投资、合理成熟期与金融完整贡献/内部抵销；不足则正式实体指标继续Unknown",
@@ -86,7 +93,8 @@
     "B14由leo于2026-10-25确认review125—131，当前原披露Fact130",
     "2012现金四指标、选择性NCWC/平均资本及三种利润条件情景完成，财务明细与净额差0；原表空白保留null",
     "2012与2016—2025共11有效年度非连续；原十年合并统计及2007/2011主窗、2025调节结果不变",
-    "P02两项阶段性判断集中展示具体支持/替代/反证/停止与来源，待本人意见审阅，不重复原数核验"
+    "P02两项阶段性判断集中展示具体支持/替代/反证/停止与来源，待本人意见审阅，不重复原数核验",
+    "2026-10-25本人真实答复认可P02两项判断，N06/N07独立意见采纳，原披露Fact130不变，不新增签署/教师批准/正式验收"
   ],
   "source_confirmation_receipts": [
     "evidence/20261024-b09-chat-confirmation.json",
@@ -101,7 +109,8 @@
     2011
   ],
   "FY2012_sensitivity": "B14已核并完成三种合并条件利润情景；正式实体回报仍Unknown",
-  "next_content_review": "P02-20261025",
+  "next_content_review": null,
   "P01_method_approval": "accepted-method-with-followups",
-  "economic_classification_complete": false
+  "economic_classification_complete": false,
+  "P02_content_approval": "accepted-current-Interpretation"
 }

@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-25",
+  "state": "AgentSourceCheck-not-human-Fact",
+  "pdf_pages_visually_inspected": {
+    "2008": [
+      32,
+      33,
+      34
+    ],
+    "2009": [
+      34,
+      36,
+      37
+    ],
+    "2010": [
+      43,
+      44,
+      46,
+      47
+    ]
+  },
+  "fields": 27,
+  "candidate_records": 6,
+  "current_column_and_consolidated_scope_checked": true,
+  "originals_uploaded": false,
+  "pending_candidates_not_used_in_current_calculations": true,
+  "source_files": [
+    {
+      "year": 2008,
+      "path": "sources/annual_reports/pdf/600519_2008_贵州茅台_2008年年度报告.pdf",
+      "sha256": "9d296c6db7e4abe204f2d5927572acd4914c49fbbcd4f9dd22250583d55ad200",
+      "archive_member": "贵州茅台定期报告/pdf/600519_贵州茅台_2008Q4.pdf"
+    },
+    {
+      "year": 2009,
+      "path": "sources/annual_reports/pdf/600519_2009_贵州茅台_2009年年度报告.pdf",
+      "sha256": "37a18565407aa0a29634b6140d7e48ef4e33fe5ab02f7b1cdcff2a184ed0aba9",
+      "archive_member": "贵州茅台定期报告/pdf/600519_贵州茅台_2009Q4.pdf"
+    },
+    {
+      "year": 2010,
+      "path": "sources/annual_reports/pdf/600519_2010_贵州茅台_2010年年度报告_修订版_2011-04-08.pdf",
+      "sha256": "613779ed98205e7bf7ee8dfdfe91794ce84336297cbb42cbf5c4ad9f06a55312",
+      "archive_member": "贵州茅台定期报告/pdf/600519_贵州茅台_2010Q4_修订版_2011-04-08.pdf"
+    }
+  ]
+}

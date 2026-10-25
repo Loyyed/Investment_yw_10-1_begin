@@ -2,7 +2,7 @@
   "date": "2026-10-25",
   "state": "AgentCalculated",
   "human_arithmetic_confirmation": false,
-  "code_sha256": "fc7b140dd92261679f655fe51942dff580137ed9b914cbac94ef2eca278b2800",
+  "code_sha256": "c015b6e5e778cad4242ef423ffb30843a7878b3a9cc63fb9b0c72c067b6ced5d",
   "panel": [
     {
       "year": 2001,
@@ -944,10 +944,17 @@
     "code_sha256": "b9ff16507d46153c5cc55eb7308423b3bfcf2b8b64264d8a1a5037a8708f3325"
   },
   "cash_conclusion_adoption": {
-    "status": "pending",
+    "status": "accepted-current",
     "judgment_type": "Interpretation",
-    "adopted_ids": [],
-    "new_signature_created": false
+    "adopted_ids": [
+      "N06",
+      "N07"
+    ],
+    "actual_user_reply": "认可P02两项判断",
+    "actor": "user",
+    "reviewer_name": null,
+    "new_signature_created": false,
+    "contract_formally_closed": false
   },
   "selected_capital_proxy_diagnostics": {
     "method_approval": {
@@ -2189,5 +2196,5 @@
     "inventory_intensity": "book inventory/consolidated operating revenue"
   },
   "precision": 48,
-  "generated_output_sha256": "4a73764bfdcc8cb00d8bc22c99c4fa62dbd018109565877ba0e615ac0d54e0e0"
+  "generated_output_sha256": "20eb952970cf9b8022c2735a31387cce70c3d335d1ba5137a721310b9076ed6f"
 }
