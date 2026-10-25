@@ -2,7 +2,7 @@
   "date": "2026-10-25",
   "contract": "第五次任务延伸合同_贵州茅台现金与资本回报验证.md",
   "contract_sha256": "da205d95d3157ca474c8e5638749d884d5ede85302f449999b3879741a60d121",
-  "status": "阶段十一：B16已核，年度资本路径已形成；B17解决2008期初分类差异",
+  "status": "阶段十二：B17已核，2008期初桥接完成；P03一项年度路径解释待审",
   "layers": [
     "合并事实",
     "金融活动与抵销",
@@ -56,16 +56,12 @@
     2025
   ],
   "current_complete_cash_n": 16,
-  "next_batch": "B17",
-  "next_review_ids": [
-    "R2008-05",
-    "R2008-06"
-  ],
+  "next_batch": null,
+  "next_review_ids": [],
   "remaining_steps": [
-    "核B17两项三金额与公司会计政策变更，保留两份历史原值及分类桥接",
-    "桥接后更新2008同报告平均/NCWC会计算式，集中提交年度路径的增量意见，不移植P02旧采纳",
-    "完整经营税率、资本经济用途/净值/期初、金融抵销、累计现金再投资与成熟映射不足则真实回报Unknown",
-    "合同逐条内容验收与真实签署另列，尚未全部完成"
+    "本人审阅P03一项年度路径增量判断，不重复旧原数或P01/P02",
+    "真实税率/资本经济用途、金融抵销及现金再投资/成熟映射不足的指标继续Unknown，按停止规则记录",
+    "按合同逐条账本完成本版意见/正式验收，真实签署另列；随后继续其余合同"
   ],
   "stopped_outputs": {
     "entity_cfo": "Unknown：金融贡献/内部抵销未齐",
@@ -100,7 +96,10 @@
     "P02整包版本变化如实显示，原认可不改，原十年/两端/2012数值支持未变；新增分析不冒作人审",
     "B16由leo确认review138—143，原Fact142；现金基础16有效年，非连续16年",
     "2007—2011年度选定资本路径及五年合并现金观察形成，Decimal/Fraction独立复算与端点勾稽差0",
-    "发现2007原报年末与2008调整后年初预付/CIP等额反向差632,936,687.20元，物理21/48页定位公司政策变更新披露，B17待核；2008相关平均/同口径NCWC变动暂止"
+    "发现2007原报年末与2008调整后年初预付/CIP等额反向差632,936,687.20元，物理21/48页定位公司政策变更新披露，B17待核；2008相关平均/同口径NCWC变动暂止",
+    "B17由leo确认review144—145，原披露Fact144；2008调整后两项年初余额及政策说明已核",
+    "2008同报告平均资本与选定NCWC账面变化已恢复，跨报/同报两条算法相差632,936,687.20元，资本合计不变；Decimal/Fraction独立复算通过",
+    "年度资本路径增量意见P03仅一项待审，合同逐条完成/停算/意见/验收账本已列"
   ],
   "source_confirmation_receipts": [
     "evidence/20261024-b09-chat-confirmation.json",
@@ -110,15 +109,17 @@
     "evidence/20261025-b13-chat-confirmation.json",
     "evidence/20261025-b14-chat-confirmation.json",
     "evidence/20261025-b15-chat-confirmation.json",
-    "evidence/20261025-b16-chat-confirmation.json"
+    "evidence/20261025-b16-chat-confirmation.json",
+    "evidence/20261025-b17-chat-confirmation.json"
   ],
   "primary_candidate_proxy_window": [
     2007,
     2011
   ],
   "FY2012_sensitivity": "B14已核并完成三种合并条件利润情景；正式实体回报仍Unknown",
-  "next_content_review": null,
+  "next_content_review": "P03-20261025",
   "P01_method_approval": "accepted-method-with-followups",
   "economic_classification_complete": false,
-  "P02_content_approval": "原版本采纳保留；新年度路径待桥接后评估"
+  "P02_content_approval": "原版本采纳保留；新年度路径待桥接后评估",
+  "P03_status": "pending"
 }

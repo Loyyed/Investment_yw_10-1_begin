@@ -11,6 +11,12 @@ def annual_path(p,raw,proxy,intermediate):
         fact=raw[x['id']];assert fact['binding']==x['binding'] and fact['value']==x['value'] and fact['pdf_sha256']==x['source_sha256'] and json.loads(fact['note'])['display_payload_sha256']==fp
     comparison=read(p/'work/cash-20261024/annual-capital-source-comparison.json')
     for x in comparison['comparisons']:assert hashlib.sha256((p/x['source_path']).read_bytes()).hexdigest()==x['source_sha256']
+    bridge_manifest=read(p/'work/review-batches/20261025-B17.json');check=dict(bridge_manifest);bridgefp=check.pop('display_payload_sha256');assert bridgefp==digest(check)
+    bridge_items=bridge_manifest['items'];bridge_current=all(x['id'] in raw for x in bridge_items)
+    if bridge_current:
+        for x in bridge_items:
+            fact=raw[x['id']];assert fact['binding']==x['binding'] and fact['value']==x['value'] and fact['pdf_sha256']==x['source_sha256'] and json.loads(fact['note'])['display_payload_sha256']==bridgefp
+        bridge_fields={k:Decimal(v) for x in bridge_items for k,v in x['fields'].items()}
     b12=read(p/'work/review-batches/20261024-B12.json');keys=['存货','应收票据','应收账款','预付款项','应付账款','预收款项','固定资产','在建工程','无形资产'];signs={'存货':1,'应收票据':1,'应收账款':1,'预付款项':1,'应付账款':-1,'预收款项':-1};panel=[]
     base={x['year']:x for x in proxy['panel']};mid={x['year']:x for x in intermediate['panel']};cap={};ids={}
     for year in [2007,2008,2009,2010,2011]:
@@ -29,6 +35,12 @@ def annual_path(p,raw,proxy,intermediate):
             opening=Decimal(base[year]['opening_selected_capital_yuan']) if year in base else totals[year-1];gate=True;matches=None
             if year in [2008,2009,2010]:
                 comp=next(x for x in comparison['comparisons'] if x['year']==year);matches=all(Decimal(x['opening_yuan'])==cap[year-1][x['field']] for x in comp['rows']);gate=matches
+            adjusted_opening=None
+            if year==2008 and bridge_current:
+                adjusted_opening=dict(cap[2007]);adjusted_opening['预付款项']=bridge_fields['年初预付账款/预付款项'];adjusted_opening['在建工程']=bridge_fields['年初在建工程'];change=bridge_fields['变更影响数']
+                assert adjusted_opening['预付款项']-cap[2007]['预付款项']==change==cap[2007]['在建工程']-adjusted_opening['在建工程']
+                assert all(adjusted_opening[x['field']]==Decimal(x['opening_yuan']) for x in comp['rows'])
+                opening=sum((adjusted_opening[k]*sign for k,sign in signs.items()),Decimal(0))+sum((adjusted_opening[k] for k in ['固定资产','在建工程','无形资产']),Decimal(0));assert opening==totals[2007];gate=True
             average=(opening+totals[year])/2 if gate else None
             row={'year':year,'raw_capital_fields_yuan':{k:str(v) for k,v in fields.items()},'capital_input_ids':ids[year],'profit_input_ids':profit['input_ids'],'selected_ncwc_yuan':str(ncwc),'selected_long_assets_yuan':str(long),'selected_end_capital_yuan':str(totals[year]),'confirmed_prior_capital_yuan':str(opening),'same_report_opening_component_match':matches,'average_selected_capital_yuan':None if average is None else str(average),'baseline_profit_formula_yuan':str(nopat),'whole_line_profit_formula_yuan':str(neutral),'baseline_formula_over_average':None if average in [None,0] else str(nopat/average),'whole_line_formula_over_average':None if average in [None,0] else str(neutral/average),'cross_report_original_average_capital_yuan':str((opening+totals[year])/2),'same_scope_ncwc_change_yuan':None,'entity_roic':None,'formal_incremental_return':None,'status':'AgentCalculated；选择科目会计路径，真实经济资本/利润范围仍未齐'}
             if year>2007:
@@ -36,6 +48,10 @@ def annual_path(p,raw,proxy,intermediate):
             if year==2008:
                 comp=next(x for x in comparison['comparisons'] if x['year']==2008);diff={x['field']:str(Decimal(x['opening_yuan'])-Decimal(x['confirmed_previous_closing_yuan'])) for x in comp['rows'] if not x['opening_matches']};assert sum((Decimal(v) for v in diff.values()),Decimal(0))==0
                 row.update(opening_differences_yuan=diff,selected_capital_total_difference_yuan='0.00',opening_gate='B17待本人核2008调整后年初数及公司会计政策变更；不把资本合计抵消当科目可比',cross_report_original_average_status='仅两份原值均值，非已核2008同报告基期；不输出对应回报比率')
+            if year==2008 and bridge_current:
+                opening_ncwc=sum((adjusted_opening[k]*sign for k,sign in signs.items()),Decimal(0));opening_long=sum((adjusted_opening[k] for k in ['固定资产','在建工程','无形资产']),Decimal(0));comparable_delta=ncwc-opening_ncwc
+                row.update(opening_bridge_confirmed=True,opening_bridge_input_ids=[x['id'] for x in bridge_items],opening_gate='B17原披露已核；已恢复2008同报告会计代理，真实经营范围仍Unknown',adjusted_opening_raw_fields_yuan={k:str(v) for k,v in adjusted_opening.items()},adjusted_opening_selected_ncwc_yuan=str(opening_ncwc),adjusted_opening_selected_long_assets_yuan=str(opening_long),same_scope_ncwc_change_yuan=str(comparable_delta),same_scope_meaning='仅相同会计列示的选定科目，不确认全部真实经营范围或现金释放',ncwc_delta_difference_from_unadjusted_yuan=str(comparable_delta-Decimal(row['cross_report_original_ncwc_delta_yuan'])),cross_report_original_average_status='原值均值与调整后同报告平均资本在选定合计上数值相同，分项分类不同，分别保留')
+                row['capital_input_ids']=row['capital_input_ids']+[x['id'] for x in bridge_items]
             panel.append(row)
         delta_sum=sum((Decimal(x['selected_capital_balance_delta_yuan']) for x in panel[1:]),Decimal(0));window_delta=totals[2011]-totals[2007];assert delta_sum==window_delta
-    return {'state':'AgentCalculated','used_ids':list(dict.fromkeys([x['id'] for x in m['items']]+[id for a in ids.values() for id in a])),'panel':panel,'cash_assignments':[x for x in m['items'] if x['kind']=='cash-revenue-basic-year'],'capital_balance_telescope':{'annual_deltas_sum_yuan':str(delta_sum),'endpoint_delta_yuan':str(window_delta),'residual_yuan':str(delta_sum-window_delta),'cumulative_cash_reinvestment_yuan':None,'boundary':'年度余额差加总只勾稽端点；不等于累计现金再投资/成熟增量回报'},'human_arithmetic_confirmation':False,'code_sha256':hashlib.sha256(Path(__file__).read_bytes()).hexdigest()}
+    return {'state':'AgentCalculated','used_ids':list(dict.fromkeys([x['id'] for x in m['items']]+[id for a in ids.values() for id in a]+([x['id'] for x in bridge_items] if bridge_current else []))),'panel':panel,'cash_assignments':[x for x in m['items'] if x['kind']=='cash-revenue-basic-year'],'capital_balance_telescope':{'annual_deltas_sum_yuan':str(delta_sum),'endpoint_delta_yuan':str(window_delta),'residual_yuan':str(delta_sum-window_delta),'cumulative_cash_reinvestment_yuan':None,'boundary':'年度余额差加总只勾稽端点；不等于累计现金再投资/成熟增量回报'},'human_arithmetic_confirmation':False,'code_sha256':hashlib.sha256(Path(__file__).read_bytes()).hexdigest()}

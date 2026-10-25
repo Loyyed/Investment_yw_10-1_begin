@@ -6158,6 +6158,87 @@
         "year": 2011
       },
       "state": "Fact"
+    },
+    {
+      "actor": "leo",
+      "candidate_fingerprint": "741548603f22bbe95db176ca0cd8cbff1296b3f230cc0db6d1016a8fdee816d4",
+      "confirmed_at": "2026-10-25T11:23:29+08:00",
+      "id": "R2008-05",
+      "note": "{\"channel\": \"actual-user-chat\", \"actual_user_reply\": \"B17全部核验正确，核验人leo\", \"client_date\": \"2026-10-25\", \"reviewer\": \"leo\", \"batch_id\": \"B17\", \"batch_version\": 1, \"display_payload_sha256\": \"c9f51d9eca995f200ceac7e62cc98030b8bd9f4544005fb70903cebe437e56cd\", \"display_manifest\": \"work/review-batches/20261025-B17.json\", \"confirmation_scope\": [\"R2008-05\", \"R2008-06\"], \"exceptions\": [], \"confirmation_context\": \"B17两项三金额及会计政策变更原文：2008报告调整后年初预付款639,762,311.82元、CIP361,516,478.52元，期初分类调整影响632,936,687.20元；公司列会计政策变更，将在建工程-预付工程款调入预付账款，同页会计估计变更/差错更正列无。人民币元，期初存量/调整影响，不是年度现金流；旧2007原报数不覆盖。\", \"timestamp_meaning\": \"confirmed_at为程序保存实际聊天答复的时刻；非窗口点击，精确聊天发送时间未提供。\", \"boundary\": \"只确认展示原披露，不确认计算结果或跨年可比性、经济资本/经营税率、实体CFO/ROIC、金融净贡献、N06/N07或新签署；空白不当披露零。\"}",
+      "operation": "review",
+      "pdf_path": "sources/annual_reports/pdf/600519_2008_贵州茅台_2008年年度报告.pdf",
+      "pdf_sha256": "9d296c6db7e4abe204f2d5927572acd4914c49fbbcd4f9dd22250583d55ad200",
+      "previous_state": "Unknown",
+      "sequence": 144,
+      "snapshot": {
+        "actor": "",
+        "binding": "ed77ebace9e7a90c5669e39581e30b5e9a54f5529a27fc79ab5d1536c389f097",
+        "candidate_fingerprint": "741548603f22bbe95db176ca0cd8cbff1296b3f230cc0db6d1016a8fdee816d4",
+        "claim": "2008报告调整后年初预付及在建工程",
+        "confirmed_at": "",
+        "id": "R2008-05",
+        "location": "PDF物理21、28页；印刷页小1",
+        "note": "B17新增期初分类桥接；旧2007原值继续保留，B16年末不重核",
+        "numbers": [
+          "639,762,311.82",
+          "361,516,478.52"
+        ],
+        "pdf_path": "sources/annual_reports/pdf/600519_2008_贵州茅台_2008年年度报告.pdf",
+        "pdf_sha256": "9d296c6db7e4abe204f2d5927572acd4914c49fbbcd4f9dd22250583d55ad200",
+        "pending_issue": "B17新增期初分类桥接；旧2007原值继续保留，B16年末不重核",
+        "period": "人民币元；2008年报披露的调整后年初余额，对应2007期末比较口径；不是2008年末，不覆盖2007原年报",
+        "scope": "人民币元；2008年报披露的调整后年初余额，对应2007期末比较口径；不是2008年末，不覆盖2007原年报",
+        "source_version": "2008年度报告；源SHA见B17",
+        "stale_reason": "",
+        "state": "Unknown",
+        "support_boundary": "只确认调整后年初披露，不把原报数覆盖，不自动确认全部经营分类或NCWC变化为现金流",
+        "table": "来源定位见原PDF与口径",
+        "unit": "人民币元",
+        "unsupported_boundary": "不确认计算结果/经济范围/成熟回报/新签署",
+        "value": "年初预付账款/预付款项639,762,311.82；年初在建工程361,516,478.52",
+        "year": 2008
+      },
+      "state": "Fact"
+    },
+    {
+      "actor": "leo",
+      "candidate_fingerprint": "87534fa6f44b038c02e6bd0f185595ea1703c54c9b4369b1e42ee731c6882039",
+      "confirmed_at": "2026-10-25T11:23:29+08:00",
+      "id": "R2008-06",
+      "note": "{\"channel\": \"actual-user-chat\", \"actual_user_reply\": \"B17全部核验正确，核验人leo\", \"client_date\": \"2026-10-25\", \"reviewer\": \"leo\", \"batch_id\": \"B17\", \"batch_version\": 1, \"display_payload_sha256\": \"c9f51d9eca995f200ceac7e62cc98030b8bd9f4544005fb70903cebe437e56cd\", \"display_manifest\": \"work/review-batches/20261025-B17.json\", \"confirmation_scope\": [\"R2008-05\", \"R2008-06\"], \"exceptions\": [], \"confirmation_context\": \"B17两项三金额及会计政策变更原文：2008报告调整后年初预付款639,762,311.82元、CIP361,516,478.52元，期初分类调整影响632,936,687.20元；公司列会计政策变更，将在建工程-预付工程款调入预付账款，同页会计估计变更/差错更正列无。人民币元，期初存量/调整影响，不是年度现金流；旧2007原报数不覆盖。\", \"timestamp_meaning\": \"confirmed_at为程序保存实际聊天答复的时刻；非窗口点击，精确聊天发送时间未提供。\", \"boundary\": \"只确认展示原披露，不确认计算结果或跨年可比性、经济资本/经营税率、实体CFO/ROIC、金融净贡献、N06/N07或新签署；空白不当披露零。\"}",
+      "operation": "review",
+      "pdf_path": "sources/annual_reports/pdf/600519_2008_贵州茅台_2008年年度报告.pdf",
+      "pdf_sha256": "9d296c6db7e4abe204f2d5927572acd4914c49fbbcd4f9dd22250583d55ad200",
+      "previous_state": "Unknown",
+      "sequence": 145,
+      "snapshot": {
+        "actor": "",
+        "binding": "a234a4d04f1b1b10791d8049058e219baa70598751a75dfe9c3cc3b634d5d65b",
+        "candidate_fingerprint": "87534fa6f44b038c02e6bd0f185595ea1703c54c9b4369b1e42ee731c6882039",
+        "claim": "工程预付款会计政策变更说明与期初影响",
+        "confirmed_at": "",
+        "id": "R2008-06",
+        "location": "PDF物理48页；印刷页小1",
+        "note": "B17新增期初分类桥接；旧2007原值继续保留，B16年末不重核",
+        "numbers": [
+          "632,936,687.20"
+        ],
+        "pdf_path": "sources/annual_reports/pdf/600519_2008_贵州茅台_2008年年度报告.pdf",
+        "pdf_sha256": "9d296c6db7e4abe204f2d5927572acd4914c49fbbcd4f9dd22250583d55ad200",
+        "pending_issue": "B17新增期初分类桥接；旧2007原值继续保留，B16年末不重核",
+        "period": "人民币元；2008年报列示的会计政策变更及期初分类调整影响数，不是2008年度现金支出；仅核公司披露",
+        "scope": "人民币元；2008年报列示的会计政策变更及期初分类调整影响数，不是2008年度现金支出；仅核公司披露",
+        "source_version": "2008年度报告；源SHA见B17",
+        "stale_reason": "",
+        "state": "Unknown",
+        "support_boundary": "不把会计分类转入当新增投资/现金支出，不扩展为真实回报或外部法律/准则合规意见",
+        "table": "来源定位见原PDF与口径",
+        "unit": "人民币元",
+        "unsupported_boundary": "不确认计算结果/经济范围/成熟回报/新签署",
+        "value": "变更影响数632,936,687.20；公司在会计政策变更中说明将进行在建工程预付的工程价款从在建工程-预付工程款调入预付账款，并调整期初余额；同页会计估计变更和会计差错更正列无。",
+        "year": 2008
+      },
+      "state": "Fact"
     }
   ],
   "records": {
@@ -7348,6 +7429,79 @@
         "unit": "人民币元",
         "unsupported_boundary": "不确认完整实体现金/资本/回报、跨年可比性或新签署",
         "value": "固定资产2,190,171,911.89；在建工程582,860,996.70；无形资产445,207,595.72",
+        "year": 2008
+      },
+      "state": "Fact"
+    },
+    "R2008-05": {
+      "actor": "leo",
+      "candidate_fingerprint": "741548603f22bbe95db176ca0cd8cbff1296b3f230cc0db6d1016a8fdee816d4",
+      "confirmed_at": "2026-10-25T11:23:29+08:00",
+      "note": "{\"channel\": \"actual-user-chat\", \"actual_user_reply\": \"B17全部核验正确，核验人leo\", \"client_date\": \"2026-10-25\", \"reviewer\": \"leo\", \"batch_id\": \"B17\", \"batch_version\": 1, \"display_payload_sha256\": \"c9f51d9eca995f200ceac7e62cc98030b8bd9f4544005fb70903cebe437e56cd\", \"display_manifest\": \"work/review-batches/20261025-B17.json\", \"confirmation_scope\": [\"R2008-05\", \"R2008-06\"], \"exceptions\": [], \"confirmation_context\": \"B17两项三金额及会计政策变更原文：2008报告调整后年初预付款639,762,311.82元、CIP361,516,478.52元，期初分类调整影响632,936,687.20元；公司列会计政策变更，将在建工程-预付工程款调入预付账款，同页会计估计变更/差错更正列无。人民币元，期初存量/调整影响，不是年度现金流；旧2007原报数不覆盖。\", \"timestamp_meaning\": \"confirmed_at为程序保存实际聊天答复的时刻；非窗口点击，精确聊天发送时间未提供。\", \"boundary\": \"只确认展示原披露，不确认计算结果或跨年可比性、经济资本/经营税率、实体CFO/ROIC、金融净贡献、N06/N07或新签署；空白不当披露零。\"}",
+      "pdf_path": "sources/annual_reports/pdf/600519_2008_贵州茅台_2008年年度报告.pdf",
+      "pdf_sha256": "9d296c6db7e4abe204f2d5927572acd4914c49fbbcd4f9dd22250583d55ad200",
+      "snapshot": {
+        "actor": "",
+        "binding": "ed77ebace9e7a90c5669e39581e30b5e9a54f5529a27fc79ab5d1536c389f097",
+        "candidate_fingerprint": "741548603f22bbe95db176ca0cd8cbff1296b3f230cc0db6d1016a8fdee816d4",
+        "claim": "2008报告调整后年初预付及在建工程",
+        "confirmed_at": "",
+        "id": "R2008-05",
+        "location": "PDF物理21、28页；印刷页小1",
+        "note": "B17新增期初分类桥接；旧2007原值继续保留，B16年末不重核",
+        "numbers": [
+          "639,762,311.82",
+          "361,516,478.52"
+        ],
+        "pdf_path": "sources/annual_reports/pdf/600519_2008_贵州茅台_2008年年度报告.pdf",
+        "pdf_sha256": "9d296c6db7e4abe204f2d5927572acd4914c49fbbcd4f9dd22250583d55ad200",
+        "pending_issue": "B17新增期初分类桥接；旧2007原值继续保留，B16年末不重核",
+        "period": "人民币元；2008年报披露的调整后年初余额，对应2007期末比较口径；不是2008年末，不覆盖2007原年报",
+        "scope": "人民币元；2008年报披露的调整后年初余额，对应2007期末比较口径；不是2008年末，不覆盖2007原年报",
+        "source_version": "2008年度报告；源SHA见B17",
+        "stale_reason": "",
+        "state": "Unknown",
+        "support_boundary": "只确认调整后年初披露，不把原报数覆盖，不自动确认全部经营分类或NCWC变化为现金流",
+        "table": "来源定位见原PDF与口径",
+        "unit": "人民币元",
+        "unsupported_boundary": "不确认计算结果/经济范围/成熟回报/新签署",
+        "value": "年初预付账款/预付款项639,762,311.82；年初在建工程361,516,478.52",
+        "year": 2008
+      },
+      "state": "Fact"
+    },
+    "R2008-06": {
+      "actor": "leo",
+      "candidate_fingerprint": "87534fa6f44b038c02e6bd0f185595ea1703c54c9b4369b1e42ee731c6882039",
+      "confirmed_at": "2026-10-25T11:23:29+08:00",
+      "note": "{\"channel\": \"actual-user-chat\", \"actual_user_reply\": \"B17全部核验正确，核验人leo\", \"client_date\": \"2026-10-25\", \"reviewer\": \"leo\", \"batch_id\": \"B17\", \"batch_version\": 1, \"display_payload_sha256\": \"c9f51d9eca995f200ceac7e62cc98030b8bd9f4544005fb70903cebe437e56cd\", \"display_manifest\": \"work/review-batches/20261025-B17.json\", \"confirmation_scope\": [\"R2008-05\", \"R2008-06\"], \"exceptions\": [], \"confirmation_context\": \"B17两项三金额及会计政策变更原文：2008报告调整后年初预付款639,762,311.82元、CIP361,516,478.52元，期初分类调整影响632,936,687.20元；公司列会计政策变更，将在建工程-预付工程款调入预付账款，同页会计估计变更/差错更正列无。人民币元，期初存量/调整影响，不是年度现金流；旧2007原报数不覆盖。\", \"timestamp_meaning\": \"confirmed_at为程序保存实际聊天答复的时刻；非窗口点击，精确聊天发送时间未提供。\", \"boundary\": \"只确认展示原披露，不确认计算结果或跨年可比性、经济资本/经营税率、实体CFO/ROIC、金融净贡献、N06/N07或新签署；空白不当披露零。\"}",
+      "pdf_path": "sources/annual_reports/pdf/600519_2008_贵州茅台_2008年年度报告.pdf",
+      "pdf_sha256": "9d296c6db7e4abe204f2d5927572acd4914c49fbbcd4f9dd22250583d55ad200",
+      "snapshot": {
+        "actor": "",
+        "binding": "a234a4d04f1b1b10791d8049058e219baa70598751a75dfe9c3cc3b634d5d65b",
+        "candidate_fingerprint": "87534fa6f44b038c02e6bd0f185595ea1703c54c9b4369b1e42ee731c6882039",
+        "claim": "工程预付款会计政策变更说明与期初影响",
+        "confirmed_at": "",
+        "id": "R2008-06",
+        "location": "PDF物理48页；印刷页小1",
+        "note": "B17新增期初分类桥接；旧2007原值继续保留，B16年末不重核",
+        "numbers": [
+          "632,936,687.20"
+        ],
+        "pdf_path": "sources/annual_reports/pdf/600519_2008_贵州茅台_2008年年度报告.pdf",
+        "pdf_sha256": "9d296c6db7e4abe204f2d5927572acd4914c49fbbcd4f9dd22250583d55ad200",
+        "pending_issue": "B17新增期初分类桥接；旧2007原值继续保留，B16年末不重核",
+        "period": "人民币元；2008年报列示的会计政策变更及期初分类调整影响数，不是2008年度现金支出；仅核公司披露",
+        "scope": "人民币元；2008年报列示的会计政策变更及期初分类调整影响数，不是2008年度现金支出；仅核公司披露",
+        "source_version": "2008年度报告；源SHA见B17",
+        "stale_reason": "",
+        "state": "Unknown",
+        "support_boundary": "不把会计分类转入当新增投资/现金支出，不扩展为真实回报或外部法律/准则合规意见",
+        "table": "来源定位见原PDF与口径",
+        "unit": "人民币元",
+        "unsupported_boundary": "不确认计算结果/经济范围/成熟回报/新签署",
+        "value": "变更影响数632,936,687.20；公司在会计政策变更中说明将进行在建工程预付的工程价款从在建工程-预付工程款调入预付账款，并调整期初余额；同页会计估计变更和会计差错更正列无。",
         "year": 2008
       },
       "state": "Fact"
@@ -11476,5 +11630,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-25T11:10:39+08:00"
+  "updated_at": "2026-10-25T11:23:29+08:00"
 }

@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-25",
+  "state": "AgentVerification",
+  "authority_counts": {
+    "facts": 144,
+    "change_facts": 2,
+    "lec03_agent_facts": 16,
+    "m01_scale_facts": 3,
+    "m01_metric_facts": 15,
+    "m01_disclosure_facts": 3
+  },
+  "B17_confirmed": 2,
+  "B17_events": [
+    144,
+    145
+  ],
+  "independent_fraction_check": true,
+  "tolerance": "1e-34",
+  "all_25_cash_panel_rows_and_original_diagnostics_unchanged": true,
+  "other_four_annual_capital_rows_unchanged": true,
+  "2008_opening_selected_ncwc_yuan": "1907064476.32",
+  "2008_average_selected_capital_yuan": "4283583760.875",
+  "2008_corrected_selected_ncwc_change_yuan": "-902975871.48",
+  "2008_unadjusted_cross_report_change_yuan": "-270039184.28",
+  "2008_change_difference_yuan": "-632936687.20",
+  "2008_total_capital_unchanged": true,
+  "missing_B17_recloses_gate": true,
+  "changed_B17_binding_stops": true,
+  "source_classification_comparison_not_falsified_as_equal": true,
+  "real_economic_roic_unknown": true,
+  "new_human_arithmetic_approval": false,
+  "new_signatures": 0,
+  "B17_spreadsheet_updated": false,
+  "code_sha256": "05230a8fa1f4ed6ad61b284d08a9e37cafb0c80a092733a97c0611941437eb2f",
+  "annual_path_code_sha256": "4c3e10ed6e1a197f8d2201a94b51c725fc705474e5794cf6e881562483b4386f",
+  "P03_pending": 1,
+  "P03_semantics_current": true,
+  "report_fingerprint": "33a6d529c0a639d5ea560d2a1f42c117ec77ee0a2890d96a9e026f11f05f10e7"
+}

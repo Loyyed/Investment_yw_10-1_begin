@@ -2,7 +2,7 @@
   "date": "2026-10-25",
   "state": "AgentCalculated",
   "human_arithmetic_confirmation": false,
-  "code_sha256": "676dd76775ecce79222da80c424309eeb84bdb2e68ad52d26ea6dd6a252386bd",
+  "code_sha256": "05230a8fa1f4ed6ad61b284d08a9e37cafb0c80a092733a97c0611941437eb2f",
   "panel": [
     {
       "year": 2001,
@@ -1093,7 +1093,9 @@
       "R2011-01",
       "R2011-02",
       "R2011-03",
-      "R2011-06"
+      "R2011-06",
+      "R2008-05",
+      "R2008-06"
     ],
     "panel": [
       {
@@ -1156,7 +1158,9 @@
         },
         "capital_input_ids": [
           "R2008-03",
-          "R2008-04"
+          "R2008-04",
+          "R2008-05",
+          "R2008-06"
         ],
         "profit_input_ids": [
           "R2008-01",
@@ -1167,13 +1171,13 @@
         "selected_end_capital_yuan": "4222329109.15",
         "confirmed_prior_capital_yuan": "4344838412.60",
         "same_report_opening_component_match": false,
-        "average_selected_capital_yuan": null,
+        "average_selected_capital_yuan": "4283583760.875",
         "baseline_profit_formula_yuan": "4004536426.23158405574352756331317664680949827717",
         "whole_line_profit_formula_yuan": "3927405932.22201092096420082028589020599712293482",
-        "baseline_formula_over_average": null,
-        "whole_line_formula_over_average": null,
+        "baseline_formula_over_average": "0.934856570988023485299843188703239891051917558979",
+        "whole_line_formula_over_average": "0.916850504499010130136352687175324804368647090724",
         "cross_report_original_average_capital_yuan": "4283583760.875",
-        "same_scope_ncwc_change_yuan": null,
+        "same_scope_ncwc_change_yuan": "-902975871.48",
         "entity_roic": null,
         "formal_incremental_return": null,
         "status": "AgentCalculated；选择科目会计路径，真实经济资本/利润范围仍未齐",
@@ -1184,8 +1188,28 @@
           "在建工程": "-632936687.20"
         },
         "selected_capital_total_difference_yuan": "0.00",
-        "opening_gate": "B17待本人核2008调整后年初数及公司会计政策变更；不把资本合计抵消当科目可比",
-        "cross_report_original_average_status": "仅两份原值均值，非已核2008同报告基期；不输出对应回报比率"
+        "opening_gate": "B17原披露已核；已恢复2008同报告会计代理，真实经营范围仍Unknown",
+        "cross_report_original_average_status": "原值均值与调整后同报告平均资本在选定合计上数值相同，分项分类不同，分别保留",
+        "opening_bridge_confirmed": true,
+        "opening_bridge_input_ids": [
+          "R2008-05",
+          "R2008-06"
+        ],
+        "adjusted_opening_raw_fields_yuan": {
+          "存货": "2304818947.92",
+          "应收票据": "101046224.00",
+          "应收账款": "46407153.34",
+          "预付款项": "639762311.82",
+          "应付账款": "59681964.50",
+          "预收款项": "1125288196.26",
+          "固定资产": "1826983364.36",
+          "在建工程": "361516478.52",
+          "无形资产": "249274093.40"
+        },
+        "adjusted_opening_selected_ncwc_yuan": "1907064476.32",
+        "adjusted_opening_selected_long_assets_yuan": "2437773936.28",
+        "same_scope_meaning": "仅相同会计列示的选定科目，不确认全部真实经营范围或现金释放",
+        "ncwc_delta_difference_from_unadjusted_yuan": "-632936687.20"
       },
       {
         "year": 2009,
@@ -1389,7 +1413,13 @@
       "boundary": "年度余额差加总只勾稽端点；不等于累计现金再投资/成熟增量回报"
     },
     "human_arithmetic_confirmation": false,
-    "code_sha256": "56d5c139c3168c4b51d33a8c29e25e5b738e55dabe4da32fa4dbd73ed2c6f60e"
+    "code_sha256": "4c3e10ed6e1a197f8d2201a94b51c725fc705474e5794cf6e881562483b4386f"
+  },
+  "annual_path_opinion_adoption": {
+    "status": "pending",
+    "judgment_type": "Interpretation",
+    "adopted_ids": [],
+    "new_signature_created": false
   },
   "continuous_2007_2011_cash_diagnostics": {
     "years": [
@@ -2164,6 +2194,14 @@
       "text": "公司自2020年1月1日起执行新收入准则，不对比较财务报表追溯调整；公司将预收款项按新收入准则调整至合同负债、其他流动负债列报。",
       "binding": "c14a9002036ebc621d135496f21e748539c5b0fca2a141aa0a2a13d5fd5b3ee4",
       "status": "当前原披露Fact；可比性裁决另列"
+    },
+    {
+      "year": 2008,
+      "id": "R2008-06",
+      "kind": "accounting-opening-reclassification",
+      "text": "变更影响数632,936,687.20；公司在会计政策变更中说明将进行在建工程预付的工程价款从在建工程-预付工程款调入预付账款，并调整期初余额；同页会计估计变更和会计差错更正列无。",
+      "binding": "a234a4d04f1b1b10791d8049058e219baa70598751a75dfe9c3cc3b634d5d65b",
+      "status": "B17已确认公司披露；经济范围/真实现金解释另列"
     }
   ],
   "company_disclosure_explanations": [
@@ -2290,6 +2328,20 @@
       "domain": "facts",
       "id": "R2008-04",
       "binding": "4339e21b215c58c9009bb679166acb99ed0e6ec4652c492b1bbb2b7e05f08838",
+      "pdf_path": "sources/annual_reports/pdf/600519_2008_贵州茅台_2008年年度报告.pdf",
+      "pdf_sha256": "9d296c6db7e4abe204f2d5927572acd4914c49fbbcd4f9dd22250583d55ad200"
+    },
+    {
+      "domain": "facts",
+      "id": "R2008-05",
+      "binding": "ed77ebace9e7a90c5669e39581e30b5e9a54f5529a27fc79ab5d1536c389f097",
+      "pdf_path": "sources/annual_reports/pdf/600519_2008_贵州茅台_2008年年度报告.pdf",
+      "pdf_sha256": "9d296c6db7e4abe204f2d5927572acd4914c49fbbcd4f9dd22250583d55ad200"
+    },
+    {
+      "domain": "facts",
+      "id": "R2008-06",
+      "binding": "a234a4d04f1b1b10791d8049058e219baa70598751a75dfe9c3cc3b634d5d65b",
       "pdf_path": "sources/annual_reports/pdf/600519_2008_贵州茅台_2008年年度报告.pdf",
       "pdf_sha256": "9d296c6db7e4abe204f2d5927572acd4914c49fbbcd4f9dd22250583d55ad200"
     },
@@ -2698,6 +2750,11 @@
       "status": "原文已核；跨年同口径裁决/逐项调整金额仍分开"
     },
     {
+      "year": 2008,
+      "reason": "预付工程款由在建工程转入预付账款并调整期初列示",
+      "status": "原文已核；跨年同口径裁决/逐项调整金额仍分开"
+    },
+    {
       "year": 2012,
       "reason": "财务公司已纳入合并，旧2013首次合并说法需修正",
       "status": "原文已核；跨年同口径裁决/逐项调整金额仍分开"
@@ -2731,5 +2788,5 @@
     "inventory_intensity": "book inventory/consolidated operating revenue"
   },
   "precision": 48,
-  "generated_output_sha256": "e9192c171ab6b101b45d061252e6edb8b4a026f4b84327e4ecc3c925ee431b22"
+  "generated_output_sha256": "975a5b7829de88b417c8c2c3488819fc2e1fafc2f4fa3145d1fae70fd507889b"
 }

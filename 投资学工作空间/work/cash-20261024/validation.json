@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
   "authority_counts": {
-    "facts": 142,
+    "facts": 144,
     "change_facts": 2,
     "lec03_agent_facts": 16,
     "m01_scale_facts": 3,
@@ -51,8 +51,8 @@
   "teacher_HV_imported": false,
   "N03_and_G6_adoption": "accepted-current",
   "research_content_or_signature_created": false,
-  "code_sha256": "676dd76775ecce79222da80c424309eeb84bdb2e68ad52d26ea6dd6a252386bd",
-  "report_fingerprint": "29a474a3390731461a74fc80702e515da0afc6b7c2c0b97d3b77fb7c27796964",
+  "code_sha256": "05230a8fa1f4ed6ad61b284d08a9e37cafb0c80a092733a97c0611941437eb2f",
+  "report_fingerprint": "33a6d529c0a639d5ea560d2a1f42c117ec77ee0a2890d96a9e026f11f05f10e7",
   "scope_correction": "SC34原文B10已核；2012合并/2013营业分开，代理范围与敏感性仍待判",
   "B10_events": [
     96,
@@ -166,7 +166,7 @@
   "P02_pending": false,
   "P02_display_semantics_current": false,
   "B14_confirmed_inputs_used": 7,
-  "current_checkpoint": "B16-confirmed-B17-pending",
+  "current_checkpoint": "B17-confirmed-P03-pending",
   "historical_checks_retain_their_original_scope": true,
   "P02_adoption_status": "historical-adoption-preserved-new-path-needs-reassessment",
   "P02_actual_user_reply": "认可P02两项判断",
@@ -238,9 +238,9 @@
     "在建工程": "-632936687.20"
   },
   "2008_selected_total_difference_yuan": "0.00",
-  "2008_same_report_average_and_ncwc_change_stopped": true,
+  "2008_same_report_average_and_ncwc_change_stopped": false,
   "annual_capital_delta_telescope_residual_yuan": "0.00",
-  "B17_pending": 2,
+  "B17_pending": 0,
   "original_P02_ledger_and_validator_preserved": true,
   "P02_current_impact": {
     "status": "needs-content-reassessment",
@@ -255,6 +255,27 @@
     "boundary": "保留本人对原版本的真实采纳；新增中间年运算是AgentCalculated，不自动扩展本人意见认可。支持范围若变化则另行重评；原严格校验器及其历史不改。"
   },
   "B16_spreadsheet_updated": false,
-  "annual_path_code_sha256": "56d5c139c3168c4b51d33a8c29e25e5b738e55dabe4da32fa4dbd73ed2c6f60e",
-  "B17_not_used_as_confirmed_calculation_input": true
+  "annual_path_code_sha256": "4c3e10ed6e1a197f8d2201a94b51c725fc705474e5794cf6e881562483b4386f",
+  "B17_not_used_as_confirmed_calculation_input": true,
+  "B17_confirmed": 2,
+  "B17_events": [
+    144,
+    145
+  ],
+  "all_25_cash_panel_rows_and_original_diagnostics_unchanged": true,
+  "other_four_annual_capital_rows_unchanged": true,
+  "2008_opening_selected_ncwc_yuan": "1907064476.32",
+  "2008_average_selected_capital_yuan": "4283583760.875",
+  "2008_corrected_selected_ncwc_change_yuan": "-902975871.48",
+  "2008_unadjusted_cross_report_change_yuan": "-270039184.28",
+  "2008_change_difference_yuan": "-632936687.20",
+  "2008_total_capital_unchanged": true,
+  "missing_B17_recloses_gate": true,
+  "changed_B17_binding_stops": true,
+  "source_classification_comparison_not_falsified_as_equal": true,
+  "real_economic_roic_unknown": true,
+  "new_human_arithmetic_approval": false,
+  "B17_spreadsheet_updated": false,
+  "P03_pending": 1,
+  "P03_semantics_current": true
 }

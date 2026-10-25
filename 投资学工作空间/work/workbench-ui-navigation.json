@@ -1,39 +1,28 @@
 {
   "schema_version": 1,
   "date": "2026-10-25",
-  "next_review_id": "R2008-05",
-  "next_review_scope": "2008调整后年初预付/CIP及会计政策变更，两项三金额；期初分类，不是年度现金流",
+  "next_review_id": "",
+  "next_review_scope": "P03一项年度路径增量意见；原数和旧方法/意见不重复审",
   "preferred_confirmation_channel": "actual-user-chat",
   "completed_review_id": "",
-  "completed_event": 143,
+  "completed_event": 145,
   "completed_channel": "actual-user-chat",
   "completed_reviewer": "leo",
   "toolkit_directory": "投资学公司分析通用工作台",
-  "next_review_batch": "B17",
-  "next_review_ids": [
+  "next_review_batch": "",
+  "next_review_ids": [],
+  "completed_batch": "B17",
+  "completed_review_ids": [
     "R2008-05",
     "R2008-06"
   ],
-  "completed_batch": "B16",
-  "completed_review_ids": [
-    "R2008-03",
-    "R2008-04",
-    "R2009-03",
-    "R2009-04",
-    "R2007-12",
-    "R2011-11"
-  ],
   "completed_event_sequences": [
-    138,
-    139,
-    140,
-    141,
-    142,
-    143
+    144,
+    145
   ],
-  "next_action_kind": "human-batch-review",
-  "next_content_review_id": "",
-  "next_content_review_path": "",
+  "next_action_kind": "human-content-review",
+  "next_content_review_id": "P03-20261025",
+  "next_content_review_path": "outputs/student-cash-path-review.md",
   "completed_content_review": "P02-20261025",
   "completed_content_reply": "认可P02两项判断",
   "completed_content_review_id": "P02-20261025",

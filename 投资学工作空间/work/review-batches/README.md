@@ -20,7 +20,8 @@
 - P02本人已答复“认可P02两项判断”，[当前已采纳意见](../../outputs/student-cash-conclusion.md)；Interpretation，原Fact不变，未正式验收。
 - B15六项由leo于2026-10-25确认review132—137；[回执](../../evidence/20261025-b15-chat-confirmation.json)。
 - B16六项由leo于2026-10-25确认review138—143；[回执](../../evidence/20261025-b16-chat-confirmation.json)。
-- 当前待核：[B17两项三金额及会计政策变更](20261025-B17.md)，期初预付/CIP分类桥接，不是年度现金流。旧2007及B16年末原数不重核。
+- B17两项由leo于2026-10-25确认review144—145，2008期初桥接已算；[回执](../../evidence/20261025-b17-chat-confirmation.json)。
+- 当前待审：[P03一项年度路径增量判断](../../outputs/student-cash-path-review.md)，旧原数/方法/意见不重核。合同逐条完成/停止/待验收见outputs/student-cash-contract-status.md。
 - P02原版本认可保留，新增整包版本不同，原十年/两端/2012支持未变；新增分析未冒作人工采纳，见当前现金意见及影响检查。
 - [G5连接分析](../../outputs/student-capacity-capital-bridge.md)已形成；运算、预计释放实现、机制与签署分别处理。
 
