@@ -1,0 +1,1813 @@
+{
+  "date": "2026-10-25",
+  "human_confirmation": false,
+  "checks": [
+    {
+      "year": 2001,
+      "metric": "revenue_yuan",
+      "raw_value": "1618046660.31",
+      "raw_unit": "人民币元",
+      "normalized_value": "1618046660.31",
+      "pdf": {
+        "path": "sources/library/补充材料2/贵州茅台定期报告.zip",
+        "member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2001Q4.pdf",
+        "sha256": "433fceec0b5b93e27ab51bd9b93bda967946a1c572e58e2c91dea49671131830"
+      },
+      "physical_page": 31,
+      "excerpt": "项    目         行数 附注            2001 年      2000 年调整后\n一、主营业务收入                             1     24     1,618,046,660.31     1,114,000,813.26\n 减:主营业务成本                             4     24       287,538,468.11      196,863,443.99\n  主营业务税金及附加                       5     25       317,884,849.44      199,224,062.88",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2001,
+      "metric": "cfo_yuan",
+      "raw_value": "42283037.35",
+      "raw_unit": "人民币元",
+      "normalized_value": "42283037.35",
+      "pdf": {
+        "path": "sources/library/补充材料2/贵州茅台定期报告.zip",
+        "member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2001Q4.pdf",
+        "sha256": "433fceec0b5b93e27ab51bd9b93bda967946a1c572e58e2c91dea49671131830"
+      },
+      "physical_page": 33,
+      "excerpt": "其他                                                     74       13,655,501.96\n经营活动产生的现金流量净额                                        75       42,283,037.35\n2、 不涉及现金收支的投资和筹资活动\n\n  债务转为资本                                                 76\n\n  一年内到期的可转换公司债券                                    77",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2001,
+      "metric": "long_asset_purchase_cash_yuan",
+      "raw_value": "331691548.18",
+      "raw_unit": "人民币元",
+      "normalized_value": "331691548.18",
+      "pdf": {
+        "path": "sources/library/补充材料2/贵州茅台定期报告.zip",
+        "member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2001Q4.pdf",
+        "sha256": "433fceec0b5b93e27ab51bd9b93bda967946a1c572e58e2c91dea49671131830"
+      },
+      "physical_page": 32,
+      "excerpt": "现金流入小计                                                 29\n\n  购建固定资产、无形资产和其他长期资产所支付的现金                  30   331,691,548.18\n  投资所支付的现金                                              31\n\n  支付的其他与投资活动有关的现金                                 35\n  现金流出小计                                                 36   331,691,548.18",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2002,
+      "metric": "revenue_yuan",
+      "raw_value": "1834898294.9",
+      "raw_unit": "人民币元",
+      "normalized_value": "1834898294.9",
+      "pdf": {
+        "path": "sources/library/补充材料2/贵州茅台定期报告.zip",
+        "member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2002Q4.pdf",
+        "sha256": "cea3b759427aaeef76a3639ce56134bf562d0b2df04dcdc82fc53adc7d823201"
+      },
+      "physical_page": 37,
+      "excerpt": "编制单位:贵州茅台酒股份有限公司                            单位:元\n\n      项     目      行数 附注     2002 年度        2001 年度\n一、主营业务收入                    1   24    1,834,898,294.90  1,618,046,660.31\n 减：主营业务成本                  4   24      340,556,444.79    287,538,468.11\n   主营业务税金及附加            5   25      320,026,615.95    317,884,849.44",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2002,
+      "metric": "cfo_yuan",
+      "raw_value": "434582378.66",
+      "raw_unit": "人民币元",
+      "normalized_value": "434582378.66",
+      "pdf": {
+        "path": "sources/library/补充材料2/贵州茅台定期报告.zip",
+        "member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2002Q4.pdf",
+        "sha256": "cea3b759427aaeef76a3639ce56134bf562d0b2df04dcdc82fc53adc7d823201"
+      },
+      "physical_page": 39,
+      "excerpt": "其他                                                74          15,787,449.41\n  经营活动产生的现金流量净额                           75        434,582,378.66\n\n2、 不涉及现金收支的投资和筹资活动\n\n  债务转为资本                                           76\n  一年内到期的可转换公司债券                             77\n\n  融资租入固定资产                                       78",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2002,
+      "metric": "long_asset_purchase_cash_yuan",
+      "raw_value": "467451921.25",
+      "raw_unit": "人民币元",
+      "normalized_value": "467451921.25",
+      "pdf": {
+        "path": "sources/library/补充材料2/贵州茅台定期报告.zip",
+        "member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2002Q4.pdf",
+        "sha256": "cea3b759427aaeef76a3639ce56134bf562d0b2df04dcdc82fc53adc7d823201"
+      },
+      "physical_page": 38,
+      "excerpt": "收到的其他投资活动有关的现金                        28\n         现金流入小计                       29\n  购建固定资产、无形资产和其他长期资产所支付的现金    30               467,451,921.25\n  投资所支付的现金                                    31                 4,000,000.00\n  支付的其他与投资活动有关的现金                      35\n         现金流出小计                       36               471,451,921.25",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2003,
+      "metric": "revenue_yuan",
+      "raw_value": "2401017934.93",
+      "raw_unit": "人民币元",
+      "normalized_value": "2401017934.93",
+      "pdf": {
+        "path": "sources/library/补充材料2/贵州茅台定期报告.zip",
+        "member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2003Q4.pdf",
+        "sha256": "daa6109966712137e907838586fdf385ffdbe63b926d9b9f8e0669bd3211e435"
+      },
+      "physical_page": 5,
+      "excerpt": "项  目              2003 年度                                           2001 年度\n号                          调整前      调整后\n 1 主营业务收入                    2,401,017,934.93   1,834,898,294.90   1,834,898,294.90   1,618,046,660.31\n 2 净利润                            586,747,838.27     376,798,521.36     376,183,499.47     328,290,723.14",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2003,
+      "metric": "cfo_yuan",
+      "raw_value": "941706242.08",
+      "raw_unit": "人民币元",
+      "normalized_value": "941706242.08",
+      "pdf": {
+        "path": "sources/library/补充材料2/贵州茅台定期报告.zip",
+        "member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2003Q4.pdf",
+        "sha256": "daa6109966712137e907838586fdf385ffdbe63b926d9b9f8e0669bd3211e435"
+      },
+      "physical_page": 5,
+      "excerpt": "9  营业外收支净额（净收入+、净支出-）          1,254,821.02\n                     10  经营活动产生的现金流量净额                941,706,242.08\n                      11  现金及现金等价物净增减额（增+、减-）     559,739,696.21\n\n    注：扣除的非经常性损益金额合计为1,243,660.04 元，涉及项目如下：\n      1、扣除计提资产减值准备后的其他各项营业外收入、支出1,254,821.02 元；",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2003,
+      "metric": "long_asset_purchase_cash_yuan",
+      "raw_value": "334880557.62",
+      "raw_unit": "人民币元",
+      "normalized_value": "334880557.62",
+      "pdf": {
+        "path": "sources/library/补充材料2/贵州茅台定期报告.zip",
+        "member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2003Q4.pdf",
+        "sha256": "daa6109966712137e907838586fdf385ffdbe63b926d9b9f8e0669bd3211e435"
+      },
+      "physical_page": 37,
+      "excerpt": "现金流入小计                                                     249,423,028.64\n  购建固定资产、无形资产和其他长期资产所支付的现金                 334,880,557.62      334,286,805.59\n\n  投资所支付的现金\n\n  支付的其他与投资活动有关的现金\n\n            现金流出小计                                 334,880,557.62      334,286,805.59",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2004,
+      "metric": "revenue_yuan",
+      "raw_value": "3009793519.92",
+      "raw_unit": "人民币元",
+      "normalized_value": "3009793519.92",
+      "pdf": {
+        "path": "sources/library/补充材料2/贵州茅台定期报告.zip",
+        "member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2004Q4.pdf",
+        "sha256": "e2f70eb99c10d98e29ee60c202b8f5d9d06b79c0eaa4e6c108fd452d56490b1d"
+      },
+      "physical_page": 4,
+      "excerpt": "数据             调整后     调整前    期增    调整后     调整前\n                                                   减(%)\n 主营业务\n               3,009,793,519.92   2,401,017,934.93   2,401,017,934.93    25.35   1,834,898,294.90   1,834,898,294.90\n 收入\n 利润总额     1,490,672,514.81     977,294,613.26     977,294,613.26    52.53     648,452,428.40     649,370,371.52",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2004,
+      "metric": "cfo_yuan",
+      "raw_value": "975784480.2",
+      "raw_unit": "人民币元",
+      "normalized_value": "975784480.2",
+      "pdf": {
+        "path": "sources/library/补充材料2/贵州茅台定期报告.zip",
+        "member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2004Q4.pdf",
+        "sha256": "e2f70eb99c10d98e29ee60c202b8f5d9d06b79c0eaa4e6c108fd452d56490b1d"
+      },
+      "physical_page": 4,
+      "excerpt": "营业外收支净额                                                            2,565,458.98\n经营活动产生的现金流量净额                                              975,784,480.20\n现金及现金等价物净增加额                                                558,280,032.00\n\n\n\n（二）扣除非经常性损益项目和金额\n                                       单位:元 币种:人民币",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2004,
+      "metric": "long_asset_purchase_cash_yuan",
+      "raw_value": "355190020.75",
+      "raw_unit": "人民币元",
+      "normalized_value": "355190020.75",
+      "pdf": {
+        "path": "sources/library/补充材料2/贵州茅台定期报告.zip",
+        "member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2004Q4.pdf",
+        "sha256": "e2f70eb99c10d98e29ee60c202b8f5d9d06b79c0eaa4e6c108fd452d56490b1d"
+      },
+      "physical_page": 36,
+      "excerpt": "现金流入小计                                                                           300,000,000.00\n\n 购建固定资产、无形资产和其他长期资产所支付\n                                                                    355,190,020.75      354,697,184.75\n 的现金\n\n 投资所支付的现金\n\n 支付的其他与投资活动有关的现金\n\n 现金流出小计                                                       355,190,020.75      354,697,184.75",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2005,
+      "metric": "revenue_yuan",
+      "raw_value": "3930515237.61",
+      "raw_unit": "人民币元",
+      "normalized_value": "3930515237.61",
+      "pdf": {
+        "path": "sources/library/补充材料2/贵州茅台定期报告.zip",
+        "member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2005Q4.pdf",
+        "sha256": "962abe425b4c8015f509bac33d2374e0ad1d6124e12ac559a9c9faba825279eb"
+      },
+      "physical_page": 4,
+      "excerpt": "2005 年          2004 年                        2003 年\n                                                      增减(%)\n 主营业务收入                               3,930,515,237.61   3,009,793,519.92           30.59   2,401,017,934.93\n 利润总额                                   1,920,246,363.64   1,490,672,514.81           28.82     977,294,613.26",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2005,
+      "metric": "cfo_yuan",
+      "raw_value": "1693707488.32",
+      "raw_unit": "人民币元",
+      "normalized_value": "1693707488.32",
+      "pdf": {
+        "path": "sources/library/补充材料2/贵州茅台定期报告.zip",
+        "member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2005Q4.pdf",
+        "sha256": "962abe425b4c8015f509bac33d2374e0ad1d6124e12ac559a9c9faba825279eb"
+      },
+      "physical_page": 4,
+      "excerpt": "营业外收支净额                                                              965,952.46\n经营活动产生的现金流量净额                                             1,693,707,488.32\n现金及现金等价物净增加额                                                 993,662,014.68\n\n\n（二）扣除非经常性损益项目和金额\n                                       单位:元 币种:人民币",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2005,
+      "metric": "long_asset_purchase_cash_yuan",
+      "raw_value": "540843725.72",
+      "raw_unit": "人民币元",
+      "normalized_value": "540843725.72",
+      "pdf": {
+        "path": "sources/library/补充材料2/贵州茅台定期报告.zip",
+        "member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2005Q4.pdf",
+        "sha256": "962abe425b4c8015f509bac33d2374e0ad1d6124e12ac559a9c9faba825279eb"
+      },
+      "physical_page": 28,
+      "excerpt": "投资活动现金流入小计                                                                   567,071,098.33\n\n 购建固定资产、无形资产和其他长期资产所\n                                                            540,843,725.72              540,709,419.72\n 支付的现金\n\n 投资所支付的现金\n\n 支付的其他与投资活动有关的现金\n\n 投资活动现金流出小计                                       540,843,725.72              540,709,419.72",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2006,
+      "metric": "revenue_yuan",
+      "raw_value": "4896186901.21",
+      "raw_unit": "人民币元",
+      "normalized_value": "4896186901.21",
+      "pdf": {
+        "path": "sources/library/补充材料2/贵州茅台定期报告.zip",
+        "member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2006Q4.pdf",
+        "sha256": "51d7e17b688a7f8d121df552979c8890f8155ec1b7365c9052d5f4a5300f82c6"
+      },
+      "physical_page": 4,
+      "excerpt": "(%)\n 主营业务收入                                        4,896,186,901.21   3,930,515,237.61                 24.57   3,009,793,519.92\n 利润总额                                             2,488,186,993.43   1,920,246,363.64                 29.58   1,490,672,514.81",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2006,
+      "metric": "cfo_yuan",
+      "raw_value": "2105171033.69",
+      "raw_unit": "人民币元",
+      "normalized_value": "2105171033.69",
+      "pdf": {
+        "path": "sources/library/补充材料2/贵州茅台定期报告.zip",
+        "member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2006Q4.pdf",
+        "sha256": "51d7e17b688a7f8d121df552979c8890f8155ec1b7365c9052d5f4a5300f82c6"
+      },
+      "physical_page": 4,
+      "excerpt": "营业外收支净额                                                                      957,801.04\n经营活动产生的现金流量净额                                                     2,105,171,033.69\n现金及现金等价物净增加额                                                        571,108,605.11\n\n\n(二)扣除非经常性损益项目和金额\n            非经常性损益项目                 金额",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2006,
+      "metric": "long_asset_purchase_cash_yuan",
+      "raw_value": "737075587.28",
+      "raw_unit": "人民币元",
+      "normalized_value": "737075587.28",
+      "pdf": {
+        "path": "sources/library/补充材料2/贵州茅台定期报告.zip",
+        "member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2006Q4.pdf",
+        "sha256": "51d7e17b688a7f8d121df552979c8890f8155ec1b7365c9052d5f4a5300f82c6"
+      },
+      "physical_page": 31,
+      "excerpt": "投资活动现金流入小计                                                       5,950.00               810,648,575.23\n 购建固定资产、无形资产和其他长期\n                                                                       737,075,587.28               736,251,033.28\n 资产所支付的现金\n 投资所支付的现金                                                      41,000,000.00\n 支付的其他与投资活动有关的现金",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2007,
+      "metric": "revenue_yuan",
+      "raw_value": "7237430747.12",
+      "raw_unit": "人民币元",
+      "normalized_value": "7237430747.12",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
+        "sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679"
+      },
+      "physical_page": 34,
+      "excerpt": "项目            附注   本期金额    上期金额\n\n 一、营业总收入                                          22           7,237,430,747.12      4,903,375,765.41\n 其中：营业收入                                                             7,237,430,747.12      4,903,375,765.41",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2007,
+      "metric": "cfo_yuan",
+      "raw_value": "1743303211.38",
+      "raw_unit": "人民币元",
+      "normalized_value": "1743303211.38",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
+        "sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679"
+      },
+      "physical_page": 36,
+      "excerpt": "经营活动现金流出小计                                               5,790,135,752.07              4,091,522,620.16\n 经营活动产生的现金流量净额                                        1,743,303,211.38              2,112,936,898.43\n\n 二、投资活动产生的现金流量：\n\n 收回投资收到的现金\n 取得投资收益收到的现金\n 处置固定资产、无形资产和其他长期资产收回\n                                                                                                            5,950.00",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2007,
+      "metric": "long_asset_purchase_cash_yuan",
+      "raw_value": "772456652.49",
+      "raw_unit": "人民币元",
+      "normalized_value": "772456652.49",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2007_贵州茅台_2007年年度报告_修订版_2008-03-17.pdf",
+        "sha256": "4cd6490380b4a722152303f52a6452cb462d66ac74852f1236dfebea0fb9f679"
+      },
+      "physical_page": 36,
+      "excerpt": "投资活动现金流入小计                                                                                    5,950.00\n 购建固定资产、无形资产和其他长期资产支付\n                                                                       772,456,652.49               737,464,883.28\n 的现金\n 投资支付的现金                                                        17,000,000.00                41,000,000.00",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2008,
+      "metric": "revenue_yuan",
+      "raw_value": "8241685564.11",
+      "raw_unit": "人民币元",
+      "normalized_value": "8241685564.11",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2008_贵州茅台_2008年年度报告.pdf",
+        "sha256": "9d296c6db7e4abe204f2d5927572acd4914c49fbbcd4f9dd22250583d55ad200"
+      },
+      "physical_page": 32,
+      "excerpt": "项目项目项目项目         附注附注附注附注     本期金额本期金额本期金额本期金额       上期金额上期金额上期金额上期金额\n一、营业总收入                    27               8,241,685,564.11          7,237,430,747.12\n  其中：营业收入                27               8,241,685,564.11          7,237,430,747.12\n     利息收入\n\n     已赚保费",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2008,
+      "metric": "cfo_yuan",
+      "raw_value": "5247488535.74",
+      "raw_unit": "人民币元",
+      "normalized_value": "5247488535.74",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2008_贵州茅台_2008年年度报告.pdf",
+        "sha256": "9d296c6db7e4abe204f2d5927572acd4914c49fbbcd4f9dd22250583d55ad200"
+      },
+      "physical_page": 4,
+      "excerpt": "归属于上市公司股东的扣除非经常性损益后的净利润                              3,802,638,842.13\n经营活动产生的现金流量净额                                                     5,247,488,535.74\n\n(二) 非经常性损益项目和金额：\n                                  单位：元 币种：人民币\n      非经常性损益项目          金额          说明\n非流动资产处置损益                                  -3,241,808.24   处理固定资产净损失",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2008,
+      "metric": "long_asset_purchase_cash_yuan",
+      "raw_value": "1010735786.04",
+      "raw_unit": "人民币元",
+      "normalized_value": "1010735786.04",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2008_贵州茅台_2008年年度报告.pdf",
+        "sha256": "9d296c6db7e4abe204f2d5927572acd4914c49fbbcd4f9dd22250583d55ad200"
+      },
+      "physical_page": 34,
+      "excerpt": "投资活动现金流入小计                                  23,173,100.00\n  购建固定资产、无形资产和其他长\n                                                       1,010,735,786.04                772,456,652.49\n期资产支付的现金\n  投资支付的现金                                      5,000,000.00                 17,000,000.00\n  质押贷款净增加额",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2009,
+      "metric": "revenue_yuan",
+      "raw_value": "9669999065.39",
+      "raw_unit": "人民币元",
+      "normalized_value": "9669999065.39",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2009_贵州茅台_2009年年度报告.pdf",
+        "sha256": "37a18565407aa0a29634b6140d7e48ef4e33fe5ab02f7b1cdcff2a184ed0aba9"
+      },
+      "physical_page": 34,
+      "excerpt": "单位:元 币种:人民币\n       项目         附注     本期金额       上期金额\n一、营业总收入                                         9,669,999,065.39          8,241,685,564.11\n  其中：营业收入                28               9,669,999,065.39          8,241,685,564.11\n     利息收入\n\n     已赚保费",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2009,
+      "metric": "cfo_yuan",
+      "raw_value": "4223937144.19",
+      "raw_unit": "人民币元",
+      "normalized_value": "4223937144.19",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2009_贵州茅台_2009年年度报告.pdf",
+        "sha256": "37a18565407aa0a29634b6140d7e48ef4e33fe5ab02f7b1cdcff2a184ed0aba9"
+      },
+      "physical_page": 4,
+      "excerpt": "归属于上市公司股东的扣除非经常性损益后的净利润                              4,308,114,570.85\n经营活动产生的现金流量净额                                                     4,223,937,144.19\n\n\n(二) 非经常性损益项目和金额\n                                  单位：元 币种：人民币\n        非经常性损益项目                 金额\n非流动资产处置损益                                                                   -227,122.97",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2009,
+      "metric": "long_asset_purchase_cash_yuan",
+      "raw_value": "1356601530.09",
+      "raw_unit": "人民币元",
+      "normalized_value": "1356601530.09",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2009_贵州茅台_2009年年度报告.pdf",
+        "sha256": "37a18565407aa0a29634b6140d7e48ef4e33fe5ab02f7b1cdcff2a184ed0aba9"
+      },
+      "physical_page": 37,
+      "excerpt": "27,080,397.26                 23,173,100.00\n小计\n\n  购建固定资产、无形\n资产和其他长期资产支付                           1,356,601,530.09               1,010,735,786.04\n的现金\n\n  投资支付的现金                                  10,000,000.00                   5,000,000.00\n  质押贷款净增加额",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2010,
+      "metric": "revenue_yuan",
+      "raw_value": "11633283740.18",
+      "raw_unit": "人民币元",
+      "normalized_value": "11633283740.18",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2010_贵州茅台_2010年年度报告_修订版_2011-04-08.pdf",
+        "sha256": "613779ed98205e7bf7ee8dfdfe91794ce84336297cbb42cbf5c4ad9f06a55312"
+      },
+      "physical_page": 43,
+      "excerpt": "单位:元 币种:人民币\n        项目         附注     本期金额       上期金额\n一、营业总收入                                        11,633,283,740.18          9,669,999,065.39\n\n  其中：营业收入                28              11,633,283,740.18          9,669,999,065.39\n\n     利息收入\n\n     已赚保费",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2010,
+      "metric": "cfo_yuan",
+      "raw_value": "6201476519.57",
+      "raw_unit": "人民币元",
+      "normalized_value": "6201476519.57",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2010_贵州茅台_2010年年度报告_修订版_2011-04-08.pdf",
+        "sha256": "613779ed98205e7bf7ee8dfdfe91794ce84336297cbb42cbf5c4ad9f06a55312"
+      },
+      "physical_page": 4,
+      "excerpt": "归属于上市公司股东的扣除非经常性损益后的净利润                              5,050,226,243.98\n经营活动产生的现金流量净额                                                     6,201,476,519.57\n\n\n(二) 扣除非经常性损益项目和金额\n\n                             单位：元 币种：人民币\n\n           项目                    金额\n非流动资产处置损益                                                                   -617,857.77",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2010,
+      "metric": "long_asset_purchase_cash_yuan",
+      "raw_value": "1731913788.52",
+      "raw_unit": "人民币元",
+      "normalized_value": "1731913788.52",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2010_贵州茅台_2010年年度报告_修订版_2011-04-08.pdf",
+        "sha256": "613779ed98205e7bf7ee8dfdfe91794ce84336297cbb42cbf5c4ad9f06a55312"
+      },
+      "physical_page": 47,
+      "excerpt": "75,047,126.51                 27,080,397.26\n小计\n\n  购建固定资产、无形\n\n资产和其他长期资产支付                           1,731,913,788.52               1,356,601,530.09\n\n的现金\n\n  投资支付的现金                                  50,000,000.00                 10,000,000.00\n\n  质押贷款净增加额",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2011,
+      "metric": "revenue_yuan",
+      "raw_value": "18402355207.3",
+      "raw_unit": "人民币元",
+      "normalized_value": "18402355207.3",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
+        "sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b"
+      },
+      "physical_page": 44,
+      "excerpt": "单位:元 币种:人民币\n        项目         附注     本期金额       上期金额\n一、营业总收入                                        18,402,355,207.30         11,633,283,740.18\n\n  其中：营业收入                28              18,402,355,207.30         11,633,283,740.18\n\n     利息收入\n\n     已赚保费",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2011,
+      "metric": "cfo_yuan",
+      "raw_value": "10148564689.53",
+      "raw_unit": "人民币元",
+      "normalized_value": "10148564689.53",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
+        "sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b"
+      },
+      "physical_page": 4,
+      "excerpt": "归属于上市公司股东的扣除非经常性损益后的净利润                              8,764,693,473.02\n经营活动产生的现金流量净额                                                    10,148,564,689.53\n\n\n\n\n\n                                              3",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2011,
+      "metric": "long_asset_purchase_cash_yuan",
+      "raw_value": "2184528163.11",
+      "raw_unit": "人民币元",
+      "normalized_value": "2184528163.11",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2011_贵州茅台_2011年年度报告.pdf",
+        "sha256": "0b63ee70ae66fd908e8239c2745d8036a5f3a47be1e711f1f557fcd6ffbc6b1b"
+      },
+      "physical_page": 48,
+      "excerpt": "215,585,426.84                 75,047,126.51\n小计\n\n  购建固定资产、无形\n\n资产和其他长期资产支付                           2,184,528,163.11               1,731,913,788.52\n\n的现金\n\n  投资支付的现金                                                                50,000,000.00\n\n  质押贷款净增加额",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2012,
+      "metric": "revenue_yuan",
+      "raw_value": "26455335152.99",
+      "raw_unit": "人民币元",
+      "normalized_value": "26455335152.99",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2012_贵州茅台_2012年年度报告.pdf",
+        "sha256": "9a8faef737d4dd64e8260325247b8ffe77e5de506f4b23b046f28c0758377eae"
+      },
+      "physical_page": 47,
+      "excerpt": "单位:元 币种:人民币\n        项目         附注     本期金额       上期金额\n一、营业总收入                                        26,455,335,152.99         18,402,355,207.30\n             （二十\n  其中：营业收入                                   26,455,335,152.99         18,402,355,207.30",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2012,
+      "metric": "cfo_yuan",
+      "raw_value": "11921310609.25",
+      "raw_unit": "人民币元",
+      "normalized_value": "11921310609.25",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2012_贵州茅台_2012年年度报告.pdf",
+        "sha256": "9a8faef737d4dd64e8260325247b8ffe77e5de506f4b23b046f28c0758377eae"
+      },
+      "physical_page": 50,
+      "excerpt": "经营活动现金流出小计                          17,378,728,264.08  13,692,240,804.59\n    经营活动产生的现金流量净额                 11,921,310,609.25  10,148,564,689.53\n二、投资活动产生的现金流量：\n  收回投资收到的现金                                   10,000,000.00\n  取得投资收益收到的现金                                4,129,000.00        3,010,000.00",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2012,
+      "metric": "long_asset_purchase_cash_yuan",
+      "raw_value": "4211900807.91",
+      "raw_unit": "人民币元",
+      "normalized_value": "4211900807.91",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2012_贵州茅台_2012年年度报告.pdf",
+        "sha256": "9a8faef737d4dd64e8260325247b8ffe77e5de506f4b23b046f28c0758377eae"
+      },
+      "physical_page": 50,
+      "excerpt": "投资活动现金流入小计                             354,507,568.00     215,585,426.84\n  购建固定资产、无形资产和其他长期\n                                                          4,211,900,807.91    2,184,528,163.11\n资产支付的现金\n\n  投资支付的现金\n\n  质押贷款净增加额\n\n  取得子公司及其他营业单位支付的现\n\n金净额\n\n             （三十\n  支付其他与投资活动有关的现金                      342,083,058.36     151,475,313.64",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2013,
+      "metric": "revenue_yuan",
+      "raw_value": "30921801316.6",
+      "raw_unit": "人民币元",
+      "normalized_value": "30921801316.6",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2013_贵州茅台_2013年年度报告.pdf",
+        "sha256": "26524de9281264e149c23bdc618a32820678c8d07c5dc7c88cbc7e19b3df0bff"
+      },
+      "physical_page": 47,
+      "excerpt": "一、营业总收入                                        31,070,596,222.23         26,455,335,152.99\n             （三十\n  其中：营业收入                                   30,921,801,316.60         26,455,335,152.99\n                  一）\n             （三十\n     利息收入                                     148,673,987.03\n                  二）",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2013,
+      "metric": "cfo_yuan",
+      "raw_value": "12655024861.92",
+      "raw_unit": "人民币元",
+      "normalized_value": "12655024861.92",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2013_贵州茅台_2013年年度报告.pdf",
+        "sha256": "26524de9281264e149c23bdc618a32820678c8d07c5dc7c88cbc7e19b3df0bff"
+      },
+      "physical_page": 7,
+      "excerpt": "除非经常性损益的净利  15,451,527,453.00  13,401,371,441.07         15.30    8,764,693,473.02\n润\n经营活动产生的现金流量\n                             12,655,024,861.92  11,921,310,609.25           6.15  10,148,564,689.53\n净额\n                              本期末比上\n                             2013 年末         2012 年末   年同期末增      2011 年末",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2013,
+      "metric": "long_asset_purchase_cash_yuan",
+      "raw_value": "5405740026.23",
+      "raw_unit": "人民币元",
+      "normalized_value": "5405740026.23",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2013_贵州茅台_2013年年度报告.pdf",
+        "sha256": "26524de9281264e149c23bdc618a32820678c8d07c5dc7c88cbc7e19b3df0bff"
+      },
+      "physical_page": 51,
+      "excerpt": "759,396,234.64                354,507,568.00\n小计\n\n  购建固定资产、无形\n资产和其他长期资产支付                           5,405,740,026.23               4,211,900,807.91\n的现金\n\n  投资支付的现金\n\n  质押贷款净增加额\n\n\n\n\n                                              50",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2014,
+      "metric": "revenue_yuan",
+      "raw_value": "31573928530.94",
+      "raw_unit": "人民币元",
+      "normalized_value": "31573928530.94",
+      "pdf": {
+        "path": "sources/library/补充材料2/贵州茅台定期报告.zip",
+        "member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2014Q4.pdf",
+        "sha256": "89145ef5bd12256c4c75c122b1c8d59846a912434f1abd0570f678bdb1a20f24"
+      },
+      "physical_page": 43,
+      "excerpt": "一、营业总收入                                       32,217,213,741.08       31,070,596,222.23\n  其中：营业收入                32             31,573,928,530.94       30,921,801,316.60\n     利息收入                33                643,085,210.14          148,673,987.03\n     已赚保费\n     手续费及佣金收入        33                    200,000.00             120,918.60",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2014,
+      "metric": "cfo_yuan",
+      "raw_value": "12632522436.6",
+      "raw_unit": "人民币元",
+      "normalized_value": "12632522436.6",
+      "pdf": {
+        "path": "sources/library/补充材料2/贵州茅台定期报告.zip",
+        "member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2014Q4.pdf",
+        "sha256": "89145ef5bd12256c4c75c122b1c8d59846a912434f1abd0570f678bdb1a20f24"
+      },
+      "physical_page": 4,
+      "excerpt": "东的扣除非经常性   15,520,833,325.69   15,451,527,453.00              0.45  13,401,371,441.07\n损益的净利润\n经营活动产生的现\n                      12,632,522,436.60   12,655,024,861.92             -0.18  11,921,310,609.25\n金流量净额\n                           本期末比上年\n                 2014年末       2013年末                   2012年末",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2014,
+      "metric": "long_asset_purchase_cash_yuan",
+      "raw_value": "4431065066.05",
+      "raw_unit": "人民币元",
+      "normalized_value": "4431065066.05",
+      "pdf": {
+        "path": "sources/library/补充材料2/贵州茅台定期报告.zip",
+        "member": "Φ┤╡σ╖₧ΦîàσÅ░σ«Üµ£ƒµèÑσæè/pdf/600519_Φ┤╡σ╖₧ΦîàσÅ░_2014Q4.pdf",
+        "sha256": "89145ef5bd12256c4c75c122b1c8d59846a912434f1abd0570f678bdb1a20f24"
+      },
+      "physical_page": 47,
+      "excerpt": "投资活动现金流入小计                            125,049,057.14         759,396,234.64\n  购建固定资产、无形资产\n                                                        4,431,065,066.05        5,405,740,026.23\n和其他长期资产支付的现金\n  投资支付的现金                                      15,000,000.00\n  质押贷款净增加额\n  取得子公司及其他营业单\n位支付的现金净额",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2015,
+      "metric": "revenue_yuan",
+      "raw_value": "32659583725.28",
+      "raw_unit": "人民币元",
+      "normalized_value": "32659583725.28",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2015_贵州茅台_2015年年度报告.pdf",
+        "sha256": "11a32c1e7f02a54fc2eea3c0d852af59ad37af9a2cbe91857cd93a6208a96d6c"
+      },
+      "physical_page": 41,
+      "excerpt": "一、营业总收入                                         33,446,859,045.58    32,217,213,741.08\n其中：营业收入                            33       32,659,583,725.28    31,573,928,530.94\n   利息收入                            34          786,545,320.30       643,085,210.14\n   已赚保费\n   手续费及佣金收入                    34              730,000.00           200,000.00",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2015,
+      "metric": "cfo_yuan",
+      "raw_value": "17436340141.72",
+      "raw_unit": "人民币元",
+      "normalized_value": "17436340141.72",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2015_贵州茅台_2015年年度报告.pdf",
+        "sha256": "11a32c1e7f02a54fc2eea3c0d852af59ad37af9a2cbe91857cd93a6208a96d6c"
+      },
+      "physical_page": 5,
+      "excerpt": "东的扣除非经常性    15,616,866,431.94   15,520,833,325.69               0.62    15,451,527,453.00\n损益的净利润\n经营活动产生的现\n                        17,436,340,141.72   12,632,522,436.60              38.03    12,655,024,861.92\n金流量净额\n                            本期末比上年同\n                  2015年末       2014年末                    2013年末",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2015,
+      "metric": "long_asset_purchase_cash_yuan",
+      "raw_value": "2061470481.32",
+      "raw_unit": "人民币元",
+      "normalized_value": "2061470481.32",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2015_贵州茅台_2015年年度报告.pdf",
+        "sha256": "11a32c1e7f02a54fc2eea3c0d852af59ad37af9a2cbe91857cd93a6208a96d6c"
+      },
+      "physical_page": 9,
+      "excerpt": "收到其他投资活动有关的现金                               33,357,886.05      106,726,852.00            -68.74\n购建固定资产、无形资产和其他长期资产支付的现金      2,061,470,481.32    4,431,065,066.05            -53.48\n投资支付的现金                                             25,050,000.00       15,000,000.00            67.00",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2016,
+      "metric": "revenue_yuan",
+      "raw_value": "38862189993.84",
+      "raw_unit": "人民币元",
+      "normalized_value": "38862189993.84",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2016_贵州茅台_2016年年度报告.pdf",
+        "sha256": "dd26d9e0017a938cb5e1aa0a830bab7502d0de1f85eb7c00abffb4888c8c20ad"
+      },
+      "physical_page": 45,
+      "excerpt": "一、营业总收入                                         40,155,084,412.93    33,446,859,045.58\n其中：营业收入                            33       38,862,189,993.84    32,659,583,725.28\n   利息收入                            34        1,292,722,909.66       786,545,320.30\n   已赚保费\n   手续费及佣金收入                    34              171,509.43           730,000.00",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2016,
+      "metric": "cfo_yuan",
+      "raw_value": "37451249647.05",
+      "raw_unit": "人民币元",
+      "normalized_value": "37451249647.05",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2016_贵州茅台_2016年年度报告.pdf",
+        "sha256": "dd26d9e0017a938cb5e1aa0a830bab7502d0de1f85eb7c00abffb4888c8c20ad"
+      },
+      "physical_page": 5,
+      "excerpt": "东的扣除非经常性   16,954,689,021.77   15,616,866,431.94        8.57        15,520,833,325.69\n损益的净利润\n经营活动产生的现\n                      37,451,249,647.05   17,436,340,141.72      114.79       12,632,522,436.60\n金流量净额\n                           本期末比上年\n                 2016年末       2015年末   同期末增减（%    2014年末",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2016,
+      "metric": "long_asset_purchase_cash_yuan",
+      "raw_value": "1019178136.92",
+      "raw_unit": "人民币元",
+      "normalized_value": "1019178136.92",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2016_贵州茅台_2016年年度报告.pdf",
+        "sha256": "dd26d9e0017a938cb5e1aa0a830bab7502d0de1f85eb7c00abffb4888c8c20ad"
+      },
+      "physical_page": 9,
+      "excerpt": "收到其他与投资活动有关的现金                  5,562,351.19       33,357,886.05           -83.33\n购建固定资产、无形资产和其他长期资\n                                              1,019,178,136.92    2,061,470,481.32           -50.56\n产支付的现金\n投资支付的现金                                                    25,050,000.00         -100.00",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2017,
+      "metric": "revenue_yuan",
+      "raw_value": "58217861314.17",
+      "raw_unit": "人民币元",
+      "normalized_value": "58217861314.17",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2017_贵州茅台_2017年年度报告.pdf",
+        "sha256": "b66a4641e5f2313ed7964e5bef0026021ff2164459d0e0615f1b4385ba1a78e3"
+      },
+      "physical_page": 48,
+      "excerpt": "一、营业总收入                                         61,062,756,866.16    40,155,084,412.93\n其中：营业收入                            31       58,217,861,314.17    38,862,189,993.84\n   利息收入                            32        2,844,310,646.33      1,292,722,909.66",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2017,
+      "metric": "cfo_yuan",
+      "raw_value": "22153036084.13",
+      "raw_unit": "人民币元",
+      "normalized_value": "22153036084.13",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2017_贵州茅台_2017年年度报告.pdf",
+        "sha256": "b66a4641e5f2313ed7964e5bef0026021ff2164459d0e0615f1b4385ba1a78e3"
+      },
+      "physical_page": 4,
+      "excerpt": "东的扣除非经常性   27,224,083,628.17    16,954,689,021.77       60.57       15,616,866,431.94\n损益的净利润\n经营活动产生的现\n                        22,153,036,084.13     37,451,249,647.05       -40.85      17,436,340,141.72\n金流量净额\n                            本期末比上\n                 2017年末        2016年末    年同期末增     2015年末",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2017,
+      "metric": "long_asset_purchase_cash_yuan",
+      "raw_value": "1125017192.45",
+      "raw_unit": "人民币元",
+      "normalized_value": "1125017192.45",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2017_贵州茅台_2017年年度报告.pdf",
+        "sha256": "b66a4641e5f2313ed7964e5bef0026021ff2164459d0e0615f1b4385ba1a78e3"
+      },
+      "physical_page": 52,
+      "excerpt": "投资活动现金流入小计                               21,447,122.95            5,654,435.69\n 购建固定资产、无形资产和其他长                   1,125,017,192.45        1,019,178,136.92\n期资产支付的现金\n 投资支付的现金\n 质押贷款净增加额\n 取得子公司及其他营业单位支付的\n现金净额\n 支付其他与投资活动有关的现金     42(4)              17,075,145.10           88,977,102.97",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2018,
+      "metric": "revenue_yuan",
+      "raw_value": "73638872388.03",
+      "raw_unit": "人民币元",
+      "normalized_value": "73638872388.03",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2018_贵州茅台_2018年年度报告.pdf",
+        "sha256": "08728fc937836cfeed8e98aeda932da54c737efa6de4280ae001476c0e393dec"
+      },
+      "physical_page": 55,
+      "excerpt": "一、营业总收入                                         77,199,384,110.22     61,062,756,866.16\n其中：营业收入                        27           73,638,872,388.03     58,217,861,314.17\n   利息收入                        28            3,559,634,363.70      2,844,310,646.33\n   已赚保费\n   手续费及佣金收入                28                 877,358.49           584,905.66",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2018,
+      "metric": "cfo_yuan",
+      "raw_value": "41385234406.72",
+      "raw_unit": "人民币元",
+      "normalized_value": "41385234406.72",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2018_贵州茅台_2018年年度报告.pdf",
+        "sha256": "08728fc937836cfeed8e98aeda932da54c737efa6de4280ae001476c0e393dec"
+      },
+      "physical_page": 58,
+      "excerpt": "经营活动现金流出小计                            47,960,400,991.98      45,216,426,427.68\n   经营活动产生的现金流量净额                   41,385,234,406.72      22,153,036,084.13\n\n                                              58 / 112",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2018,
+      "metric": "long_asset_purchase_cash_yuan",
+      "raw_value": "1606750226.28",
+      "raw_unit": "人民币元",
+      "normalized_value": "1606750226.28",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2018_贵州茅台_2018年年度报告.pdf",
+        "sha256": "08728fc937836cfeed8e98aeda932da54c737efa6de4280ae001476c0e393dec"
+      },
+      "physical_page": 11,
+      "excerpt": "收到其他与投资活动有关的现金                 11,244,181.30        21,430,672.95          -47.53\n购建固定资产、无形资产和其他长期资产\n                                              1,606,750,226.28      1,125,017,192.45          42.82\n支付的现金\n支付其他与投资活动有关的现金                 33,456,659.58        17,075,145.10          95.94\n投资活动产生的现金流量净额                -1,628,962,704.56     -1,120,645,214.60    不适用",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2019,
+      "metric": "revenue_yuan",
+      "raw_value": "85429573467.25",
+      "raw_unit": "人民币元",
+      "normalized_value": "85429573467.25",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2019_贵州茅台_2019年年度报告.pdf",
+        "sha256": "2a2b384ab09a7bc295fd2e33b999acdf4212340b0141031c991060dea2fad03d"
+      },
+      "physical_page": 56,
+      "excerpt": "一、营业总收入                                         88,854,337,488.76     77,199,384,110.22\n其中：营业收入                            28      85,429,573,467.25     73,638,872,388.03\n   利息收入                            29       3,424,471,568.68      3,559,634,363.70\n   已赚保费\n   手续费及佣金收入                    29            292,452.83           877,358.49",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2019,
+      "metric": "cfo_yuan",
+      "raw_value": "45210612632.56",
+      "raw_unit": "人民币元",
+      "normalized_value": "45210612632.56",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2019_贵州茅台_2019年年度报告.pdf",
+        "sha256": "2a2b384ab09a7bc295fd2e33b999acdf4212340b0141031c991060dea2fad03d"
+      },
+      "physical_page": 59,
+      "excerpt": "经营活动现金流出小计                            54,233,824,521.66      47,960,400,991.98\n   经营活动产生的现金流量净额                   45,210,612,632.56      41,385,234,406.72\n二、投资活动产生的现金流量：\n 收回投资收到的现金\n 取得投资收益收到的现金\n 处置固定资产、无形资产和其他长                          38,080.00\n期资产收回的现金净额\n 处置子公司及其他营业单位收到的",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2019,
+      "metric": "long_asset_purchase_cash_yuan",
+      "raw_value": "3148864661.38",
+      "raw_unit": "人民币元",
+      "normalized_value": "3148864661.38",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2019_贵州茅台_2019年年度报告.pdf",
+        "sha256": "2a2b384ab09a7bc295fd2e33b999acdf4212340b0141031c991060dea2fad03d"
+      },
+      "physical_page": 10,
+      "excerpt": "收到其他与投资活动有关的现金               7,321,070.40       11,244,181.30            -34.89\n购建固定资产、无形资产和其他长期资\n                                           3,148,864,661.38    1,606,750,226.28            95.98\n产支付的现金\n投资活动产生的现金流量净额             -3,165,685,743.25   -1,628,962,704.56     不适用\n吸收投资收到的现金                        833,000,000.00             不适用",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2020,
+      "metric": "revenue_yuan",
+      "raw_value": "94915380916.72",
+      "raw_unit": "人民币元",
+      "normalized_value": "94915380916.72",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+        "sha256": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c"
+      },
+      "physical_page": 53,
+      "excerpt": "一、营业总收入                                       97,993,240,501.21    88,854,337,488.76\n 其中：营业收入                       30          94,915,380,916.72    85,429,573,467.25\n    利息收入                       31           3,077,859,584.49     3,424,471,568.68\n    已赚保费\n    手续费及佣金收入               31                                     292,452.83",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2020,
+      "metric": "cfo_yuan",
+      "raw_value": "51669068693.03",
+      "raw_unit": "人民币元",
+      "normalized_value": "51669068693.03",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+        "sha256": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c"
+      },
+      "physical_page": 5,
+      "excerpt": "归属于上市公司股     47,016,420,742.73     41,406,909,012.08   13.55     35,585,443,648.60\n 东的扣除非经常性\n 损益的净利润\n 经营活动产生的现     51,669,068,693.03     45,210,612,632.56   14.29     41,385,234,406.72\n 金流量净额\n                             本期\n                             末比\n                             上年",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2020,
+      "metric": "long_asset_purchase_cash_yuan",
+      "raw_value": "2089769498.78",
+      "raw_unit": "人民币元",
+      "normalized_value": "2089769498.78",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+        "sha256": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c"
+      },
+      "physical_page": 10,
+      "excerpt": "处置固定资产、无形资产和其他长期         495,904.85           38,080.00          1,202.27\n 资产收回的现金净额\n 购建固定资产、无形资产和其他长期    2,089,769,498.78    3,148,864,661.38             -33.63\n 资产支付的现金\n 投资支付的现金                           20,000,000.00              不适用\n 吸收投资收到的现金                                         833,000,000.00           -100.00",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2021,
+      "metric": "revenue_yuan",
+      "raw_value": "106190154843.76",
+      "raw_unit": "人民币元",
+      "normalized_value": "106190154843.76",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+        "sha256": "f65effdde58bcea99fd6bdb53f61b31d5c432e6dfb2661e5caf05156a433ea5a"
+      },
+      "physical_page": 54,
+      "excerpt": "一、营业总收入                                       109,464,278,563.89     97,993,240,501.21\n其中：营业收入                            35     106,190,154,843.76     94,915,380,916.72\n   利息收入                            36       3,274,123,720.13      3,077,859,584.49\n   已赚保费\n   手续费及佣金收入                     36",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2021,
+      "metric": "cfo_yuan",
+      "raw_value": "64028676147.37",
+      "raw_unit": "人民币元",
+      "normalized_value": "64028676147.37",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+        "sha256": "f65effdde58bcea99fd6bdb53f61b31d5c432e6dfb2661e5caf05156a433ea5a"
+      },
+      "physical_page": 57,
+      "excerpt": "经营活动现金流出小计                               67,592,310,690.60   61,841,782,676.98\n   经营活动产生的现金流量净额                      64,028,676,147.37   51,669,068,693.03\n二、投资活动产生的现金流量：\n 收回投资收到的现金                                         6,079,930.68      314,906,521.48\n 取得投资收益收到的现金                                     860,000.00",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2021,
+      "metric": "long_asset_purchase_cash_yuan",
+      "raw_value": "3408784532.01",
+      "raw_unit": "人民币元",
+      "normalized_value": "3408784532.01",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+        "sha256": "f65effdde58bcea99fd6bdb53f61b31d5c432e6dfb2661e5caf05156a433ea5a"
+      },
+      "physical_page": 58,
+      "excerpt": "投资活动现金流入小计                                  19,386,857.60      322,077,745.36\n 购建固定资产、无形资产和其他长期资产支              3,408,784,532.01     2,089,769,498.78\n付的现金\n 投资支付的现金                                         2,150,000,000.00       20,000,000.00\n 质押贷款净增加额\n 取得子公司及其他营业单位支付的现金净",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2022,
+      "metric": "revenue_yuan",
+      "raw_value": "124099843771.99",
+      "raw_unit": "人民币元",
+      "normalized_value": "124099843771.99",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+        "sha256": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358"
+      },
+      "physical_page": 58,
+      "excerpt": "一、营业总收入                                       127,553,959,355.97    109,464,278,563.89\n其中：营业收入                             36     124,099,843,771.99    106,190,154,843.76\n   利息收入                             37       3,454,115,583.98      3,274,123,720.13\n   已赚保费\n   手续费及佣金收入\n二、营业总成本                                         39,748,309,616.85     34,776,902,467.47",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2022,
+      "metric": "cfo_yuan",
+      "raw_value": "36698595830.03",
+      "raw_unit": "人民币元",
+      "normalized_value": "36698595830.03",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+        "sha256": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358"
+      },
+      "physical_page": 5,
+      "excerpt": "归属于上市公司股    62,791,872,697.72   52,581,102,656.24         19.42   47,016,420,742.73\n东的扣除非经常性\n损益的净利润\n经营活动产生的现    36,698,595,830.03   64,028,676,147.37         -42.68   51,669,068,693.03\n金流量净额\n                            本期末比上\n                 2022年末        2021年末   年同期末增     2020年末",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2022,
+      "metric": "long_asset_purchase_cash_yuan",
+      "raw_value": "5306546416.54",
+      "raw_unit": "人民币元",
+      "normalized_value": "5306546416.54",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+        "sha256": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358"
+      },
+      "physical_page": 11,
+      "excerpt": "收到其他与投资活动有关的现金                4,971,762.18       9,983,452.63           -50.20\n购建固定资产、无形资产和其他长期资    5,306,546,416.54   3,408,784,532.01           55.67\n产支付的现金\n投资支付的现金                             210,000,000.00   2,150,000,000.00           -90.23\n支付其他与投资活动有关的现金              31,486,829.54      23,048,029.93           36.61",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2023,
+      "metric": "revenue_yuan",
+      "raw_value": "147693604994.14",
+      "raw_unit": "人民币元",
+      "normalized_value": "147693604994.14",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+        "sha256": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1"
+      },
+      "physical_page": 63,
+      "excerpt": "一、营业总收入                              150,560,330,316.45  127,553,959,355.97\n 其中：营业收入                       40    147,693,604,994.14  124,099,843,771.99\n    利息收入                       41      2,866,725,322.31    3,454,115,583.98\n    已赚保费\n    手续费及佣金收入\n 二、营业总成本                               46,960,889,468.54   39,748,309,616.85",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2023,
+      "metric": "cfo_yuan",
+      "raw_value": "66593247721.09",
+      "raw_unit": "人民币元",
+      "normalized_value": "66593247721.09",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+        "sha256": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1"
+      },
+      "physical_page": 5,
+      "excerpt": "74,752,564,425.52    62,792,896,829.57    62,791,872,697.72                  52,556,464,900.24    52,581,102,656.24\n非经常性损益\n的净利润\n经营活动产生\n的现金流量净      66,593,247,721.09    36,698,595,830.03    36,698,595,830.03         81.46    64,028,676,147.37    64,028,676,147.37\n额\n\n                                        2022年末          本期末比上              2021年末",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2023,
+      "metric": "long_asset_purchase_cash_yuan",
+      "raw_value": "2619755888.79",
+      "raw_unit": "人民币元",
+      "normalized_value": "2619755888.79",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+        "sha256": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1"
+      },
+      "physical_page": 12,
+      "excerpt": "24,948,352.95         355,149.00       6,924.76\n 现金净额\n 购建固定资产、无形资产和其他长期资产支付的\n                                               2,619,755,888.79   5,306,546,416.54         -50.63\n 现金\n 投资支付的现金                               14,817,852,800.00     210,000,000.00       6,956.12\n 支付其他与投资活动有关的现金                      7,021,867.10      31,486,829.54         -77.70",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2024,
+      "metric": "revenue_yuan",
+      "raw_value": "170899152276.34",
+      "raw_unit": "人民币元",
+      "normalized_value": "170899152276.34",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+        "sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+      },
+      "physical_page": 63,
+      "excerpt": "一、营业总收入                              174,144,069,958.25  150,560,330,316.45\n 其中：营业收入                        40    170,899,152,276.34  147,693,604,994.14\n    利息收入                        41      3,244,917,681.91    2,866,725,322.31\n    已赚保费\n    手续费及佣金收入\n 二、营业总成本                               54,523,971,452.57   46,960,889,468.54",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2024,
+      "metric": "cfo_yuan",
+      "raw_value": "92463692168.43",
+      "raw_unit": "人民币元",
+      "normalized_value": "92463692168.43",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+        "sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+      },
+      "physical_page": 5,
+      "excerpt": "86,240,905,977.42   74,752,564,425.52    15.37   62,792,896,829.57\n 除非经常性损益的净利润\n 经营活动产生的现金流量\n                              92,463,692,168.43   66,593,247,721.09    38.85   36,698,595,830.03\n 净额\n                                   本期末\n                                   比上年",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2024,
+      "metric": "long_asset_purchase_cash_yuan",
+      "raw_value": "4678712053.56",
+      "raw_unit": "人民币元",
+      "normalized_value": "4678712053.56",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+        "sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+      },
+      "physical_page": 12,
+      "excerpt": "715,708.44       24,948,352.95         -97.13\n 的现金净额\n 购建固定资产、无形资产和其他长期资产支付\n                                              4,678,712,053.56    2,619,755,888.79          78.59\n 的现金\n 投资支付的现金                               5,745,136,000.00   14,817,852,800.00         -61.23",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2025,
+      "metric": "revenue_yuan",
+      "raw_value": "168838102514.79",
+      "raw_unit": "人民币元",
+      "normalized_value": "168838102514.79",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+        "sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+      },
+      "physical_page": 61,
+      "excerpt": "一、营业总收入                                172,054,171,890.91  174,144,069,958.25\n其中：营业收入                       44       168,838,102,514.79  170,899,152,276.34\n   利息收入                       45         3,216,069,376.12    3,244,917,681.91\n   已赚保费\n   手续费及佣金收入\n二、营业总成本                                 57,370,818,034.33   54,523,971,452.57",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2025,
+      "metric": "cfo_yuan",
+      "raw_value": "61522204989.35",
+      "raw_unit": "人民币元",
+      "normalized_value": "61522204989.35",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+        "sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+      },
+      "physical_page": 6,
+      "excerpt": "82,293,107,655.25    86,240,905,977.42    -4.58   74,752,564,425.52\n经常性损益的净利润\n经营活动产生的现金流量净额       61,522,204,989.35    92,463,692,168.43    -33.46    66,593,247,721.09\n\n                                    本期末\n                                    比上年",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2025,
+      "metric": "long_asset_purchase_cash_yuan",
+      "raw_value": "3127594916.41",
+      "raw_unit": "人民币元",
+      "normalized_value": "3127594916.41",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+        "sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+      },
+      "physical_page": 13,
+      "excerpt": "收到其他与投资活动有关的现金            24,750,303.39       5,532,536.42       347.36\n购建固定资产、无形资产和其他长期资\n                                     3,127,594,916.41   4,678,712,053.56       -33.15\n产支付的现金\n投资支付的现金                      62,097,000,000.00   5,745,136,000.00       980.86\n支付其他与筹资活动有关的现金         6,185,347,863.42     116,478,781.87    5,210.28",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2022,
+      "metric": "imoutai_revenue_yuan",
+      "raw_value": "1188270.28",
+      "raw_unit": "万元",
+      "normalized_value": "11882702800.0",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+        "sha256": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358"
+      },
+      "physical_page": 16,
+      "excerpt": "线上销售产品\n线上销售平台         本期销售收入 上期销售收入  同比（%）  毛利率（%）\n          档次\n“i 茅台”数字\n         中、高档酒       1,188,270.28          不适用          95.26\n营销平台\n注：“i 茅台”数字营销平台的销售收入是公司通过该平台实现的酒类不含税收入。\n\n\n未来线上经营战略\n□适用 √不适用\n\n\n7  公司收入及成本分析\n\n(1). 按不同类型披露公司主营业务构成\n√适用 □不适用",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2023,
+      "metric": "imoutai_revenue_yuan",
+      "raw_value": "2237432.35",
+      "raw_unit": "万元",
+      "normalized_value": "22374323500.0",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+        "sha256": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1"
+      },
+      "physical_page": 17,
+      "excerpt": "单位：万元 币种：人民币\n        线上销售产品\n 线上销售平台         本期销售收入 上期销售收入 同比（%） 毛利率（%）\n          档次\n “i 茅台”数字\n         中、高档酒    2,237,432.35  1,188,270.28       88.29        96.09\n 营销平台\n 其他线上平台  中、高档酒      183,125.55          不适用        95.95\n\n\n未来线上经营战略\n□适用 √不适用\n\n\n7  公司收入及成本分析",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2024,
+      "metric": "imoutai_revenue_yuan",
+      "raw_value": "2002366.62",
+      "raw_unit": "万元",
+      "normalized_value": "20023666200.0",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+        "sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+      },
+      "physical_page": 16,
+      "excerpt": "线上销售平台          本期销售收入  上期销售收入\n             品档次                     （%）  （%）\n “i 茅台”数字营销平台 中、高档酒    2,002,366.62    2,237,432.35  -10.51    94.50\n 其他线上平台      中、高档酒      209,561.85     183,125.55   14.44    94.93\n\n\n未来线上经营战略\n□适用 √不适用\n\n\n7、 公司收入及成本分析",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2025,
+      "metric": "imoutai_revenue_yuan",
+      "raw_value": "1303141.15",
+      "raw_unit": "万元",
+      "normalized_value": "13031411500.0",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+        "sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+      },
+      "physical_page": 17,
+      "excerpt": "单位：万元 币种：人民币\n线上销售平台 线上销售产品档次  本期销售收入  上期销售收入 同比（%） 毛利率（%）\n“i 茅台”数\n       中、高档酒          1,303,141.15   2,002,366.62     -34.92       94.47\n字营销平台\n其他线上平台 中、高档酒             40,619.50     209,561.85     -80.62       94.81\n\n\n未来线上经营战略\n√适用 □不适用",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2016,
+      "metric": "moutai_design_capacity_tons",
+      "raw_value": "32592",
+      "raw_unit": "吨",
+      "normalized_value": "32592",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2016_贵州茅台_2016年年度报告.pdf",
+        "sha256": "dd26d9e0017a938cb5e1aa0a830bab7502d0de1f85eb7c00abffb4888c8c20ad"
+      },
+      "physical_page": 12,
+      "excerpt": "现有产能\n √适用 □不适用\n     主要工厂名称        设计产能（吨）       实际产能（吨）\n 茅台酒制酒车间                                        32,592.00                    39,312.53\n 系列酒制酒车间                                        17,665.00                    20,575.44\n 说明： 1.32,592 吨茅台酒基酒设计产能中，由于茅台酒的生产工艺特点，1,232 吨茅台酒基酒设",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2016,
+      "metric": "series_design_capacity_tons",
+      "raw_value": "17665",
+      "raw_unit": "吨",
+      "normalized_value": "17665",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2016_贵州茅台_2016年年度报告.pdf",
+        "sha256": "dd26d9e0017a938cb5e1aa0a830bab7502d0de1f85eb7c00abffb4888c8c20ad"
+      },
+      "physical_page": 12,
+      "excerpt": "茅台酒制酒车间                                        32,592.00                    39,312.53\n 系列酒制酒车间                                        17,665.00                    20,575.44\n 说明： 1.32,592 吨茅台酒基酒设计产能中，由于茅台酒的生产工艺特点，1,232 吨茅台酒基酒设\n 计产能在2016 年10 月投产，实际将在2017 年释放。\n    2.公司按惯例使用重量单位计量。本报告中生产量、销售量、库存量、产能等的计量单位",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2017,
+      "metric": "moutai_design_capacity_tons",
+      "raw_value": "35952",
+      "raw_unit": "吨",
+      "normalized_value": "35952",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2017_贵州茅台_2017年年度报告.pdf",
+        "sha256": "b66a4641e5f2313ed7964e5bef0026021ff2164459d0e0615f1b4385ba1a78e3"
+      },
+      "physical_page": 11,
+      "excerpt": "现有产能\n√适用 □不适用\n    主要工厂名称        设计产能（吨）       实际产能（吨）\n茅台酒制酒车间                                        35,952.00                    42,828.59\n系列酒制酒车间                                        17,725.00                    20,959.02\n说明：（1）35,952 吨茅台酒基酒设计产能中，由于茅台酒的生产工艺特点，3,360 吨茅台酒基酒",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2017,
+      "metric": "series_design_capacity_tons",
+      "raw_value": "17725",
+      "raw_unit": "吨",
+      "normalized_value": "17725",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2017_贵州茅台_2017年年度报告.pdf",
+        "sha256": "b66a4641e5f2313ed7964e5bef0026021ff2164459d0e0615f1b4385ba1a78e3"
+      },
+      "physical_page": 11,
+      "excerpt": "茅台酒制酒车间                                        35,952.00                    42,828.59\n系列酒制酒车间                                        17,725.00                    20,959.02\n说明：（1）35,952 吨茅台酒基酒设计产能中，由于茅台酒的生产工艺特点，3,360 吨茅台酒基酒\n设计产能在2017 年10 月投产，实际产能将在2018 年释放。（2）公司按惯例使用重量单位计量。",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2018,
+      "metric": "moutai_design_capacity_tons",
+      "raw_value": "37408",
+      "raw_unit": "吨",
+      "normalized_value": "37408",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2018_贵州茅台_2018年年度报告.pdf",
+        "sha256": "08728fc937836cfeed8e98aeda932da54c737efa6de4280ae001476c0e393dec"
+      },
+      "physical_page": 13,
+      "excerpt": "现有产能\n√适用 □不适用\n\n    主要工厂名称        设计产能（吨）       实际产能（吨）\n茅台酒制酒车间                                          37,408                    49,671.69\n系列酒制酒车间                                          21,245                    20,545.06\n说明：（1）37,408 吨茅台酒基酒设计产能中，由于茅台酒的生产工艺特点，1,456 吨茅台酒基酒",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2018,
+      "metric": "series_design_capacity_tons",
+      "raw_value": "21245",
+      "raw_unit": "吨",
+      "normalized_value": "21245",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2018_贵州茅台_2018年年度报告.pdf",
+        "sha256": "08728fc937836cfeed8e98aeda932da54c737efa6de4280ae001476c0e393dec"
+      },
+      "physical_page": 13,
+      "excerpt": "茅台酒制酒车间                                          37,408                    49,671.69\n系列酒制酒车间                                          21,245                    20,545.06\n说明：（1）37,408 吨茅台酒基酒设计产能中，由于茅台酒的生产工艺特点，1,456 吨茅台酒基酒\n设计产能在2018 年10 月投产，实际产能将在2019 年释放。（2）21,245 吨系列酒基酒设计产能",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2019,
+      "metric": "moutai_design_capacity_tons",
+      "raw_value": "38528",
+      "raw_unit": "吨",
+      "normalized_value": "38528",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2019_贵州茅台_2019年年度报告.pdf",
+        "sha256": "2a2b384ab09a7bc295fd2e33b999acdf4212340b0141031c991060dea2fad03d"
+      },
+      "physical_page": 13,
+      "excerpt": "√适用 □不适用\n\n      主要工厂名称          设计产能          实际产能\n 茅台酒制酒车间                                          38,528                    49,922.71\n 系列酒制酒车间                                          21,245                    25,122.02\n  说明：（1）38,528 吨茅台酒基酒设计产能中，由于茅台酒的生产工艺特点，1,120 吨茅台酒基酒",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2019,
+      "metric": "series_design_capacity_tons",
+      "raw_value": "21245",
+      "raw_unit": "吨",
+      "normalized_value": "21245",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2019_贵州茅台_2019年年度报告.pdf",
+        "sha256": "2a2b384ab09a7bc295fd2e33b999acdf4212340b0141031c991060dea2fad03d"
+      },
+      "physical_page": 13,
+      "excerpt": "茅台酒制酒车间                                          38,528                    49,922.71\n 系列酒制酒车间                                          21,245                    25,122.02\n  说明：（1）38,528 吨茅台酒基酒设计产能中，由于茅台酒的生产工艺特点，1,120 吨茅台酒基酒\n  设计产能在2019 年10 月投产，实际产能将在2020 年释放。（2）公司按惯例使用重量单位计量。",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2020,
+      "metric": "moutai_design_capacity_tons",
+      "raw_value": "42560",
+      "raw_unit": "吨",
+      "normalized_value": "42560",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+        "sha256": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c"
+      },
+      "physical_page": 12,
+      "excerpt": "现有产能\n√适用 □不适用\n     主要工厂名称          设计产能         实际产能\n 茅台酒制酒车间                                        42,560                    50,235.17\n 系列酒制酒车间                                        25,260                    24,925.37\n   说明：（1）42,560 吨茅台酒基酒设计产能中，由于茅台酒的生产工艺特点，4,032 吨茅台酒",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2020,
+      "metric": "series_design_capacity_tons",
+      "raw_value": "25260",
+      "raw_unit": "吨",
+      "normalized_value": "25260",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+        "sha256": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c"
+      },
+      "physical_page": 12,
+      "excerpt": "茅台酒制酒车间                                        42,560                    50,235.17\n 系列酒制酒车间                                        25,260                    24,925.37\n   说明：（1）42,560 吨茅台酒基酒设计产能中，由于茅台酒的生产工艺特点，4,032 吨茅台酒\n基酒设计产能在2020 年10 月投产，实际产能将在2021 年释放。25,260 吨系列酒基酒设计产能",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2021,
+      "metric": "moutai_design_capacity_tons",
+      "raw_value": "42742.5",
+      "raw_unit": "吨",
+      "normalized_value": "42742.5",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+        "sha256": "f65effdde58bcea99fd6bdb53f61b31d5c432e6dfb2661e5caf05156a433ea5a"
+      },
+      "physical_page": 13,
+      "excerpt": "现有产能\n√适用 □不适用\n    主要工厂名称          设计产能          实际产能\n茅台酒制酒车间                                        42,742.50                    56,472.25\n系列酒制酒车间                                        31,660.00                    28,248.92\n   说明：（1）31,660.00 吨系列酒基酒设计产能中，由于系列酒的生产工艺特点，6,400.00 吨系",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2021,
+      "metric": "series_design_capacity_tons",
+      "raw_value": "31660",
+      "raw_unit": "吨",
+      "normalized_value": "31660",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+        "sha256": "f65effdde58bcea99fd6bdb53f61b31d5c432e6dfb2661e5caf05156a433ea5a"
+      },
+      "physical_page": 13,
+      "excerpt": "茅台酒制酒车间                                        42,742.50                    56,472.25\n系列酒制酒车间                                        31,660.00                    28,248.92\n   说明：（1）31,660.00 吨系列酒基酒设计产能中，由于系列酒的生产工艺特点，6,400.00 吨系\n列酒基酒设计产能在2021 年11 月投产，实际产能将在2022 年释放。（2）公司按惯例使用重量",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2022,
+      "metric": "moutai_design_capacity_tons",
+      "raw_value": "42742.5",
+      "raw_unit": "吨",
+      "normalized_value": "42742.5",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+        "sha256": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358"
+      },
+      "physical_page": 14,
+      "excerpt": "现有产能\n√适用 □不适用\n    主要工厂名称          设计产能          实际产能\n茅台酒制酒车间                                        42,742.50                    56,810.44\n系列酒制酒车间                                        38,060.00                    35,075.39\n   说明：（1）38,060.00 吨系列酒基酒设计产能中，由于系列酒的生产工艺特点，6,400.00 吨系",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2022,
+      "metric": "series_design_capacity_tons",
+      "raw_value": "38060",
+      "raw_unit": "吨",
+      "normalized_value": "38060",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+        "sha256": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358"
+      },
+      "physical_page": 14,
+      "excerpt": "茅台酒制酒车间                                        42,742.50                    56,810.44\n系列酒制酒车间                                        38,060.00                    35,075.39\n   说明：（1）38,060.00 吨系列酒基酒设计产能中，由于系列酒的生产工艺特点，6,400.00 吨系\n列酒基酒设计产能在2022 年11 月投产，实际产能将在2023 年释放。茅台酒、系列酒基酒设计产",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2023,
+      "metric": "moutai_design_capacity_tons",
+      "raw_value": "42795",
+      "raw_unit": "吨",
+      "normalized_value": "42795",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+        "sha256": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1"
+      },
+      "physical_page": 14,
+      "excerpt": "2  产能状况\n\n现有产能\n√适用 □不适用\n     主要工厂名称          设计产能         实际产能\n 茅台酒制酒车间                                 42,795.00                57,204.11\n 系列酒制酒车间                                 44,460.00                42,937.04\n   说明：（1）2023 年茅台酒基酒设计产能为42,795.00 吨，同比新增基酒产能52.50 吨，新",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2023,
+      "metric": "series_design_capacity_tons",
+      "raw_value": "44460",
+      "raw_unit": "吨",
+      "normalized_value": "44460",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+        "sha256": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1"
+      },
+      "physical_page": 14,
+      "excerpt": "茅台酒制酒车间                                 42,795.00                57,204.11\n 系列酒制酒车间                                 44,460.00                42,937.04\n   说明：（1）2023 年茅台酒基酒设计产能为42,795.00 吨，同比新增基酒产能52.50 吨，新\n增产能于2023 年10 月投产，由于茅台酒的生产工艺特点，将在2024 年释放；2023 年系列酒基",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2024,
+      "metric": "moutai_design_capacity_tons",
+      "raw_value": "44595",
+      "raw_unit": "吨",
+      "normalized_value": "44595",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+        "sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+      },
+      "physical_page": 14,
+      "excerpt": "2、 产能状况\n\n现有产能\n√适用 □不适用\n     主要工厂名称          设计产能         实际产能\n 茅台酒制酒车间                                 44,595.00                56,271.99\n 系列酒制酒车间                                 52,460.00                48,112.51\n   说明：（1）2024 年茅台酒基酒设计产能为44,595.00 吨，同比新增基酒产能1,800.00 吨，",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2024,
+      "metric": "series_design_capacity_tons",
+      "raw_value": "52460",
+      "raw_unit": "吨",
+      "normalized_value": "52460",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+        "sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+      },
+      "physical_page": 14,
+      "excerpt": "茅台酒制酒车间                                 44,595.00                56,271.99\n 系列酒制酒车间                                 52,460.00                48,112.51\n   说明：（1）2024 年茅台酒基酒设计产能为44,595.00 吨，同比新增基酒产能1,800.00 吨，\n新增产能于2024 年10 月投产，由于茅台酒的生产工艺特点，将在2025 年释放；2024 年系列酒",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2025,
+      "metric": "moutai_design_capacity_tons",
+      "raw_value": "46395",
+      "raw_unit": "吨",
+      "normalized_value": "46395",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+        "sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+      },
+      "physical_page": 15,
+      "excerpt": "2、产能状况\n\n现有产能\n√适用 □不适用\n    主要工厂名称          设计产能          实际产能\n茅台酒制酒车间                                   46,395.00                 58,473.16\n系列酒制酒车间                                   59,400.00                 57,650.57\n   说明：（1）2025 年茅台酒基酒设计产能为46,395.00 吨，同比新增基酒产能1,800.00 吨，",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2025,
+      "metric": "series_design_capacity_tons",
+      "raw_value": "59400",
+      "raw_unit": "吨",
+      "normalized_value": "59400",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+        "sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+      },
+      "physical_page": 15,
+      "excerpt": "茅台酒制酒车间                                   46,395.00                 58,473.16\n系列酒制酒车间                                   59,400.00                 57,650.57\n   说明：（1）2025 年茅台酒基酒设计产能为46,395.00 吨，同比新增基酒产能1,800.00 吨，\n新增产能于2025 年10 月投产，由于茅台酒的生产工艺特点，将在2026 年释放；2025 年系列酒",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2016,
+      "metric": "moutai_actual_tons",
+      "raw_value": "39312.53",
+      "raw_unit": "吨",
+      "normalized_value": "39312.53",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2016_贵州茅台_2016年年度报告.pdf",
+        "sha256": "dd26d9e0017a938cb5e1aa0a830bab7502d0de1f85eb7c00abffb4888c8c20ad"
+      },
+      "physical_page": 7,
+      "excerpt": "略，主动适应新常态、积极应对新挑战、有效化解新矛盾，各项主要指标快速增长、远超预期、\n勇创新高，完成了董事会提出的主要目标任务，取得了“十三五”的良好开局。\n\n\n二、报告期内主要经营情况\n    2016 年度，公司共生产茅台酒及系列酒基酒59,887.97 吨，其中茅台酒基酒39,312.53 吨，系\n列酒基酒20,575.44 吨；实现营业收入388.62 亿元， 同比增长18.99%；实现营业利润242.66 亿\n元，同比增长9.51%；实现归属于母公司所有者的净利润167.18 亿元，同比增长7.84%。\n\n\n\n(一) 主营业务分析\n             利润表及现金流量表相关科目变动分析表",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2016,
+      "metric": "series_actual_tons",
+      "raw_value": "20575.44",
+      "raw_unit": "吨",
+      "normalized_value": "20575.44",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2016_贵州茅台_2016年年度报告.pdf",
+        "sha256": "dd26d9e0017a938cb5e1aa0a830bab7502d0de1f85eb7c00abffb4888c8c20ad"
+      },
+      "physical_page": 7,
+      "excerpt": "勇创新高，完成了董事会提出的主要目标任务，取得了“十三五”的良好开局。\n\n\n二、报告期内主要经营情况\n    2016 年度，公司共生产茅台酒及系列酒基酒59,887.97 吨，其中茅台酒基酒39,312.53 吨，系\n列酒基酒20,575.44 吨；实现营业收入388.62 亿元， 同比增长18.99%；实现营业利润242.66 亿\n元，同比增长9.51%；实现归属于母公司所有者的净利润167.18 亿元，同比增长7.84%。\n\n\n\n(一) 主营业务分析\n             利润表及现金流量表相关科目变动分析表",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2017,
+      "metric": "moutai_actual_tons",
+      "raw_value": "42828.59",
+      "raw_unit": "吨",
+      "normalized_value": "42828.59",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2017_贵州茅台_2017年年度报告.pdf",
+        "sha256": "b66a4641e5f2313ed7964e5bef0026021ff2164459d0e0615f1b4385ba1a78e3"
+      },
+      "physical_page": 6,
+      "excerpt": "全三条底线，深入推进“十企”战略和改革创新，推动公司在新起点上跑出加速度、取得新突破，\n发展质量明显提高，综合实力显著增强。\n\n\n二、报告期内主要经营情况\n    2017 年度，公司共生产茅台酒及系列酒基酒63,787.61 吨，其中茅台酒基酒42,828.59 吨，系\n列酒基酒20,959.02 吨；实现营业收入582.18 亿元，同比增长49.81%；实现营业利润389.40 亿元，\n同比增长60.47%；实现归属于母公司所有者的净利润270.79 亿元，同比增长61.97%。\n\n(一)  主营业务分析\n\n             利润表及现金流量表相关科目变动分析表",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2017,
+      "metric": "series_actual_tons",
+      "raw_value": "20959.02",
+      "raw_unit": "吨",
+      "normalized_value": "20959.02",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2017_贵州茅台_2017年年度报告.pdf",
+        "sha256": "b66a4641e5f2313ed7964e5bef0026021ff2164459d0e0615f1b4385ba1a78e3"
+      },
+      "physical_page": 6,
+      "excerpt": "全三条底线，深入推进“十企”战略和改革创新，推动公司在新起点上跑出加速度、取得新突破，\n发展质量明显提高，综合实力显著增强。\n\n\n二、报告期内主要经营情况\n    2017 年度，公司共生产茅台酒及系列酒基酒63,787.61 吨，其中茅台酒基酒42,828.59 吨，系\n列酒基酒20,959.02 吨；实现营业收入582.18 亿元，同比增长49.81%；实现营业利润389.40 亿元，\n同比增长60.47%；实现归属于母公司所有者的净利润270.79 亿元，同比增长61.97%。\n\n(一)  主营业务分析\n\n             利润表及现金流量表相关科目变动分析表",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2018,
+      "metric": "moutai_actual_tons",
+      "raw_value": "49671.69",
+      "raw_unit": "吨",
+      "normalized_value": "49671.69",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2018_贵州茅台_2018年年度报告.pdf",
+        "sha256": "08728fc937836cfeed8e98aeda932da54c737efa6de4280ae001476c0e393dec"
+      },
+      "physical_page": 13,
+      "excerpt": "主要工厂名称        设计产能（吨）       实际产能（吨）\n茅台酒制酒车间                                          37,408                    49,671.69\n系列酒制酒车间                                          21,245                    20,545.06\n说明：（1）37,408 吨茅台酒基酒设计产能中，由于茅台酒的生产工艺特点，1,456 吨茅台酒基酒",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2018,
+      "metric": "series_actual_tons",
+      "raw_value": "20545.06",
+      "raw_unit": "吨",
+      "normalized_value": "20545.06",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2018_贵州茅台_2018年年度报告.pdf",
+        "sha256": "08728fc937836cfeed8e98aeda932da54c737efa6de4280ae001476c0e393dec"
+      },
+      "physical_page": 13,
+      "excerpt": "茅台酒制酒车间                                          37,408                    49,671.69\n系列酒制酒车间                                          21,245                    20,545.06\n说明：（1）37,408 吨茅台酒基酒设计产能中，由于茅台酒的生产工艺特点，1,456 吨茅台酒基酒\n设计产能在2018 年10 月投产，实际产能将在2019 年释放。（2）21,245 吨系列酒基酒设计产能\n中，由于系列酒的生产工艺特点，3,520 吨系列酒基酒设计产能在2018 年11 月投产，实际产能将",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2019,
+      "metric": "moutai_actual_tons",
+      "raw_value": "49922.71",
+      "raw_unit": "吨",
+      "normalized_value": "49922.71",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2019_贵州茅台_2019年年度报告.pdf",
+        "sha256": "2a2b384ab09a7bc295fd2e33b999acdf4212340b0141031c991060dea2fad03d"
+      },
+      "physical_page": 13,
+      "excerpt": "主要工厂名称          设计产能          实际产能\n 茅台酒制酒车间                                          38,528                    49,922.71\n 系列酒制酒车间                                          21,245                    25,122.02\n  说明：（1）38,528 吨茅台酒基酒设计产能中，由于茅台酒的生产工艺特点，1,120 吨茅台酒基酒",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2019,
+      "metric": "series_actual_tons",
+      "raw_value": "25122.02",
+      "raw_unit": "吨",
+      "normalized_value": "25122.02",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2019_贵州茅台_2019年年度报告.pdf",
+        "sha256": "2a2b384ab09a7bc295fd2e33b999acdf4212340b0141031c991060dea2fad03d"
+      },
+      "physical_page": 13,
+      "excerpt": "茅台酒制酒车间                                          38,528                    49,922.71\n 系列酒制酒车间                                          21,245                    25,122.02\n  说明：（1）38,528 吨茅台酒基酒设计产能中，由于茅台酒的生产工艺特点，1,120 吨茅台酒基酒\n  设计产能在2019 年10 月投产，实际产能将在2020 年释放。（2）公司按惯例使用重量单位计量。\n 本报告中生产量、销售量、库存量、产能等的计量单位为“吨”。",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2020,
+      "metric": "moutai_actual_tons",
+      "raw_value": "50235.17",
+      "raw_unit": "吨",
+      "normalized_value": "50235.17",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+        "sha256": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c"
+      },
+      "physical_page": 12,
+      "excerpt": "主要工厂名称          设计产能         实际产能\n 茅台酒制酒车间                                        42,560                    50,235.17\n 系列酒制酒车间                                        25,260                    24,925.37\n   说明：（1）42,560 吨茅台酒基酒设计产能中，由于茅台酒的生产工艺特点，4,032 吨茅台酒",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2020,
+      "metric": "series_actual_tons",
+      "raw_value": "24925.37",
+      "raw_unit": "吨",
+      "normalized_value": "24925.37",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2020_贵州茅台_贵州茅台2020年年度报告_2021-03-30.pdf",
+        "sha256": "464e4c179a18ebea566c5ddc5a4dbcfb83824227e9a10eb1ba0baa23c9d58d2c"
+      },
+      "physical_page": 12,
+      "excerpt": "茅台酒制酒车间                                        42,560                    50,235.17\n 系列酒制酒车间                                        25,260                    24,925.37\n   说明：（1）42,560 吨茅台酒基酒设计产能中，由于茅台酒的生产工艺特点，4,032 吨茅台酒\n基酒设计产能在2020 年10 月投产，实际产能将在2021 年释放。25,260 吨系列酒基酒设计产能\n中，由于系列酒的生产工艺特点，4,015 吨系列酒基酒设计产能在2020 年11 月投产，实际产能",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2021,
+      "metric": "moutai_actual_tons",
+      "raw_value": "56472.25",
+      "raw_unit": "吨",
+      "normalized_value": "56472.25",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+        "sha256": "f65effdde58bcea99fd6bdb53f61b31d5c432e6dfb2661e5caf05156a433ea5a"
+      },
+      "physical_page": 13,
+      "excerpt": "主要工厂名称          设计产能          实际产能\n茅台酒制酒车间                                        42,742.50                    56,472.25\n系列酒制酒车间                                        31,660.00                    28,248.92\n   说明：（1）31,660.00 吨系列酒基酒设计产能中，由于系列酒的生产工艺特点，6,400.00 吨系",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2021,
+      "metric": "series_actual_tons",
+      "raw_value": "28248.92",
+      "raw_unit": "吨",
+      "normalized_value": "28248.92",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2021_贵州茅台_贵州茅台2021年年度报告_2022-03-30.pdf",
+        "sha256": "f65effdde58bcea99fd6bdb53f61b31d5c432e6dfb2661e5caf05156a433ea5a"
+      },
+      "physical_page": 13,
+      "excerpt": "茅台酒制酒车间                                        42,742.50                    56,472.25\n系列酒制酒车间                                        31,660.00                    28,248.92\n   说明：（1）31,660.00 吨系列酒基酒设计产能中，由于系列酒的生产工艺特点，6,400.00 吨系\n列酒基酒设计产能在2021 年11 月投产，实际产能将在2022 年释放。（2）公司按惯例使用重量\n单位计量。本报告中生产量、销售量、库存量、产能等的计量单位为“吨”。",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2022,
+      "metric": "moutai_actual_tons",
+      "raw_value": "56810.44",
+      "raw_unit": "吨",
+      "normalized_value": "56810.44",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+        "sha256": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358"
+      },
+      "physical_page": 14,
+      "excerpt": "主要工厂名称          设计产能          实际产能\n茅台酒制酒车间                                        42,742.50                    56,810.44\n系列酒制酒车间                                        38,060.00                    35,075.39\n   说明：（1）38,060.00 吨系列酒基酒设计产能中，由于系列酒的生产工艺特点，6,400.00 吨系",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2022,
+      "metric": "series_actual_tons",
+      "raw_value": "35075.39",
+      "raw_unit": "吨",
+      "normalized_value": "35075.39",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2022_贵州茅台_贵州茅台2022年年度报告_2023-03-30.pdf",
+        "sha256": "de394171306b9f2c7d79f54990de2a9e9c99feb54413150180179e24f0d83358"
+      },
+      "physical_page": 14,
+      "excerpt": "茅台酒制酒车间                                        42,742.50                    56,810.44\n系列酒制酒车间                                        38,060.00                    35,075.39\n   说明：（1）38,060.00 吨系列酒基酒设计产能中，由于系列酒的生产工艺特点，6,400.00 吨系\n列酒基酒设计产能在2022 年11 月投产，实际产能将在2023 年释放。茅台酒、系列酒基酒设计产\n能均为计划数。（2）按照公司惯例使用重量单位,本报告中设计产能、实际产能的计量单位为“吨”。",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2023,
+      "metric": "moutai_actual_tons",
+      "raw_value": "57204.11",
+      "raw_unit": "吨",
+      "normalized_value": "57204.11",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+        "sha256": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1"
+      },
+      "physical_page": 14,
+      "excerpt": "主要工厂名称          设计产能         实际产能\n 茅台酒制酒车间                                 42,795.00                57,204.11\n 系列酒制酒车间                                 44,460.00                42,937.04\n   说明：（1）2023 年茅台酒基酒设计产能为42,795.00 吨，同比新增基酒产能52.50 吨，新",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2023,
+      "metric": "series_actual_tons",
+      "raw_value": "42937.04",
+      "raw_unit": "吨",
+      "normalized_value": "42937.04",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2023_贵州茅台_贵州茅台2023年年度报告_2024-04-03.pdf",
+        "sha256": "2125ff97a452ea79b0d784e2432f7d224b6aecc330b644b593477d69e22f4ed1"
+      },
+      "physical_page": 14,
+      "excerpt": "茅台酒制酒车间                                 42,795.00                57,204.11\n 系列酒制酒车间                                 44,460.00                42,937.04\n   说明：（1）2023 年茅台酒基酒设计产能为42,795.00 吨，同比新增基酒产能52.50 吨，新\n增产能于2023 年10 月投产，由于茅台酒的生产工艺特点，将在2024 年释放；2023 年系列酒基\n酒设计产能为44,460.00 吨，同比新增基酒产能6,400.00 吨，新增产能于2023 年11 月投产，由",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2024,
+      "metric": "moutai_actual_tons",
+      "raw_value": "56271.99",
+      "raw_unit": "吨",
+      "normalized_value": "56271.99",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+        "sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+      },
+      "physical_page": 14,
+      "excerpt": "主要工厂名称          设计产能         实际产能\n 茅台酒制酒车间                                 44,595.00                56,271.99\n 系列酒制酒车间                                 52,460.00                48,112.51\n   说明：（1）2024 年茅台酒基酒设计产能为44,595.00 吨，同比新增基酒产能1,800.00 吨，",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2024,
+      "metric": "series_actual_tons",
+      "raw_value": "48112.51",
+      "raw_unit": "吨",
+      "normalized_value": "48112.51",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+        "sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+      },
+      "physical_page": 14,
+      "excerpt": "茅台酒制酒车间                                 44,595.00                56,271.99\n 系列酒制酒车间                                 52,460.00                48,112.51\n   说明：（1）2024 年茅台酒基酒设计产能为44,595.00 吨，同比新增基酒产能1,800.00 吨，\n新增产能于2024 年10 月投产，由于茅台酒的生产工艺特点，将在2025 年释放；2024 年系列酒\n基酒设计产能为52,460.00 吨，同比新增基酒产能8,000.00 吨，新增产能于2024 年11 月投产，",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2025,
+      "metric": "moutai_actual_tons",
+      "raw_value": "58473.16",
+      "raw_unit": "吨",
+      "normalized_value": "58473.16",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+        "sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+      },
+      "physical_page": 15,
+      "excerpt": "主要工厂名称          设计产能          实际产能\n茅台酒制酒车间                                   46,395.00                 58,473.16\n系列酒制酒车间                                   59,400.00                 57,650.57\n   说明：（1）2025 年茅台酒基酒设计产能为46,395.00 吨，同比新增基酒产能1,800.00 吨，",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    },
+    {
+      "year": 2025,
+      "metric": "series_actual_tons",
+      "raw_value": "57650.57",
+      "raw_unit": "吨",
+      "normalized_value": "57650.57",
+      "pdf": {
+        "path": "sources/annual_reports/pdf/600519_2025_贵州茅台_2025年年度报告.pdf",
+        "sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288"
+      },
+      "physical_page": 15,
+      "excerpt": "茅台酒制酒车间                                   46,395.00                 58,473.16\n系列酒制酒车间                                   59,400.00                 57,650.57\n   说明：（1）2025 年茅台酒基酒设计产能为46,395.00 吨，同比新增基酒产能1,800.00 吨，\n新增产能于2025 年10 月投产，由于茅台酒的生产工艺特点，将在2026 年释放；2025 年系列酒\n基酒设计产能为59,400.00 吨，同比新增基酒产能6,940.00 吨，新增产能于2025 年12 月投产，",
+      "status": "Agent原件数值及上下文对读；非人工Fact",
+      "human_confirmation": false
+    }
+  ],
+  "note": "数值和原表上下文对读；当前有效Fact继续从ReviewStore读取；早期旧准则及2012金融并表分段。未纳入争议固定资产/CIP和跨准则净利润。"
+}

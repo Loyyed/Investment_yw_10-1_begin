@@ -9,7 +9,7 @@
         "file": "补充材料3/贵州茅台生产库存销售滞后复现包/09_课堂展示_生产库存销售滞后.html",
         "sha256": "d2fd13a65a835cce4901b320e1d306420d74a7bdf12a6c79fe024abf1d27d992"
       },
-      "full_width": false,
+      "full_width": true,
       "orientation": "horizontal"
     },
     "增长之外，要看利润和现金怎样分化": {
@@ -19,7 +19,7 @@
         "file": "补充材料3/贵州茅台渠道净贡献复现包/09_课堂展示_渠道结构与价值归属.html",
         "sha256": "16997cb36a6e7ac70d3023324fc973b548938f9a218674178703ed5fe1dedd87"
       },
-      "full_width": false
+      "full_width": true
     },
     "合并与个别报表的规模不同": {
       "template": "rungs",

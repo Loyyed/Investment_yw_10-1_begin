@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-25",
+  "current_authority_and_dependencies": {
+    "status": "current",
+    "authority_records_checked": 147,
+    "dependencies_checked": 56
+  },
+  "pdf_arithmetic_recheck": {
+    "primary_pdf_value_page_matches": 119,
+    "pdf_entities": 25,
+    "source_files_sha_checked": 5,
+    "cash_positive_years": 23,
+    "cash_sample_years": 25,
+    "platform_years": 4,
+    "peer_company_years": 25,
+    "historical_price_annual_pairs": 12,
+    "human_confirmation": false,
+    "note": "程序复核数值/页码/运算，不替代口径裁决、人工Fact或机制确认。"
+  },
+  "exact_spec_and_html_replay": true,
+  "protected_files_unchanged": 66,
+  "original_data_protection": {
+    "original_charts_unchanged": 28,
+    "forecast_model_and_results_unchanged": true,
+    "authority_bindings_unchanged": true
+  },
+  "browser": {
+    "pages_checked": 15,
+    "charts": 39,
+    "maps": 3,
+    "map_links": 21,
+    "analysis_panels": 48,
+    "overview_numeric_label_overlap": [],
+    "styles_switch_and_persist": true,
+    "mobile_pan_without_page_overflow": true,
+    "forecast_controls": true,
+    "print_reduced_motion": true,
+    "errors": []
+  },
+  "synthetic_tests_passed": 16
+}

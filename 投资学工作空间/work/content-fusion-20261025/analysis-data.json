@@ -1,0 +1,881 @@
+{
+  "date": "2026-10-25",
+  "status": "研究扩展数据；不写人工核验账本",
+  "cash_panel": [
+    {
+      "year": 2001,
+      "income_label": "主营业务收入（旧准则）",
+      "break_before": false,
+      "revenue_yuan": "1618046660.31",
+      "cfo_yuan": "42283037.35",
+      "long_asset_purchase_cash_yuan": "331691548.18",
+      "cash_surplus_yuan": "-289408510.83"
+    },
+    {
+      "year": 2002,
+      "income_label": "主营业务收入（旧准则）",
+      "break_before": false,
+      "revenue_yuan": "1834898294.9",
+      "cfo_yuan": "434582378.66",
+      "long_asset_purchase_cash_yuan": "467451921.25",
+      "cash_surplus_yuan": "-32869542.59"
+    },
+    {
+      "year": 2003,
+      "income_label": "主营业务收入（旧准则）",
+      "break_before": false,
+      "revenue_yuan": "2401017934.93",
+      "cfo_yuan": "941706242.08",
+      "long_asset_purchase_cash_yuan": "334880557.62",
+      "cash_surplus_yuan": "606825684.46"
+    },
+    {
+      "year": 2004,
+      "income_label": "主营业务收入（旧准则）",
+      "break_before": false,
+      "revenue_yuan": "3009793519.92",
+      "cfo_yuan": "975784480.2",
+      "long_asset_purchase_cash_yuan": "355190020.75",
+      "cash_surplus_yuan": "620594459.45"
+    },
+    {
+      "year": 2005,
+      "income_label": "主营业务收入（旧准则）",
+      "break_before": false,
+      "revenue_yuan": "3930515237.61",
+      "cfo_yuan": "1693707488.32",
+      "long_asset_purchase_cash_yuan": "540843725.72",
+      "cash_surplus_yuan": "1152863762.60"
+    },
+    {
+      "year": 2006,
+      "income_label": "主营业务收入（旧准则）",
+      "break_before": false,
+      "revenue_yuan": "4896186901.21",
+      "cfo_yuan": "2105171033.69",
+      "long_asset_purchase_cash_yuan": "737075587.28",
+      "cash_surplus_yuan": "1368095446.41"
+    },
+    {
+      "year": 2007,
+      "income_label": "营业收入",
+      "break_before": true,
+      "revenue_yuan": "7237430747.12",
+      "cfo_yuan": "1743303211.38",
+      "long_asset_purchase_cash_yuan": "772456652.49",
+      "cash_surplus_yuan": "970846558.89"
+    },
+    {
+      "year": 2008,
+      "income_label": "营业收入",
+      "break_before": false,
+      "revenue_yuan": "8241685564.11",
+      "cfo_yuan": "5247488535.74",
+      "long_asset_purchase_cash_yuan": "1010735786.04",
+      "cash_surplus_yuan": "4236752749.70"
+    },
+    {
+      "year": 2009,
+      "income_label": "营业收入",
+      "break_before": false,
+      "revenue_yuan": "9669999065.39",
+      "cfo_yuan": "4223937144.19",
+      "long_asset_purchase_cash_yuan": "1356601530.09",
+      "cash_surplus_yuan": "2867335614.10"
+    },
+    {
+      "year": 2010,
+      "income_label": "营业收入",
+      "break_before": false,
+      "revenue_yuan": "11633283740.18",
+      "cfo_yuan": "6201476519.57",
+      "long_asset_purchase_cash_yuan": "1731913788.52",
+      "cash_surplus_yuan": "4469562731.05"
+    },
+    {
+      "year": 2011,
+      "income_label": "营业收入",
+      "break_before": false,
+      "revenue_yuan": "18402355207.3",
+      "cfo_yuan": "10148564689.53",
+      "long_asset_purchase_cash_yuan": "2184528163.11",
+      "cash_surplus_yuan": "7964036526.42"
+    },
+    {
+      "year": 2012,
+      "income_label": "营业收入",
+      "break_before": true,
+      "revenue_yuan": "26455335152.99",
+      "cfo_yuan": "11921310609.25",
+      "long_asset_purchase_cash_yuan": "4211900807.91",
+      "cash_surplus_yuan": "7709409801.34"
+    },
+    {
+      "year": 2013,
+      "income_label": "营业收入",
+      "break_before": false,
+      "revenue_yuan": "30921801316.6",
+      "cfo_yuan": "12655024861.92",
+      "long_asset_purchase_cash_yuan": "5405740026.23",
+      "cash_surplus_yuan": "7249284835.69"
+    },
+    {
+      "year": 2014,
+      "income_label": "营业收入",
+      "break_before": false,
+      "revenue_yuan": "31573928530.94",
+      "cfo_yuan": "12632522436.6",
+      "long_asset_purchase_cash_yuan": "4431065066.05",
+      "cash_surplus_yuan": "8201457370.55"
+    },
+    {
+      "year": 2015,
+      "income_label": "营业收入",
+      "break_before": false,
+      "revenue_yuan": "32659583725.28",
+      "cfo_yuan": "17436340141.72",
+      "long_asset_purchase_cash_yuan": "2061470481.32",
+      "cash_surplus_yuan": "15374869660.40"
+    },
+    {
+      "year": 2016,
+      "income_label": "营业收入",
+      "break_before": false,
+      "revenue_yuan": "38862189993.84",
+      "cfo_yuan": "37451249647.05",
+      "long_asset_purchase_cash_yuan": "1019178136.92",
+      "cash_surplus_yuan": "36432071510.13"
+    },
+    {
+      "year": 2017,
+      "income_label": "营业收入",
+      "break_before": false,
+      "revenue_yuan": "58217861314.17",
+      "cfo_yuan": "22153036084.13",
+      "long_asset_purchase_cash_yuan": "1125017192.45",
+      "cash_surplus_yuan": "21028018891.68"
+    },
+    {
+      "year": 2018,
+      "income_label": "营业收入",
+      "break_before": false,
+      "revenue_yuan": "73638872388.03",
+      "cfo_yuan": "41385234406.72",
+      "long_asset_purchase_cash_yuan": "1606750226.28",
+      "cash_surplus_yuan": "39778484180.44"
+    },
+    {
+      "year": 2019,
+      "income_label": "营业收入",
+      "break_before": false,
+      "revenue_yuan": "85429573467.25",
+      "cfo_yuan": "45210612632.56",
+      "long_asset_purchase_cash_yuan": "3148864661.38",
+      "cash_surplus_yuan": "42061747971.18"
+    },
+    {
+      "year": 2020,
+      "income_label": "营业收入",
+      "break_before": false,
+      "revenue_yuan": "94915380916.72",
+      "cfo_yuan": "51669068693.03",
+      "long_asset_purchase_cash_yuan": "2089769498.78",
+      "cash_surplus_yuan": "49579299194.25"
+    },
+    {
+      "year": 2021,
+      "income_label": "营业收入",
+      "break_before": false,
+      "revenue_yuan": "106190154843.76",
+      "cfo_yuan": "64028676147.37",
+      "long_asset_purchase_cash_yuan": "3408784532.01",
+      "cash_surplus_yuan": "60619891615.36"
+    },
+    {
+      "year": 2022,
+      "income_label": "营业收入",
+      "break_before": false,
+      "revenue_yuan": "124099843771.99",
+      "cfo_yuan": "36698595830.03",
+      "long_asset_purchase_cash_yuan": "5306546416.54",
+      "cash_surplus_yuan": "31392049413.49"
+    },
+    {
+      "year": 2023,
+      "income_label": "营业收入",
+      "break_before": false,
+      "revenue_yuan": "147693604994.14",
+      "cfo_yuan": "66593247721.09",
+      "long_asset_purchase_cash_yuan": "2619755888.79",
+      "cash_surplus_yuan": "63973491832.30"
+    },
+    {
+      "year": 2024,
+      "income_label": "营业收入",
+      "break_before": false,
+      "revenue_yuan": "170899152276.34",
+      "cfo_yuan": "92463692168.43",
+      "long_asset_purchase_cash_yuan": "4678712053.56",
+      "cash_surplus_yuan": "87784980114.87"
+    },
+    {
+      "year": 2025,
+      "income_label": "营业收入",
+      "break_before": false,
+      "revenue_yuan": "168838102514.79",
+      "cfo_yuan": "61522204989.35",
+      "long_asset_purchase_cash_yuan": "3127594916.41",
+      "cash_surplus_yuan": "58394610072.94"
+    }
+  ],
+  "imoutai": [
+    {
+      "year": 2022,
+      "revenue_yuan": "11882702800.0",
+      "direct_revenue_yuan": "49378737661.60",
+      "other_direct_yuan": "37496034861.60",
+      "share_of_direct_percent": "24.06441185563302512806657196"
+    },
+    {
+      "year": 2023,
+      "revenue_yuan": "22374323500.0",
+      "direct_revenue_yuan": "67232876883.14",
+      "other_direct_yuan": "44858553383.14",
+      "share_of_direct_percent": "33.27884293704946741493154848"
+    },
+    {
+      "year": 2024,
+      "revenue_yuan": "20023666200.0",
+      "direct_revenue_yuan": "74843327030.79",
+      "other_direct_yuan": "54819660830.79",
+      "share_of_direct_percent": "26.75411021180606985280719962"
+    },
+    {
+      "year": 2025,
+      "revenue_yuan": "13031411500.0",
+      "direct_revenue_yuan": "84543031854.63",
+      "other_direct_yuan": "71511620354.63",
+      "share_of_direct_percent": "15.41393916698805333483962715"
+    }
+  ],
+  "capacity": [
+    {
+      "year": 2016,
+      "moutai_design_capacity_tons": "32592",
+      "series_design_capacity_tons": "17665",
+      "moutai_actual_tons": "39312.53",
+      "series_actual_tons": "20575.44"
+    },
+    {
+      "year": 2017,
+      "moutai_design_capacity_tons": "35952",
+      "series_design_capacity_tons": "17725",
+      "moutai_actual_tons": "42828.59",
+      "series_actual_tons": "20959.02"
+    },
+    {
+      "year": 2018,
+      "moutai_design_capacity_tons": "37408",
+      "series_design_capacity_tons": "21245",
+      "moutai_actual_tons": "49671.69",
+      "series_actual_tons": "20545.06"
+    },
+    {
+      "year": 2019,
+      "moutai_design_capacity_tons": "38528",
+      "series_design_capacity_tons": "21245",
+      "moutai_actual_tons": "49922.71",
+      "series_actual_tons": "25122.02"
+    },
+    {
+      "year": 2020,
+      "moutai_design_capacity_tons": "42560",
+      "series_design_capacity_tons": "25260",
+      "moutai_actual_tons": "50235.17",
+      "series_actual_tons": "24925.37"
+    },
+    {
+      "year": 2021,
+      "moutai_design_capacity_tons": "42742.5",
+      "series_design_capacity_tons": "31660",
+      "moutai_actual_tons": "56472.25",
+      "series_actual_tons": "28248.92"
+    },
+    {
+      "year": 2022,
+      "moutai_design_capacity_tons": "42742.5",
+      "series_design_capacity_tons": "38060",
+      "moutai_actual_tons": "56810.44",
+      "series_actual_tons": "35075.39"
+    },
+    {
+      "year": 2023,
+      "moutai_design_capacity_tons": "42795",
+      "series_design_capacity_tons": "44460",
+      "moutai_actual_tons": "57204.11",
+      "series_actual_tons": "42937.04"
+    },
+    {
+      "year": 2024,
+      "moutai_design_capacity_tons": "44595",
+      "series_design_capacity_tons": "52460",
+      "moutai_actual_tons": "56271.99",
+      "series_actual_tons": "48112.51"
+    },
+    {
+      "year": 2025,
+      "moutai_design_capacity_tons": "46395",
+      "series_design_capacity_tons": "59400",
+      "moutai_actual_tons": "58473.16",
+      "series_actual_tons": "57650.57"
+    }
+  ],
+  "peer_summary": [
+    {
+      "entity": "贵州茅台",
+      "gross_margin_percent": "91.86665485641155176480639184",
+      "op_margin_percent": "70.21878517522462858921221622",
+      "selling_ratio_percent": "2.684228442580265728460643590"
+    },
+    {
+      "entity": "五粮液",
+      "gross_margin_percent": "75.42414530469497163974090481",
+      "op_margin_percent": "49.56544695702463601438676083",
+      "selling_ratio_percent": "9.732755425673518677595349577"
+    },
+    {
+      "entity": "泸州老窖",
+      "gross_margin_percent": "86.58817478400336628881045450",
+      "op_margin_percent": "55.11510275567346038871853842",
+      "selling_ratio_percent": "13.72723689205260875540107149"
+    },
+    {
+      "entity": "山西汾酒",
+      "gross_margin_percent": "75.30622611077255582409181590",
+      "op_margin_percent": "41.47682406182062757618462951",
+      "selling_ratio_percent": "12.98385866460316493700457032"
+    },
+    {
+      "entity": "洋河股份",
+      "gross_margin_percent": "74.60368832596171033253025292",
+      "op_margin_percent": "39.97602691065529031543450651",
+      "selling_ratio_percent": "13.98161725315926194252320027"
+    }
+  ],
+  "peer_inputs": [
+    {
+      "entity": "贵州茅台",
+      "year": 2020,
+      "revenue": "94915380916.72",
+      "cost": "8154001476.28",
+      "operating_profit": "66635079882.38",
+      "selling_expense": "2547745650.95",
+      "gross_margin_percent": "91.40918848186003927824199611",
+      "op_margin_percent": "70.20472260533463273536528515",
+      "selling_ratio_percent": "2.684228442580265728460643590",
+      "wrapper_row": 15413,
+      "source_id": "moutai_income",
+      "source_row": "21",
+      "original_claimed_sha256": "6420772c29d9dc12bd10ea3c89dbf2c1d1abc5bf171b298521fed06bb373bbf4",
+      "status": "附件结构化样本，未核同业原PDF，不是Fact"
+    },
+    {
+      "entity": "贵州茅台",
+      "year": 2021,
+      "revenue": "106190154843.76",
+      "cost": "8983377809.96",
+      "operating_profit": "74750880777.52",
+      "selling_expense": "2737369434.78",
+      "gross_margin_percent": "91.54029126035511584400534399",
+      "op_margin_percent": "70.39341913334873468632196937",
+      "selling_ratio_percent": "2.577799645181376904131445401",
+      "wrapper_row": 15414,
+      "source_id": "moutai_income",
+      "source_row": "22",
+      "original_claimed_sha256": "6420772c29d9dc12bd10ea3c89dbf2c1d1abc5bf171b298521fed06bb373bbf4",
+      "status": "附件结构化样本，未核同业原PDF，不是Fact"
+    },
+    {
+      "entity": "贵州茅台",
+      "year": 2022,
+      "revenue": "124099843771.99",
+      "cost": "10093468616.63",
+      "operating_profit": "87879521782.39",
+      "selling_expense": "3297724190.94",
+      "gross_margin_percent": "91.86665485641155176480639184",
+      "op_margin_percent": "70.81356358824432231966051409",
+      "selling_ratio_percent": "2.657315344408446409316758414",
+      "wrapper_row": 15415,
+      "source_id": "moutai_income",
+      "source_row": "23",
+      "original_claimed_sha256": "6420772c29d9dc12bd10ea3c89dbf2c1d1abc5bf171b298521fed06bb373bbf4",
+      "status": "附件结构化样本，未核同业原PDF，不是Fact"
+    },
+    {
+      "entity": "贵州茅台",
+      "year": 2023,
+      "revenue": "147693604994.14",
+      "cost": "11867273851.78",
+      "operating_profit": "103708655208.38",
+      "selling_expense": "4648613585.82",
+      "gross_margin_percent": "91.96493724135797573790928685",
+      "op_margin_percent": "70.21878517522462858921221622",
+      "selling_ratio_percent": "3.147471135263061531016468456",
+      "wrapper_row": 15416,
+      "source_id": "moutai_income",
+      "source_row": "24",
+      "original_claimed_sha256": "6420772c29d9dc12bd10ea3c89dbf2c1d1abc5bf171b298521fed06bb373bbf4",
+      "status": "附件结构化样本，未核同业原PDF，不是Fact"
+    },
+    {
+      "entity": "贵州茅台",
+      "year": 2024,
+      "revenue": "170899152276.34",
+      "cost": "13789482367.98",
+      "operating_profit": "119688579453.23",
+      "selling_expense": "5639300059.49",
+      "gross_margin_percent": "91.93121663606456979254008694",
+      "op_margin_percent": "70.03462443142861167982283170",
+      "selling_ratio_percent": "3.299782347879281144631071361",
+      "wrapper_row": 15417,
+      "source_id": "moutai_income",
+      "source_row": "25",
+      "original_claimed_sha256": "6420772c29d9dc12bd10ea3c89dbf2c1d1abc5bf171b298521fed06bb373bbf4",
+      "status": "附件结构化样本，未核同业原PDF，不是Fact"
+    },
+    {
+      "entity": "五粮液",
+      "year": 2020,
+      "revenue": "57321059453.15",
+      "cost": "14811961478.65",
+      "operating_profit": "27826423936.21",
+      "selling_expense": "5578918523.98",
+      "gross_margin_percent": "74.15965158362747423907869617",
+      "op_margin_percent": "48.54485280222928108620256433",
+      "selling_ratio_percent": "9.732755425673518677595349577",
+      "wrapper_row": 15418,
+      "source_id": "peer_income",
+      "source_row": "24",
+      "original_claimed_sha256": "4cb6a45a66827fa93141ce000d297a4a7a1933fc52bf37299ec006306916a321",
+      "status": "附件结构化样本，未核同业原PDF，不是Fact"
+    },
+    {
+      "entity": "五粮液",
+      "year": 2021,
+      "revenue": "66209053612.11",
+      "cost": "16318778588.82",
+      "operating_profit": "32552428970.01",
+      "selling_expense": "6503506131.9",
+      "gross_margin_percent": "75.35264786531368625923164169",
+      "op_margin_percent": "49.16612939481131887118282157",
+      "selling_ratio_percent": "9.822684024455641765340717364",
+      "wrapper_row": 15419,
+      "source_id": "peer_income",
+      "source_row": "25",
+      "original_claimed_sha256": "4cb6a45a66827fa93141ce000d297a4a7a1933fc52bf37299ec006306916a321",
+      "status": "附件结构化样本，未核同业原PDF，不是Fact"
+    },
+    {
+      "entity": "五粮液",
+      "year": 2022,
+      "revenue": "73968640704.54",
+      "cost": "18178425659.64",
+      "operating_profit": "37174423453.63",
+      "selling_expense": "6844237013.17",
+      "gross_margin_percent": "75.42414530469497163974090481",
+      "op_margin_percent": "50.25700499502126442784020850",
+      "selling_ratio_percent": "9.252890073387435914674325507",
+      "wrapper_row": 15420,
+      "source_id": "peer_income",
+      "source_row": "26",
+      "original_claimed_sha256": "4cb6a45a66827fa93141ce000d297a4a7a1933fc52bf37299ec006306916a321",
+      "status": "附件结构化样本，未核同业原PDF，不是Fact"
+    },
+    {
+      "entity": "五粮液",
+      "year": 2023,
+      "revenue": "83272067317.19",
+      "cost": "20157143952.21",
+      "operating_profit": "42003663761.87",
+      "selling_expense": "7796298418.13",
+      "gross_margin_percent": "75.79363092376484670773247736",
+      "op_margin_percent": "50.44148069709218023481188898",
+      "selling_ratio_percent": "9.362441295510621172367272573",
+      "wrapper_row": 15421,
+      "source_id": "peer_income",
+      "source_row": "27",
+      "original_claimed_sha256": "4cb6a45a66827fa93141ce000d297a4a7a1933fc52bf37299ec006306916a321",
+      "status": "附件结构化样本，未核同业原PDF，不是Fact"
+    },
+    {
+      "entity": "五粮液",
+      "year": 2024,
+      "revenue": "89175178322.7",
+      "cost": "20461423083.74",
+      "operating_profit": "44200075710.37",
+      "selling_expense": "10692376117.41",
+      "gross_margin_percent": "77.05479992459803180131824506",
+      "op_margin_percent": "49.56544695702463601438676083",
+      "selling_ratio_percent": "11.99030528284147058531307268",
+      "wrapper_row": 15422,
+      "source_id": "peer_income",
+      "source_row": "28",
+      "original_claimed_sha256": "4cb6a45a66827fa93141ce000d297a4a7a1933fc52bf37299ec006306916a321",
+      "status": "附件结构化样本，未核同业原PDF，不是Fact"
+    },
+    {
+      "entity": "泸州老窖",
+      "year": 2020,
+      "revenue": "16652854549.8",
+      "cost": "2823484558.06",
+      "operating_profit": "7959315934.87",
+      "selling_expense": "3090655832.25",
+      "gross_margin_percent": "83.04504161964286226975594238",
+      "op_margin_percent": "47.79550503529493092264226773",
+      "selling_ratio_percent": "18.55931559966167260614981679",
+      "wrapper_row": 15423,
+      "source_id": "peer_income",
+      "source_row": "56",
+      "original_claimed_sha256": "4cb6a45a66827fa93141ce000d297a4a7a1933fc52bf37299ec006306916a321",
+      "status": "附件结构化样本，未核同业原PDF，不是Fact"
+    },
+    {
+      "entity": "泸州老窖",
+      "year": 2021,
+      "revenue": "20642261724.37",
+      "cost": "2952431488.31",
+      "operating_profit": "10590430267.33",
+      "selling_expense": "3599211604.56",
+      "gross_margin_percent": "85.69715117590823033907744841",
+      "op_margin_percent": "51.30460222208629608875450718",
+      "selling_ratio_percent": "17.43613007440369337468393749",
+      "wrapper_row": 15424,
+      "source_id": "peer_income",
+      "source_row": "57",
+      "original_claimed_sha256": "4cb6a45a66827fa93141ce000d297a4a7a1933fc52bf37299ec006306916a321",
+      "status": "附件结构化样本，未核同业原PDF，不是Fact"
+    },
+    {
+      "entity": "泸州老窖",
+      "year": 2022,
+      "revenue": "25123563271.62",
+      "cost": "3369528394.02",
+      "operating_profit": "13846877713.04",
+      "selling_expense": "3448771046.02",
+      "gross_margin_percent": "86.58817478400336628881045450",
+      "op_margin_percent": "55.11510275567346038871853842",
+      "selling_ratio_percent": "13.72723689205260875540107149",
+      "wrapper_row": 15425,
+      "source_id": "peer_income",
+      "source_row": "58",
+      "original_claimed_sha256": "4cb6a45a66827fa93141ce000d297a4a7a1933fc52bf37299ec006306916a321",
+      "status": "附件结构化样本，未核同业原PDF，不是Fact"
+    },
+    {
+      "entity": "泸州老窖",
+      "year": 2023,
+      "revenue": "30233301388.26",
+      "cost": "3537151403.15",
+      "operating_profit": "17841832969.1",
+      "selling_expense": "3974425526.92",
+      "gross_margin_percent": "88.30047913813499788950289350",
+      "op_margin_percent": "59.01384284823166930219006111",
+      "selling_ratio_percent": "13.14585356021794962811963131",
+      "wrapper_row": 15426,
+      "source_id": "peer_income",
+      "source_row": "59",
+      "original_claimed_sha256": "4cb6a45a66827fa93141ce000d297a4a7a1933fc52bf37299ec006306916a321",
+      "status": "附件结构化样本，未核同业原PDF，不是Fact"
+    },
+    {
+      "entity": "泸州老窖",
+      "year": 2024,
+      "revenue": "31196248208.33",
+      "cost": "3888116183.93",
+      "operating_profit": "18206848930.25",
+      "selling_expense": "3538382615.99",
+      "gross_margin_percent": "87.53659043239757919665891635",
+      "op_margin_percent": "58.36230308421645444237993127",
+      "selling_ratio_percent": "11.34233383566035223264281074",
+      "wrapper_row": 15427,
+      "source_id": "peer_income",
+      "source_row": "60",
+      "original_claimed_sha256": "4cb6a45a66827fa93141ce000d297a4a7a1933fc52bf37299ec006306916a321",
+      "status": "附件结构化样本，未核同业原PDF，不是Fact"
+    },
+    {
+      "entity": "山西汾酒",
+      "year": 2020,
+      "revenue": "13989804850.8",
+      "cost": "3895511990.82",
+      "operating_profit": "4234879445.26",
+      "selling_expense": "2276161799.77",
+      "gross_margin_percent": "72.15463666316090825737796288",
+      "op_margin_percent": "30.27118312531593701964665007",
+      "selling_ratio_percent": "16.27014689657975339682713282",
+      "wrapper_row": 15428,
+      "source_id": "peer_income",
+      "source_row": "88",
+      "original_claimed_sha256": "4cb6a45a66827fa93141ce000d297a4a7a1933fc52bf37299ec006306916a321",
+      "status": "附件结构化样本，未核同业原PDF，不是Fact"
+    },
+    {
+      "entity": "山西汾酒",
+      "year": 2021,
+      "revenue": "19970986258.92",
+      "cost": "5010580087.91",
+      "operating_profit": "7029460068.03",
+      "selling_expense": "3160087855.34",
+      "gross_margin_percent": "74.91070284186873999027117848",
+      "op_margin_percent": "35.19836214844074661740396222",
+      "selling_ratio_percent": "15.82339406962714847890528369",
+      "wrapper_row": 15429,
+      "source_id": "peer_income",
+      "source_row": "89",
+      "original_claimed_sha256": "4cb6a45a66827fa93141ce000d297a4a7a1933fc52bf37299ec006306916a321",
+      "status": "附件结构化样本，未核同业原PDF，不是Fact"
+    },
+    {
+      "entity": "山西汾酒",
+      "year": 2022,
+      "revenue": "26213860718.3",
+      "cost": "6459916317.19",
+      "operating_profit": "10872676889.94",
+      "selling_expense": "3403570626.2",
+      "gross_margin_percent": "75.35686793101671272947575239",
+      "op_margin_percent": "41.47682406182062757618462951",
+      "selling_ratio_percent": "12.98385866460316493700457032",
+      "wrapper_row": 15430,
+      "source_id": "peer_income",
+      "source_row": "90",
+      "original_claimed_sha256": "4cb6a45a66827fa93141ce000d297a4a7a1933fc52bf37299ec006306916a321",
+      "status": "附件结构化样本，未核同业原PDF，不是Fact"
+    },
+    {
+      "entity": "山西汾酒",
+      "year": 2023,
+      "revenue": "31928483054.02",
+      "cost": "7884347411.62",
+      "operating_profit": "14224061562.78",
+      "selling_expense": "3216783733.5",
+      "gross_margin_percent": "75.30622611077255582409181590",
+      "op_margin_percent": "44.54975683847623250955937743",
+      "selling_ratio_percent": "10.07496575411209953078147757",
+      "wrapper_row": 15431,
+      "source_id": "peer_income",
+      "source_row": "91",
+      "original_claimed_sha256": "4cb6a45a66827fa93141ce000d297a4a7a1933fc52bf37299ec006306916a321",
+      "status": "附件结构化样本，未核同业原PDF，不是Fact"
+    },
+    {
+      "entity": "山西汾酒",
+      "year": 2024,
+      "revenue": "36010992321.46",
+      "cost": "8569676942.47",
+      "operating_profit": "16538584677.76",
+      "selling_expense": "3726362850.16",
+      "gross_margin_percent": "76.20260817593999009420042592",
+      "op_margin_percent": "45.92648969549271573765342535",
+      "selling_ratio_percent": "10.34784828170189511480574588",
+      "wrapper_row": 15432,
+      "source_id": "peer_income",
+      "source_row": "92",
+      "original_claimed_sha256": "4cb6a45a66827fa93141ce000d297a4a7a1933fc52bf37299ec006306916a321",
+      "status": "附件结构化样本，未核同业原PDF，不是Fact"
+    },
+    {
+      "entity": "洋河股份",
+      "year": 2020,
+      "revenue": "21101051131.79",
+      "cost": "5851904596.71",
+      "operating_profit": "9895187512.09",
+      "selling_expense": "2603804157.78",
+      "gross_margin_percent": "72.26723654589057652232966595",
+      "op_margin_percent": "46.89428716270113250887919027",
+      "selling_ratio_percent": "12.33968934304515644647647323",
+      "wrapper_row": 15433,
+      "source_id": "peer_income",
+      "source_row": "105",
+      "original_claimed_sha256": "4cb6a45a66827fa93141ce000d297a4a7a1933fc52bf37299ec006306916a321",
+      "status": "附件结构化样本，未核同业原PDF，不是Fact"
+    },
+    {
+      "entity": "洋河股份",
+      "year": 2021,
+      "revenue": "25350178204.45",
+      "cost": "6255397564.1",
+      "operating_profit": "9988929189.03",
+      "selling_expense": "3544364889.54",
+      "gross_margin_percent": "75.32404895283173915360874113",
+      "op_margin_percent": "39.40378291808825099361657675",
+      "selling_ratio_percent": "13.98161725315926194252320027",
+      "wrapper_row": 15434,
+      "source_id": "peer_income",
+      "source_row": "106",
+      "original_claimed_sha256": "4cb6a45a66827fa93141ce000d297a4a7a1933fc52bf37299ec006306916a321",
+      "status": "附件结构化样本，未核同业原PDF，不是Fact"
+    },
+    {
+      "entity": "洋河股份",
+      "year": 2022,
+      "revenue": "30104896186.7",
+      "cost": "7645533264.72",
+      "operating_profit": "12509205260.39",
+      "selling_expense": "4179140807.85",
+      "gross_margin_percent": "74.60368832596171033253025292",
+      "op_margin_percent": "41.55206243799114744748006343",
+      "selling_ratio_percent": "13.88193063989470515133679745",
+      "wrapper_row": 15435,
+      "source_id": "peer_income",
+      "source_row": "107",
+      "original_claimed_sha256": "4cb6a45a66827fa93141ce000d297a4a7a1933fc52bf37299ec006306916a321",
+      "status": "附件结构化样本，未核同业原PDF，不是Fact"
+    },
+    {
+      "entity": "洋河股份",
+      "year": 2023,
+      "revenue": "33126277551.51",
+      "cost": "8200245255.42",
+      "operating_profit": "13242569628.49",
+      "selling_expense": "5386953700.62",
+      "gross_margin_percent": "75.24549734672434690768465883",
+      "op_margin_percent": "39.97602691065529031543450651",
+      "selling_ratio_percent": "16.26187455636543652094976155",
+      "wrapper_row": 15436,
+      "source_id": "peer_income",
+      "source_row": "108",
+      "original_claimed_sha256": "4cb6a45a66827fa93141ce000d297a4a7a1933fc52bf37299ec006306916a321",
+      "status": "附件结构化样本，未核同业原PDF，不是Fact"
+    },
+    {
+      "entity": "洋河股份",
+      "year": 2024,
+      "revenue": "28876296993.56",
+      "cost": "7751218356.66",
+      "operating_profit": "9160770169.86",
+      "selling_expense": "5516238544.79",
+      "gross_margin_percent": "73.15715945715380704472150696",
+      "op_margin_percent": "31.72418600592395063252570931",
+      "selling_ratio_percent": "19.10299837274922437321187703",
+      "wrapper_row": 15437,
+      "source_id": "peer_income",
+      "source_row": "109",
+      "original_claimed_sha256": "4cb6a45a66827fa93141ce000d297a4a7a1933fc52bf37299ec006306916a321",
+      "status": "附件结构化样本，未核同业原PDF，不是Fact"
+    }
+  ],
+  "price_summary": [
+    {
+      "peer": "五粮液普五 52° 500ml",
+      "year": 2018,
+      "n": 358,
+      "median_same_day_ratio": "2.263902932254802831142568251",
+      "matched_original_csv": true
+    },
+    {
+      "peer": "五粮液普五 52° 500ml",
+      "year": 2019,
+      "n": 256,
+      "median_same_day_ratio": "2.160424235899920158606274278",
+      "matched_original_csv": true
+    },
+    {
+      "peer": "五粮液普五 52° 500ml",
+      "year": 2020,
+      "n": 252,
+      "median_same_day_ratio": "2.271512195848995908116758712",
+      "matched_original_csv": true
+    },
+    {
+      "peer": "洋河梦之蓝 M3 52° 500ml",
+      "year": 2018,
+      "n": 358,
+      "median_same_day_ratio": "4.314065510597302504816955684",
+      "matched_original_csv": true
+    },
+    {
+      "peer": "洋河梦之蓝 M3 52° 500ml",
+      "year": 2019,
+      "n": 256,
+      "median_same_day_ratio": "4.514539206655117882485357043",
+      "matched_original_csv": true
+    },
+    {
+      "peer": "洋河梦之蓝 M3 52° 500ml",
+      "year": 2020,
+      "n": 252,
+      "median_same_day_ratio": "5.04549590536851683348498635",
+      "matched_original_csv": true
+    },
+    {
+      "peer": "国窖1573 52° 500ml",
+      "year": 2018,
+      "n": 358,
+      "median_same_day_ratio": "2.521396396396396396396396396",
+      "matched_original_csv": true
+    },
+    {
+      "peer": "国窖1573 52° 500ml",
+      "year": 2019,
+      "n": 256,
+      "median_same_day_ratio": "2.720975349576639237659529115",
+      "matched_original_csv": true
+    },
+    {
+      "peer": "国窖1573 52° 500ml",
+      "year": 2020,
+      "n": 252,
+      "median_same_day_ratio": "2.771771771771771771771771772",
+      "matched_original_csv": true
+    },
+    {
+      "peer": "青花汾酒30年 53° 500ml",
+      "year": 2018,
+      "n": 358,
+      "median_same_day_ratio": "3.207736389684813753581661891",
+      "matched_original_csv": true
+    },
+    {
+      "peer": "青花汾酒30年 53° 500ml",
+      "year": 2019,
+      "n": 256,
+      "median_same_day_ratio": "3.5",
+      "matched_original_csv": true
+    },
+    {
+      "peer": "青花汾酒30年 53° 500ml",
+      "year": 2020,
+      "n": 252,
+      "median_same_day_ratio": "3.352657004830917874396135266",
+      "matched_original_csv": true
+    }
+  ],
+  "price_match": {
+    "matched": 4330,
+    "not_in_original_csv": 0,
+    "conflicts": [],
+    "interpretation": "历史京东挂牌价；不当当前现货或真实成交"
+  },
+  "sources": [
+    {
+      "path": "补充材料3\\贵州茅台行业竞争与品牌优势复现包\\01_原始证据.csv",
+      "sha256": "7005aaa041827d20b42b0fde4efd53cfd2da0ee42589fd7312bf82b595d94f17"
+    },
+    {
+      "path": "补充材料3\\贵州茅台现金与资本回报复现包\\01_原始证据.csv",
+      "sha256": "d52e9db3c3f29eb8ac1bede7223185131a50f0aaa3ccfeb5b948327432feddfd"
+    },
+    {
+      "path": "补充材料3\\贵州茅台渠道净贡献复现包\\01_原始证据.csv",
+      "sha256": "8258ac19b1fb2f6b00217ef055e23892829fd18f872f7d788c79459ce6d6e9ed"
+    },
+    {
+      "path": "补充材料3\\贵州茅台生产库存销售滞后复现包\\01_原始证据.csv",
+      "sha256": "b592c8c6d5d7864a87ea5a4c80f02fbeba97015a582589e7a860f94075af0a98"
+    },
+    {
+      "path": "补充材料\\白酒行业_iFinD字段全集_上市以来.csv",
+      "sha256": "2c91b0a280bf1f31eec38b2dbf1f8b3171b48e77efbde3c7010433481369a5e2"
+    }
+  ]
+}

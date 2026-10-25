@@ -269,6 +269,11 @@ if (p/visual_rel).is_file():
  spec=ir.apply_chart_designs(spec,load(visual_rel))
  spec['dependencies'].append({'path':visual_rel,'sha256':sha(p/visual_rel)})
  chapters=spec['chapters']
+content_rel='work/content-fusion-20261025/content-enrichment.json'
+if (p/content_rel).is_file():
+ spec=ir.apply_story_enrichment(spec,load(content_rel))
+ spec['dependencies'].append({'path':content_rel,'sha256':sha(p/content_rel)})
+ chapters=spec['chapters']
 out=stage/'company';out.mkdir(exist_ok=True)
 def put(rel,text):f=out/rel;f.parent.mkdir(parents=True,exist_ok=True);f.write_text(text,encoding='utf-8',newline='\n')
 def jput(rel,value):put(rel,json.dumps(value,ensure_ascii=False,indent=2)+'\n')

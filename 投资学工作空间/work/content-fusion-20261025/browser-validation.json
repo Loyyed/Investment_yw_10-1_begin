@@ -1,0 +1,13 @@
+{
+  "pages_checked": 15,
+  "charts": 39,
+  "maps": 3,
+  "map_links": 21,
+  "analysis_panels": 48,
+  "overview_numeric_label_overlap": [],
+  "styles_switch_and_persist": true,
+  "mobile_pan_without_page_overflow": true,
+  "forecast_controls": true,
+  "print_reduced_motion": true,
+  "errors": []
+}
