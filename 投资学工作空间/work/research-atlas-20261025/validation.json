@@ -70,7 +70,7 @@
   "source_dependencies_current_checked": 41,
   "new_human_confirmations": 0,
   "new_signatures": 0,
-  "publication": "待实际git结果；不以此记录冒称已推送",
+  "publication": "两个内容提交已推送且远程refs一致；见publication.json真实回执，后续元数据提交另按git log查看",
   "generic_model_tests_passed": 5,
   "source_and_history_guards_rechecked_before_publication": true
 }

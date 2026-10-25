@@ -23,3 +23,5 @@
 - GitHub About简介字段仍未通过设置接口修改（当前无接口/gh）；两仓库中文稿已备公司docs/github-about-zh.md，文件成果推送与About设置分开，列最终收束待办。
 
 - 报告核验数量按原披露与各独立域分别列示，关联/重叠不合计独立Fact；相应合成检查已覆盖。
+
+- 本轮图册内容已推送并核远端refs：工具包be48982、公司成果2b55f0b；真实回执work/research-atlas-20261025/publication.json。后续仅元数据回执提交按当前git log读取，原件未上传。

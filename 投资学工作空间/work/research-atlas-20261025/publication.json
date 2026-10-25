@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-25",
+  "state": "两个内容提交均已push，并用ls-remote核对",
+  "content_commits": [
+    {
+      "repo": "D:\\投资学\\投资学公司分析通用工作台",
+      "remote": "git@github.com:Loyyed/Investment_yw_finaltask.git",
+      "commit": "be4898281f59458b28d203752d11ec98b98adcd4",
+      "staged_files": [
+        "README.md",
+        "companybench/insight.css",
+        "companybench/insight.js",
+        "companybench/insight.py",
+        "companybench/portal.py",
+        "companybench/ui.js",
+        "companybench/workspace.py",
+        "docs/2026-10-25-从核验到研究图册.md",
+        "skills/investment-company-analysis/SKILL.md",
+        "skills/investment-insight-forecast/SKILL.md",
+        "tests/test_insight.py",
+        "会话交接/CURRENT.md"
+      ],
+      "push": "verified"
+    },
+    {
+      "repo": "D:\\投资学",
+      "remote": "git@github.com:Loyyed/Investment_yw_10-1_begin.git",
+      "commit": "2b55f0b9362ffb621fb28c0ee4f7500bfc62116b",
+      "staged_files": [
+        "README.md",
+        "会话交接/01_课件学习与证券分析方法.md",
+        "会话交接/02_任务合同与操作流程.md",
+        "会话交接/CURRENT.md",
+        "投资学工作空间/docs/20261025-research-atlas-feedback.md",
+        "投资学工作空间/outputs/research-atlas/README.md",
+        "投资学工作空间/outputs/research-atlas/cash.html",
+        "投资学工作空间/outputs/research-atlas/channel.html",
+        "投资学工作空间/outputs/research-atlas/forecast.html",
+        "投资学工作空间/outputs/research-atlas/lag.html",
+        "投资学工作空间/outputs/research-atlas/overview.html",
+        "投资学工作空间/outputs/research-atlas/task01.html",
+        "投资学工作空间/outputs/research-atlas/task02.html",
+        "投资学工作空间/outputs/research-atlas/task03.html",
+        "投资学工作空间/outputs/research-atlas/task04.html",
+        "投资学工作空间/outputs/research-atlas/task05.html",
+        "投资学工作空间/outputs/research-atlas/task06.html",
+        "投资学工作空间/outputs/research-atlas/task07.html",
+        "投资学工作空间/outputs/证券投资分析研究图册.html",
+        "投资学工作空间/outputs/证券投资分析研究意见.md",
+        "投资学工作空间/scripts/build_research_atlas.py",
+        "投资学工作空间/work/research-atlas-20261025/browser-validation.json",
+        "投资学工作空间/work/research-atlas-20261025/corrections-and-conflicts.md",
+        "投资学工作空间/work/research-atlas-20261025/derived-calculations.json",
+        "投资学工作空间/work/research-atlas-20261025/forecast-results.json",
+        "投资学工作空间/work/research-atlas-20261025/industry-dual-check.json",
+        "投资学工作空间/work/research-atlas-20261025/report-spec.json",
+        "投资学工作空间/work/research-atlas-20261025/server-validation.json",
+        "投资学工作空间/work/research-atlas-20261025/validation.json",
+        "投资学工作空间/work/research-atlas-current.json"
+      ],
+      "push": "verified"
+    }
+  ],
+  "originals_uploaded": false
+}
