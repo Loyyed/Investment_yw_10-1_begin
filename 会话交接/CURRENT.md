@@ -1,4 +1,10 @@
 # 当前交接
+> 2026-10-27发布受阻：图册/合同归档/26幕讲稿本地验收完成。两次GitHub命令均在执行前被自动审批拒绝，无新提交/推送；已缩为56个公司成品/说明/索引+13个通用代码/方法，原件/底稿留本地。自动审批仍要求当前用户明确确认这批文件与Loyyed/Investment_yw_10-1_begin、Loyyed/Investment_yw_finaltask两个目的地；待确认后执行课件目录contract-audit-20261027/publish_results_only.py并核远端。实际状态work/contract-audit-20261027/publish-status.json。
+> 2026-10-27全合同审计：15份原稿/版本已原字节归档tasks/received-20261027，入口tasks/README.md；outputs/全任务合同核查与覆盖清单.html提供原文—答案—底稿—状态索引。图册14章新增50组可见逐问回答，含2015/16断点、非一比一、FY2025右删失、完整诊断、渠道与现金范围；原39图/模型不变。动效路演V2.1现26幕/78段、讲稿同源，18页PPTX为上一版。重建scripts/build_research_delivery_v2.py已接覆盖核查；底稿work/contract-audit-20261027。144原Fact/各域及G6/N03/P03/P04当前，P04四成果冻结，无本轮新核验/采纳/签署；9年现金有效字段等缺口保留。发布以本轮真实Git回执为准。
+> 2026-10-26路演V2.1：outputs/投资分析系统与茅台研究_动效路演V2.1.html共23幕/69段，配套连贯讲稿HTML与MD同源；成果144条原披露记录、17轮B01—B17、4组当前既有采纳已实时核验，14章39图6技能。空格逐段、N同步稿、O目录、M动效开关；补入困难/改进/建议感受。总入口已更新，旧稳定HTML/讲稿别名指向新版；18页PPTX为上一版静态稿。重建scripts/build_roadshow_motion.py已接总构建，旧版保留work/roadshow-motion-20261026/before。证据/冻结成果/图册规格未改，无新采纳/签署；详见docs/20261026-motion-roadshow.md。
+> 2026-10-25图册增补：V2.0全部14章在“这章在回答什么”后增加“本章的结论与判断”，含直接结论、研究判断、边界/后续观察及来源跳转；原数、图表和原三年情景未变，新文字不继承旧人审。底稿见公司work/research-delivery-v2-20261025/chapter-answers.json。
+> 最终入口：公司outputs/投资研究系统_V2.0_总入口.html；18页PPTX/HTML、讲稿、四张PNG/SVG导图齐备。工作台已接同源批次预览与冻结导出，预览不写Fact。验证见公司work/research-delivery-v2-20261025/validation.json。
+> 2026-10-25 V2.0交付：稳定图册已升级，显式outputs/证券投资分析研究图册_V2.0.html；新增outputs/投资分析系统与茅台研究_任务框架与经验V2.0.html、18页路演HTML及逐页讲稿。通用skills/investment-research-delivery与首页研究简报/new自动起步台已接入。当前规格work/research-atlas-v2-20261025/report-spec.json，重建scripts/build_research_delivery_v2.py；旧版在outputs/archive/atlas-v1-20261025。新导读、解释和Forecast未新获采纳/签署，旧39图/3导图和三年模型不变；G6/N03/P03/P04已实时核当前。详细验收docs/20261025-v2-delivery.md与work/research-delivery-v2-20261025/validation.json。
 
 2026-10-25。先读本页与当前用户问题；操作接续读[10](10_快速接续与下一步.md)，充分方法总结读[09](09_证券分析框架与图表经验.md)。01/02仍为课件与合同主入口；06/07/08是故事、视觉、内容融合历史节点，按需读取，不重扫项目或全文读日志。
 

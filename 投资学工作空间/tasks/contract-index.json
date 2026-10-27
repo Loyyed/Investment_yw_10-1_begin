@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-27",
+  "kind": "source-contract-index-not-acceptance",
+  "contracts": [
+    {
+      "code": "C01",
+      "chapter": "task01",
+      "destination": "tasks/received-20261027/任务合同/第一次任务合同.md",
+      "updated": "2026-09-15",
+      "sha256": "4867e16f12245ff4d5842c23841f4c7ebf4830b201169766b54c9a74eaa6f0fb"
+    },
+    {
+      "code": "C02",
+      "chapter": "task03",
+      "destination": "tasks/received-20261027/任务合同/第三次任务合同_年报指标口径识别.md",
+      "updated": "2026-09-23",
+      "sha256": "9453a5d0801b6251e56538e9ab2eaee325029e4fc907eaeb85378812f99bebf9"
+    },
+    {
+      "code": "C03",
+      "chapter": "task02",
+      "destination": "tasks/received-20261027/任务合同/第二次任务合同_年报收入信息结构化提取.md",
+      "updated": "2026-09-23",
+      "sha256": "fa9d200800e8a581eb8631e8d2d9daa475686c401f0995a51cf752e814a3da8d"
+    },
+    {
+      "code": "C04",
+      "chapter": "task05",
+      "destination": "tasks/received-20261027/任务合同/第五次任务合同_贵州茅台商业模式、竞争优势与叙事核验.md",
+      "updated": "2026-10-10",
+      "sha256": "742749871e570ecaa486f20c17e210f918edd39289c2a83dc4cd5dd4c2fe1d28"
+    },
+    {
+      "code": "C05",
+      "chapter": "task05",
+      "destination": "tasks/received-20261027/任务合同/第五次任务合同第一部分_贵州茅台商业模式验证.md",
+      "updated": "2026-10-10",
+      "sha256": "33c24262c521635601f76fb51f22f01a670db4b7c569fd12a372766c554ffee3"
+    },
+    {
+      "code": "C06",
+      "chapter": "task04",
+      "destination": "tasks/received-20261027/任务合同/第四次任务合同_年报指标变化核验.md",
+      "updated": "2026-09-23",
+      "sha256": "3d1af9c2753f9fc5fc5338038d48e7c3f033faf1960260b4d69fe3792be3e13b"
+    },
+    {
+      "code": "C07",
+      "chapter": "task07",
+      "destination": "tasks/received-20261027/补充材料/第七次任务合同_贵州茅台叙事核验.md",
+      "updated": "2026-10-10",
+      "sha256": "5237bc4d19110ed6f60eb6f425c5735d472606a341e72384829d1f99e7861035"
+    },
+    {
+      "code": "C08",
+      "chapter": "task06",
+      "destination": "tasks/received-20261027/补充材料/第六次任务合同_贵州茅台行业竞争与竞争优势.md",
+      "updated": "2026-10-10",
+      "sha256": "93acb50f2cd9c6977db83c0c69be0b52bda65ff8787556109c801175479c1629"
+    },
+    {
+      "code": "C09",
+      "chapter": "task07",
+      "destination": "tasks/received-20261027/补充材料3/第七次任务合同_贵州茅台叙事核验.md",
+      "updated": "2026-10-21",
+      "sha256": "6ca0d75c9efbcbd643d7129cb4ea5a3cb4be0a4c55ca63539f0041b01fa72c6e"
+    },
+    {
+      "code": "C10",
+      "chapter": "task05",
+      "destination": "tasks/received-20261027/补充材料3/第五次任务合同_贵州茅台商业模式验证.md",
+      "updated": "2026-10-10",
+      "sha256": "fb25c4182f568fb3922535f7a22363a06e9cae250a1c8cb53c206f17f629320d"
+    },
+    {
+      "code": "C11",
+      "chapter": "channel",
+      "destination": "tasks/received-20261027/补充材料3/第五次任务延伸合同_贵州茅台渠道净贡献验证.md",
+      "updated": "2026-10-20",
+      "sha256": "fa36428379f160d124a83a2e9906328ca904b9cce3fb6cea9fcf3d8ab99ab8af"
+    },
+    {
+      "code": "C12",
+      "chapter": "cash",
+      "destination": "tasks/received-20261027/补充材料3/第五次任务延伸合同_贵州茅台现金与资本回报验证.md",
+      "updated": "2026-10-20",
+      "sha256": "da205d95d3157ca474c8e5638749d884d5ede85302f449999b3879741a60d121"
+    },
+    {
+      "code": "C13",
+      "chapter": "lag",
+      "destination": "tasks/received-20261027/补充材料3/第五次任务延伸合同_贵州茅台生产库存销售滞后验证.md",
+      "updated": "2026-10-20",
+      "sha256": "d9da305bedb3f89c3f0a6b4478ced5e55b163f8bb4efd37e734ba5dc6c876261"
+    },
+    {
+      "code": "C14",
+      "chapter": "task06",
+      "destination": "tasks/received-20261027/补充材料3/第六次任务合同_贵州茅台行业竞争与竞争优势.md",
+      "updated": "2026-10-21",
+      "sha256": "0ed8d279fad8598890838f9da3e561c6b7e1cc4a1a9afd5da7103d89f1ef8aa2"
+    },
+    {
+      "code": "C15",
+      "chapter": "task05",
+      "destination": "tasks/received-20261027/早期Lec03/Lec03任务合同_商业模式与竞争优势证据表.md",
+      "updated": "2026-09-23",
+      "sha256": "15b9e92be76a7fe01e9868bd5700d47e6ea3aa4214cd5e2be1a34253c4006f17"
+    }
+  ]
+}
