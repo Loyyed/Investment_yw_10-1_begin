@@ -1,0 +1,46 @@
+{
+  "state": "AgentCalculated / 同口径静态诊断；未新增人工Fact",
+  "inventory": {
+    "finished_2024_t": "17760",
+    "finished_2025_t": "24770.35",
+    "shipments_2025_t": "85104.14",
+    "counterfactual_finished_t": "18137.519102931428168225797393486067184142226898521",
+    "above_2024_intensity_t": "6632.830897068571831774202606513932815857773101479",
+    "intensity_growth_percent": "36.569670082368421720655348772617803243105372943010",
+    "required_stock_decline_fixed_sales_percent": "-26.777299864832639957748689891398114341774634195637",
+    "shipments_2024_t": "83332.76"
+  },
+  "cash_gap_yi": {
+    "2024": "31.2896414253",
+    "2025": "-237.8811984432",
+    "change": "-269.1708398685"
+  },
+  "channel_change_yi": {
+    "platform": "-69.922547",
+    "other_direct": "166.9195952384",
+    "direct_total": "96.9970482384",
+    "residual": "0.00"
+  },
+  "margin_static_yi": {
+    "structure": "6.6392807374044237774356832501",
+    "internal": "-19.866085511138087379322262085",
+    "total": "-13.226804773733662589239067709"
+  },
+  "revenue_floor": {
+    "volume_growth_if_ASP_minus_2_percent": "2.0408163265306122448979591836734693877551020408200",
+    "ASP_floor_if_volume_plus_1_percent": "-0.99009900990099009900990099009900990099009900990100"
+  },
+  "authority": {
+    "status": "current",
+    "authority_records_checked": 147,
+    "dependencies_checked": 56
+  },
+  "domains": {
+    "facts": 144,
+    "change_facts": 2,
+    "lec03_agent_facts": 16,
+    "m01_metric_facts": 15,
+    "m01_scale_facts": 3,
+    "m01_disclosure_facts": 3
+  }
+}
