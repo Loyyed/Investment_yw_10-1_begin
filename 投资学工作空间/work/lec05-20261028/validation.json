@@ -1,0 +1,31 @@
+{
+  "protected_file_count": 309,
+  "protected_unchanged": true,
+  "originals_unchanged": true,
+  "facts": 144,
+  "changes": 2,
+  "teaching_checks": "passed",
+  "task1_judgment_chars": 268,
+  "task3_judgment_chars": 201,
+  "outputs_files": 109,
+  "outputs_bytes": 8113374,
+  "history_commit": "4fa984c6a4e22a7cbc5dfef51e1dda8885e2db6f",
+  "new_human_confirmations": 0,
+  "all_outputs_text_files_checked": 93,
+  "all_output_local_links_valid": true,
+  "new_entry_local_links_checked": 187,
+  "human_teaching_confirmation": {
+    "channel": "actual-user-chat",
+    "actual_user_reply": "确认教学计算与解释",
+    "scope": "只确认展示的延迟路径第1年公式/单位/结果及第3年增速与水平解释；非公司Fact，非独立复核或签署",
+    "displayed": {
+      "year1_asp": "112.50元/件",
+      "year1_revenue": "11250万元",
+      "year1_growth": "2.27%",
+      "year3_delayed_growth": "4.35%",
+      "year3_original_growth": "2.08%",
+      "year3_revenue_comparison": "12000<12250万元，延迟路径前期基数更低"
+    },
+    "calculation_sha256": "5ac5ff0168bf3c02d7dc7676b3626f5462e31c8511a9591286ddace99e16befc"
+  }
+}

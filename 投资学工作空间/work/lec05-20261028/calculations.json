@@ -1,0 +1,83 @@
+{
+  "type": "TeachingAssumption/AgentCalculated",
+  "company_data": false,
+  "revenue_paths": [
+    {
+      "path": "原路径",
+      "year": 0,
+      "quantity_10k": "100",
+      "direct_share": ".20",
+      "asp_yuan": "110.00",
+      "revenue_10k_yuan": "11000.00",
+      "growth": null
+    },
+    {
+      "path": "原路径",
+      "year": 1,
+      "quantity_10k": "100",
+      "direct_share": ".30",
+      "asp_yuan": "115.00",
+      "revenue_10k_yuan": "11500.00",
+      "growth": "0.045454545454545454545454545454545454545"
+    },
+    {
+      "path": "原路径",
+      "year": 2,
+      "quantity_10k": "100",
+      "direct_share": ".40",
+      "asp_yuan": "120.00",
+      "revenue_10k_yuan": "12000.00",
+      "growth": "0.043478260869565217391304347826086956522"
+    },
+    {
+      "path": "原路径",
+      "year": 3,
+      "quantity_10k": "100",
+      "direct_share": ".45",
+      "asp_yuan": "122.50",
+      "revenue_10k_yuan": "12250.00",
+      "growth": "0.020833333333333333333333333333333333333"
+    },
+    {
+      "path": "延迟路径",
+      "year": 0,
+      "quantity_10k": "100",
+      "direct_share": ".20",
+      "asp_yuan": "110.00",
+      "revenue_10k_yuan": "11000.00",
+      "growth": null
+    },
+    {
+      "path": "延迟路径",
+      "year": 1,
+      "quantity_10k": "100",
+      "direct_share": ".25",
+      "asp_yuan": "112.50",
+      "revenue_10k_yuan": "11250.00",
+      "growth": "0.022727272727272727272727272727272727273"
+    },
+    {
+      "path": "延迟路径",
+      "year": 2,
+      "quantity_10k": "100",
+      "direct_share": ".30",
+      "asp_yuan": "115.00",
+      "revenue_10k_yuan": "11500.00",
+      "growth": "0.022222222222222222222222222222222222222"
+    },
+    {
+      "path": "延迟路径",
+      "year": 3,
+      "quantity_10k": "100",
+      "direct_share": ".40",
+      "asp_yuan": "120.00",
+      "revenue_10k_yuan": "12000.00",
+      "growth": "0.043478260869565217391304347826086956522"
+    }
+  ],
+  "pv_10k": "200",
+  "equity_10k": "1315",
+  "per_share": "13.15",
+  "net_debt_10k": "170",
+  "overstatement_per_share": ".70"
+}
