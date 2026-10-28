@@ -1,0 +1,32 @@
+[
+  {
+    "file": "Lec05_V1027_学生材料与任务安排.md",
+    "sha256": "b00bf2b5d95708d2932166c8824d047ec225a36492bedfb35021032afe0472e2",
+    "lines": 68
+  },
+  {
+    "file": "lec05_叙事与估值_V1027_part1.md",
+    "sha256": "d63a5875194f231c0f271ecac715155e8d0230bfa511ac46223c46ee057803c1",
+    "lines": 526
+  },
+  {
+    "file": "lec05_叙事与估值_V1027_part2.md",
+    "sha256": "fd641aea3acf9e929a0429f65bc92fb20ab6dece0f5a221fe08da89180bc8d4b",
+    "lines": 170
+  },
+  {
+    "file": "Lec05任务合同01_V1027_从贵州茅台叙事到预测参数.md",
+    "sha256": "ecb174a6ab8caf50e0e403019ef1100e47b314b36410ed954eedb82cba1fd8c7",
+    "lines": 100
+  },
+  {
+    "file": "Lec05任务合同02_V1027_收入预测路径与一致性检查.md",
+    "sha256": "ebd6a7ed3fe41d8ec633a4d5100ff4c1245e37064abf621ddd0c9c743714e1a2",
+    "lines": 91
+  },
+  {
+    "file": "Lec05任务合同03_V1027_现金流归属与每股价值计算.md",
+    "sha256": "2f3d6e0329eda8b5b2070b43e7a3d51b634e89a3849014406560dbc990b8c33b",
+    "lines": 92
+  }
+]

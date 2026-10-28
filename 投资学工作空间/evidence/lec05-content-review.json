@@ -1,0 +1,46 @@
+{
+  "records": [
+    {
+      "batch_id": "L05-R1",
+      "version": 1,
+      "channel": "actual-user-chat",
+      "actual_user_reply": "暂时为全部认可状态，后续我会继续核算",
+      "state": "provisional-adoption",
+      "actor": "本人（本条未指定姓名，不继承旧leo/lxy）",
+      "saved_at": "2026-10-28T15:06:59.783917+08:00",
+      "timestamp_meaning": "程序保存真实答复的时刻，不是已知聊天精确发送时刻",
+      "displayed_text": "第一批 L05-R1（6项研究判断，版本1）：请结合新版图册审阅。\nR1-01：公司关于销量/价格的解释只确认为公司自述；市场叙事未纳入，不据此认定独立因果。\nR1-02：保留“渠道迁移有条件增加公司确认收入”，不将其直接认作新增终端需求或净贡献。\nR1-03：ASP由同品净价、产品组合、渠道数量结构、折扣共同决定，品牌或直销不能单独决定它。\nR1-04：3P的前两步是条件检验，现有证据不足以给未来净贡献改善赋概率。\nR1-05：t−5系数及后两年修复仍为情景设定，60%增量保留、现金比率不是完整实体FCFF。\nR1-06：优先补同SKU量价、渠道费用与资本责任，新证据按对应变量修正，避免任意同时调所有参数。\n依据：当前有效M01-D02、R2024-07/R2025-17、讲义Part1及现有模型；这批不重复核原数，不包含签署。可整批认可，或列出有异议/待定编号并明确其余是否认可。",
+      "displayed_text_sha256": "cf86abde5cd591a2fcbdc485cfcb6a0004be2963f83926c6b409ccf7b5a4c4bf",
+      "batch_file_sha256": "5be09bd6a9021fdbfd285237703dbfac2485c5e6c54994b97810ee7d0d22e040",
+      "facts_bindings": {
+        "R2024-07": "b18e3abc5535e5084cbaa4355dd9952590003f520697bd2016636cb1c30e46f1",
+        "R2025-17": "bf31f7dfa7d8336cc616fdef37d31c80cf7284ea09b5df3ad60ac26d818220b3",
+        "R2022-10": "23e3470c165098f3577e7610f3e88afa4eb7358ca2d7b6fc24de9beade03d3d0",
+        "R2016-05": "09e6aa4e74eef01b8b65b35e7ae78c8d7cd593d117e606771eb2f00ef5cd882a"
+      },
+      "disclosure": {
+        "id": "M01-D02",
+        "claim": "公司将营业收入变动主要归因于本期销量增加及茅台酒主要产品销售价格调整。",
+        "review_excerpt": "主要是本期销量增加及茅台酒主要产品销售价格调整。",
+        "kind": "company-self-disclosure",
+        "page": 8,
+        "pdf_path": "sources/annual_reports/pdf/600519_2024_贵州茅台_贵州茅台2024年年度报告_2025-04-03.pdf",
+        "pdf_sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+        "submitted_state": "Fact",
+        "registered_at": "2026-10-03T15:01:12+08:00",
+        "actor": "",
+        "channel": "actual-user-chat",
+        "support_boundary": "只证明公司作出该披露；原因解释本身的真实性、品牌机制及持续性另行验证",
+        "state": "Fact",
+        "stale_reason": ""
+      },
+      "model_path": "work/t5-forecast-20261027/report-spec.json",
+      "model_sha256": "3787ab353b187801d71087d53fbb991ec38714ce12aa43565680594845153024",
+      "source_manifest_path": "work/lec05-depth-20261028/reading-manifest.json",
+      "source_manifest_sha256": "f46e0bef5989fb9381cdfd5becad1a5f9f91c759969f400274067fcb2f337e22",
+      "scope": "仅实际展示六项判断，暂时认可并继续核算；不覆盖R2/R3、其他扩展、公司原数、正式签署或合同关闭",
+      "new_company_fact": false,
+      "signature": null
+    }
+  ]
+}

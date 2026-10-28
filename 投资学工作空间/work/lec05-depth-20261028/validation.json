@@ -1,0 +1,56 @@
+{
+  "authority": {
+    "status": "current",
+    "authority_records_checked": 147,
+    "dependencies_checked": 56
+  },
+  "protected_files": 336,
+  "protected_unchanged": true,
+  "contracts_acceptance_items": 18,
+  "teaching_extensions_checked": true,
+  "figures": 8,
+  "source_files_unchanged": true,
+  "integration_idempotent": true,
+  "batches": [
+    "L05-R1",
+    "L05-R2",
+    "L05-R3"
+  ],
+  "new_fact": 0,
+  "new_adoption": 0,
+  "new_signature": 0,
+  "layout_and_links": {
+    "local_links_checked": 3372,
+    "missing": [],
+    "layouts": [
+      {
+        "width": 1440,
+        "docWidth": 1419,
+        "figures": 8,
+        "overflow": [],
+        "errors": []
+      },
+      {
+        "width": 390,
+        "docWidth": 390,
+        "figures": 8,
+        "overflow": [],
+        "errors": []
+      }
+    ],
+    "screenshots": 8,
+    "visual_review": "screenshots ready"
+  },
+  "new_final_adoption": 0,
+  "new_provisional_adoption_items": 6,
+  "current_review": [
+    {
+      "batch_id": "L05-R1",
+      "state": "provisionally-current",
+      "actual_reply": "暂时为全部认可状态，后续我会继续核算",
+      "item_count": 6,
+      "errors": []
+    }
+  ],
+  "visual_review": "Desktop all three units and mobile bridge visually inspected; no clipping"
+}
