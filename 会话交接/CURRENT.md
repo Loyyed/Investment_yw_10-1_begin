@@ -44,3 +44,8 @@
 定向学习Lec05两册与三份合同；outputs/02_Lec05叙事与估值有三份成果、八行教学计算及集中核对卡。原合同待教师审核，学生亲查/裁决/签署未发生。“好的”仅接受协作安排；本人允许集中核对。ReviewStore有效facts144/change2，无新Fact。图册V2.2增加第15章及两图，原t−5参数与01_路演与讲稿字节不变。outputs历史先存Git并核验远端后移除archive，重复整页改兼容入口，受绑定专题留原路径。说明docs/20261028-lec05-output-management.md。图册重建后运行integrate_lec05_atlas.py再更新目录；organize_outputs.py不再备份。后续每次修改提交并push，原件不上传。
 
 本人随后明确“确认教学计算与解释”：仅本轮展示的延迟路径第1年及第3年比较，真实答复与计算指纹另见work/lec05-20261028/validation.json；非新公司Fact/签署。主工作空间明确为投资学工作空间，课件与任务文件只作只读材料窗口；临时实施包迁回work/lec05-20261028/implementation。
+
+
+## 2026-10-28二次输出精简
+
+按本人再次要求，完整重复分章目录已撤下，旧入口撤下，方法图表集中到outputs/03_方法与图表；当前入口按用途分类。历史原字节已在GitHub提交07b72cb19707fa64e7b0aef92def74842c4269c6核验，outputs不保留物理历史。01_路演与讲稿与原核验/采纳绑定文件保持字节；事实/来源动态验证通过。方法说明docs/20261028-output-policy.md，清单与回执work/output-management-20261028；以后每次修改提交并push同一公司远端，不创建outputs历史备份。

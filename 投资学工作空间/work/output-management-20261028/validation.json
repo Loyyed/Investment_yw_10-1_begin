@@ -1,0 +1,20 @@
+{
+  "before_files": 109,
+  "after_files": 73,
+  "before_bytes": 8114085,
+  "after_bytes": 3758175,
+  "history_commit": "07b72cb19707fa64e7b0aef92def74842c4269c6",
+  "protected_files": 363,
+  "roadshow_unchanged": true,
+  "fact_domains": {
+    "facts": 144,
+    "change_facts": 2,
+    "lec03_agent_facts": 16,
+    "m01_metric_facts": 15,
+    "m01_scale_facts": 3,
+    "m01_disclosure_facts": 3
+  },
+  "authority_unchanged": true,
+  "local_links_checked": 3359,
+  "missing_links": 0
+}
