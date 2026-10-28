@@ -42,13 +42,27 @@
     "visual_review": "screenshots ready"
   },
   "new_final_adoption": 0,
-  "new_provisional_adoption_items": 6,
+  "new_provisional_adoption_items": 16,
   "current_review": [
     {
       "batch_id": "L05-R1",
       "state": "provisionally-current",
       "actual_reply": "暂时为全部认可状态，后续我会继续核算",
       "item_count": 6,
+      "errors": []
+    },
+    {
+      "batch_id": "L05-R2",
+      "state": "provisionally-current",
+      "actual_reply": "暂时认可，后续继续核算",
+      "item_count": 5,
+      "errors": []
+    },
+    {
+      "batch_id": "L05-R3",
+      "state": "provisionally-current",
+      "actual_reply": "暂时认可，后续继续核算",
+      "item_count": 5,
       "errors": []
     }
   ],

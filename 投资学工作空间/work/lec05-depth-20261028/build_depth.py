@@ -4,6 +4,7 @@ import json,hashlib,sys,re,html,subprocess,time,ast,os
 getcontext().prec=48
 R=Path('D:/投资学');W=R/'投资学工作空间';B=R/'课件与任务文件/补充材料4';O=W/'outputs';C=O/'02_Lec05叙事与估值';P=W/'work/lec05-depth-20261028'
 P.mkdir(parents=True,exist_ok=True)
+if (W/'evidence/lec05-content-review.json').exists():raise RuntimeError('已存在真实人审记录；停止覆盖。请编辑当前文档/图册缓存并校验批次语义，不重跑一次性作者程序。')
 def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()
 def write(p,t):p.parent.mkdir(parents=True,exist_ok=True);p.write_text(t,encoding='utf8')
 def js(p,v):write(p,json.dumps(v,ensure_ascii=False,indent=2)+'\n')

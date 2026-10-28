@@ -40,7 +40,61 @@
       "source_manifest_sha256": "f46e0bef5989fb9381cdfd5becad1a5f9f91c759969f400274067fcb2f337e22",
       "scope": "仅实际展示六项判断，暂时认可并继续核算；不覆盖R2/R3、其他扩展、公司原数、正式签署或合同关闭",
       "new_company_fact": false,
-      "signature": null
+      "signature": null,
+      "item_count": 6
+    },
+    {
+      "batch_id": "L05-R2",
+      "version": 1,
+      "channel": "actual-user-chat",
+      "actual_user_reply": "暂时认可，后续继续核算",
+      "state": "provisional-adoption",
+      "actor": "本人（未指定新姓名）",
+      "saved_at": "2026-10-28T15:10:36.885402+08:00",
+      "timestamp_meaning": "程序保存时刻，不冒称精确聊天发送时刻",
+      "displayed_text": "第二批 L05-R2（剩余教学与计算口径，版本1；前次确认的一年计算及增速解释继续保留）：\nR2-01：原路径三年收入11500/12000/12250万元，延迟路径11250/11500/12000万元，差250/500/250万元，累计1000万元；这是未折现收入差，不是利润、现金流或价值差。\nR2-02：同一教学基期直销数量占比20%，因直销价150、经销价100，直销收入占比=20%×150÷110=27.2727%，不能拿收入份额替代数量份额。\nR2-03：合同03独立练习A，一年后FCFF220万元按WACC10%折现=200万元；只是一笔现值，不是完整公司价值，不能改用12%股权成本。\nR2-04：独立练习B，1500+110+60−280−75=1315万元；除100万股=13.15元/股。经营现金70已在经营价值中，全部现金加回将高估0.70元/股；净债务280−110=170万元可用另一列式复核。\nR2-05：讲义另一独立风险例，70%×1000+30%×600=880万元预期FCFF，按10%折现=800万元；不能只把1000按12%折现来代替经营损失分析。\n全部为教学设定，不是茅台事实或目标价。可整批认可、暂时认可，或列明有异议/待核编号及其余是否认可。",
+      "displayed_text_sha256": "02a6a26978699e51607aa74ae76c55db036fb337656089c4f966c47c61104ba6",
+      "batch_file_sha256": "ccd01930665843fc83560f62d1c4358501d262c8adc36500dd4801a9495f38f5",
+      "facts_bindings": {},
+      "source_manifest_path": "work/lec05-depth-20261028/reading-manifest.json",
+      "source_manifest_sha256": "f46e0bef5989fb9381cdfd5becad1a5f9f91c759969f400274067fcb2f337e22",
+      "source_artifacts": {
+        "work/lec05-20261028/calculations.json": "5ac5ff0168bf3c02d7dc7676b3626f5462e31c8511a9591286ddace99e16befc",
+        "work/lec05-depth-20261028/extended-calculations.json": "32b3140f35aee97f2f2c5d1061b83f7e6c2a53b7cb3af540aeaa2691e46c631d"
+      },
+      "item_count": 5,
+      "scope": "只覆盖实际展示本批五项，暂时认可并保留继续核算；不产生公司Fact、签署、教师批准或正式关闭",
+      "new_company_fact": false,
+      "signature": null,
+      "type": "teaching-review"
+    },
+    {
+      "batch_id": "L05-R3",
+      "version": 1,
+      "channel": "actual-user-chat",
+      "actual_user_reply": "暂时认可，后续继续核算",
+      "state": "provisional-adoption",
+      "actor": "本人（未指定新姓名）",
+      "saved_at": "2026-10-28T15:10:36.885402+08:00",
+      "timestamp_meaning": "程序保存时刻，不冒称精确聊天发送时刻",
+      "displayed_text": "第三批 L05-R3（真实估值范围与延伸适用性，版本1）：\nR3-01：先研究酒类经营现金与资本，再识别财务公司权益及内部抵销。这是建议研究路径，尚未完成实体拆分；整体股权口径也可研究，但须保持一致。\nR3-02：合并CFO不能直接当酒类FCFF；经营必需现金、受限现金及金融业务资金不能全部直接加回。\nR3-03：已计入经营预测的存货、厂房、品牌等不重复加值；仅在经营价值包含100%子公司现金时，才扣匹配的少数股东权益价值。\nR3-04：实体现金与权利资料未齐时，暂停真实每股数值，不补造目标价、WACC或终值；不影响完成本组完整教学计算。\nR3-05：平台GMV与净佣金、轻资产必要投入、品牌稀缺性权衡属于方法延伸，不能直接转成茅台Fact；原t−5模型数值与路演讲稿本轮不变。\n依据为任务03范围表、Part2第4.2—4.6节及已核合并范围。请整批认可、暂时认可，或列明异议/待定编号；这批不包含正式签署或教师审核。",
+      "displayed_text_sha256": "cfa0cc0b24f4dca82717c724fc10598be07622ccccc32aab935e379382af0c6d",
+      "batch_file_sha256": "1a32a26525a415b3688ee4d6aa19bf625cf055b2ebea943e776e83947283789d",
+      "facts_bindings": {
+        "R2025-21": "36bb4ce18a2fb2c8d3ed025cbc59d625f35b02bdf330c8121f2483dabdcd11ee",
+        "R2012-01": "da0d3bae5cd5547b416f9e77cbe83b776b5f3502684df14cbe4d62df52d0d038",
+        "R2016-05": "09e6aa4e74eef01b8b65b35e7ae78c8d7cd593d117e606771eb2f00ef5cd882a"
+      },
+      "source_manifest_path": "work/lec05-depth-20261028/reading-manifest.json",
+      "source_manifest_sha256": "f46e0bef5989fb9381cdfd5becad1a5f9f91c759969f400274067fcb2f337e22",
+      "source_artifacts": {},
+      "item_count": 5,
+      "scope": "只覆盖实际展示本批五项，暂时认可并保留继续核算；不产生公司Fact、签署、教师批准或正式关闭",
+      "new_company_fact": false,
+      "signature": null,
+      "type": "research-scope-review",
+      "model_path": "work/t5-forecast-20261027/report-spec.json",
+      "model_sha256": "3787ab353b187801d71087d53fbb991ec38714ce12aa43565680594845153024"
     }
   ]
 }
