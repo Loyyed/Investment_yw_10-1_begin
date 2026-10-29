@@ -1,0 +1,16 @@
+{
+  "company": {
+    "commit": "e89bfb1dd69f63b5151e404a9a6c7048f282cf10",
+    "remote_head": "e89bfb1dd69f63b5151e404a9a6c7048f282cf10",
+    "remote": "https://github.com/Loyyed/Investment_yw_10-1_begin",
+    "files": 27,
+    "raw_sources_uploaded": false
+  },
+  "toolkit": {
+    "commit": "69872e42ff6dd27121fd6b14cf7bfba0f43edca0",
+    "remote_head": "69872e42ff6dd27121fd6b14cf7bfba0f43edca0",
+    "remote": "https://github.com/Loyyed/Investment_yw_finaltask",
+    "files": 8,
+    "raw_sources_uploaded": false
+  }
+}

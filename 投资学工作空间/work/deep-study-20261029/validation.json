@@ -33,7 +33,10 @@
       390,
       844
     ],
-    "mobile_document_width": 390
+    "mobile_document_width": 390,
+    "entry_click_to_new_report": true,
+    "chart_common_scale_and_mobile_scroll": true
   },
-  "notes": "三模块名称导入曾失败，改用unittest discover实际通过；图表比例及现金文字已经修正。"
+  "notes": "三模块名称导入曾失败，改用unittest discover实际通过；图表比例及现金文字已经修正。",
+  "raw_source_payloads_local_only": true
 }

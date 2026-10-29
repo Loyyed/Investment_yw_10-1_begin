@@ -1,6 +1,8 @@
 from pathlib import Path
 import json,shutil,re,hashlib,sys
 sys.stdout.reconfigure(encoding='utf-8');r=Path(__file__).parent;w=Path('D:/投资学/投资学工作空间');b=Path('D:/投资学/投资学公司分析通用工作台');out=w/'work/deep-study-20261029';od=w/'outputs/04_研究深化'
+def copy(src,dst):
+ if Path(src).resolve()!=Path(dst).resolve():shutil.copy2(src,dst)
 def put(p,s):p.parent.mkdir(exist_ok=True,parents=True);p.write_text(s,encoding='utf-8')
 kb=json.loads((r/'knowledge.json').read_text(encoding='utf-8'))
 cards='\n'.join('### '+c['id']+' '+c['title']+'\n\n'+c['method']+'\n\n边界：'+c['stop']+'\n\n出处：'+c['source']+'；PDF物理页'+str(c['pdf_physical_pages'])+'。\n' for c in kb['cards'])
@@ -36,11 +38,11 @@ for p in [w/'outputs/证券投资分析研究图册_V2.2.html']:
   put(p,s)
 # Copy only original authoring inputs/code; full third-party text and PDFs stay ignored.
 impl=out/'implementation';impl.mkdir(exist_ok=True)
-for name in ['web-access.json','build_upgrade.py','report-template.md','learning.md','finalize.py','tests_depth.py','research_depth.py','knowledge.json']:shutil.copy2(r/name,impl/name)
+for name in ['web-access.json','build_upgrade.py','report-template.md','learning.md','finalize.py','tests_depth.py','research_depth.py','knowledge.json']:copy(r/name,impl/name)
 put(impl/'README.md','本轮原作者程序。主空间ReviewStore及原报告须在本地有效。build_upgrade.py从本目录official原始PDF的页缓存读取；原件不随Git发布，按上级external-source-register.json的URL取回、校验SHA后用PyMuPDF逐页提取再运行。运行build_upgrade.py后运行finalize.py。临时OCR/网页全文与QA仅本地。重跑不写人工核验；新的实际人工修改发生后先比较差异，不直接覆盖成果。\n')
 # Generic module source warning repaired without changing runtime expression.
 p=b/'companybench/research_depth.py';s=p.read_text(encoding='utf-8');s=s.replace('split(/'+chr(92)+'s+/)','split(/'+chr(92)+chr(92)+'s+/)');put(p,s)
-shutil.copy2(r/'tests_depth.py',b/'tests/test_research_depth.py')
+copy(r/'tests_depth.py',b/'tests/test_research_depth.py')
 put(b/'docs/2026-10-29-研究深化与知识库.md','''# 研究深化与可检索知识库
 
 2026-10-29。侧栏新增“研究方法知识库”，不选公司也可打开/knowledge，按问题/术语检索20张卡。每卡含方法、来源、原PDF物理页与停止条件。不声称已精读整本801页教材；详见公司学习记录。

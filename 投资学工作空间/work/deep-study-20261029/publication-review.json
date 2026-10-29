@@ -1,0 +1,181 @@
+{
+  "company": [
+    {
+      "path": "会话交接/CURRENT.md",
+      "sha256": "348ef925d4767ce739d61efcc2cc778b736a178546d5c656d85ef0c0fa5e49a0",
+      "bytes": 11420
+    },
+    {
+      "path": "投资学工作空间/outputs/00_从这里开始.html",
+      "sha256": "2d4d032ab56e937004f17d05185d989ff11eeef0c6a976540512545a28b1936b",
+      "bytes": 6709
+    },
+    {
+      "path": "投资学工作空间/outputs/04_研究深化/增长质量与价值兑现.html",
+      "sha256": "f781bc4c70e703c5af6e76d0ddebb7a4032e2ca9218679f2fdf04e8f18eff194",
+      "bytes": 19616
+    },
+    {
+      "path": "投资学工作空间/outputs/04_研究深化/增长质量与价值兑现.md",
+      "sha256": "5de9934d20be0ef18f02bd7b73ce67b45ead2c001ab4566114c017c3071cf922",
+      "bytes": 14312
+    },
+    {
+      "path": "投资学工作空间/outputs/04_研究深化/学习与方法知识库.md",
+      "sha256": "669b20e39b57e63b3211b1296313e5117b7cefacfb950b8f2284ec0e26886bb0",
+      "bytes": 11490
+    },
+    {
+      "path": "投资学工作空间/outputs/04_研究深化/研究更新_口头汇报与答辩.md",
+      "sha256": "68ba2290c57845e84d9fe5f78a530a3f51eb5bea423f9d54cee0e2b8dd2b916c",
+      "bytes": 2290
+    },
+    {
+      "path": "投资学工作空间/outputs/证券投资分析研究图册_V2.2.html",
+      "sha256": "f5a6b2666167e526b604fc7d1f685366762c4d20fcdd0ffe3a61e7ea79859a21",
+      "bytes": 1135501
+    },
+    {
+      "path": "投资学工作空间/work/deep-study-20261029/.gitignore",
+      "sha256": "25485b7222a07c3ecffe0ff7befeb6087ea0283b72e1dacff68a105be1538332",
+      "bytes": 35
+    },
+    {
+      "path": "投资学工作空间/work/deep-study-20261029/calculations.json",
+      "sha256": "b8766d5606fcdec0317ab5d37b3ee89c11dc0c7dafc8b35662a782df0ff3a964",
+      "bytes": 16945
+    },
+    {
+      "path": "投资学工作空间/work/deep-study-20261029/current-authority-audit.json",
+      "sha256": "6d9ac0697de2adad12c075cfc45c254a554eb1cfe8f616115c798aa8dea6847f",
+      "bytes": 279
+    },
+    {
+      "path": "投资学工作空间/work/deep-study-20261029/external-source-register.json",
+      "sha256": "a40b4d3e2892782703524e27cc6e094d0cf5303cf4f7a7c6bc984e2117cf0de1",
+      "bytes": 8876
+    },
+    {
+      "path": "投资学工作空间/work/deep-study-20261029/implementation/README.md",
+      "sha256": "426f6fd85a3a97fa3e4e4b80f3ea78b81104b510767b094a73f65da2d6c10b34",
+      "bytes": 454
+    },
+    {
+      "path": "投资学工作空间/work/deep-study-20261029/implementation/build_upgrade.py",
+      "sha256": "80ed31cbba0ebba6ff093ecd721aeffc7a56dc77c682d313367e41771aed97de",
+      "bytes": 14934
+    },
+    {
+      "path": "投资学工作空间/work/deep-study-20261029/implementation/finalize.py",
+      "sha256": "1085f9086cb4239cbc33d061f51a40dff700a24d344591fd07a134cae575aa95",
+      "bytes": 7063
+    },
+    {
+      "path": "投资学工作空间/work/deep-study-20261029/implementation/handover_publish_prep.py",
+      "sha256": "893feefdeb8705294cbfbae30721a1127c97c6b7d24ddc0b1c6a88b62c0b3383",
+      "bytes": 7824
+    },
+    {
+      "path": "投资学工作空间/work/deep-study-20261029/implementation/knowledge.json",
+      "sha256": "cf4d089fe0515f6611b35255579e9966523292826a1dba0cb6310ad25e801990",
+      "bytes": 9759
+    },
+    {
+      "path": "投资学工作空间/work/deep-study-20261029/implementation/learning.md",
+      "sha256": "5e9aa8db76d1be4473ed11c19530b53e02a82efe0d58e2a47ee90a5073c1e324",
+      "bytes": 5345
+    },
+    {
+      "path": "投资学工作空间/work/deep-study-20261029/implementation/report-template.md",
+      "sha256": "d8a5b1626e24e7f6cae0b384382b6a01002ea02ded03e47285ac40bfa1eb6afc",
+      "bytes": 9770
+    },
+    {
+      "path": "投资学工作空间/work/deep-study-20261029/implementation/research_depth.py",
+      "sha256": "c8244c263d3733d7ba083250756c4f292c8fe020eee9a984aa1adf4495b69a5a",
+      "bytes": 6834
+    },
+    {
+      "path": "投资学工作空间/work/deep-study-20261029/implementation/tests_depth.py",
+      "sha256": "66d90e8d8517ba20f3426cee55b335353dfe49d08c77543e6f4b977b32dac635",
+      "bytes": 2461
+    },
+    {
+      "path": "投资学工作空间/work/deep-study-20261029/implementation/web-access.json",
+      "sha256": "35543d27b927e55edee1815e4fecb1b8dd215bd9f46b38fa377eb5a286a1b32c",
+      "bytes": 7352
+    },
+    {
+      "path": "投资学工作空间/work/deep-study-20261029/publication-scope.json",
+      "sha256": "5152816e32f0de72ad483fd0a9f84d50b0ee4ed05857500734d55662fabcd3de",
+      "bytes": 2458
+    },
+    {
+      "path": "投资学工作空间/work/deep-study-20261029/revenue-inputs.json",
+      "sha256": "461ef5552583839793cb127b147ef19cf97846516de05b5c8cf1473493897c14",
+      "bytes": 2941
+    },
+    {
+      "path": "投资学工作空间/work/deep-study-20261029/source-reading-coverage.json",
+      "sha256": "39d3d73fdebbe43d27e8065fb03e06ce90a816ac43b7ec347f927c9594762494",
+      "bytes": 435
+    },
+    {
+      "path": "投资学工作空间/work/deep-study-20261029/validation.json",
+      "sha256": "8b54c85e22904934a73f06cbf0504dff2656267e3dcd9472e2b3aaab83702341",
+      "bytes": 971
+    },
+    {
+      "path": "投资学工作空间/work/deep-study-20261029/web-access.json",
+      "sha256": "35543d27b927e55edee1815e4fecb1b8dd215bd9f46b38fa377eb5a286a1b32c",
+      "bytes": 7352
+    },
+    {
+      "path": "投资学工作空间/work/deep-study-20261029/修正与冲突.md",
+      "sha256": "ec764e31a8c85d049194fe19fa2b5b6c4f21d97473352a9cfd7a9078249e9f1d",
+      "bytes": 2103
+    }
+  ],
+  "toolkit": [
+    {
+      "path": "README.md",
+      "sha256": "c7eea15f4cb7a6fd6eab664c3237fbe29fbc754ac02f9b48bf6ffa926a732ed3",
+      "bytes": 8144
+    },
+    {
+      "path": "会话交接/CURRENT.md",
+      "sha256": "9eac6bdf7de71fedfd3e6ec03817a5f5054977de9905806276b6e0d226fbe8a2",
+      "bytes": 7147
+    },
+    {
+      "path": "companybench/research_depth.py",
+      "sha256": "c8244c263d3733d7ba083250756c4f292c8fe020eee9a984aa1adf4495b69a5a",
+      "bytes": 6834
+    },
+    {
+      "path": "companybench/knowledge.json",
+      "sha256": "cf4d089fe0515f6611b35255579e9966523292826a1dba0cb6310ad25e801990",
+      "bytes": 9759
+    },
+    {
+      "path": "companybench/portal.py",
+      "sha256": "a3d4ea938fff6c057302bc2ac307b1a45b4f89c65879997e5ec1e3489b6e5379",
+      "bytes": 18389
+    },
+    {
+      "path": "companybench/ui.html",
+      "sha256": "fc94a1f4bde59eb9282cc7756b41a752a73fa10e51aab78535904a412e99f0af",
+      "bytes": 3290
+    },
+    {
+      "path": "tests/test_research_depth.py",
+      "sha256": "66d90e8d8517ba20f3426cee55b335353dfe49d08c77543e6f4b977b32dac635",
+      "bytes": 2461
+    },
+    {
+      "path": "docs/2026-10-29-研究深化与知识库.md",
+      "sha256": "4a22c7818df3c9d2fb9cd2c4dccbe3cc1a0ef2402f94dac70fc7aa5327c9d50e",
+      "bytes": 1502
+    }
+  ]
+}
