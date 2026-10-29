@@ -1,0 +1,1 @@
+本轮原作者程序。主空间ReviewStore及原报告须在本地有效。build_upgrade.py从本目录official原始PDF的页缓存读取；原件不随Git发布，按上级external-source-register.json的URL取回、校验SHA后用PyMuPDF逐页提取再运行。运行build_upgrade.py后运行finalize.py。临时OCR/网页全文与QA仅本地。重跑不写人工核验；新的实际人工修改发生后先比较差异，不直接覆盖成果。

@@ -1,0 +1,28 @@
+{
+  "book": "博迪投资学.pdf",
+  "book_total_pages": 801,
+  "usable_text_pages": 0,
+  "ocr_single_pages": 164,
+  "whole_book_deep_read": false,
+  "key_sections": [
+    9,
+    11,
+    12,
+    17,
+    18,
+    19,
+    28
+  ],
+  "web_readable": [
+    1,
+    2,
+    4,
+    5,
+    6,
+    7
+  ],
+  "web_pending": [
+    3
+  ],
+  "book_sha256": "ace2e19bfc2be5a2853cc5e37666cb5a4b13bc2c1e77cb5abcc537103c3d124a"
+}

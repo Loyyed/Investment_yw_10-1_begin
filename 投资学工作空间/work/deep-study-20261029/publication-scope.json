@@ -1,0 +1,41 @@
+{
+  "company": [
+    "会话交接/CURRENT.md",
+    "投资学工作空间/outputs/00_从这里开始.html",
+    "投资学工作空间/outputs/04_研究深化/增长质量与价值兑现.html",
+    "投资学工作空间/outputs/04_研究深化/增长质量与价值兑现.md",
+    "投资学工作空间/outputs/04_研究深化/学习与方法知识库.md",
+    "投资学工作空间/outputs/04_研究深化/研究更新_口头汇报与答辩.md",
+    "投资学工作空间/outputs/证券投资分析研究图册_V2.2.html",
+    "投资学工作空间/work/deep-study-20261029/.gitignore",
+    "投资学工作空间/work/deep-study-20261029/calculations.json",
+    "投资学工作空间/work/deep-study-20261029/current-authority-audit.json",
+    "投资学工作空间/work/deep-study-20261029/external-source-register.json",
+    "投资学工作空间/work/deep-study-20261029/implementation/README.md",
+    "投资学工作空间/work/deep-study-20261029/implementation/build_upgrade.py",
+    "投资学工作空间/work/deep-study-20261029/implementation/finalize.py",
+    "投资学工作空间/work/deep-study-20261029/implementation/handover_publish_prep.py",
+    "投资学工作空间/work/deep-study-20261029/implementation/knowledge.json",
+    "投资学工作空间/work/deep-study-20261029/implementation/learning.md",
+    "投资学工作空间/work/deep-study-20261029/implementation/report-template.md",
+    "投资学工作空间/work/deep-study-20261029/implementation/research_depth.py",
+    "投资学工作空间/work/deep-study-20261029/implementation/tests_depth.py",
+    "投资学工作空间/work/deep-study-20261029/implementation/web-access.json",
+    "投资学工作空间/work/deep-study-20261029/publication-scope.json",
+    "投资学工作空间/work/deep-study-20261029/revenue-inputs.json",
+    "投资学工作空间/work/deep-study-20261029/source-reading-coverage.json",
+    "投资学工作空间/work/deep-study-20261029/validation.json",
+    "投资学工作空间/work/deep-study-20261029/web-access.json",
+    "投资学工作空间/work/deep-study-20261029/修正与冲突.md"
+  ],
+  "toolkit": [
+    "README.md",
+    "会话交接/CURRENT.md",
+    "companybench/research_depth.py",
+    "companybench/knowledge.json",
+    "companybench/portal.py",
+    "companybench/ui.html",
+    "tests/test_research_depth.py",
+    "docs/2026-10-29-研究深化与知识库.md"
+  ]
+}

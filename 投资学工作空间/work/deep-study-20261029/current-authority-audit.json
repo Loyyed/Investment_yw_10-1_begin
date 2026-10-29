@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-29",
+  "domains": {
+    "facts": 144,
+    "change_facts": 2,
+    "m01_metric_facts": 15,
+    "m01_disclosure_facts": 3,
+    "m01_scale_facts": 3,
+    "lec03_agent_facts": 16
+  },
+  "current_dependencies": 56,
+  "new_human_confirmation": false
+}

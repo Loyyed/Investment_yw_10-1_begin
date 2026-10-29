@@ -1,0 +1,39 @@
+{
+  "authority_domains": {
+    "facts": 144,
+    "change_facts": 2,
+    "m01_metric_facts": 15,
+    "m01_disclosure_facts": 3,
+    "m01_scale_facts": 3,
+    "lec03_agent_facts": 16
+  },
+  "old_spec_dependencies_current": 56,
+  "protected_ledgers_unchanged": 62,
+  "exact_annual_bridges": 5,
+  "external_observation_groups": 15,
+  "external_string_page_checks": 40,
+  "h1_three_dimensions_equal": true,
+  "new_human_fact_or_signature": false,
+  "test_results": {
+    "research_depth": 9,
+    "methods": 9,
+    "workflow": 22
+  },
+  "browser": {
+    "knowledge_cards": 20,
+    "income_query_visible": 7,
+    "sidebar_link": 1,
+    "report_tables": 8,
+    "report_sections": 13,
+    "desktop": [
+      1440,
+      1000
+    ],
+    "mobile": [
+      390,
+      844
+    ],
+    "mobile_document_width": 390
+  },
+  "notes": "三模块名称导入曾失败，改用unittest discover实际通过；图表比例及现金文字已经修正。"
+}

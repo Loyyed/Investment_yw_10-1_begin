@@ -1,0 +1,317 @@
+{
+  "authorization": "2026-10-29本人允许突破数据来源限制，广泛取可信数据并标出处；不等于原数人工确认",
+  "sources": [
+    {
+      "id": "2026H1",
+      "url": "https://www.moutaichina.com/mtgf/articleFileDir/2026-08/17/4e7fcb11527a431daae2e84ef6f5864f.pdf",
+      "retrieved": "2026-10-29",
+      "sha256": "0e10aa26be46b1cf3cd03f06e834c7fb98d5dd0d661b96f8fddd4af7e846a4f6",
+      "pages": 110,
+      "verifier": "Agent",
+      "human_confirmation": false,
+      "state": "ExternalSourceChecked"
+    },
+    {
+      "id": "price-0331",
+      "url": "https://www.moutaichina.com/mtgf/articleFileDir/2026-03/31/ae552ad3afed47708e1a246f18f830b4.pdf",
+      "retrieved": "2026-10-29",
+      "sha256": "825063243da4ba1ac12ab454821db4b6a9f90f4ddf88e31884ce058809bf1db1",
+      "pages": 1,
+      "verifier": "Agent",
+      "human_confirmation": false,
+      "state": "ExternalSourceChecked"
+    },
+    {
+      "id": "price-0718",
+      "url": "https://www.moutaichina.com/mtgf/articleFileDir/2026-08/05/e327cac973cc46caa90ef2b21f834b05.pdf",
+      "retrieved": "2026-10-29",
+      "sha256": "24e51c43dfc6da7d3a19c67b88081715a3a3b4a26c2d83ec51a557e3e5692873",
+      "pages": 1,
+      "verifier": "Agent",
+      "human_confirmation": false,
+      "state": "ExternalSourceChecked"
+    },
+    {
+      "id": "2026Q1-operating",
+      "url": "https://www.moutaichina.com/mtgf/articleFileDir/2026-04/27/cc2250623c8b446891bbecf74f51839e.pdf",
+      "retrieved": "2026-10-29",
+      "sha256": "6634383a0c0c5c25f23886407666c41333496f2d1f22797eccf54c01bb3ef700",
+      "pages": 1,
+      "verifier": "Agent",
+      "human_confirmation": false,
+      "state": "ExternalSourceChecked"
+    },
+    {
+      "id": "2026Q1",
+      "url": "https://www.moutaichina.com/mtgf/articleFileDir/2026-04/27/3b584de59d4349158f5907e25e7a4b3e.pdf",
+      "retrieved": "2026-10-29",
+      "sha256": "ca10d0e4fb3a1e4e9f258c04fc4c62000968f337a9b0bf6f714d4f153536d363",
+      "pages": 12,
+      "verifier": "Agent",
+      "human_confirmation": false,
+      "state": "ExternalSourceChecked"
+    },
+    {
+      "id": "2025H1",
+      "url": "https://www.moutaichina.com/mtgf/articleFileDir/2025-08/18/371190afa8d449cebff9cc34dd01014b.pdf",
+      "retrieved": "2026-10-29",
+      "sha256": "c80fb7180169469053c396e65315414368bcfa9f1f1d4e3bf793c8fb327e6b0c",
+      "pages": 103,
+      "verifier": "Agent",
+      "human_confirmation": false,
+      "state": "ExternalSourceChecked"
+    }
+  ],
+  "observations": [
+    {
+      "id": "X01",
+      "source_id": "2026H1",
+      "page": 5,
+      "label": "营业收入",
+      "values": [
+        "90,703,260,964.48",
+        "89,389,354,416.84"
+      ],
+      "unit": "人民币元",
+      "period": "2026H1/2025H1",
+      "scope": "合并",
+      "verifier": "Agent",
+      "human_confirmation": false,
+      "state": "ExternalSourceChecked"
+    },
+    {
+      "id": "X02",
+      "source_id": "2026H1",
+      "page": 5,
+      "label": "归母净利润",
+      "values": [
+        "44,516,880,421.86",
+        "45,402,962,298.10"
+      ],
+      "unit": "人民币元",
+      "period": "2026H1/2025H1",
+      "scope": "合并",
+      "verifier": "Agent",
+      "human_confirmation": false,
+      "state": "ExternalSourceChecked"
+    },
+    {
+      "id": "X03",
+      "source_id": "2026H1",
+      "page": 5,
+      "label": "合并CFO",
+      "values": [
+        "70,690,750,119.06",
+        "13,119,061,031.33"
+      ],
+      "unit": "人民币元",
+      "period": "2026H1/2025H1",
+      "scope": "合并",
+      "verifier": "Agent",
+      "human_confirmation": false,
+      "state": "ExternalSourceChecked"
+    },
+    {
+      "id": "X04",
+      "source_id": "2026H1",
+      "page": 7,
+      "label": "营业成本",
+      "values": [
+        "9,473,762,565.88",
+        "7,777,491,083.93"
+      ],
+      "unit": "人民币元",
+      "period": "2026H1/2025H1",
+      "scope": "合并",
+      "verifier": "Agent",
+      "human_confirmation": false,
+      "state": "ExternalSourceChecked"
+    },
+    {
+      "id": "X05",
+      "source_id": "2026H1",
+      "page": 7,
+      "label": "销售费用",
+      "values": [
+        "3,206,308,341.53",
+        "3,260,462,949.46"
+      ],
+      "unit": "人民币元",
+      "period": "2026H1/2025H1",
+      "scope": "合并",
+      "verifier": "Agent",
+      "human_confirmation": false,
+      "state": "ExternalSourceChecked"
+    },
+    {
+      "id": "X06",
+      "source_id": "2026H1",
+      "page": 75,
+      "label": "税金及附加",
+      "values": [
+        "14,682,159,453.47",
+        "13,942,384,581.48"
+      ],
+      "unit": "人民币元",
+      "period": "2026H1/2025H1",
+      "scope": "合并",
+      "verifier": "Agent",
+      "human_confirmation": false,
+      "state": "ExternalSourceChecked"
+    },
+    {
+      "id": "X07",
+      "source_id": "2026H1",
+      "page": 31,
+      "label": "利润总额",
+      "values": [
+        "61,438,419,177.29",
+        "62,778,000,766.82"
+      ],
+      "unit": "人民币元",
+      "period": "2026H1/2025H1",
+      "scope": "合并",
+      "verifier": "Agent",
+      "human_confirmation": false,
+      "state": "ExternalSourceChecked"
+    },
+    {
+      "id": "X08",
+      "source_id": "2026Q1",
+      "page": 1,
+      "label": "一季度营业收入",
+      "values": [
+        "53,909,252,220.51",
+        "50,600,957,885.78"
+      ],
+      "unit": "人民币元",
+      "period": "2026Q1/2025Q1",
+      "scope": "合并",
+      "verifier": "Agent",
+      "human_confirmation": false,
+      "state": "ExternalSourceChecked"
+    },
+    {
+      "id": "X09",
+      "source_id": "2026Q1",
+      "page": 1,
+      "label": "一季度归母",
+      "values": [
+        "27,242,512,886.45",
+        "26,847,474,238.76"
+      ],
+      "unit": "人民币元",
+      "period": "2026Q1/2025Q1",
+      "scope": "合并",
+      "verifier": "Agent",
+      "human_confirmation": false,
+      "state": "ExternalSourceChecked"
+    },
+    {
+      "id": "X10",
+      "source_id": "2026H1",
+      "page": 8,
+      "label": "产品/渠道/地区/平台",
+      "values": [
+        "7,772,443.79",
+        "1,293,418.65",
+        "5,196,204.70",
+        "3,869,657.74",
+        "8,962,212.26",
+        "103,650.18",
+        "4,026,356.42"
+      ],
+      "unit": "人民币万元",
+      "period": "2026H1",
+      "scope": "合并",
+      "verifier": "Agent",
+      "human_confirmation": false,
+      "state": "ExternalSourceChecked"
+    },
+    {
+      "id": "X11",
+      "source_id": "2025H1",
+      "page": 8,
+      "label": "产品/渠道/地区/平台",
+      "values": [
+        "7,558,994.89",
+        "1,376,252.94",
+        "4,000,959.89",
+        "4,934,287.94",
+        "8,645,947.06",
+        "289,300.77",
+        "1,076,043.75"
+      ],
+      "unit": "人民币万元",
+      "period": "2025H1",
+      "scope": "合并",
+      "verifier": "Agent",
+      "human_confirmation": false,
+      "state": "ExternalSourceChecked"
+    },
+    {
+      "id": "X12",
+      "source_id": "2026H1",
+      "page": 33,
+      "label": "客户存款及同业净增",
+      "values": [
+        "7,383,004,563.78",
+        "-2,516,653,584.50"
+      ],
+      "unit": "人民币元",
+      "period": "2026H1/2025H1",
+      "scope": "合并",
+      "verifier": "Agent",
+      "human_confirmation": false,
+      "state": "ExternalSourceChecked"
+    },
+    {
+      "id": "X13",
+      "source_id": "2026H1",
+      "page": 34,
+      "label": "存放央行和同业净增",
+      "values": [
+        "-21,895,452,284.18",
+        "25,410,788,169.25"
+      ],
+      "unit": "人民币元",
+      "period": "2026H1/2025H1",
+      "scope": "合并",
+      "verifier": "Agent",
+      "human_confirmation": false,
+      "state": "ExternalSourceChecked"
+    },
+    {
+      "id": "X14",
+      "source_id": "2026H1",
+      "page": 33,
+      "label": "销售商品提供劳务收到现金",
+      "values": [
+        "98,421,697,395.39",
+        "95,086,614,960.23"
+      ],
+      "unit": "人民币元",
+      "period": "2026H1/2025H1",
+      "scope": "合并",
+      "verifier": "Agent",
+      "human_confirmation": false,
+      "state": "ExternalSourceChecked"
+    },
+    {
+      "id": "X15",
+      "source_id": "2026H1",
+      "page": 9,
+      "label": "合同负债期末/年初",
+      "values": [
+        "3,177,561,597.07",
+        "8,006,739,780.94"
+      ],
+      "unit": "人民币元",
+      "period": "2026-06-30/2025-12-31",
+      "scope": "合并",
+      "verifier": "Agent",
+      "human_confirmation": false,
+      "state": "ExternalSourceChecked"
+    }
+  ]
+}
