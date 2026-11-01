@@ -35,14 +35,17 @@
     7,
     8,
     9,
-    10
+    10,
+    11,
+    12,
+    13
   ],
   "read_ranges": [
     [
       25,
-      280
+      356
     ]
   ],
-  "next_pdf_page": 281,
-  "next_chapter": 11
+  "next_pdf_page": 357,
+  "next_chapter": 14
 }
