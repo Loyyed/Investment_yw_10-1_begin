@@ -42,14 +42,18 @@
     14,
     15,
     16,
-    17
+    17,
+    18,
+    19,
+    20,
+    21
   ],
   "read_ranges": [
     [
       25,
-      466
+      601
     ]
   ],
-  "next_pdf_page": 467,
-  "next_chapter": 18
+  "next_pdf_page": 602,
+  "next_chapter": 22
 }
